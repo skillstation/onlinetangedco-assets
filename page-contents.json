@@ -1,0 +1,82 @@
+[
+  {
+    "link": "https://example.com/resources/lecture01-basics-motion.mp4",
+    "type": "Video",
+    "title": "Lecture 01 - Basics of Motion",
+    "duration": "1.0 Hrs",
+    "file_id": "a1b2c3d4e5",
+    "thumb": "https://example.com/thumbnails/lecture01.jpg"
+  },
+  {
+    "link": "https://example.com/resources/lecture02-intro-mechanics.mp4",
+    "type": "Video",
+    "title": "Lecture 02 - Introduction to Mechanics",
+    "duration": "1.2 Hrs",
+    "file_id": "xcvfedsfred",
+    "thumb": "https://example.com/thumbnails/lecture02.jpg"
+  },
+  {
+    "link": "https://example.com/resources/lecture03-laws-motion.pdf",
+    "type": "PDF",
+    "title": "Lecture Notes - Newton's Laws of Motion",
+    "duration": "",
+    "file_id": "pdfn456abc",
+    "thumb": "https://example.com/thumbnails/laws-motion-notes.jpg"
+  },
+  {
+    "link": "https://example.com/resources/worksheet01-motion.pdf",
+    "type": "PDF",
+    "title": "Worksheet 01 - Motion Practice",
+    "duration": "",
+    "file_id": "ws123xyz78",
+    "thumb": "https://example.com/thumbnails/ws01.jpg"
+  },
+  {
+    "link": "https://example.com/resources/lecture04-freefall.mp4",
+    "type": "Video",
+    "title": "Lecture 04 - Free Fall and Acceleration",
+    "duration": "0.9 Hrs",
+    "file_id": "freefall987",
+    "thumb": "https://example.com/thumbnails/lecture04.jpg"
+  },
+  {
+    "link": "https://example.com/resources/notes04-freefall.pdf",
+    "type": "PDF",
+    "title": "Lecture Notes - Free Fall",
+    "duration": "",
+    "file_id": "notes04ff",
+    "thumb": "https://example.com/thumbnails/notes04.jpg"
+  },
+  {
+    "link": "https://example.com/resources/lecture05-projectile.mp4",
+    "type": "Video",
+    "title": "Lecture 05 - Projectile Motion",
+    "duration": "1.1 Hrs",
+    "file_id": "projmt546",
+    "thumb": "https://example.com/thumbnails/lecture05.jpg"
+  },
+  {
+    "link": "https://example.com/resources/lecture06-circular-motion.mp4",
+    "type": "Video",
+    "title": "Lecture 06 - Circular Motion",
+    "duration": "1.3 Hrs",
+    "file_id": "circmo0987",
+    "thumb": "https://example.com/thumbnails/lecture06.jpg"
+  },
+  {
+    "link": "https://example.com/resources/questions01-circular.pdf",
+    "type": "PDF",
+    "title": "Questions - Circular Motion",
+    "duration": "",
+    "file_id": "qscirc8765",
+    "thumb": "https://example.com/thumbnails/qcircular.jpg"
+  },
+  {
+    "link": "https://example.com/resources/worksheet02-projectile.pdf",
+    "type": "PDF",
+    "title": "Worksheet 02 - Projectile Problems",
+    "duration": "",
+    "file_id": "wsproj223",
+    "thumb": "https://example.com/thumbnails/ws02.jpg"
+  }
+]
