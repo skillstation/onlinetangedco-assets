@@ -1,0 +1,82 @@
+[
+  { 
+    "code": "1R9wnxxDE_4",
+    "title": "0.0 Introduction to EEE Course",
+    "des": "In this session, we discuss the course structure and how to prepare yourself for competitive examinations",
+    "dur": "7:42 Mins",
+    "thum": "https://picsum.photos/seed/eee01/300/200",
+    "locked": 0
+  },
+  {
+    "code": "59lEg1tV34g",
+    "title": "1.1 Basics of Electric Circuits",
+    "des": "Covers Ohm's Law, basic circuit elements, and simple series-parallel combinations.",
+    "dur": "9:15 Mins",
+    "thum": "https://picsum.photos/seed/eee02/300/200",
+    "locked": 0
+  },
+  {
+    "code": "g_5Vvw7ZwTM",
+    "title": "1.2 Current and Voltage Analysis",
+    "des": "Learn the relationship between voltage and current using Kirchhoff's laws.",
+    "dur": "11:30 Mins",
+    "thum": "https://picsum.photos/seed/eee03/300/200",
+    "locked": 1
+  },
+  {
+    "code": "8wIZgeSrP1c",
+    "title": "1.3 AC vs DC Systems",
+    "des": "An overview of alternating current and direct current with real-world applications.",
+    "dur": "8:05 Mins",
+    "thum": "https://picsum.photos/seed/eee04/300/200",
+    "locked": 0
+  },
+  {
+    "code": "NslOpQXz2pc",
+    "title": "1.4 Measurement Instruments",
+    "des": "Introduction to multimeters, oscilloscopes, and wattmeters for electrical labs.",
+    "dur": "6:48 Mins",
+    "thum": "https://picsum.photos/seed/eee05/300/200",
+    "locked": 1
+  },
+  {
+    "code": "NslOpQXz2pc",
+    "title": "1. 5 Introduction to Transformers",
+    "des": "Understand the working principle and types of electrical transformers.",
+    "dur": "10:22 Mins",
+    "thum": "https://picsum.photos/seed/eee06/300/200",
+    "locked": 0
+  },
+  {
+    "code": "NslOpQXz2pc",
+    "title": "1. 6 Basics of Power Generation",
+    "des": "Explore hydro, thermal, and solar power generation concepts.",
+    "dur": "12:10 Mins",
+    "thum": "https://picsum.photos/seed/eee07/300/200",
+    "locked": 1
+  },
+  {
+    "code": "NslOpQXz2pc",
+    "title": "1.7 Semiconductors and Diodes",
+    "des": "A beginner-friendly introduction to semiconductors, PN junctions, and diodes.",
+    "dur": "7:33 Mins",
+    "thum": "https://picsum.photos/seed/eee08/300/200",
+    "locked": 0
+  },
+  {
+    "code": "NslOpQXz2pc",
+    "title": "1. 8 Digital Logic Basics",
+    "des": "Covers logic gates, truth tables, and basic combinational circuits.",
+    "dur": "9:50 Mins",
+    "thum": "https://picsum.photos/seed/eee09/300/200",
+    "locked": 0
+  },
+  {
+    "code": "NslOpQXz2pc",
+    "title": "1.9 Introduction to Signals and Systems",
+    "des": "Learn the fundamentals of signals, time domain analysis, and classifications.",
+    "dur": "8:40 Mins",
+    "thum": "https://picsum.photos/seed/eee10/300/200",
+    "locked": 1
+  }
+]
