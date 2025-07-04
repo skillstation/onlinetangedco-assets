@@ -1,0 +1,182 @@
+[
+  {
+    "exam_no": 1,
+    "title": "Unit I: Electrical Circuits - Practice Exam 1",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 2,
+    "title": "Unit I: Electrical Circuits - Practice Exam 2",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 3,
+    "title": "Unit I: Electrical Circuits - Practice Exam 3",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 4,
+    "title": "Unit II: Electric and Magnetic Fields - Practice Exam 1",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 5,
+    "title": "Unit II: Electric and Magnetic Fields - Practice Exam 2",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 6,
+    "title": "Unit II: Electric and Magnetic Fields - Practice Exam 3",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 7,
+    "title": "Unit III: Measurements and Instrumentation - Practice Exam 1",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 8,
+    "title": "Unit III: Measurements and Instrumentation - Practice Exam 2",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 9,
+    "title": "Unit III: Measurements and Instrumentation - Practice Exam 3",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 10,
+    "title": "Unit IV: Control Systems - Practice Exam 1",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 11,
+    "title": "Unit IV: Control Systems - Practice Exam 2",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 12,
+    "title": "Unit IV: Control Systems - Practice Exam 3",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 13,
+    "title": "Unit V: Electrical Machines - Practice Exam 1",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 14,
+    "title": "Unit V: Electrical Machines - Practice Exam 2",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 15,
+    "title": "Unit V: Electrical Machines - Practice Exam 3",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 16,
+    "title": "Unit VI: Power Systems - Practice Exam 1",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 17,
+    "title": "Unit VI: Power Systems - Practice Exam 2",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 18,
+    "title": "Unit VI: Power Systems - Practice Exam 3",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 19,
+    "title": "Unit VII: Analog and Digital Electronics - Practice Exam 1",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 20,
+    "title": "Unit VII: Analog and Digital Electronics - Practice Exam 2",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 21,
+    "title": "Unit VII: Analog and Digital Electronics - Practice Exam 3",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 22,
+    "title": "Unit VIII: Power Electronics and Drives - Practice Exam 1",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 23,
+    "title": "Unit VIII: Power Electronics and Drives - Practice Exam 2",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 24,
+    "title": "Unit VIII: Power Electronics and Drives - Practice Exam 3",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 25,
+    "title": "Unit IX: Digital Processors and Communication - Practice Exam 1",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 26,
+    "title": "Unit IX: Digital Processors and Communication - Practice Exam 2",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 27,
+    "title": "Unit IX: Digital Processors and Communication - Practice Exam 3",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 28,
+    "title": "Unit X: Renewable Energy Sources and Storage Devices - Practice Exam 1",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 29,
+    "title": "Unit X: Renewable Energy Sources and Storage Devices - Practice Exam 2",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 30,
+    "title": "Unit X: Renewable Energy Sources and Storage Devices - Practice Exam 3",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 31,
+    "title": "Full Syllabus Mock Exam 1 - Paper 1",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 32,
+    "title": "Full Syllabus Mock Exam 2 - Paper 1",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 33,
+    "title": "Full Syllabus Mock Exam 3 - Paper 1",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 34,
+    "title": "Full Syllabus Mock Exam 1 - Paper 2",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 35,
+    "title": "Full Syllabus Mock Exam 2 - Paper 2",
+    "is_locked": 1
+  },
+  {
+    "exam_no": 36,
+    "title": "Full Syllabus Mock Exam 3 - Paper 2",
+    "is_locked": 1
+  }
+]
