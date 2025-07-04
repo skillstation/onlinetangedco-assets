@@ -1,62 +1,62 @@
 [
   {
     "qno": 1,
-    "qdes": "Solve: \\( 2x + 3 = 7 \\)",
-    "options": ["x = 1", "x = 2", "x = 3", "x = 4"],
-    "ans": 2
-  },
-  {
-    "qno": 2,
-    "qdes": "What is the derivative of \\( x^2 \\)?",
-    "options": ["\\( 2x \\)", "\\( x \\)", "\\( x^3 \\)", "\\( 1 \\)"],
+    "qdes": "Who is the Prime Minister of India?",
+    "options": ["Narendra Modi", "Smt. Nirmala Sitharaman", "Dr. Subrahmanyam Jaishankar", "Shri Raj Nath Singh"],
     "ans": 1
   },
   {
+    "qno": 2,
+    "qdes": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "ans": 2
+  },
+  {
     "qno": 3,
-    "qdes": "Integrate: \\( \\int x\\, dx \\)",
-    "options": ["\\( x^2 + C \\)", "\\( \\frac{x^2}{2} + C \\)", "\\( \\ln x + C \\)", "\\( x + C \\)"],
+    "qdes": "What is the capital of Tamil Nadu?",
+    "options": ["Madurai", "Chennai", "Coimbatore", "Tiruchirappalli"],
     "ans": 2
   },
   {
     "qno": 4,
-    "qdes": "What is \\( \\frac{d}{dx} (\\sin x) \\)?",
-    "options": ["\\( \\cos x \\)", "\\( -\\cos x \\)", "\\( -\\sin x \\)", "\\( \\tan x \\)"],
+    "qdes": "Who wrote the Indian National Anthem?",
+    "options": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Subhash Chandra Bose", "Sarojini Naidu"],
     "ans": 1
   },
   {
     "qno": 5,
-    "qdes": "Simplify: \\( (a+b)^2 \\)",
-    "options": ["\\( a^2 + b^2 \\)", "\\( a^2 + 2ab + b^2 \\)", "\\( 2a + 2b \\)", "\\( a^2 - 2ab + b^2 \\)"],
-    "ans": 2
-  },
-  {
-    "qno": 6,
-    "qdes": "Evaluate: \\( \\sqrt{49} \\)",
-    "options": ["5", "6", "7", "8"],
+    "qdes": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
     "ans": 3
   },
   {
+    "qno": 6,
+    "qdes": "Which is the largest continent in the world?",
+    "options": ["Africa", "Asia", "Europe", "North America"],
+    "ans": 2
+  },
+  {
     "qno": 7,
-    "qdes": "Solve: \\( x^2 = 16 \\)",
-    "options": ["x = 2", "x = ±4", "x = -2", "x = ±8"],
+    "qdes": "Which Indian city is known as the Pink City?",
+    "options": ["Udaipur", "Jaipur", "Jodhpur", "Bikaner"],
     "ans": 2
   },
   {
     "qno": 8,
-    "qdes": "What is the value of \\( \\pi \\) (approx)?",
-    "options": ["2.71", "3.14", "1.41", "1.73"],
+    "qdes": "What is the chemical symbol of water?",
+    "options": ["H2", "H2O", "O2", "HO"],
     "ans": 2
   },
   {
     "qno": 9,
-    "qdes": "If \\( A = \\pi r^2 \\), what is \\( A \\) when \\( r = 2 \\)?",
-    "options": ["\\( 2\\pi \\)", "\\( 3\\pi \\)", "\\( 4\\pi \\)", "\\( \\pi^2 \\)"],
+    "qdes": "Who invented the telephone?",
+    "options": ["Thomas Edison", "Albert Einstein", "Alexander Graham Bell", "Isaac Newton"],
     "ans": 3
   },
   {
     "qno": 10,
-    "qdes": "Convert: \\( \\frac{3}{4} \\) into percentage.",
-    "options": ["25%", "50%", "75%", "100%"],
-    "ans": 3
+    "qdes": "Which is the smallest state in India by area?",
+    "options": ["Goa", "Sikkim", "Tripura", "Manipur"],
+    "ans": 1
   }
 ]
