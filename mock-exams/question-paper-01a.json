@@ -1,62 +1,44 @@
 [
   {
     "qno": 1,
-    "qdes": "Who is the Prime Minister of India?",
-    "options": ["Narendra Modi", "Smt. Nirmala Sitharaman", "Dr. Subrahmanyam Jaishankar", "Shri Raj Nath Singh"],
-    "ans": 1
+    "qdes": "When a load is connected to 230∠10° V, it draw a current of 10∠-50° A, what is the real and reactive power of the load?",
+    "options": ["1992 W, 1150 VAR", "1150 W, 1150 VAR", "1626 W, 2086 VAR", "1150 W, 1992 VAR"],
+    "ans": 4
   },
   {
     "qno": 2,
-    "qdes": "Which planet is known as the Red Planet?",
-    "options": ["Earth", "Mars", "Jupiter", "Venus"],
-    "ans": 2
+    "qdes": "A three phase balanced inductive load draw a current of 10 A and consumed 6 KW when connected to 400 V supply. What is the power factor of the load?",
+    "options": ["0.866 lag", "0.5 lag", "0.866 lead", "0.5 lead"],
+    "ans": 1
   },
   {
     "qno": 3,
-    "qdes": "What is the capital of Tamil Nadu?",
-    "options": ["Madurai", "Chennai", "Coimbatore", "Tiruchirappalli"],
+    "qdes": "The reading of the wattmeter connected to measure the reactive power in a 3φ circuit is given by zero, the line voltage is 400 V and line current 15 A; then the power factor of the circuit is .",
+    "options": ["Zero", "Unity", "0.8", "0.5"],
     "ans": 2
   },
   {
     "qno": 4,
-    "qdes": "Who wrote the Indian National Anthem?",
-    "options": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Subhash Chandra Bose", "Sarojini Naidu"],
-    "ans": 1
+    "qdes": "A balanced star - connected load of (4 + j3)Ω per phase is connected to a balanced 3 – phase 400 V supply. The phase current is 12 A. The value of real power is",
+    "options": ["5650.24 watts", "6650.88 watts", "7650.78 watts", "8750.67 watts"],
+    "ans": 2
   },
   {
     "qno": 5,
-    "qdes": "Which gas is most abundant in Earth's atmosphere?",
-    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "qdes": "In an a.c. circuit, V = 100 sin(wt + 30°)V, i = 5 sin(wt – 30°) A. Find apparent power and reactive power",
+    "options": ["500 VA, 433 VAr", "354 VA, 30 6.5 VAr", "250 VA, 217 VAr", "354 VA, 177 VAr"],
     "ans": 3
   },
   {
     "qno": 6,
-    "qdes": "Which is the largest continent in the world?",
-    "options": ["Africa", "Asia", "Europe", "North America"],
-    "ans": 2
-  },
-  {
-    "qno": 7,
-    "qdes": "Which Indian city is known as the Pink City?",
-    "options": ["Udaipur", "Jaipur", "Jodhpur", "Bikaner"],
-    "ans": 2
-  },
-  {
-    "qno": 8,
-    "qdes": "What is the chemical symbol of water?",
-    "options": ["H2", "H2O", "O2", "HO"],
-    "ans": 2
-  },
-  {
-    "qno": 9,
-    "qdes": "Who invented the telephone?",
-    "options": ["Thomas Edison", "Albert Einstein", "Alexander Graham Bell", "Isaac Newton"],
+    "qdes": "The parameters widely used in transmission line theory",
+    "options": ["Z – Parameters", "Y – Parameters", "ABCD – Parameters", "H – Parameters"],
     "ans": 3
   },
   {
-    "qno": 10,
-    "qdes": "Which is the smallest state in India by area?",
-    "options": ["Goa", "Sikkim", "Tripura", "Manipur"],
-    "ans": 1
+    "qno": 7,
+    "qdes": "When a load is connected to 230∠10° V, it draw a current of 10∠-50° A, what is the real and reactive power of the load?",
+    "options": ["1992 W, 1150 VAR", "1150 W, 1150 VAR", "1626 W, 2086 VAR", "1150 W, 1992 VAR"],
+    "ans": 4
   }
 ]
