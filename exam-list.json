@@ -2,14 +2,14 @@
   {
     "exam_no": 1,
     "title": "Unit I: Electrical Circuits - Practice Exam 1",
-    "is_locked": 1,
-    "exam_url": "https://github.com/skillstation/onlinetangedco-assets/blob/main/question-paper-01a.json"
+    "is_locked": 0,
+    "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/mock-exams/question-paper-01a.json"
   },
   {
     "exam_no": 2,
     "title": "Unit I: Electrical Circuits - Practice Exam 2",
     "is_locked": 1,
-    "exam_url": "https://github.com/skillstation/onlinetangedco-assets/blob/main/question-paper-01a.json"
+    "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/mock-exams/question-paper-01a.json"
   },
   {
     "exam_no": 3,
