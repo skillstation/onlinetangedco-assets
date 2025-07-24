@@ -28,5 +28,11 @@
     "email_id": "eve@example.com",
     "phone_number": "5432109876",
     "password": "testpass999"
+  },
+  {
+    "user_id": "user006",
+    "email_id": "eve@example.com",
+    "phone_number": "5432109876",
+    "password": "testpass999"
   }
 ]
