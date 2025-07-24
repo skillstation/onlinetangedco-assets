@@ -1,16 +1,17 @@
 [
   {
-    "qno": 1,
-    "qdes": "\\text{A particle moves such that } x(t) = A \\sin t + B \\cos^2 t + Ct^2 + D.\\ \\text{Find the dimensional formula of } \\dfrac{ABC}{D}",
-    "options": [
-      "[M^1 L^3 T^{-3}]",
-      "[M^0 L^3 T^{-3}]",
-      "[M^0 L^2 T^{-3}]",
-      "[M^1 L^2 T^{-2}]"
-    ],
-    "ans": 2,
-    "fig": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png"
-  },
+  "qno": 1,
+  "qdes": "r\"\"\"\\begin{aligned}\n  &\\text{A particle moves such that } x(t) = A \\sin t + B \\cos^2 t + C t^2 + D. \\\\\n  &\\text{Find the dimensional formula of } \\dfrac{ABC}{D}\n  \\end{aligned}\"\"\"",
+  "options": [
+    "[M^1 L^3 T^{-3}]",
+    "[M^0 L^3 T^{-3}]",
+    "[M^0 L^2 T^{-3}]",
+    "[M^1 L^2 T^{-2}]"
+  ],
+  "ans": 2,
+  "fig": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png"
+}
+,
   {
     "qno": 2,
     "qdes": "\\text{The velocity of the body is } 10\\ \\mathrm{m}\\ \\mathrm{s}^{-1}",
