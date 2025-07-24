@@ -1,32 +1,32 @@
 [
   {
     "qno": 1,
-    "qdes": "When a load is connected to \\( 230\\angle 10^\\circ \\text{ V} \\), it draws a current of \\( 10\\angle -50^\\circ \\text{ A} \\). What is the real and reactive power of the load?",
-    "options": ["\\(1992\\ \\text{W},\\ 1150\\ \\text{VAR}\\)", "\\(1150\\ \\text{W},\\ 1150\\ \\text{VAR}\\)", "\\(1626\\ \\text{W},\\ 2086\\ \\text{VAR}\\)", "\\(1150\\ \\text{W},\\ 1992\\ \\text{VAR}\\)"],
+    "qdes": "When a load is connected to $230\\angle 10^\\circ\\ \\text{V}$, it draws a current of $10\\angle -50^\\circ\\ \\text{A}$. What is the real and reactive power of the load?",
+    "options": ["$1992\\ \\text{W},\\ 1150\\ \\text{VAR}$", "$1150\\ \\text{W},\\ 1150\\ \\text{VAR}$", "$1626\\ \\text{W},\\ 2086\\ \\text{VAR}$", "$1150\\ \\text{W},\\ 1992\\ \\text{VAR}$"],
     "ans": 4
   },
   {
     "qno": 2,
-    "qdes": "A three-phase balanced inductive load draws a current of \\(10\\ \\text{A}\\) and consumes \\(6\\ \\text{kW}\\) when connected to a \\(400\\ \\text{V}\\) supply. What is the power factor of the load?",
-    "options": ["\\(0.866\\ \\text{lag}\\)", "\\(0.5\\ \\text{lag}\\)", "\\(0.866\\ \\text{lead}\\)", "\\(0.5\\ \\text{lead}\\)"],
+    "qdes": "A three-phase balanced inductive load draws a current of $10\\ \\text{A}$ and consumes $6\\ \\text{kW}$ when connected to a $400\\ \\text{V}$ supply. What is the power factor of the load?",
+    "options": ["$0.866\\ \\text{lag}$", "$0.5\\ \\text{lag}$", "$0.866\\ \\text{lead}$", "$0.5\\ \\text{lead}$"],
     "ans": 1
   },
   {
     "qno": 3,
-    "qdes": "The reading of the wattmeter connected to measure the reactive power in a 3\\(\\phi\\) circuit is zero. The line voltage is \\(400\\ \\text{V}\\) and line current is \\(15\\ \\text{A}\\). Then the power factor of the circuit is",
-    "options": ["Zero", "Unity", "\\(0.8\\)", "\\(0.5\\)"],
+    "qdes": "The reading of the wattmeter connected to measure the reactive power in a 3-$\\phi$ circuit is zero. The line voltage is $400\\ \\text{V}$ and line current is $15\\ \\text{A}$. Then the power factor of the circuit is",
+    "options": ["Zero", "Unity", "$0.8$", "$0.5$"],
     "ans": 2
   },
   {
     "qno": 4,
-    "qdes": "A balanced star-connected load of \\( (4 + j3)\\, \\Omega \\) per phase is connected to a balanced 3-phase \\(400\\ \\text{V}\\) supply. The phase current is \\(12\\ \\text{A}\\). The value of real power is",
-    "options": ["\\(5650.24\\ \\text{W}\\)", "\\(6650.88\\ \\text{W}\\)", "\\(7650.78\\ \\text{W}\\)", "\\(8750.67\\ \\text{W}\\)"],
+    "qdes": "A balanced star-connected load of $(4 + j3)\\, \\Omega$ per phase is connected to a balanced 3-phase $400\\ \\text{V}$ supply. The phase current is $12\\ \\text{A}$. The value of real power is",
+    "options": ["$5650.24\\ \\text{W}$", "$6650.88\\ \\text{W}$", "$7650.78\\ \\text{W}$", "$8750.67\\ \\text{W}$"],
     "ans": 2
   },
   {
     "qno": 5,
-    "qdes": "In an A.C. circuit, \\( v(t) = 100 \\sin(\\omega t + 30^\\circ)\\,\\text{V} \\), \\( i(t) = 5 \\sin(\\omega t - 30^\\circ)\\,\\text{A} \\). Find the apparent power and reactive power.",
-    "options": ["\\(500\\ \\text{VA},\\ 433\\ \\text{VAr}\\)", "\\(354\\ \\text{VA},\\ 306.5\\ \\text{VAr}\\)", "\\(250\\ \\text{VA},\\ 217\\ \\text{VAr}\\)", "\\(354\\ \\text{VA},\\ 177\\ \\text{VAr}\\)"],
+    "qdes": "In an A.C. circuit, $v(t) = 100 \\sin(\\omega t + 30^\\circ)\\,\\text{V}$, $i(t) = 5 \\sin(\\omega t - 30^\\circ)\\,\\text{A}$. Find the apparent power and reactive power.",
+    "options": ["$500\\ \\text{VA},\\ 433\\ \\text{VAr}$", "$354\\ \\text{VA},\\ 306.5\\ \\text{VAr}$", "$250\\ \\text{VA},\\ 217\\ \\text{VAr}$", "$354\\ \\text{VA},\\ 177\\ \\text{VAr}$"],
     "ans": 3
   },
   {
@@ -37,8 +37,8 @@
   },
   {
     "qno": 7,
-    "qdes": "When a load is connected to \\( 230\\angle 10^\\circ \\text{ V} \\), it draws a current of \\( 10\\angle -50^\\circ \\text{ A} \\). What is the real and reactive power of the load?",
-    "options": ["\\(1992\\ \\text{W},\\ 1150\\ \\text{VAR}\\)", "\\(1150\\ \\text{W},\\ 1150\\ \\text{VAR}\\)", "\\(1626\\ \\text{W},\\ 2086\\ \\text{VAR}\\)", "\\(1150\\ \\text{W},\\ 1992\\ \\text{VAR}\\)"],
+    "qdes": "When a load is connected to $230\\angle 10^\\circ\\ \\text{V}$, it draws a current of $10\\angle -50^\\circ\\ \\text{A}$. What is the real and reactive power of the load?",
+    "options": ["$1992\\ \\text{W},\\ 1150\\ \\text{VAR}$", "$1150\\ \\text{W},\\ 1150\\ \\text{VAR}$", "$1626\\ \\text{W},\\ 2086\\ \\text{VAR}$", "$1150\\ \\text{W},\\ 1992\\ \\text{VAR}$"],
     "ans": 4
   }
 ]
