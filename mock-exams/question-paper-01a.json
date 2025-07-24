@@ -1,12 +1,72 @@
 [
   {
     "qno": 1,
-    "qdes": "When\\ a\\ load\\ is\\ connected\\ to\\ 230\\angle 10^\\circ\\text{ V},\\ it\\ draws\\ a\\ current\\ of\\ 10\\angle -50^\\circ\\text{ A},\\ what\\ is\\ the\\ real\\ and\\ reactive\\ power\\ of\\ the\\ load?",
+    "qdes": "r'\\text{A particle moves such that } x(t) = A \\sin t + B \\cos^2 t + Ct^2 + D.\\ \\text{Find the dimensional formula of } \\dfrac{ABC}{D}'",
     "options": [
-      "1992\\text{ W},\\ 1150\\text{ VAR}",
-      "1150\\text{ W},\\ 1150\\text{ VAR}",
-      "1626\\text{ W},\\ 2086\\text{ VAR}",
-      "1150\\text{ W},\\ 1992\\text{ VAR}"
+      "r'[M^1 L^3 T^{-3}]'",
+      "r'[M^0 L^3 T^{-3}]'",
+      "r'[M^0 L^2 T^{-3}]'",
+      "r'[M^1 L^2 T^{-2}]'"
+    ]
+  },
+  {
+    "qno": 2,
+    "qdes": "r'\\text{The velocity of the body is } 10\\ \\mathrm{m}\\ \\mathrm{s}^{-1}'",
+    "options": [
+      "r'\\text{Speed is scalar, magnitude only}'",
+      "r'\\text{Speed and velocity are always equal}'",
+      "r'\\text{Velocity includes direction}'",
+      "r'\\text{Velocity has only unit}'"
+    ]
+  },
+  {
+    "qno": 3,
+    "qdes": "r'\\text{Two forces act: } \\vec{F}_1 = 100\\ \\hat{i},\\ \\vec{F}_2 = 100\\ \\hat{j}.\\ \\text{Find the magnitude of resultant force.}'",
+    "options": [
+      "r'100\\ \\text{N}'",
+      "r'141.4\\ \\text{N}'",
+      "r'200\\ \\text{N}'",
+      "r'0\\ \\text{N}'"
+    ]
+  },
+  {
+    "qno": 4,
+    "qdes": "r'\\text{For the function } x(t) = 3e^{-2t}\\ u(t),\\ \\text{find the initial value } x(0)'",
+    "options": [
+      "r'0'",
+      "r'3'",
+      "r'-2'",
+      "r'e^{-2}'"
+    ]
+  },
+  {
+    "qno": 5,
+    "qdes": "r'\\text{The RMS value of the sinusoidal voltage } v(t) = 10\\sin(100t)\\ \\text{ is}'",
+    "options": [
+      "r'10\\ \\text{V}'",
+      "r'7.07\\ \\text{V}'",
+      "r'5\\ \\text{V}'",
+      "r'0\\ \\text{V}'"
+    ]
+  },
+  {
+    "qno": 6,
+    "qdes": "r'\\text{If } P = VI \\cos\\theta,\\ \\text{then reactive power is given by:}'",
+    "options": [
+      "r'VI'",
+      "r'VI \\sin\\theta'",
+      "r'VI \\tan\\theta'",
+      "r'VI \\cot\\theta'"
+    ]
+  },
+  {
+    "qno": 7,
+    "qdes": "r'\\text{Laplace Transform of } f(t) = e^{-at}\\text{ is:}'",
+    "options": [
+      "r'\\frac{1}{s+a}'",
+      "r'\\frac{1}{s-a}'",
+      "r'\\frac{a}{s^2 + a^2}'",
+      "r'\\frac{s}{s^2 + a^2}'"
     ]
   }
 ]
