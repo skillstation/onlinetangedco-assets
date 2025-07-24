@@ -8,7 +8,8 @@
       "[M^0 L^2 T^{-3}]",
       "[M^1 L^2 T^{-2}]"
     ],
-    "ans": 2
+    "ans": 2,
+    "fig": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png"
   },
   {
     "qno": 2,
@@ -19,7 +20,8 @@
       "\\text{Velocity includes direction}",
       "\\text{Velocity has only unit}"
     ],
-    "ans": 2
+    "ans": 2,
+    "fig": ""
   },
   {
     "qno": 3,
@@ -30,7 +32,8 @@
       "200\\ \\text{N}",
       "0\\ \\text{N}"
     ],
-    "ans": 1
+    "ans": 1,
+    "fig": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vector_diagram_forces.svg/640px-Vector_diagram_forces.svg.png"
   },
   {
     "qno": 4,
@@ -41,7 +44,8 @@
       "-2",
       "e^{-2}"
     ],
-    "ans": 1
+    "ans": 1,
+    "fig": ""
   },
   {
     "qno": 5,
@@ -52,7 +56,8 @@
       "5\\ \\text{V}",
       "0\\ \\text{V}"
     ],
-    "ans": 1
+    "ans": 1,
+    "fig": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sine_and_Cosine.svg/640px-Sine_and_Cosine.svg.png"
   },
   {
     "qno": 6,
@@ -63,7 +68,8 @@
       "VI \\tan\\theta",
       "VI \\cot\\theta"
     ],
-    "ans": 1
+    "ans": 1,
+    "fig": ""
   },
   {
     "qno": 7,
@@ -74,6 +80,7 @@
       "\\frac{a}{s^2 + a^2}",
       "\\frac{s}{s^2 + a^2}"
     ],
-    "ans": 0
+    "ans": 0,
+    "fig": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Laplace_transform_table.png/640px-Laplace_transform_table.png"
   }
 ]
