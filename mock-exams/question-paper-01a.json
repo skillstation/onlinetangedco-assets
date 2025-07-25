@@ -548,31 +548,31 @@
           "fig": ""
         },
         {
-          "qno": 44,
-          "qdes": "\\text{A multilayer coil of 3000 turns of fine wire is 10 mm long and has thickness of 5 mm winding.} \\\\ \\text{If the coil carries a current of 5 mA, the mmf generated is}",
-          "options": [
-            "750\\,\\text{AT}",
-            "15\\,\\text{AT}",
-            "600\\,\\text{AT}",
-            "5000\\,\\text{AT}",
-            "\\text{Answer not known}"
-          ],
-          "ans": 2,
-          "fig": ""
-        },
-        {
-          "qno": 45,
-          "qdes": "\\text{A potential difference } V_0 \\text{ is applied to a mercury column in a cylindrical container}. \\\\ \\text{The mercury is now poured into another cylindrical container of half the radius and the same potential difference } V_0 \\text{ applied across the ends. As a result of this change of space, the resistance will be increased}",
-          "options": [
-            "2 \\text{ times}",
-            "4 \\text{ times}",
-            "8 \\text{ times}",
-            "16 \\text{ times}",
-            "\\text{Answer not known}"
-          ],
-          "ans": 4,
-          "fig": ""
-        },
+            "qno": 44,
+            "qdes": "\\begin{aligned}\n&\\text{A multilayer coil of 3000 turns of fine wire is 10 mm long and has thickness of 5 mm winding. }\\\\\n&\\text{If the coil carries a current of 5 mA, the mmf generated is}\n\\end{aligned}",
+            "options": [
+              "750\\,\\text{AT}",
+              "15\\,\\text{AT}",
+              "600\\,\\text{AT}",
+              "5000\\,\\text{AT}",
+              "\\text{Answer not known}"
+            ],
+            "ans": 2,
+            "fig": ""
+          },
+          {
+            "qno": 45,
+            "qdes": "\\begin{aligned}\n&\\text{A potential difference } V_0 \\text{ is applied to a mercury column in a cylindrical container. }\\\\\n&\\text{The mercury is now poured into another cylindrical container of half the radius and the same potential difference } V_0 \\text{ applied across the ends. As a result of this change of space, the resistance will be increased}\n\\end{aligned}",
+            "options": [
+              "2 \\text{ times}",
+              "4 \\text{ times}",
+              "8 \\text{ times}",
+              "16 \\text{ times}",
+              "\\text{Answer not known}"
+            ],
+            "ans": 4,
+            "fig": ""
+          },
         {
           "qno": 46,
           "qdes": "\\text{In which of the circuits and the ammeters and the voltmeters connected}",
