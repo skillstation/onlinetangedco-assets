@@ -896,5 +896,135 @@
               ],
               "ans": 2,
               "fig": ""
-            }
+            },
+            {
+                "qno": 71,
+                "qdes": "\\text{Steady state error of type 1 system is}",
+                "options": [
+                  "\\text{1}",
+                  "\\text{2}",
+                  "\\text{0}",
+                  "\\text{4}",
+                  "\\text{Answer not known}"
+                ],
+                "ans": 3,
+                "fig": ""
+              },
+              {
+                "qno": 72,
+                "qdes": "\\text{The type 2 system has \\text{----------} at the origin.}",
+                "options": [
+                  "\\text{no net pole}",
+                  "\\text{net pole}",
+                  "\\text{simple pole}",
+                  "\\text{two poles}",
+                  "\\text{Answer not known}"
+                ],
+                "ans": 4,
+                "fig": ""
+              },
+              {
+                "qno": 73,
+                "qdes": "\\text{The transfer function } \\frac{x_1(s)}{x_2(s)} \\text{ for the following mechanical system is}",
+                "options": [
+                  "\\text{(k_2 + sf)/(k_1 + k_2 + sf)}",
+                  "\\text{(k_1 + sf)/(k_1 + k_2 + sf)}",
+                  "\\text{(k_1 + k_2 + sf)/(k_1 + k_2)}",
+                  "\\text{(k_1 + k_2 + sf)/(k_1 + sf)}",
+                  "\\text{Answer not known}"
+                ],
+                "ans": 1,
+                "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-138-04-FIG-Q75.png"
+              },
+              {
+                "qno": 74,
+                "qdes": "\\text{The logic circuit has three inputs A, B and C whose output will be high only when a majority of the inputs are high. The simplified output expression will be}",
+                "options": [
+                  "\\text{BC + AC + AB}",
+                  "\\overline{B}\\overline{C} + \\text{AC} + \\text{A}\\overline{B}",
+                  "\\overline{B}\\overline{C} + \\text{A}\\overline{C} + \\text{AB}",
+                  "\\text{AB} + \\overline{B}\\overline{C} + \\text{BC}",
+                  "\\text{Answer not known}"
+                ],
+                "ans": 1,
+                "fig": ""
+              },
+              {
+                "qno": 75,
+                "qdes": "\\text{The transfer function of the given block diagram is,}",
+                "options": [
+                  "\\frac{C(S)}{R(S)} = \\frac{G_1}{1+G_1G_2}",
+                  "\\frac{C(S)}{R(S)} = \\frac{G_1}{1-G_1G_2}",
+                  "\\frac{C(S)}{R(S)} = \\frac{G_2}{1-G_1G_2}",
+                  "\\frac{C(S)}{R(S)} = \\frac{G_2}{1+G_1G_2}",
+                  "\\text{Answer not known}"
+                ],
+                "ans": 2,
+                "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/03B-192-04-FIG-Q73.png"
+              },
+              {
+                "qno": 76,
+                "qdes": "\\text{Consider the fourth – order system with the characteristic equation } S^4 + 8S^3 + 18S^2 + 16S + 5 = 0. \\text{ Determine the state of the system}",
+                "options": [
+                  "\\text{Stable}",
+                  "\\text{Unstable}",
+                  "\\text{Quasi – stable}",
+                  "\\text{Indeterminate}",
+                  "\\text{Answer not known}"
+                ],
+                "ans": 1,
+                "fig": ""
+              },
+              {
+                "qno": 77,
+                "qdes": "\\text{The system with characteristic equation } S^3 + KS^2 + 9S + 18 = 0 \\text{ has capability to have sustained oscillations. Then the value of K and frequency of sustained oscillation } w_n \\text{ are respectively}",
+                "options": [
+                  "\\text{4, 5}",
+                  "\\text{4, 6}",
+                  "\\text{2, 3}",
+                  "\\text{2, 5}",
+                  "\\text{Answer not known}"
+                ],
+                "ans": 3,
+                "fig": ""
+              },
+              {
+                "qno": 78,
+                "qdes": "\\text{The gain margin for a stable system}",
+                "options": [
+                  "\\text{has a positive decibel value}",
+                  "\\text{has a negative decibel value}",
+                  "\\text{has zero decibel value}",
+                  "\\text{has an imaginary decibel value}",
+                  "\\text{Answer not known}"
+                ],
+                "ans": 1,
+                "fig": ""
+              },
+              {
+                "qno": 79,
+                "qdes": "\\text{When bundle of conductors are used in place of single conductors, the effective inductance and capacitance will respectively}",
+                "options": [
+                  "\\text{Increase and decrease}",
+                  "\\text{Decrease and increase}",
+                  "\\text{Decrease and remain unaffected}",
+                  "\\text{Increase and remain unaffected}",
+                  "\\text{Answer not known}"
+                ],
+                "ans": 2,
+                "fig": ""
+              },
+              {
+                "qno": 80,
+                "qdes": "\\text{A control system is defined by the following mathematical relationship } \\frac{d^2x}{dt^2} + 6\\frac{dx}{dt} + 5x = 12(1-e^{-2t}). \\text{ The response of the system as } t \\rightarrow \\alpha \\text{ is}",
+                "options": [
+                  "\\text{x=6}",
+                  "\\text{x=2}",
+                  "\\text{x=2.4}",
+                  "\\text{x=-2}",
+                  "\\text{Answer not known}"
+                ],
+                "ans": 3,
+                "fig": ""
+              }
 ]
