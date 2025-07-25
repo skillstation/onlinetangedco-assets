@@ -664,17 +664,17 @@
             "fig": ""
           },
           {
-            "qno": 53,
-            "qdes": "\\text{Match : }\n\\begin{tabular}{|l|l|l|}\n\\hline\n\\multicolumn{2}{|l|}{\\textbf{List 1 (Terms)}} & \\textbf{List 2 (Meanings)} \\\\\n\\hline\n(a) & Precision & 3. Measure of reproducibility \\\\\n(b) & Accuracy & 2. Closeness of the reading to true value \\\\\n(c) & Resolution & 1. The smallest change in the input quantity which can be detected \\\\\n(d) & Static sensitivity & 4. Ratio of infinitesimal change in output to infinitesimal change in input \\\\\n\\hline\n\\end{tabular}",
-            "options": [
-              "\\text{(A) 2 3 1 4}",
-              "\\text{(B) 3 2 4 1}",
-              "\\text{(C) 3 2 1 4}",
-              "\\text{(D) 2 3 4 1}"
-            ],
-            "ans": 3,
-            "fig": ""
-          },
+              "qno": 53,
+              "qdes": "\\text{Match : }",
+              "options": [
+                "\\text{(A) 2 3 1 4}",
+                "\\text{(B) 3 2 4 1}",
+                "\\text{(C) 3 2 1 4}",
+                "\\text{(D) 2 3 4 1}"
+              ],
+              "ans": 3,
+              "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-121-03-FIG.png"
+            },
           {
             "qno": 54,
             "qdes": "\\text{RTD (Resistance Temperature Detector) is an}",
