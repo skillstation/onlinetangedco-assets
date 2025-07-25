@@ -769,7 +769,7 @@
           },
           {
               "qno": 61,
-              "qdes": "\\begin{aligned}\n&\\text{The reading of the wattmeter connected to measure the reactive power in a 3\\phi circuit is given by zero, }\\\\\n&\\text{the line voltage is 400 V and line current 15 A; then the power factor of the circuit is .}\n\\end{aligned}",
+              "qdes": "\\begin{aligned}\n&\\text{The reading of the wattmeter connected to measure the reactive power in a 3} \\phi \\text{ circuit is given by zero, }\\\\\n&\\text{the line voltage is 400 V and line current 15 A; then the power factor of the circuit is .}\n\\end{aligned}",
               "options": [
                 "Zero",
                 "Unity",
@@ -797,10 +797,10 @@
               "qno": 63,
               "qdes": "\\text{Piezometer is used for measuring}",
               "options": [
-                "Gauge pressure",
-                "Vaccuum",
-                "Absolute pressure",
-                "Pressure difference between two fields",
+                "\\text{Gauge pressure}",
+                "\\text{Vaccuum}",
+                "\\text{Absolute pressure}",
+                "\\text{Pressure difference between two fields}",
                 "\\text{Answer not known}"
               ],
               "ans": 1,
@@ -823,10 +823,10 @@
               "qno": 65,
               "qdes": "\\text{Harmonic distortion is due to}",
               "options": [
-                "Linear behaviour of the circuit elements",
-                "Non linear behaviour of the circuit elements",
-                "Change in behaviour of circuit elements due to temperature",
-                "Due to circuit resistance",
+                "\\text{Linear behaviour of the circuit elements}",
+                "\\text{Non linear behaviour of the circuit elements}",
+                "\\text{Change in behaviour of circuit elements due to temperature}",
+                "\\text{Due to circuit resistance}",
                 "\\text{Answer not known}"
               ],
               "ans": 2,
@@ -836,10 +836,10 @@
               "qno": 66,
               "qdes": "\\text{A lead compensator in a control system,}",
               "options": [
-                "speeds up the transient response and increases the margin of stability of the system",
-                "slows down the transient response and increases the margin of stability of the system",
-                "speeds up the transient response and decreases the margin of stability of the system",
-                "slows down the transient response and decreases the margin of stability of the system",
+                "\\text{speeds up the transient response and increases the margin of stability of the system}",
+                "\\text{slows down the transient response and increases the margin of stability of the system}",
+                "\\text{speeds up the transient response and decreases the margin of stability of the system}",
+                "\\text{slows down the transient response and decreases the margin of stability of the system}",
                 "\\text{Answer not known}"
               ],
               "ans": 1,
@@ -862,10 +862,10 @@
               "qno": 68,
               "qdes": "\\text{In an open loop control system, which of the following is not present?}",
               "options": [
-                "Comparator",
-                "Controller",
-                "Actuator",
-                "Reference",
+                "\\text{Comparator}",
+                "\\text{Controller}",
+                "\\text{Actuator}",
+                "\\text{Reference}",
                 "\\text{Answer not known}"
               ],
               "ans": 1,
@@ -888,10 +888,10 @@
               "qno": 70,
               "qdes": "\\begin{aligned}\n&\\text{Consider the following statements :}\\\\\n&\\text{A differential relay is used for a 3-phase transformer protection to avoid maloperation due to}\\\\\n&\\text{(1) Saturation of current transformer}\\\\\n&\\text{(2) Mismatching of the current ratio for current transformers}\\\\\n&\\text{(3) Difference in connections on both sides of power transformer}\\\\\n&\\text{(4) Current setting multipliers}\\\\\n&\\text{Of these statement}\n\\end{aligned}",
               "options": [
-                "(1) and (4) are correct",
-                "(1) and (2) are correct",
-                "(1), (2) and (3) are correct",
-                "(2), (3) and (4) are correct",
+                "\\text{(1) and (4) are correct}",
+                "\\text{(1) and (2) are correct}",
+                "\\text{(1), (2) and (3) are correct}",
+                "\\text{(2), (3) and (4) are correct}",
                 "\\text{Answer not known}"
               ],
               "ans": 2,
