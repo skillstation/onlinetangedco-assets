@@ -636,6 +636,131 @@
           ],
           "ans": 1,
           "fig": ""
-        }
+        },
+        {
+            "qno": 51,
+            "qdes": "\\text{In Practice, Plugging or Reverse Current Braking is used in}",
+            "options": [
+              "\\text{controlling elevators, rolling mills, printing presses and machine tools}",
+              "\\text{quick motor reversal desired}",
+              "\\text{load has overhauling characteristics}",
+              "\\text{sudden stopping of motor}",
+              "\\text{Answer not known}"
+            ],
+            "ans": 1,
+            "fig": ""
+          },
+          {
+            "qno": 52,
+            "qdes": "\\begin{aligned}\n&\\text{Due to armature reaction, the armature magnetic field has following effects.}\n\\\\&(i)\\,\\text{It demagnetics the main flux}\n\\\\&(ii)\\,\\text{It magnetics the main flux}\n\\\\&(iii)\\,\\text{It crossmagnetics the main flux}\n\\\\&(iv)\\,\\text{It does not have any effect on main flux}\n\\end{aligned}",
+            "options": [
+              "\\text{(i) and (ii)}",
+              "\\text{(B) (i), (ii), (iii) and (iv)}",
+              "\\text{(i) and (iii)}",
+              "\\text{(D) (ii) and (iv)}",
+              "\\text{Answer not known}"
+            ],
+            "ans": 3,
+            "fig": ""
+          },
+          {
+            "qno": 53,
+            "qdes": "\\text{Match : }\n\\begin{tabular}{|l|l|l|}\n\\hline\n\\multicolumn{2}{|l|}{\\textbf{List 1 (Terms)}} & \\textbf{List 2 (Meanings)} \\\\\n\\hline\n(a) & Precision & 3. Measure of reproducibility \\\\\n(b) & Accuracy & 2. Closeness of the reading to true value \\\\\n(c) & Resolution & 1. The smallest change in the input quantity which can be detected \\\\\n(d) & Static sensitivity & 4. Ratio of infinitesimal change in output to infinitesimal change in input \\\\\n\\hline\n\\end{tabular}",
+            "options": [
+              "\\text{(A) 2 3 1 4}",
+              "\\text{(B) 3 2 4 1}",
+              "\\text{(C) 3 2 1 4}",
+              "\\text{(D) 2 3 4 1}"
+            ],
+            "ans": 3,
+            "fig": ""
+          },
+          {
+            "qno": 54,
+            "qdes": "\\text{RTD (Resistance Temperature Detector) is an}",
+            "options": [
+              "\\text{active transducer}",
+              "\\text{passive transducer}",
+              "\\text{inductive transducer}",
+              "\\text{capacitive transducer}"
+            ],
+            "ans": 2,
+            "fig": ""
+          },
+          {
+            "qno": 55,
+            "qdes": "\\text{Calculate the sensitivity of a } 200\\,\\mu A \\text{ meter movement which is to be used as a dc voltmeter.}",
+            "options": [
+              "5000 \\text{ K}\\Omega/\\text{V}",
+              "500 \\text{ K}\\Omega/\\text{V}",
+              "50 \\text{ K}\\Omega/\\text{V}",
+              "5 \\text{ K}\\Omega/\\text{V}"
+            ],
+            "ans": 4,
+            "fig": ""
+          },
+          {
+            "qno": 56,
+            "qdes": "\\text{A high permeability nickel iron hydrogen annealed material is used as core in LVDT}",
+            "options": [
+              "\\text{To produce high noise}",
+              "\\text{To produce high null voltage}",
+              "\\text{To have low sensitivity}",
+              "\\text{To produce low harmonics}",
+              "\\text{Answer not known}"
+            ],
+            "ans": 4,
+            "fig": ""
+          },
+          {
+            "qno": 57,
+            "qdes": "\\text{The inductance of MI instrument is given by } L=(12+6\\theta-\\theta^2)\\,\\mu H\\text{, where } \\theta \\text{ is the deflection in radians from zero position. The spring constant is } 12 \\times 10^6 \\text{ NM/Radians. Calculate the deflection for a current of 8 A}",
+            "options": [
+              "14.47^{\\circ}",
+              "144.74^{\\circ}",
+              "15.54^{\\circ}",
+              "155.4^{\\circ}",
+              "\\text{Answer not known}"
+            ],
+            "ans": 2,
+            "fig": ""
+          },
+          {
+            "qno": 58,
+            "qdes": "\\text{If } \\sigma \\text{ is standard deviation, variance is}",
+            "options": [
+              "\\sqrt{\\sigma-1}",
+              "(\\sigma)^{1.5}",
+              "\\sigma^2",
+              "(\\sigma)^{1/2}"
+            ],
+            "ans": 3,
+            "fig": ""
+          },
+          {
+            "qno": 59,
+            "qdes": "\\text{Inductance is measured by}",
+            "options": [
+              "\\text{Wien bridge}",
+              "\\text{Schering bridge}",
+              "\\text{Maxwell's bridge}",
+              "\\text{De Sauty's bridge}"
+            ],
+            "ans": 3,
+            "fig": ""
+          },
+          {
+            "qno": 60,
+            "qdes": "\\text{A steam power station has an overall efficiency of 20% and 0.5 kg of coal is burnt per kWh of electrical energy generated. If the heat equivalent of 1 kWh is 860 KCal how much will be the calorific value of fuel.}",
+            "options": [
+              "860\\,\\text{KCal/kg}",
+              "86\\,\\text{KCal/kg}",
+              "8600\\,\\text{KCal/kg}",
+              "344\\,\\text{KCal/kg}",
+              "\\text{Answer not known}"
+            ],
+            "ans": 3,
+            "fig": ""
+          }
 
 ]
