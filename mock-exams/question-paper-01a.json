@@ -1,4 +1,4 @@
-var question_paper = [
+[
   {
     "qno": 1,
     "qdes": "\\begin{aligned}\n&\\text{When does maximum power transfer to the load in an electrical circuit?} \\\\\n&\\text{Let } R_S \\text{ and } R_L \\text{ be source and load resistances respectively.}\n\\end{aligned}",
@@ -76,4 +76,4 @@ var question_paper = [
     "ans": 2,
     "fig": "fig/01B-199-01-FIG.png"
   }
-];
+]
