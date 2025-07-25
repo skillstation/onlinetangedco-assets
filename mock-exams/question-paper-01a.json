@@ -130,7 +130,7 @@
   },
   {
       "qno": 11,
-      "qdes": "\\text{Two coils of inductance 4 and 6 Henry are connected in series. If their mutual inductance is 3 Henry, \n&what is the equivalent inductance of the combination if mutual inductance oppose the self inductance}",
+      "qdes": "\\begin{aligned}\n&\\text{Two coils of inductance 4 and 6 Henry are connected in series. If their mutual inductance is 3 Henry, }\\\\\n&\\text{what is the equivalent inductance of the combination if mutual inductance oppose the self inductance}\n\\end{aligned}",
       "options": [
         "2\\,H",
         "1\\,H",
@@ -166,18 +166,18 @@
       "fig": ""
     },
     {
-      "qno": 14,
-      "qdes": "\\text{The power readings of two watt meters are }+15\\text{kW and }-4\\text{kW for a three phase load. \n&If the supply voltage is balanced 440V, the true power drawn by the load is}",
-      "options": [
-        "60\\,kW",
-        "11\\,kW",
-        "19\\,kW",
-        "3.75\\,kW",
-        "\\text{Answer not known}"
-      ],
-      "ans": 2,
-      "fig": ""
-    },
+        "qno": 14,
+        "qdes": "\\begin{aligned}\n&\\text{The power readings of two watt meters are }+15\\text{kW and }-4\\text{kW for a three phase load. }\\\\\n&\\text{If the supply voltage is balanced 440V, the true power drawn by the load is}\n\\end{aligned}",
+        "options": [
+          "60\\,kW",
+          "11\\,kW",
+          "19\\,kW",
+          "3.75\\,kW",
+          "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+      },
     {
       "qno": 15,
       "qdes": "\\text{If a two-port network is passive, then we have, with the usual notation, the following relationship}",
@@ -205,18 +205,18 @@
       "fig": ""
     },
     {
-      "qno": 17,
-      "qdes": "\\text{Any electrical device which offers a low resistance to the current in one direction \n&but a high resistance to the current in the opposite direction is called a}",
-      "options": [
-        "\\text{Inductor}",
-        "\\text{Rectifier}",
-        "\\text{Resistor}",
-        "\\text{Amplifier}",
-        "\\text{Answer not known}"
-      ],
-      "ans": 2,
-      "fig": ""
-    },
+        "qno": 17,
+        "qdes": "\\begin{aligned}\n&\\text{Any electrical device which offers a low resistance to the current in one direction }\\\\\n&\\text{but a high resistance to the current in the opposite direction is called a}\n\\end{aligned}",
+        "options": [
+          "\\text{Inductor}",
+          "\\text{Rectifier}",
+          "\\text{Resistor}",
+          "\\text{Amplifier}",
+          "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+      },
     {
       "qno": 18,
       "qdes": "\\text{A delta connected network with its wye-equivalent is shown in figure. The resistances } R_1\\text{, } R_2 \\text{ and } R_3 \\text{ (in ohms) are respectively.}",
@@ -254,6 +254,5 @@
       "ans": 2,
       "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-095-01-FIG.png"
     }
-  
 
 ]
