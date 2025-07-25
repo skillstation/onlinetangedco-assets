@@ -393,18 +393,18 @@
         "ans": 3,
         "fig": ""
       },
-      {
-        "qno": 32,
-        "qdes": "\\text{Two long parallel conductors carry 100 A. If the conductors are separated by 20 mm, what is the force per metre of each conductor if the current flow is in opposite direction?}",
-        "options": [
-          "0.1\\,N/m",
-          "0.2\\,N/m",
-          "10\\,N/m",
-          "20\\,N/m"
-        ],
-        "ans": 1,
-        "fig": ""
-      },
+    {
+      "qno": 32,
+      "qdes": "\\begin{aligned}\n&\\text{Two long parallel conductors carry 100 A. If the conductors are separated by 20 mm, }\\\\\n&\\text{what is the force per metre of each conductor if the current flow is in opposite direction?}\n\\end{aligned}",
+      "options": [
+        "0.1\\,N/m",
+        "0.2\\,N/m",
+        "10\\,N/m",
+        "20\\,N/m"
+      ],
+      "ans": 1,
+      "fig": ""
+    },
       {
         "qno": 33,
         "qdes": "\\text{An emf will be induced in a conductor if}",
