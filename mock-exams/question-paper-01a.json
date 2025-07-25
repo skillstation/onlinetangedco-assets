@@ -379,6 +379,134 @@
       ],
       "ans": 3,
       "fig": ""
-    }
+    },
+    {
+        "qno": 31,
+        "qdes": "\\text{The conductance of electric circuit is analogous in magnetic circuit by}",
+        "options": [
+          "\\text{Flux}",
+          "\\text{Reluctance}",
+          "\\text{Permeance}",
+          "\\text{Relative permeability}",
+          "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+      },
+      {
+        "qno": 32,
+        "qdes": "\\text{Two long parallel conductors carry 100 A. If the conductors are separated by 20 mm, what is the force per metre of each conductor if the current flow is in opposite direction?}",
+        "options": [
+          "0.1\\,N/m",
+          "0.2\\,N/m",
+          "10\\,N/m",
+          "20\\,N/m"
+        ],
+        "ans": 1,
+        "fig": ""
+      },
+      {
+        "qno": 33,
+        "qdes": "\\text{An emf will be induced in a conductor if}",
+        "options": [
+          "\\text{it is perpendicular to the magnetic field}",
+          "\\text{it is parallel to the magnetic flux}",
+          "\\text{it lies in any direction to the flux}",
+          "\\text{it is moving at right angle to the flux}",
+          "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+      },
+      {
+        "qno": 34,
+        "qdes": "\\text{Electric flux density in a charge free region is given by } \\overline{D}=10x \\overline{a_x}+5y \\overline{a_y}+K Z^2 \\overline{a_z}\\,\\mu C/m^2 \\text{ find the constant } K.",
+        "options": [
+          "-20",
+          "-25",
+          "-15",
+          "10",
+          "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+      },
+      {
+        "qno": 35,
+        "qdes": "\\text{Calculate the capacitance of a parallel plate capacitor, having a mica dielectric } \\Sigma_r = 6\\text{, a plate area } 6.45 \\times 10^{-3}\\,m^2 \\text{ and a separation of } 2.54 \\times 10^{-4}\\,m",
+        "options": [
+          "1.349\\,nF",
+          "1.5\\,pF",
+          "1.349\\,pF",
+          "1.5\\,F",
+          "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+      },
+      {
+        "qno": 36,
+        "qdes": "\\text{The relation between electric intensity } E\\text{, voltage applied } V \\text{ and the distance between the plates of a parallel plate capacitor is}",
+        "options": [
+          "E=V/d",
+          "E=V \\times d",
+          "E=V/d^2",
+          "E=V \\times d^2"
+        ],
+        "ans": 1,
+        "fig": ""
+      },
+      {
+        "qno": 37,
+        "qdes": "\\text{The coefficient of coupling for two coils having } L_1 = 2H\\text{, } L_2 = 8H\\text{, } M = 3H \\text{ is}",
+        "options": [
+          "0.1875",
+          "0.75",
+          "1.333",
+          "5.333",
+          "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+      },
+      {
+        "qno": 38,
+        "qdes": "\\begin{aligned}\n&\\text{The following equation is given by } \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ \\text{ law.}\n\\\\&dH = \\dfrac{I \\cdot dL \\cdot \\sin\\theta}{4\\pi r^2}\n\\\\&I = \\text{Current}\n\\\\&H = \\text{Magnetic field}\n\\\\&\\theta = \\text{Angle}\n\\\\&dL = \\text{Short Length wire}\n\\\\&\\text{Area} = 4\\pi r^2\n\\end{aligned}",
+        "options": [
+          "\\text{Ampere's}",
+          "\\text{Biot - Savart}",
+          "\\text{Faraday's}",
+          "\\text{Gauss}",
+          "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+      },
+      {
+        "qno": 39,
+        "qdes": "\\text{Find the law, which may be obtained using gauss law as a reference?}",
+        "options": [
+          "\\text{Faraday's law}",
+          "\\text{Ampere's law}",
+          "\\text{Coulomb's law}",
+          "\\text{Ohm's law}",
+          "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+      },
+      {
+        "qno": 40,
+        "qdes": "\\text{A potential field is given by } V = 3x^2y - yz. \\text{ Which of the following is } \\underline{\\text{not}} \\text{ true?}",
+        "options": [
+          "\\text{At point } (1, 0, -1)\\text{, } V \\text{ and } E \\text{ vanish}",
+          "x^2 y = 1 \\text{ is an equipotential line on the } xy \\text{ plane}",
+          "\\text{The equipotential surface } V = -8 \\text{ passes through point } P(2, -1, 4)",
+          "\\text{The electric field } a+P \\text{ is } 12a_x - 8a_y - a_z\\text{ V/m}",
+          "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+      }
 
 ]
