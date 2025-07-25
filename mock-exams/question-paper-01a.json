@@ -1,15 +1,16 @@
 [
   {
   "qno": 1,
-  "qdes": "r\"\"\"\\begin{aligned}\n  &\\text{A particle moves such that } x(t) = A \\sin t + B \\cos^2 t + C t^2 + D. \\\\\n  &\\text{Find the dimensional formula of } \\dfrac{ABC}{D}\n  \\end{aligned}\"\"\"",
+  "qdes": 'r\"\"\"\\begin{aligned}\n&\\text{When does maximum power transfer to the load in an electrical circuit?} \\\\\n&\\text{Let } R_S \\text{ and } R_L \\text{ be source and load resistances respectively.}\n\\end{aligned}\"\"\"',
   "options": [
-    "[M^1 L^3 T^{-3}]",
-    "[M^0 L^3 T^{-3}]",
-    "[M^0 L^2 T^{-3}]",
-    "[M^1 L^2 T^{-2}]"
+    "R_L = R_S",
+    "R_L = 2R_S",
+    "R_L = \\dfrac{R_S}{2}",
+    "R_L = R_S^2",
+    "Answer not known"
   ],
-  "ans": 2,
-  "fig": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png"
+  "ans": 1,
+  "fig": ""
 }
 ,
   {
