@@ -433,7 +433,7 @@
       },
       {
         "qno": 35,
-        "qdes": "\\text{Calculate the capacitance of a parallel plate capacitor, having a mica dielectric } \\Sigma_r = 6\\text{, a plate area } 6.45 \\times 10^{-3}\\,m^2 \\text{ and a separation of } 2.54 \\times 10^{-4}\\,m",
+        "qdes": "\\text{Calculate the capacitance of a parallel plate capacitor, having a mica dielectric } \\Sigma_r = 6\\text{, }\\\\\n\\text{a plate area } 6.45 \\times 10^{-3}\\,m^2 \\text{ and a separation of } 2.54 \\times 10^{-4}\\,m",
         "options": [
           "1.349\\,nF",
           "1.5\\,pF",
