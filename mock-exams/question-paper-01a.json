@@ -52,7 +52,7 @@
   },
   {
     "qno": 5,
-    "qdes": "\\text{A } 2000/200\\,\\text{V},\\, 20\\,\\text{KVA ideal transformer has 66 turns in the secondary. The number of primary turns is}",
+    "qdes": "\\begin{aligned}&\\text{A } 2000/200\\,\\text{V},\\, 20\\,\\text{KVA ideal transformer has 66 turns in the secondary.} \\\\&\\text{The number of primary turns is}\\end{aligned}",
     "options": [
       "440",
       "660",
