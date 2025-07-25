@@ -507,6 +507,135 @@
         ],
         "ans": 1,
         "fig": ""
-      }
+      },
+      {
+          "qno": 41,
+          "qdes": "\\text{A parallel plate capacitor filled with two dielectrics is shown in the figure below. If the electric field in the region A is 4 kV/cm, the electric field in the region B in kV/cm is}",
+          "options": [
+            "1",
+            "2",
+            "4",
+            "16",
+            "\\text{Answer not known}"
+          ],
+          "ans": 3,
+          "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-117-02-FIG.png"
+        },
+        {
+          "qno": 42,
+          "qdes": "\\begin{aligned}\n&\\text{Assertion [A] : A Capacitor can store charge.}\n\\\\&\\text{Reason [R] : The plates of the condenser are conductive.}\n\\end{aligned}",
+          "options": [
+            "\\text{Both [A] and [R] are true and [R] is a correct explanation of [A]}",
+            "\\text{Both [A] and [R] are true but [R] is not a correct explanation of [A]}",
+            "\\text{[A] is true but [R] is false}",
+            "\\text{[A] is false but [R] is true}",
+            "\\text{Answer not known}"
+          ],
+          "ans": 2,
+          "fig": ""
+        },
+        {
+          "qno": 43,
+          "qdes": "\\text{Identify the statement that is not true of ferro magnetic materials}",
+          "options": [
+            "\\text{They have a large } \\chi_m",
+            "\\text{They have a fixed value of } u_r",
+            "\\text{Energy loss is proportional to the area of the hysteresis loop}",
+            "\\text{They lose their non linearity property above the curie temperature}",
+            "\\text{Answer not known}"
+          ],
+          "ans": 2,
+          "fig": ""
+        },
+        {
+          "qno": 44,
+          "qdes": "\\text{A multilayer coil of 3000 turns of fine wire is 10 mm long and has thickness of 5 mm winding. If the coil carries a current of 5 mA, the mmf generated is}",
+          "options": [
+            "750 AT",
+            "15 AT",
+            "600 AT",
+            "5000 AT",
+            "\\text{Answer not known}"
+          ],
+          "ans": 2,
+          "fig": ""
+        },
+        {
+          "qno": 45,
+          "qdes": "\\text{A potential difference } V_0 \\text{ is applied to a mercury column in a cylindrical container. The mercury is now poured into another cylindrical container of half the radius and the same potential difference } V_0 \\text{ applied across the ends. As a result of this change of space, the resistance will be increased}",
+          "options": [
+            "2 \\text{ times}",
+            "4 \\text{ times}",
+            "8 \\text{ times}",
+            "16 \\text{ times}",
+            "\\text{Answer not known}"
+          ],
+          "ans": 4,
+          "fig": ""
+        },
+        {
+          "qno": 46,
+          "qdes": "\\text{In which of the circuits and the ammeters and the voltmeters connected}",
+          "options": [
+            "\\text{circuit a}",
+            "\\text{circuit b}",
+            "\\text{circuit c}",
+            "\\text{circuit d}"
+          ],
+          "ans": 4,
+          "fig": "figs/q46-Screenshot 2025-07-26 at 2.37.43 AM.png"
+        },
+        {
+          "qno": 47,
+          "qdes": "\\text{Find the potential between points } p(1, -1, 0) \\text{ and } q(2, 1, 3) \\text{ with } E = 40xy\\overline{i} + 20x^2y^7\\overline{j} + 2\\overline{k} \\text{ .}",
+          "options": [
+            "104",
+            "105",
+            "106",
+            "107",
+            "\\text{Answer not known}"
+          ],
+          "ans": 3,
+          "fig": ""
+        },
+        {
+          "qno": 48,
+          "qdes": "\\text{The material of wires used for making resistance standards is usually}",
+          "options": [
+            "\\text{Manganin}",
+            "\\text{Nichrome}",
+            "\\text{Copper}",
+            "\\text{Phosphor bronze}",
+            "\\text{Answer not known}"
+          ],
+          "ans": 1,
+          "fig": ""
+        },
+        {
+          "qno": 49,
+          "qdes": "\\text{The transducer that converts measurand into the form of pulse is a } \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ \\text{ transducer.}",
+          "options": [
+            "\\text{digital}",
+            "\\text{active}",
+            "\\text{analog}",
+            "\\text{pulse}",
+            "\\text{Answer not known}"
+          ],
+          "ans": 1,
+          "fig": ""
+        },
+        {
+          "qno": 50,
+          "qdes": "\\text{The tape receives 12,000 number per second. The tape speed is 1.5 m/s. Determine the number density of the tape.}",
+          "options": [
+            "8 \\text{ Numbers/mm}",
+            "3 \\text{ Numbers/mm}",
+            "5 \\text{ Numbers/mm}",
+            "10 \\text{ Numbers/mm}",
+            "\\text{Answer not known}"
+          ],
+          "ans": 1,
+          "fig": ""
+        }
 
 ]
