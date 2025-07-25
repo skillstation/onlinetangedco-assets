@@ -7,7 +7,7 @@
     "R_L = 2R_S",
     "R_L = \\dfrac{R_S}{2}",
     "R_L = R_S^2",
-    "Answer not known"
+    "\text{Answer not known}"
   ],
   "ans": 1,
   "fig": ""
