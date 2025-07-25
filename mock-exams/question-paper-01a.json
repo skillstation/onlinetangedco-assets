@@ -756,7 +756,7 @@
           },
           {
             "qno": 60,
-            "qdes": "\\text{A steam power station has an overall efficiency of 20\\% and 0.5 kg of coal is burnt per kWh of electrical energy generated. }\\\\\n&\\text{If the heat equivalent of 1 kWh is 860 KCal how much will be the calorific value of fuel}",
+            "qdes": "\\begin{aligned}\n&\\text{A steam power station has an overall efficiency of 20\\% and 0.5 kg of coal is burnt per kWh of electrical energy generated. } \\\\\n&\\text{If the heat equivalent of 1 kWh is 860 KCal how much will be the calorific value of fuel}\n\\end{aligned}",
             "options": [
               "860\\,\\text{KCal/kg}",
               "86\\,\\text{KCal/kg}",
