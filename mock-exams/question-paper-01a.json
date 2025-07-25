@@ -64,16 +64,16 @@
     "fig": ""
   },
   {
-    "qno": 6,
-    "qdes": "In the following circuit, the current flowing through $1.8\\,\\Omega$ resistor is",
-    "options": [
-      "3.2\\,\\text{A}",
-      "6.4\\,\\text{A}",
-      "16\\,\\text{A}",
-      "7.2\\,\\text{A}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": "fig/01B-199-01-FIG.png"
-  }
+      "qno": 6,
+      "qdes": "\\text{In the following circuit, the current flowing through } 1.8\\,\\Omega \\text{ resistor is}",
+      "options": [
+        "3.2\\,\\text{A}",
+        "6.4\\,\\text{A}",
+        "16\\,\\text{A}",
+        "7.2\\,\\text{A}",
+        "\\text{Answer not known}"
+      ],
+      "ans": 2,
+      "fig": "fig/01B-199-01-FIG.png"
+    }
 ]
