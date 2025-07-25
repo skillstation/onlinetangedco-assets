@@ -766,5 +766,135 @@
             ],
             "ans": 3,
             "fig": ""
-          }
+          },
+          {
+              "qno": 61,
+              "qdes": "\\begin{aligned}\n&\\text{The reading of the wattmeter connected to measure the reactive power in a 3\\phi circuit is given by zero, }\\\\\n&\\text{the line voltage is 400 V and line current 15 A; then the power factor of the circuit is .}\n\\end{aligned}",
+              "options": [
+                "Zero",
+                "Unity",
+                "0.8",
+                "0.5",
+                "\\text{Answer not known}"
+              ],
+              "ans": 2,
+              "fig": ""
+            },
+            {
+              "qno": 62,
+              "qdes": "\\text{What is the phase angle between voltage and current of a series RLC circuit at resonance?}",
+              "options": [
+                "0",
+                "45",
+                "60",
+                "90",
+                "\\text{Answer not known}"
+              ],
+              "ans": 1,
+              "fig": ""
+            },
+            {
+              "qno": 63,
+              "qdes": "\\text{Piezometer is used for measuring}",
+              "options": [
+                "Gauge pressure",
+                "Vaccuum",
+                "Absolute pressure",
+                "Pressure difference between two fields",
+                "\\text{Answer not known}"
+              ],
+              "ans": 1,
+              "fig": ""
+            },
+            {
+              "qno": 64,
+              "qdes": "\\text{If } \\sigma \\text{ is standard deviation, probable error is}",
+              "options": [
+                "\\sigma",
+                "\\pm 1.19 \\sigma",
+                "\\pm 0.6745 \\sigma",
+                "\\pm 0.4125 \\sigma",
+                "\\text{Answer not known}"
+              ],
+              "ans": 3,
+              "fig": ""
+            },
+            {
+              "qno": 65,
+              "qdes": "\\text{Harmonic distortion is due to}",
+              "options": [
+                "Linear behaviour of the circuit elements",
+                "Non linear behaviour of the circuit elements",
+                "Change in behaviour of circuit elements due to temperature",
+                "Due to circuit resistance",
+                "\\text{Answer not known}"
+              ],
+              "ans": 2,
+              "fig": ""
+            },
+            {
+              "qno": 66,
+              "qdes": "\\text{A lead compensator in a control system,}",
+              "options": [
+                "speeds up the transient response and increases the margin of stability of the system",
+                "slows down the transient response and increases the margin of stability of the system",
+                "speeds up the transient response and decreases the margin of stability of the system",
+                "slows down the transient response and decreases the margin of stability of the system",
+                "\\text{Answer not known}"
+              ],
+              "ans": 1,
+              "fig": ""
+            },
+            {
+              "qno": 67,
+              "qdes": "\\text{The transfer function } \\frac{V_2(s)}{V_1(s)} \\text{ of the circuit shown in Fig. is}",
+              "options": [
+                "\\frac{0.5s+1}{s+1}",
+                "\\frac{3s+6}{s+2}",
+                "\\frac{s+2}{s+1}",
+                "\\frac{s+1}{s+2}",
+                "\\text{Answer not known}"
+              ],
+              "ans": 4,
+              "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-037-04-FIG.png"
+            },
+            {
+              "qno": 68,
+              "qdes": "\\text{In an open loop control system, which of the following is not present?}",
+              "options": [
+                "Comparator",
+                "Controller",
+                "Actuator",
+                "Reference",
+                "\\text{Answer not known}"
+              ],
+              "ans": 1,
+              "fig": ""
+            },
+            {
+              "qno": 69,
+              "qdes": "\\begin{aligned}\n&\\text{Delay time is the time required for the response to reach }\\\\\n&\\text{of final value in first attempt.}\n\\end{aligned}",
+              "options": [
+                "25\\%",
+                "50\\%",
+                "75\\%",
+                "90\\%",
+                "\\text{Answer not known}"
+              ],
+              "ans": 2,
+              "fig": ""
+            },
+            {
+              "qno": 70,
+              "qdes": "\\begin{aligned}\n&\\text{Consider the following statements :}\\\\\n&\\text{A differential relay is used for a 3-phase transformer protection to avoid maloperation due to}\\\\\n&\\text{(1) Saturation of current transformer}\\\\\n&\\text{(2) Mismatching of the current ratio for current transformers}\\\\\n&\\text{(3) Difference in connections on both sides of power transformer}\\\\\n&\\text{(4) Current setting multipliers}\\\\\n&\\text{Of these statement}\n\\end{aligned}",
+              "options": [
+                "(1) and (4) are correct",
+                "(1) and (2) are correct",
+                "(1), (2) and (3) are correct",
+                "(2), (3) and (4) are correct",
+                "\\text{Answer not known}"
+              ],
+              "ans": 2,
+              "fig": ""
+            }
 ]
