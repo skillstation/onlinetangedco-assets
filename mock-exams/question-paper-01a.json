@@ -714,7 +714,7 @@
           },
           {
             "qno": 57,
-            "qdes": "\\text{The inductance of MI instrument is given by } L=(12+6\\theta-\\theta^2)\\,\\mu H\\text{, where } \\theta \\text{ is the deflection in radians from zero position. The spring constant is } 12 \\times 10^6 \\text{ NM/Radians. Calculate the deflection for a current of 8 A}",
+            "qdes": "\\begin{aligned}\n&\\text{The inductance of MI instrument is given by } L=(12+6\\theta-\\theta^2)\\,\\mu H\\text{, where } \\theta \\text{ is the deflection in radians from zero position. }\\\\\n&\\text{The spring constant is } 12 \\times 10^6 \\text{ NM/Radians. Calculate the deflection for a current of 8 A}\n\\end{aligned}",
             "options": [
               "14.47^{\\circ}",
               "144.74^{\\circ}",
