@@ -167,7 +167,7 @@
     },
     {
       "qno": 14,
-      "qdes": "\\text{The power readings of two watt meters are }+15\\text{kW and }-4\\text{kW for a three phase load. If the supply voltage is balanced 440V, the true power drawn by the load is}",
+      "qdes": "\\text{The power readings of two watt meters are }+15\\text{kW and }-4\\text{kW for a three phase load. \n&If the supply voltage is balanced 440V, the true power drawn by the load is}",
       "options": [
         "60\\,kW",
         "11\\,kW",
@@ -206,7 +206,7 @@
     },
     {
       "qno": 17,
-      "qdes": "\\text{Any electrical device which offers a low resistance to the current in one direction but a high resistance to the current in the opposite direction is called a}",
+      "qdes": "\\text{Any electrical device which offers a low resistance to the current in one direction \n&but a high resistance to the current in the opposite direction is called a}",
       "options": [
         "\\text{Inductor}",
         "\\text{Rectifier}",
@@ -228,7 +228,7 @@
         "\\text{Answer not known}"
       ],
       "ans": 3,
-      "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-183-01.png"
+      "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-183-01-FIG.png"
     },
     {
       "qno": 19,
@@ -252,7 +252,7 @@
         "25\\,A"
       ],
       "ans": 2,
-      "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-095-01.png"
+      "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-095-01-FIG.png"
     }
   
 
