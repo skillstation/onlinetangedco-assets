@@ -75,5 +75,57 @@
       ],
       "ans": 2,
       "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-199-01-FIG.png"
-    }
+    },
+  {
+    "qno": 7,
+    "qdes": "\\begin{aligned}\n&\\text{The purpose of Meter Service Provider (MSP) is } \\\\\n&\\text{\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ in the electricity deregulation.}\n\\end{aligned}",
+    "options": [
+      "\\text{To install the energy meters at the consumer premises}",
+      "\\text{To maintain the energy meters at the consumer premises}",
+      "\\text{To install and maintain energy meters at the consumer premises}",
+      "\\text{To collect the energy meter data}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/03B-043-01-FIG.png"
+  },
+  {
+    "qno": 8,
+    "qdes": "\\begin{aligned}\n&\\text{The Thevenin impedance of a network seen from the load terminals is } (80 + j55)\\,\\Omega. \\\\\n&\\text{For maximum power transfer, the load impedance must be}\n\\end{aligned}",
+    "options": [
+      "\\text{(-80 + j55)\u03a9}",
+      "\\text{(-80 - j55)\u03a9}",
+      "\\text{(80 - j55)\u03a9}",
+      "\\text{(80 + j55)\u03a9}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 9,
+    "qdes": "\\begin{aligned}\n&\\text{Which of the following theorems is a manifestation of the law of conservation of energy?}\n\\end{aligned}",
+    "options": [
+      "\\text{Reciprocity theorem}",
+      "\\text{Thevenin's theorem}",
+      "\\text{Tellegen's theorem}",
+      "\\text{Norton's theorem}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 10,
+    "qdes": "\\begin{aligned}\n&\\text{Find the } Z \\text{ parameters of the two-port network shown below are}\n\\end{aligned}",
+    "options": [
+      "\\text{Z_{11} = 5, Z_{12} = 2, Z_{21} = 1, Z_{22} = -2}",
+      "\\text{Z_{11} = 5, Z_{12} = -2, Z_{21} = -1, Z_{22} = 2}",
+      "\\text{Z_{11} = -5, Z_{12} = -2, Z_{21} = 1, Z_{22} = 2}",
+      "\\text{Z_{11} = 5, Z_{12} = -2, Z_{21} = 1, Z_{22} = 2}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  }
+
 ]
