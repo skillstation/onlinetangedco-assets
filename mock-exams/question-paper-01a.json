@@ -1,88 +1,79 @@
-[
+var question_paper = [
   {
-  "qno": 1,
-  "qdes": "r\"\"\"\\begin{aligned}\n&\\text{When does maximum power transfer to the load in an electrical circuit?} \\\\\n&\\text{Let } R_S \\text{ and } R_L \\text{ be source and load resistances respectively.}\n\\end{aligned}\"\"\"",
-  "options": [
-    "R_L = R_S",
-    "R_L = 2R_S",
-    "R_L = \\dfrac{R_S}{2}",
-    "R_L = R_S^2",
-    "\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-}
-,
+    "qno": 1,
+    "qdes": "\\begin{aligned}\n&\\text{When does maximum power transfer to the load in an electrical circuit?} \\\\\n&\\text{Let } R_S \\text{ and } R_L \\text{ be source and load resistances respectively.}\n\\end{aligned}",
+    "options": [
+      "R_L = R_S",
+      "R_L = 2R_S",
+      "R_L = \\dfrac{R_S}{2}",
+      "R_L = R_S^2",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  }
+  ,
   {
     "qno": 2,
-    "qdes": "\\text{The velocity of the body is } 10\\ \\mathrm{m}\\ \\mathrm{s}^{-1}",
+    "qdes": "\\text{The characteristic impedance of a lossless transmission line is given by}",
     "options": [
-      "\\text{Speed is scalar, magnitude only}",
-      "\\text{Speed and velocity are always equal}",
-      "\\text{Velocity includes direction}",
-      "\\text{Velocity has only unit}"
+      "\\sqrt{\\dfrac{C}{L}}",
+      "\\sqrt{LC}",
+      "\\sqrt{\\dfrac{L}{C}}",
+      "\\dfrac{1}{\\sqrt{LC}}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 3,
+    "qdes": "\\text{A parallel RLC circuit has } L = 2\\,\\text{H} \\text{ and } C = 0.25\\,\\text{F}. \\text{ The value of } R \\text{ that will produce unity damping factor is}",
+    "options": [
+      "0.5\\,\\Omega",
+      "1\\,\\Omega",
+      "2\\,\\Omega",
+      "4\\,\\Omega",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 4,
+    "qdes": "\\text{In RLC parallel resonance the expression for quality factor is}",
+    "options": [
+      "\\dfrac{1}{\\omega_0 RC}",
+      "\\dfrac{\\omega_0 L}{R}",
+      "\\omega_0 RC",
+      "\\dfrac{L}{\\omega_0 R}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 5,
+    "qdes": "\\text{A } 2000/200\\,\\text{V},\\, 20\\,\\text{KVA ideal transformer has 66 turns in the secondary. The number of primary turns is}",
+    "options": [
+      "440",
+      "660",
+      "550",
+      "330",
+      "\\text{Answer not known}"
     ],
     "ans": 2,
     "fig": ""
   },
   {
-    "qno": 3,
-    "qdes": "\\text{Two forces act: } \\vec{F}_1 = 100\\ \\hat{i},\\ \\vec{F}_2 = 100\\ \\hat{j}.\\ \\text{Find the magnitude of resultant force.}",
-    "options": [
-      "100\\ \\text{N}",
-      "141.4\\ \\text{N}",
-      "200\\ \\text{N}",
-      "0\\ \\text{N}"
-    ],
-    "ans": 1,
-    "fig": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vector_diagram_forces.svg/640px-Vector_diagram_forces.svg.png"
-  },
-  {
-    "qno": 4,
-    "qdes": "\\text{For the function } x(t) = 3e^{-2t}\\ u(t),\\ \\text{find the initial value } x(0)",
-    "options": [
-      "0",
-      "3",
-      "-2",
-      "e^{-2}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 5,
-    "qdes": "\\text{The RMS value of the sinusoidal voltage } v(t) = 10\\sin(100t)\\ \\text{ is}",
-    "options": [
-      "10\\ \\text{V}",
-      "7.07\\ \\text{V}",
-      "5\\ \\text{V}",
-      "0\\ \\text{V}"
-    ],
-    "ans": 1,
-    "fig": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sine_and_Cosine.svg/640px-Sine_and_Cosine.svg.png"
-  },
-  {
     "qno": 6,
-    "qdes": "\\text{If } P = VI \\cos\\theta,\\ \\text{then reactive power is given by:}",
+    "qdes": "In the following circuit, the current flowing through $1.8\\,\\Omega$ resistor is",
     "options": [
-      "VI",
-      "VI \\sin\\theta",
-      "VI \\tan\\theta",
-      "VI \\cot\\theta"
+      "3.2\\,\\text{A}",
+      "6.4\\,\\text{A}",
+      "16\\,\\text{A}",
+      "7.2\\,\\text{A}",
+      "\\text{Answer not known}"
     ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 7,
-    "qdes": "\\text{Laplace Transform of } f(t) = e^{-at}\\text{ is:}",
-    "options": [
-      "\\frac{1}{s+a}",
-      "\\frac{1}{s-a}",
-      "\\frac{a}{s^2 + a^2}",
-      "\\frac{s}{s^2 + a^2}"
-    ],
-    "ans": 0,
-    "fig": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Laplace_transform_table.png/640px-Laplace_transform_table.png"
+    "ans": 2,
+    "fig": "fig/01B-199-01-FIG.png"
   }
-]
+];
