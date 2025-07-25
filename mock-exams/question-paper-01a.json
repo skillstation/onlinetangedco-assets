@@ -130,7 +130,7 @@
   },
   {
       "qno": 11,
-      "qdes": "\\text{Two coils of inductance 4 and 6 Henry are connected in series. If their mutual inductance is 3 Henry, what is the equivalent inductance of the combination if mutual inductance oppose the self inductance}",
+      "qdes": "\\text{Two coils of inductance 4 and 6 Henry are connected in series. If their mutual inductance is 3 Henry, \n&what is the equivalent inductance of the combination if mutual inductance oppose the self inductance}",
       "options": [
         "2\\,H",
         "1\\,H",
