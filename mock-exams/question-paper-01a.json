@@ -509,18 +509,18 @@
         "fig": ""
       },
       {
-          "qno": 41,
-          "qdes": "\\text{A parallel plate capacitor filled with two dielectrics is shown in the figure below. If the electric field in the region A is 4 kV/cm, the electric field in the region B in kV/cm is}",
-          "options": [
-            "1",
-            "2",
-            "4",
-            "16",
-            "\\text{Answer not known}"
-          ],
-          "ans": 3,
-          "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-117-02-FIG.png"
-        },
+        "qno": 41,
+        "qdes": "\\begin{aligned}\n&\\text{A parallel plate capacitor filled with two dielectrics is shown in the figure below. }\\\\\n&\\text{If the electric field in the region A is 4 kV/cm, the electric field in the region B in kV/cm is}\n\\end{aligned}",
+        "options": [
+          "1",
+          "2",
+          "4",
+          "16",
+          "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-117-02-FIG.png"
+      },
         {
           "qno": 42,
           "qdes": "\\begin{aligned}\n&\\text{Assertion [A] : A Capacitor can store charge.}\n\\\\&\\text{Reason [R] : The plates of the condenser are conductive.}\n\\end{aligned}",
@@ -549,12 +549,12 @@
         },
         {
           "qno": 44,
-          "qdes": "\\text{A multilayer coil of 3000 turns of fine wire is 10 mm long and has thickness of 5 mm winding. If the coil carries a current of 5 mA, the mmf generated is}",
+          "qdes": "\\text{A multilayer coil of 3000 turns of fine wire is 10 mm long and has thickness of 5 mm winding.} \\\\ \\text{If the coil carries a current of 5 mA, the mmf generated is}",
           "options": [
-            "750 AT",
-            "15 AT",
-            "600 AT",
-            "5000 AT",
+            "750\\,\\text{AT}",
+            "15\\,\\text{AT}",
+            "600\\,\\text{AT}",
+            "5000\\,\\text{AT}",
             "\\text{Answer not known}"
           ],
           "ans": 2,
@@ -562,7 +562,7 @@
         },
         {
           "qno": 45,
-          "qdes": "\\text{A potential difference } V_0 \\text{ is applied to a mercury column in a cylindrical container. The mercury is now poured into another cylindrical container of half the radius and the same potential difference } V_0 \\text{ applied across the ends. As a result of this change of space, the resistance will be increased}",
+          "qdes": "\\text{A potential difference } V_0 \\text{ is applied to a mercury column in a cylindrical container}. \\\\ \\text{The mercury is now poured into another cylindrical container of half the radius and the same potential difference } V_0 \\text{ applied across the ends. As a result of this change of space, the resistance will be increased}",
           "options": [
             "2 \\text{ times}",
             "4 \\text{ times}",
@@ -583,7 +583,7 @@
             "\\text{circuit d}"
           ],
           "ans": 4,
-          "fig": "figs/q46-Screenshot 2025-07-26 at 2.37.43 AM.png"
+          "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-119-03-FIG.png"
         },
         {
           "qno": 47,
