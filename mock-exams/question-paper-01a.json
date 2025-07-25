@@ -253,6 +253,132 @@
       ],
       "ans": 2,
       "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-095-01-FIG.png"
+    },
+    {
+      "qno": 21,
+      "qdes": "\\text{In the circuit shown below, find the current through the } 5\\Omega \\text{ resistor}",
+      "options": [
+        "1A",
+        "2A",
+        "10A",
+        "20A",
+        "\\text{Answer not known}"
+      ],
+      "ans": 2,
+      "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-095-01-FIG.png"
+    },
+    {
+      "qno": 22,
+      "qdes": "\\text{Point charges } Q_1=2nc \\text{ and } Q_2=3nc \\text{ are at a distance apart. Choose the incorrect statement}",
+      "options": [
+        "\\text{A point charge } Q_3 = -5nc \\text{ located at the midpoint between } Q_1 \\text{ and } Q_2 \\text{ experience no net force}",
+        "\\text{The force on } Q_1 \\text{ is repulsive}",
+        "\\text{As the distance between them decreases the force on } Q_1 \\text{ increases linearly}",
+        "\\text{The force on } Q_2 \\text{ is the same in magnitude as that on } Q_1",
+        "\\text{Answer not known}"
+      ],
+      "ans": 3,
+      "fig": ""
+    },
+    {
+      "qno": 23,
+      "qdes": "\\text{Three resistors } R_1 = 50\\Omega\\pm 5\\% \\text{ } R_2 = 60\\Omega\\pm 5\\% \\text{ and } R_3 = 70\\Omega\\pm 5\\% \\text{ are connected in series. The limiting error in ohm is}",
+      "options": [
+        "\\pm 15\\Omega",
+        "\\pm 9\\Omega",
+        "\\pm 10\\Omega",
+        "\\pm 12\\Omega",
+        "\\text{Answer not known}"
+      ],
+      "ans": 2,
+      "fig": ""
+    },
+    {
+      "qno": 24,
+      "qdes": "\\text{Ampere's law point form is given by}",
+      "options": [
+        "\\text{Curl (V) = I}",
+        "\\text{Curl (B) = I}",
+        "\\text{Curl (D) = J}",
+        "\\text{Curl (H) = J}",
+        "\\text{Answer not known}"
+      ],
+      "ans": 4,
+      "fig": ""
+    },
+    {
+      "qno": 25,
+      "qdes": "\\begin{aligned}\n&\\text{A series connected load draws a current } i(t) = 4\\cos(100\\pi t+10)\\,A \\text{ with the source of}\n\\\\&V(t) = 120 \\cos(100\\pi t - 20)\\,V. \\text{ The apparent power and } PF \\text{ are}\n\\end{aligned}",
+      "options": [
+        "480\\,VA, 0.8 \\text{ leading}",
+        "480\\,VA, 0.8 \\text{ lagging}",
+        "240\\,VA, 0.8 \\text{ leading}",
+        "240\\,VA, 0.8 \\text{ lagging}"
+      ],
+      "ans": 3,
+      "fig": ""
+    },
+    {
+      "qno": 26,
+      "qdes": "\\text{The Biot-Savart law giving magnetic flux density } B \\text{ due to a wire carrying current } I \\text{ is}",
+      "options": [
+        "\\oint \\dfrac{\\mu_0}{4\\pi} \\dfrac{I^2 \\times d\\overline{l} \\times \\overline{a_R}}{R^2} = B",
+        "B = \\oint \\dfrac{\\mu_0}{4\\pi} \\dfrac{I d\\overline{l} \\times \\overline{a_R}}{R^2}",
+        "B = \\dfrac{1}{4\\pi\\mu_0} \\oint \\dfrac{Idl}{R}",
+        "B = \\oint \\mu_0 4\\pi \\dfrac{Id\\overline{l} \\times \\overline{a_R}}{R^2}"
+      ],
+      "ans": 2,
+      "fig": ""
+    },
+    {
+      "qno": 27,
+      "qdes": "\\text{The transfer function of a PI controller is}",
+      "options": [
+        "K_p + K_iS",
+        "K_p + \\dfrac{K_i}{S}",
+        "\\dfrac{K_p}{S} + K_iS",
+        "K_p S + \\dfrac{K_i}{S}",
+        "\\text{Answer not known}"
+      ],
+      "ans": 2,
+      "fig": ""
+    },
+    {
+      "qno": 28,
+      "qdes": "\\text{If a vector field } Q \\text{ is solenoidal, which of these is true?}",
+      "options": [
+        "\\oint_L Q \\cdot dI = 0",
+        "\\oint_S Q \\cdot dS = 0",
+        "\\nabla \\times Q = 0",
+        "\\nabla \\times Q \\neq 0",
+        "\\text{Answer not known}"
+      ],
+      "ans": 2,
+      "fig": ""
+    },
+    {
+      "qno": 29,
+      "qdes": "\\text{Given } V=3x^2+4y^2 \\text{ volts. What is the value of E?}",
+      "options": [
+        "E=-6xi-8yj",
+        "E=6xi+8yi",
+        "E=12xi+16yj",
+        "E=-6xi+8yj"
+      ],
+      "ans": 1,
+      "fig": ""
+    },
+    {
+      "qno": 30,
+      "qdes": "\\text{Current flow in dielectric is}",
+      "options": [
+        "\\text{conduction current}",
+        "\\text{current does not flow in dielectric}",
+        "\\text{displacement current}",
+        "\\text{free charge current}"
+      ],
+      "ans": 3,
+      "fig": ""
     }
 
 ]
