@@ -560,19 +560,19 @@
             "ans": 2,
             "fig": ""
           },
-          {
-            "qno": 45,
-            "qdes": "\\begin{aligned}\n&\\text{A potential difference } V_0 \\text{ is applied to a mercury column in a cylindrical container. }\\\\\n&\\text{The mercury is now poured into another cylindrical container of half the radius and the same potential difference } V_0 \\text{ applied across the ends. As a result of this change of space, the resistance will be increased}\n\\end{aligned}",
-            "options": [
-              "2 \\text{ times}",
-              "4 \\text{ times}",
-              "8 \\text{ times}",
-              "16 \\text{ times}",
-              "\\text{Answer not known}"
-            ],
-            "ans": 4,
-            "fig": ""
-          },
+        {
+          "qno": 45,
+          "qdes": "\\begin{aligned}\n&\\text{A potential difference } V_0 \\text{ is applied to a mercury column in a cylindrical container. }\\\\\n&\\text{The mercury is now poured into another cylindrical container of half the radius and the same potential difference } V_0 \\text{ applied across the ends. As a result of this change of space, the resistance will be increased}\n\\end{aligned}",
+          "options": [
+            "2 \\text{ times}",
+            "4 \\text{ times}",
+            "8 \\text{ times}",
+            "16 \\text{ times}",
+            "\\text{Answer not known}"
+          ],
+          "ans": 4,
+          "fig": ""
+        },
         {
           "qno": 46,
           "qdes": "\\text{In which of the circuits and the ammeters and the voltmeters connected}",
