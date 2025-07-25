@@ -127,7 +127,133 @@
     ],
     "ans": 3,
     "fig": ""
-  }
+  },
+  {
+      "qno": 11,
+      "qdes": "\\text{Two coils of inductance 4 and 6 Henry are connected in series. If their mutual inductance is 3 Henry, what is the equivalent inductance of the combination if mutual inductance oppose the self inductance}",
+      "options": [
+        "2\\,H",
+        "1\\,H",
+        "4\\,H",
+        "16\\,H"
+      ],
+      "ans": 3,
+      "fig": ""
+    },
+    {
+      "qno": 12,
+      "qdes": "\\text{Which one of the following statements is incorrect with respect to Delta connected three phase circuit?}",
+      "options": [
+        "\\text{Line currents are } 120^{\\circ} \\text{ apart from each other}",
+        "\\text{Line currents are } 30^{\\circ} \\text{ behind the respective phase currents}",
+        "\\text{The angle between the line currents and the corresponding line voltages is } 45^{\\circ}+\\phi",
+        "\\text{Line current is } \\sqrt{3} \\text{ times the phase currents}",
+        "\\text{Answer not known}"
+      ],
+      "ans": 3,
+      "fig": ""
+    },
+    {
+      "qno": 13,
+      "qdes": "\\text{A 100 watt electric bulb draws current } I \\text{ amp from 200 volt, 50 Hz supply. The current } I \\text{ is}",
+      "options": [
+        "1\\,A",
+        "\\sqrt{2}\\,A",
+        "\\dfrac{1}{\\sqrt{2}}\\,A",
+        "0.5\\,A"
+      ],
+      "ans": 4,
+      "fig": ""
+    },
+    {
+      "qno": 14,
+      "qdes": "\\text{The power readings of two watt meters are }+15\\text{kW and }-4\\text{kW for a three phase load. If the supply voltage is balanced 440V, the true power drawn by the load is}",
+      "options": [
+        "60\\,kW",
+        "11\\,kW",
+        "19\\,kW",
+        "3.75\\,kW",
+        "\\text{Answer not known}"
+      ],
+      "ans": 2,
+      "fig": ""
+    },
+    {
+      "qno": 15,
+      "qdes": "\\text{If a two-port network is passive, then we have, with the usual notation, the following relationship}",
+      "options": [
+        "h_{12}=h_{21}",
+        "h_{12}=-h_{21}",
+        "h_{11}=h_{22}",
+        "h_{11}h_{22}-h_{12}h_{21}=1",
+        "\\text{Answer not known}"
+      ],
+      "ans": 4,
+      "fig": ""
+    },
+    {
+      "qno": 16,
+      "qdes": "\\text{Find the voltage } V_0 \\text{ of the circuit shown below,}",
+      "options": [
+        "-24\\,V",
+        "-8\\,V",
+        "8\\,V",
+        "24\\,V",
+        "\\text{Answer not known}"
+      ],
+      "ans": 4,
+      "fig": ""
+    },
+    {
+      "qno": 17,
+      "qdes": "\\text{Any electrical device which offers a low resistance to the current in one direction but a high resistance to the current in the opposite direction is called a}",
+      "options": [
+        "\\text{Inductor}",
+        "\\text{Rectifier}",
+        "\\text{Resistor}",
+        "\\text{Amplifier}",
+        "\\text{Answer not known}"
+      ],
+      "ans": 2,
+      "fig": ""
+    },
+    {
+      "qno": 18,
+      "qdes": "\\text{A delta connected network with its wye-equivalent is shown in figure. The resistances } R_1\\text{, } R_2 \\text{ and } R_3 \\text{ (in ohms) are respectively.}",
+      "options": [
+        "1, 1 \\text{ and } 0.5",
+        "0.5, 1 \\text{ and } 1",
+        "1, 0.5 \\text{ and } 1",
+        "0.5, 0.5 \\text{ and } 1",
+        "\\text{Answer not known}"
+      ],
+      "ans": 3,
+      "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-183-01.png"
+    },
+    {
+      "qno": 19,
+      "qdes": "\\text{Admittance of elements R, L and C respectively are}",
+      "options": [
+        "R, j\\omega L, \\dfrac{1}{j\\omega C}",
+        "R, \\dfrac{1}{j\\omega L}, j\\omega C",
+        "\\dfrac{1}{R}, j\\omega L, \\dfrac{1}{j\\omega C}",
+        "\\dfrac{1}{R}, \\dfrac{1}{j\\omega L}, j\\omega C"
+      ],
+      "ans": 4,
+      "fig": ""
+    },
+    {
+      "qno": 20,
+      "qdes": "\\text{Current through the voltage source in the following circuit is}",
+      "options": [
+        "2\\,A",
+        "2.5\\,A",
+        "0.5\\,A",
+        "25\\,A"
+      ],
+      "ans": 2,
+      "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-095-01.png"
+    }
   
 
 ]
