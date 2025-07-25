@@ -670,7 +670,8 @@
                 "\\text{(A) 2 3 1 4}",
                 "\\text{(B) 3 2 4 1}",
                 "\\text{(C) 3 2 1 4}",
-                "\\text{(D) 2 3 4 1}"
+                "\\text{(D) 2 3 4 1}",
+                "\\text{Answer not known}"
               ],
               "ans": 3,
               "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-121-03-FIG.png"
@@ -682,7 +683,8 @@
               "\\text{active transducer}",
               "\\text{passive transducer}",
               "\\text{inductive transducer}",
-              "\\text{capacitive transducer}"
+              "\\text{capacitive transducer}",
+              "\\text{Answer not known}"
             ],
             "ans": 2,
             "fig": ""
@@ -694,7 +696,8 @@
               "5000 \\text{ K}\\Omega/\\text{V}",
               "500 \\text{ K}\\Omega/\\text{V}",
               "50 \\text{ K}\\Omega/\\text{V}",
-              "5 \\text{ K}\\Omega/\\text{V}"
+              "5 \\text{ K}\\Omega/\\text{V}",
+              "\\text{Answer not known}"
             ],
             "ans": 4,
             "fig": ""
@@ -732,7 +735,8 @@
               "\\sqrt{\\sigma-1}",
               "(\\sigma)^{1.5}",
               "\\sigma^2",
-              "(\\sigma)^{1/2}"
+              "(\\sigma)^{1/2}",
+              "\\text{Answer not known}"
             ],
             "ans": 3,
             "fig": ""
@@ -744,7 +748,8 @@
               "\\text{Wien bridge}",
               "\\text{Schering bridge}",
               "\\text{Maxwell's bridge}",
-              "\\text{De Sauty's bridge}"
+              "\\text{De Sauty's bridge}",
+              "\\text{Answer not known}"
             ],
             "ans": 3,
             "fig": ""
@@ -762,5 +767,4 @@
             "ans": 3,
             "fig": ""
           }
-
 ]
