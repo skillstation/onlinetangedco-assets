@@ -57,11 +57,188 @@
     "100\\ \\text{Hz}",
     "2\\ \\text{Hz}",
     "50\\ \\text{Hz}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 106,
+  "qdes": "\\text{Choose the wrong: Current transients can lead to serious damage mainly to}",
+  "options": [
+    "\\text{Circuit breakers}",
+    "\\text{Circuit switches}",
+    "\\text{Current transformers}",
+    "\\text{Potential transformers}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+  {
+  "qno": 107,
+  "qdes": "\\text{Reset value of a relay is}",
+  "options": [
+    "\\text{the value of the actuating quantity above which the relay operates}",
+    "\\text{the value of the actuating quantity below which the relay opens its contact and comes to original position}",
+    "\\text{the value of the actuating quantity when the fault clears}",
+    "\\text{the time between the actuating quantity exceeds pick up value to the instant the relay closes}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 108,
+  "qdes": "\\text{A long-line is operating under no-load or light load condition, the receiving end voltage is greater than the sending end voltage. This is called as}",
+  "options": [
+    "\\text{Skin-effect}",
+    "\\text{Ferranti-effect}",
+    "\\text{Hall-effect}",
+    "\\text{Corona-effect}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 109,
+  "qdes": "\\text{A single phase full-wave rectifier using semiconductor diodes has a transformer voltage of 35\\,V rms to center tap. The load consists of a 40\\,\\mu F capacitor in parallel with a 250\\,\\Omega resistor. The diode and transformer resistances and leakage reactance may be neglected. The power line frequency is 50\\,Hz. Calculate the dc current } I_{dc} \\text{ in the circuit.}",
+  "options": [
+    "132\\,\\text{mA}",
+    "100\\,\\text{mA}",
+    "90\\,\\text{mA}",
+    "250\\,\\text{mA}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 110,
+  "qdes": "\\text{In a balanced three phase system, which one of the following statements is true?} \\\\ (i)\\ \\text{Positive sequence currents are zero} \\\\ (ii)\\ \\text{Negative sequence currents are zero} \\\\ (iii)\\ \\text{Zero sequence currents are zero}",
+  "options": [
+    "(i)",
+    "(ii)",
+    "(ii) \\text{ and } (iii)",
+    "(i) \\text{ and } (ii)",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+  {
+  "qno": 111,
+  "qdes": "\\text{The purpose of lead sheath in cables is}",
+  "options": [
+    "to protect from mechanical wear and tear",
+    "to protect from moisture",
+    "to give a round shape",
+    "to provide a steel armour around it"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+  {
+  "qno": 112,
+  "qdes": "\\text{Match the items in List-1 and List-2. Select your answers using the codes given below.} \\\\ \\text{List 1:} \\\\ (a)\\ \\text{Buchholz relay} \\\\ (b)\\ \\text{Translay Relay} \\\\ (c)\\ \\text{Negative sequence Relay} \\\\ (d)\\ \\text{Distance relay} \\\\ \\text{List 2:} \\\\ 1.\\ \\text{Feeder} \\\\ 2.\\ \\text{Transformer} \\\\ 3.\\ \\text{Overhead transmission line} \\\\ 4.\\ \\text{Generator}",
+  "options": [
+    "(a) 1\\quad (b) 2\\quad (c) 3\\quad (d) 4",
+    "(a) 2\\quad (b) 1\\quad (c) 3\\quad (d) 4",
+    "(a) 2\\quad (b) 1\\quad (c) 4\\quad (d) 3",
+    "(a) 1\\quad (b) 2\\quad (c) 4\\quad (d) 3",
+    "Answer not known"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+  {
+  "qno": 113,
+  "qdes": "\\text{The typical values of a modern thermal power plant having 34\\% overall efficiency are } \\eta_{boil} = 0.42,\\ \\eta_{cycle} = 0.44,\\ \\eta_{Turbine(mesh)} = 0.95 \\text{ and } \\eta_{Generator} = 0.93.\\ \\text{The power consumed by the auxiliaries of the plant is}",
+  "options": [
+    "3\\%",
+    "4\\%",
+    "5\\%",
+    "6\\%",
+    "Answer not known"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+  {
+  "qno": 114,
+  "qdes": "\\text{For complete protection of a 3-phase line}",
+  "options": [
+    "Three-phase and three-earth fault relays are required",
+    "Three-phase and two-earth fault relays are required",
+    "Two-phase and two-earth fault relays are required",
+    "Two-phase and one-earth fault relays are required"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+  {
+  "qno": 115,
+  "qdes": "\\text{Location of a surge tank in a hydro electric power system is near}",
+  "options": [
+    "Turbine",
+    "Tailrace",
+    "Reservoir",
+    "Dam",
     "Answer not known"
   ],
   "ans": 1,
   "fig": ""
-}
+},
+  {
+  "qno": 116,
+  "qdes": "\\text{A three phase circuit breaker is rated as 1500 A, 1000 MVA, 33 KV. It's breaking capacity is,}",
+  "options": [
+    "\\sqrt{3} \\times 1000\\ \\text{MVA}",
+    "1000\\ \\text{MVA}",
+    "\\dfrac{1000}{\\sqrt{3}}\\ \\text{MVA}",
+    "3 \\times 1000\\ \\text{MVA}",
+    "Answer not known"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+  {
+  "qno": 117,
+  "qdes": "\\text{A boost converter with a 20\\,\\text{KHz} switching frequency is operating with a 50\\% duty cycle. The connected load is } 7\\,\\Omega.\\ \\text{Determine the value of critical inductance so that current } i_L \\text{ is continuous}",
+  "options": [
+    "21.9\\,\\mu F",
+    "19.5\\,\\mu F",
+    "15.7\\,\\mu F",
+    "24.8\\,\\mu F",
+    "Answer not known"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 118,
+  "qdes": "\\text{The rated voltage of a 3 phase power system is given as}",
+  "options": [
+    "RMS line to line voltage",
+    "RMS phase voltage",
+    "Peak phase voltage",
+    "Peak line to line voltage",
+    "Answer not known"
+  ],
+  "ans": 1,
+  "fig": ""
+},
   
+
+
+
+
+
+
+
+
+
+
+
 
 ]
