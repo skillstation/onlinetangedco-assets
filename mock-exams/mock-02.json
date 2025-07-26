@@ -228,7 +228,33 @@
   "ans": 1,
   "fig": ""
 },
-  
+  {
+  "qno": 119,
+  "qdes": "\\text{The characteristic equation of a control system is given below} \\\\ F(S) = S^4 + S^3 + 3S^2 + 2S + 5 = 0.\\ \\text{The system is}",
+  "options": [
+    "Stable",
+    "Critically stable",
+    "Conditionally stable",
+    "Unstable",
+    "Answer not known"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+  {
+  "qno": 120,
+  "qdes": "\\text{The typical value of short circuit ratio (SCR) for modern alternators is}",
+  "options": [
+    "1.5 per unit",
+    "1.2 per unit",
+    "1.0 per unit",
+    "0.5 per unit"
+  ],
+  "ans": 4,
+  "fig": ""
+}
+
+
 
 
 
