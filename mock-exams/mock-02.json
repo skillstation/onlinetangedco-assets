@@ -1,10 +1,17 @@
 [
-  {
-    "qno": 1,
-    "qdes": "Who is the Prime Minister of India?",
-    "options": ["Narendra Modi", "Smt. Nirmala Sitharaman", "Dr. Subrahmanyam Jaishankar", "Shri Raj Nath Singh"],
-    "ans": 1
-  },
+{
+  "qno": 101,
+  "qdes": "r\"\"\"\\text{Synchronous condenser means}\"\"\"",
+  "options": [
+    "A synchronous motor with capacitor connected across stator terminals to improve PF",
+    "A synchronous motor operating at full load with leading PF",
+    "An over excited synchronous motor partially supplying mechanical load and also improving PF of the system to which it is connected",
+    "An over excited synchronous motor operating at no load with leading PF to improve the PF of the system"
+  ],
+  "ans": 3,
+  "fig": ""
+}
+,
   {
     "qno": 2,
     "qdes": "Which planet is known as the Red Planet?",
