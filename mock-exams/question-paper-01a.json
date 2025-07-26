@@ -1183,7 +1183,7 @@
                   },
                   {
                     "qno": 93,
-                    "qdes": "\\begin{aligned}\n&\\text{A 400 V, 10 KW, 4 Pole, 50 HZ Y connected induction motor has full load slip of 5%.} \\\\\n&\\text{The output torque of the machine at full load is}\n\\end{aligned}",
+                    "qdes": "\\begin{aligned}\n&\\text{A 400 V, 10 KW, 4 Pole, 50 HZ Y connected induction motor has full load slip of 5\\%.} \\\\\n&\\text{The output torque of the machine at full load is}\n\\end{aligned}",
                     "options": [
                       "\\text{10 Nm}",
                       "\\text{77 Nm}",
