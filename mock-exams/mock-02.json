@@ -102,7 +102,7 @@
 },
 {
   "qno": 109,
-  "qdes": "\\begin{aligned}\n&\\text{A single phase full-wave rectifier using semiconductor diodes has a transformer voltage of 35\\,V rms to center tap.} \\\\\n&\\text{The load consists of a }40\\,\\mu \\text{ F capacitor in parallel with a }250\\,\\Omega \\text{resistor. The diode and transformer resistances and leakage reactance may be neglected. The power line frequency is 50\\,Hz. Calculate the dc current } I_{dc} \\text{ in the circuit.},\n\\end{aligned}"
+  "qdes": "\\text{A single phase full-wave rectifier using semiconductor diodes has a transformer voltage of 35\\,V rms to center tap.} \\text{The load consists of a }40\\,\\mu \\text{ F capacitor in parallel with a }250\\,\\Omega \\text{resistor. The diode and transformer resistances and leakage reactance may be neglected. The power line frequency is 50\\,Hz. Calculate the dc current } I_{dc} \\text{ in the circuit.},"
   "options": [
     "132\\,\\text{mA}",
     "100\\,\\text{mA}",
@@ -230,7 +230,7 @@
 },
   {
   "qno": 119,
-  "qdes": "\\begin{aligned}\n&\\text{The characteristic equation of a control system is given below} \\\\\n&\\text{F(S) = S^4 + S^3 + 3S^2 + 2S + 5 = 0.} \\text{The system is}",\n\\end{aligned}"
+  "qdes": "\\text{The characteristic equation of a control system is given below} \\,F(S) = S^4 + S^3 + 3S^2 + 2S + 5 = 0. \\,\\text{The system is}",
   "options": [
      "\\text{Stable}",
      "\\text{Critically stable}",
