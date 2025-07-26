@@ -140,7 +140,7 @@
 },
   {
   "qno": 112,
-  "qdes": "\\text{Match the items in List-1 and List-2. Select your answers using the codes given below.} \\\\ \\text{List 1:} \\\\ (a)\\ \\text{Buchholz relay} \\\\ (b)\\ \\text{Translay Relay} \\\\ (c)\\ \\text{Negative sequence Relay} \\\\ (d)\\ \\text{Distance relay} \\\\ \\text{List 2:} \\\\ 1.\\ \\text{Feeder} \\\\ 2.\\ \\text{Transformer} \\\\ 3.\\ \\text{Overhead transmission line} \\\\ 4.\\ \\text{Generator}",
+  "qdes": "\\text{Match the items in List-1 and List-2. Select your answers using the codes given below.} \\\\ \\text{List 1:} \\\\ (a)\\, \\text{Buchholz relay} \\\\ (b)\\, \\text{Translay Relay} \\\\ (c)\\, \\text{Negative sequence Relay} \\\\ (d)\\, \\text{Distance relay} \\\\ \\text{List 2:} \\\\ 1.\\, \\text{Feeder} \\\\ 2.\\, \\text{Transformer} \\\\ 3.\\, \\text{Overhead transmission line} \\\\ 4.\\, \\text{Generator}",
   "options": [
     "(a) 1\\quad (b) 2\\quad (c) 3\\quad (d) 4",
     "(a) 2\\quad (b) 1\\quad (c) 3\\quad (d) 4",
