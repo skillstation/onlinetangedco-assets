@@ -379,6 +379,69 @@
   ],
   "ans": 3,
   "fig": ""
+},
+{
+  "qno": 131,
+  "qdes": "\\text{Determine the Thevenin voltage } V_{\\text{TH}} \\text{ across 'AB' for the circuit shown in fig}",
+  "options": [
+    "33.3\\;V",
+    "23.3\\;V",
+    "13.3\\;V",
+    "3.3\\;V",
+    "Answer not known"
+  ],
+  "ans": 1,
+  "fig": "circuit with 50V source, 10\\,\\Omega resistor, node A, 5\\,\\Omega resistor, and 25V source between A and B"
+},
+  {
+  "qno": 132,
+  "qdes": "\\text{If the fault current is 1000 A, relay setting is 50\\% and CT ratio is 500 : 5. The plug setting multiplier is}",
+  "options": [
+    "40\\;A",
+    "4\\;A",
+    "5\\;A",
+    "10\\;A",
+    "Answer not known"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 133,
+  "qdes": "\\text{Usually a collection of positive charge is considered for constructing a Gaussian surface. If a Gaussian surface encloses a collection of negative charges, then for such a surface}",
+  "options": [
+    "\\text{A normal component of D will become zero}",
+    "\\text{The normal component of D will point inwards}",
+    "\\text{The normal component of D will point outwards}",
+    "\\text{The normal component of D will point infinity}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+  {
+  "qno": 134,
+  "qdes": "\\text{Protection scheme used for detection of loss of excitation of a very large generating unit feeding power into a grid employs}",
+  "options": [
+    "\\text{Under voltage relay}",
+    "\\text{Offset mho relay}",
+    "\\text{Under frequency relay}",
+    "\\text{Percentage differential relay}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 152,
+  "qdes": "A 20,000 kVA transformer with 10% reactance will have a reactance of __________ at 10,000 kVA base.",
+  "options": [
+    "10%",
+    "20%",
+    "15%",
+    "5%"
+  ],
+  "ans": 2,
+  "fig": ""
 }
 
 
