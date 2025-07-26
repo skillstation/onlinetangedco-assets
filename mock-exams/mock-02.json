@@ -130,10 +130,10 @@
   "qno": 111,
   "qdes": "\\text{The purpose of lead sheath in cables is}",
   "options": [
-    "to protect from mechanical wear and tear",
-    "to protect from moisture",
-    "to give a round shape",
-    "to provide a steel armour around it"
+    "\\text{to protect from mechanical wear and tear}",
+     "\\text{to protect from moisture}",
+     "\\text{to give a round shape}",
+     "\\text{to provide a steel armour around it}"
   ],
   "ans": 2,
   "fig": ""
@@ -146,7 +146,7 @@
     "(a) 2\\quad (b) 1\\quad (c) 3\\quad (d) 4",
     "(a) 2\\quad (b) 1\\quad (c) 4\\quad (d) 3",
     "(a) 1\\quad (b) 2\\quad (c) 4\\quad (d) 3",
-    "Answer not known"
+    "\\text{Answer not known}"
   ],
   "ans": 3,
   "fig": ""
@@ -159,7 +159,7 @@
     "4\\%",
     "5\\%",
     "6\\%",
-    "Answer not known"
+    "\\text{Answer not known}"
   ],
   "ans": 3,
   "fig": ""
@@ -168,10 +168,10 @@
   "qno": 114,
   "qdes": "\\text{For complete protection of a 3-phase line}",
   "options": [
-    "Three-phase and three-earth fault relays are required",
-    "Three-phase and two-earth fault relays are required",
-    "Two-phase and two-earth fault relays are required",
-    "Two-phase and one-earth fault relays are required"
+      "\\text{Three-phase and three-earth fault relays are required}",
+      "\\text{Three-phase and two-earth fault relays are required}",
+      "\\text{Two-phase and two-earth fault relays are required}",
+      "\\text{Two-phase and one-earth fault relays are required}"
   ],
   "ans": 4,
   "fig": ""
@@ -180,11 +180,11 @@
   "qno": 115,
   "qdes": "\\text{Location of a surge tank in a hydro electric power system is near}",
   "options": [
-    "Turbine",
-    "Tailrace",
-    "Reservoir",
-    "Dam",
-    "Answer not known"
+    "\\text{Turbine}",
+    "\\text{Tailrace}",
+    "\\text{Reservoir}",
+    "\\text{Dam}",
+    "\\text{Answer not known}"
   ],
   "ans": 1,
   "fig": ""
@@ -197,7 +197,7 @@
     "1000\\ \\text{MVA}",
     "\\dfrac{1000}{\\sqrt{3}}\\ \\text{MVA}",
     "3 \\times 1000\\ \\text{MVA}",
-    "Answer not known"
+    "\\text{Answer not known}"
   ],
   "ans": 2,
   "fig": ""
@@ -210,7 +210,7 @@
     "19.5\\,\\mu F",
     "15.7\\,\\mu F",
     "24.8\\,\\mu F",
-    "Answer not known"
+    "\\text{Answer not known}"
   ],
   "ans": 1,
   "fig": ""
@@ -219,11 +219,11 @@
   "qno": 118,
   "qdes": "\\text{The rated voltage of a 3 phase power system is given as}",
   "options": [
-    "RMS line to line voltage",
-    "RMS phase voltage",
-    "Peak phase voltage",
-    "Peak line to line voltage",
-    "Answer not known"
+    "\\text{RMS line to line voltage}",
+    "\\text{RMS phase voltage}",
+    "\\text{Peak phase voltage}",
+    "\\text{Peak line to line voltage}",
+    "\\text{Answer not known}"
   ],
   "ans": 1,
   "fig": ""
@@ -232,11 +232,11 @@
   "qno": 119,
   "qdes": "\\text{The characteristic equation of a control system is given below} \\\\ F(S) = S^4 + S^3 + 3S^2 + 2S + 5 = 0.\\ \\text{The system is}",
   "options": [
-    "Stable",
-    "Critically stable",
-    "Conditionally stable",
-    "Unstable",
-    "Answer not known"
+     "\\text{Stable}",
+     "\\text{Critically stable}",
+     "\\text{Conditionally stable}",
+     "\\text{Unstable}",
+     "\\text{Answer not known}"
   ],
   "ans": 4,
   "fig": ""
@@ -245,10 +245,10 @@
   "qno": 120,
   "qdes": "\\text{The typical value of short circuit ratio (SCR) for modern alternators is}",
   "options": [
-    "1.5 per unit",
-    "1.2 per unit",
-    "1.0 per unit",
-    "0.5 per unit"
+     "\\text{1.5 per unit}",
+     "\\text{1.2 per unit}",
+     "\\text{1.0 per unit}",
+     "\\text{0.5 per unit}"
   ],
   "ans": 4,
   "fig": ""
