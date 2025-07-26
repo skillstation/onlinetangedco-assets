@@ -1,15 +1,67 @@
 [
+{
+  "qno": 101,
+  "qdes": "\\text{Synchronous condenser means}",
+  "options": [
+    "\\text{A synchronous motor with capacitor connected across stator terminals to improve PF}",
+    "\\text{A synchronous motor operating at full load with leading PF}",
+    "\\text{An over excited synchronous motor partially supplying mechanical load and also improving PF of the system to which it is connected}",
+    "\\text{An over excited synchronous motor operating at no load with leading PF to improve the PF of the system}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
   {
-    "qno": 1,
-    "qdes": "\\begin{aligned}\n&\\text{When does maximum power transfer to the load in an electrical circuit?} \\\\\n&\\text{Let } R_S \\text{ and } R_L \\text{ be source and load resistances respectively.}\n\\end{aligned}",
-    "options": [
-      "R_L = R_S",
-      "R_L = 2R_S",
-      "R_L = \\dfrac{R_S}{2}",
-      "R_L = R_S^2",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  }
+  "qno": 102,
+  "qdes": "\\text{For an induction motor operating at a slip } s, \\text{ the ratio of gross power output to air gap power is equal to}",
+  "options": [
+    "(S - 1)",
+    "(1 - S)",
+    "(1 - S)^2",
+    "\\sqrt{(1 - S)}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 103,
+  "qdes": "\\text{The synchronous speed of linear induction motor depends on}",
+  "options": [
+    "\\text{Width of the pole pitch}",
+    "\\text{No. of poles}",
+    "\\text{Supply frequency}",
+    "\\text{Both (A) and (C)}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+{
+  "qno": 104,
+  "qdes": "\\text{The generated energy is supplied to the source then it is called as}",
+  "options": [
+    "\\text{Dynamic braking}",
+    "\\text{Regenerative braking}",
+    "\\text{Reverse current braking}",
+    "\\text{Resistive braking}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},  
+{
+  "qno": 105,
+  "qdes": "\\text{What is the frequency of rotor current of a 50 Hz induction motor operating at 2\\% slip?}",
+  "options": [
+    "1\\ \\text{Hz}",
+    "100\\ \\text{Hz}",
+    "2\\ \\text{Hz}",
+    "50\\ \\text{Hz}",
+    "Answer not known"
+  ],
+  "ans": 1,
+  "fig": ""
+}
+  
+
 ]
