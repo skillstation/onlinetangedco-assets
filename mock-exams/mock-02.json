@@ -1,5 +1,17 @@
 [
 {
+  "qno": 38,
+  "qdes": "\\text{Synchronous condenser means}",
+  "options": [
+    "\\text{A synchronous motor with capacitor connected across stator terminals to improve PF}",
+    "\\text{A synchronous motor operating at full load with leading PF}",
+    "\\text{An over excited synchronous motor partially supplying mechanical load and also improving PF of the system to which it is connected}",
+    "\\text{An over excited synchronous motor operating at no load with leading PF to improve the PF of the system}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+{
   "qno": 101,
   "qdes": "r\"\"\"\\text{Synchronous condenser means}\"\"\"",
   "options": [
