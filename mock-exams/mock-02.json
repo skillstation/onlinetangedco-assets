@@ -230,7 +230,7 @@
 },
   {
   "qno": 119,
-  "qdes": "\\text{The characteristic equation of a control system is given below} \\\\ F(S) = S^4 + S^3 + 3S^2 + 2S + 5 = 0.\\ \\text{The system is}",
+  "qdes": "\\text{The characteristic equation of a control system is given below} \\\\ F(S) = S^4 + S^3 + 3S^2 + 2S + 5 = 0.\\, \\text{The system is}",
   "options": [
      "\\text{Stable}",
      "\\text{Critically stable}",
@@ -252,7 +252,143 @@
   ],
   "ans": 4,
   "fig": ""
+},
+  {
+  "qno": 121,
+  "qdes": "\\text{The main drawback(s) of underground system over overhead system in transmission and distribution of power is/are}",
+  "options": [
+     "\\text{exposure to lightning}",
+     "\\text{heavy initial cost}",
+     "\\text{exposure to smoke, ice, wind}",
+     "\\text{interference between power and communication lines}",
+     "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+  {
+  "qno": 122,
+  "qdes": "\\text{An impedance relay is a}",
+  "options": [
+     "\\text{Voltage restrained over current relay}",
+     "\\text{Voltage restrained directional relay}",
+     "\\text{Current restrained directional relay}",
+     "\\text{Current restrained over-voltage relay}",
+     "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 123,
+  "qdes": "\\text{The current chopping tendency is minimised by using the SF}_6 \\text{ gas at relatively}",
+  "options": [
+     "\\text{high pressure and low velocity}",
+     "\\text{high pressure and high velocity}",
+     "\\text{low pressure and low velocity}",
+     "\\text{low pressure and high velocity}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+  {
+  "qno": 124,
+  "qdes": "\\text{Consider the following statements related to the function of a booster in distribution network} \\\\ (1) \\text{Booster is a series dc generator connected in series with the feeder.} \\\\ (2) \\text{Booster is a series dc generator connected in parallel to the feeder.} \\\\ (3) \\text{Feeders can be regulated independently} \\\\ \\text{Which of the following are correct?}",
+  "options": [
+    "1 and 2",
+    "2 and 3",
+    "1 and 3",
+    "1 only",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+  {
+  "qno": 125,
+  "qdes": "\\text{A system is reactance grounded, if} \\\\ \\dfrac{x_0}{x_1} > 3 \\text{ but less than that for resonant grounding}",
+  "options": [
+    "\\dfrac{x_0}{x_1} > 3 \\text{ but less than that for resonant grounding}",
+    "\\dfrac{x_0}{x_1} > 3",
+    "\\dfrac{R_0}{x_1} > 3",
+    "\\dfrac{x_0}{x_1} > 3 \\text{ and } \\dfrac{R_0}{x_1} > 3"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 126,
+  "qdes": "\\text{The sequence components of voltages for a balanced line-to-neutral voltages are} \\\\ \\left[ \\begin{array}{c} V_{an} \\\\ V_{bn} \\\\ V_{cn} \\end{array} \\right] = \\left[ \\begin{array}{c} 220 \\angle 0^\\circ \\\\ 220 \\angle -120^\\circ \\\\ 220 \\angle 120^\\circ \\end{array} \\right] \\text{ kV then, } V_0, V_1 \\text{ and } V_2 \\text{ are?}",
+  "options": [
+    "V_0 = 0\\text{ kV},\\ V_1 = 220 \\angle 0^\\circ\\text{ kV},\\ \\text{and } V_2 = 0\\text{ kV}",
+    "V_0 = 220\\text{ kV},\\ V_1 = 220 \\angle 120^\\circ\\text{ kV},\\ \\text{and } V_2 = 0\\text{ kV}",
+    "V_0 = 0\\text{ kV},\\ V_1 = 0\\text{ kV},\\ \\text{and } V_2 = 0\\text{ kV}",
+    "V_0 = 120 \\angle 0^\\circ\\text{ kV},\\ V_1 = 0\\text{ kV},\\ \\text{and } V_2 = 120 \\angle 0^\\circ\\text{ kV}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 127,
+  "qdes": "\\text{Match the following:} \\\\ (a)\\ \\text{Pin type insulator} \\qquad\\qquad\\quad 1.\\ \\text{Used for low voltage over head lines} \\\\ (b)\\ \\text{Suspension type insulator} \\qquad 2.\\ \\text{Used at dead ends and anchor towers} \\\\ (c)\\ \\text{Strain type insulator} \\qquad\\quad\\ 3.\\ \\text{Used upto 80 KV} \\\\ (d)\\ \\text{Shackle type insulator} \\qquad\\quad\\ 4.\\ \\text{Flexibility of the line is improved}",
+  "options": [
+    "(a)\\to 4,\\ (b)\\to 2,\\ (c)\\to 1,\\ (d)\\to 3",
+    "(a)\\to 1,\\ (b)\\to 3,\\ (c)\\to 2,\\ (d)\\to 4",
+    "(a)\\to 3,\\ (b)\\to 4,\\ (c)\\to 2,\\ (d)\\to 1",
+    "(a)\\to 2,\\ (b)\\to 1,\\ (c)\\to 3,\\ (d)\\to 4",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+  {
+  "qno": 128,
+  "qdes": "\\text{In a CRO, two in-phase, 50 Hz sinusoidal signals of same magnitude are connected to channel 1 and channel 2. All settings for both the channels are same. The observation on the screen is}",
+  "options": [
+    "\\text{A parabola}",
+    "\\text{A straight line inclined } 45^\\circ \\text{ to X-axis}",
+    "\\text{An ellipse}",
+    "\\text{A circle of unit radius}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+  {
+  "qno": 129,
+  "qdes": "\\text{The resultant weight per meter of the conductor and vertical sag are given by\\_\\_\\_\\_ and \\_\\_\\_\\_ respectively, where} \\\\ w_c - \\text{weight of conductor/m} \\\\ w_i - \\text{weight of ice/m} \\\\ w_w - \\text{weight of wind/m} \\\\ s - \\text{slant sag and } \\theta = \\text{angle of resultant weight}",
+  "options": [
+    "\\sqrt{(w_c + w_i)^2 + w_w^2};\\; s \\cos \\theta",
+    "\\sqrt{(w_c + w_w)^2 + w_i^2};\\; s \\cos \\theta",
+    "\\sqrt{(w_c + w_i)^2 + w_w^2};\\; s \\sin \\theta",
+    "\\sqrt{(w_c + w_w)^2 + w_i^2};\\; s \\sin \\theta",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 130,
+  "qdes": "\\text{Match the List I (improvements in transmission system) with List II (effects due to improvements) and select the correct answer using the codes given below the lists:} \\\\ \\text{List I (improvements)} \\\\ \\text{(a) Increasing the spacing between conductors} \\\\ \\text{(b) Increased flashover voltage} \\\\ \\text{(c) Increasing sag in overhead line} \\\\ \\text{(d) Usage of guard ring} \\\\ \\text{List II (effects)} \\\\ 1. \\text{Increase string efficiency} \\\\ 2. \\text{Reduces tension in the overhead line} \\\\ 3. \\text{Corona reduces} \\\\ 4. \\text{Safety factor of insulator increases}",
+  "options": [
+    "2\\;4\\;1\\;3",
+    "4\\;1\\;2\\;3",
+    "3\\;4\\;2\\;1",
+    "4\\;2\\;3\\;1",
+    "Answer not known"
+  ],
+  "ans": 3,
+  "fig": ""
 }
+
+
+
+
+
+
+
+
+
 
 
 
