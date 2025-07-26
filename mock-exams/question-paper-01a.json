@@ -1024,5 +1024,135 @@
                   ],
                   "ans": 3,
                   "fig": ""
+                },
+              {
+                  "qno": 81,
+                  "qdes": "\\begin{aligned}\n&\\text{The main purpose of performing open-circuit test on a transformer is to measure its.} \\\\\n&\\text{}\\n\\end{aligned}",
+                  "options": [
+                    "\\text{Cu Loss}",
+                    "\\text{Core loss}",
+                    "\\text{Total loss}",
+                    "\\text{Insulation resistance}",
+                    "\\text{Answer not known}"
+                  ],
+                  "ans": 2,
+                  "fig": ""
+                },
+                {
+                  "qno": 82,
+                  "qdes": "\\begin{aligned}\n&\\text{A 4 pole, 50 Hz, 3$\\phi$ induction motor has blocked rotor reactance per phase that is four times the rotor resistance per phase.} \\\\\n&\\text{The speed at which the maximum torque developed is}\n\\end{aligned}",
+                  "options": [
+                    "\\text{1500 rpm}",
+                    "\\text{1125 rpm}",
+                    "\\text{1000 rpm}",
+                    "\\text{3000 rpm}",
+                    "\\text{Answer not known}"
+                  ],
+                  "ans": 2,
+                  "fig": ""
+                },
+                {
+                  "qno": 83,
+                  "qdes": "\\begin{aligned}\n&\\text{The starting current of an induction motor is five times the full load current while the full load slip is 4%.} \\\\\n&\\text{The ratio of starting torque to full load torque is}\n\\end{aligned}",
+                  "options": [
+                    "\\text{0.6}",
+                    "\\text{0.8}",
+                    "\\text{1.0}",
+                    "\\text{1.2}",
+                    "\\text{Answer not known}"
+                  ],
+                  "ans": 3,
+                  "fig": ""
+                },
+                {
+                  "qno": 84,
+                  "qdes": "\\begin{aligned}\n&\\text{For a ‘P’ pole machine, the relation between electrical and mechanical degree is.}\n\\end{aligned}",
+                  "options": [
+                    "\\theta_{\\text{elec}} = \\frac{2}{P}\\theta_{\\text{mech}}",
+                    "\\theta_{\\text{elec}} = \\frac{4}{P}\\theta_{\\text{mech}}",
+                    "\\theta_{\\text{elec}} = \\theta_{\\text{mech}}",
+                    "\\theta_{\\text{elec}} = \\frac{P}{2}\\theta_{\\text{mech}}",
+                    "\\text{Answer not known}"
+                  ],
+                  "ans": 4,
+                  "fig": ""
+                },
+                {
+                  "qno": 85,
+                  "qdes": "\\begin{aligned}\n&\\text{The laws of electro magnetic induction (Faraday's and Lenz's Law) are summarized in the following equation.}\n\\end{aligned}",
+                  "options": [
+                    "e=L\\frac{di}{dt}",
+                    "e = -\\frac{d\\psi}{dt}",
+                    "e = iR",
+                    "R = \\frac{e}{i}",
+                    "\\text{Answer not known}"
+                  ],
+                  "ans": 2,
+                  "fig": ""
+                },
+                {
+                  "qno": 86,
+                  "qdes": "\\begin{aligned}\n&\\text{Torque produced by 3$\\phi$ induction motor becomes maximum when slip (S) is equal to.}\n\\end{aligned}",
+                  "options": [
+                    "\\text{R}_2/\\text{X}_2",
+                    "\\text{X}_2/\\text{R}_2",
+                    "\\text{1}",
+                    "\\text{0}",
+                    "\\text{Answer not known}"
+                  ],
+                  "ans": 1,
+                  "fig": ""
+                },
+                {
+                  "qno": 87,
+                  "qdes": "\\begin{aligned}\n&\\text{When the excitation of normally operating unloaded salient pole synchronous motor suddenly gets disconnected, it continuous to run as.}\n\\end{aligned}",
+                  "options": [
+                    "\\text{Schrage motor}",
+                    "\\text{Spherical motor}",
+                    "\\text{Switched reluctance motor}",
+                    "\\text{Variable reluctance motor}",
+                    "\\text{Answer not known}"
+                  ],
+                  "ans": 4,
+                  "fig": ""
+                },
+                {
+                  "qno": 88,
+                  "qdes": "\\begin{aligned}\n&\\text{A 4 pole dc generator has 378 wave wound conductors in its armature.} \\\\\n&\\text{If the flux per pole is 0.02 Wb, and the generator runs at a speed of 1000 rpm, the induced emf is.}\n\\end{aligned}",
+                  "options": [
+                    "\\text{2.52 V}",
+                    "\\text{25.2 V}",
+                    "\\text{252 V}",
+                    "\\text{2520 V}",
+                    "\\text{Answer not known}"
+                  ],
+                  "ans": 3,
+                  "fig": ""
+                },
+                {
+                  "qno": 89,
+                  "qdes": "\\begin{aligned}\n&\\text{A motor that uses electronic commutator is known as.}\n\\end{aligned}",
+                  "options": [
+                    "\\text{Stepper Motor}",
+                    "\\text{Brushless DC Motor}",
+                    "\\text{Permanent Magnet Synchronous Motor}",
+                    "\\text{Induction Motor}",
+                    "\\text{Answer not known}"
+                  ],
+                  "ans": 2,
+                  "fig": ""
+                },
+                {
+                  "qno": 90,
+                  "qdes": "\\begin{aligned}\n&\\text{How can the reactive power delivered by a synchronous generator be controlled?}\n\\end{aligned}",
+                  "options": [
+                    "\\text{by changing the prime mover input}",
+                    "\\text{by changing the excitation}",
+                    "\\text{by changing the direction of rotation}",
+                    "\\text{by changing the prime mover speed}",
+                    "\\text{Answer not known}"
+                  ],
+                  "ans": 2,
+                  "fig": ""
                 }
 ]
