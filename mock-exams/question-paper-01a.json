@@ -1154,5 +1154,135 @@
                   ],
                   "ans": 2,
                   "fig": ""
-                }
+                },
+                {
+                    "qno": 91,
+                    "qdes": "\\begin{aligned}\n&\\text{The single phase full converter bridge with RLE load behaves like a line commutated inverter.} \\\\\n&\\text{When the firing angle delay } \\alpha \\text{ is.}\n\\end{aligned}",
+                    "options": [
+                      "\\alpha > 180^{\\circ}",
+                      "\\alpha > 90^{\\circ}",
+                      "\\alpha < 90^{\\circ}",
+                      "\\alpha = 90^{\\circ}",
+                      "\\text{Answer not known}"
+                    ],
+                    "ans": 2,
+                    "fig": ""
+                  },
+                  {
+                    "qno": 92,
+                    "qdes": "\\begin{aligned}\n&\\text{A 25 kVA transformer has a voltage ratio of 3300/400 V.} \\\\\n&\\text{The primary and secondary current will be.}\n\\end{aligned}",
+                    "options": [
+                      "\\text{4.0 A, 33 A}",
+                      "\\text{7.576 A, 62.5 A}",
+                      "\\text{5.6 A, 66 A}",
+                      "\\text{4.2 A, 58 A}",
+                      "\\text{Answer not known}"
+                    ],
+                    "ans": 2,
+                    "fig": ""
+                  },
+                  {
+                    "qno": 93,
+                    "qdes": "\\begin{aligned}\n&\\text{A 400 V, 10 KW, 4 Pole, 50 HZ Y connected induction motor has full load slip of 5%.} \\\\\n&\\text{The output torque of the machine at full load is}\n\\end{aligned}",
+                    "options": [
+                      "\\text{10 Nm}",
+                      "\\text{77 Nm}",
+                      "\\text{123 Nm}",
+                      "\\text{67.05 Nm}",
+                      "\\text{Answer not known}"
+                    ],
+                    "ans": 4,
+                    "fig": ""
+                  },
+                  {
+                    "qno": 94,
+                    "qdes": "\\begin{aligned}\n&\\text{Solar energy reaching per sq.m of earth atmosphere is.}\n\\end{aligned}",
+                    "options": [
+                      "\\text{0.36 KW}",
+                      "\\text{1.36 KW}",
+                      "\\text{2.36 KW}",
+                      "\\text{3.36 KW}",
+                      "\\text{Answer not known}"
+                    ],
+                    "ans": 2,
+                    "fig": ""
+                  },
+                  {
+                    "qno": 95,
+                    "qdes": "\\begin{aligned}\n&\\text{A DC series motor is accidentally connected to single phase AC supply.} \\\\\n&\\text{The torque produced will be}\n\\end{aligned}",
+                    "options": [
+                      "\\text{of zero average value}",
+                      "\\text{oscillating}",
+                      "\\text{steady and unidirectional}",
+                      "\\text{pulsating and unidirectional}",
+                      "\\text{Answer not known}"
+                    ],
+                    "ans": 4,
+                    "fig": ""
+                  },
+                  {
+                    "qno": 96,
+                    "qdes": "\\begin{aligned}\n&\\text{The maximum electrical power output of a synchronous generator is.}\n\\end{aligned}",
+                    "options": [
+                      "\\frac{V_t E_f}{X_s}",
+                      "\\frac{V_t^2}{X_s}",
+                      "\\frac{E_f^2}{X_s}",
+                      "\\frac{X_s}{V_t E_f}",
+                      "\\text{Answer not known}"
+                    ],
+                    "ans": 1,
+                    "fig": ""
+                  },
+                  {
+                    "qno": 97,
+                    "qdes": "\\begin{aligned}\n&\\text{In a DC Machine, the current in each armature coil of lap connected armature is equal to.}\n\\end{aligned}",
+                    "options": [
+                      "\\text{1.5 times the terminal armature current}",
+                      "\\text{0.5 times the terminal armature current}",
+                      "\\text{terminal armature current divided by number of poles}",
+                      "\\text{number of poles divided by the terminal armature current}",
+                      "\\text{Answer not known}"
+                    ],
+                    "ans": 3,
+                    "fig": ""
+                  },
+                  {
+                    "qno": 98,
+                    "qdes": "\\begin{aligned}\n&\\text{The relation between synchronous speed, stator supply frequency and stator number of poles of a 3$\\phi$ IM is given by.}\n\\end{aligned}",
+                    "options": [
+                      "Ns = \\frac{P}{120 f}",
+                      "f = \\frac{120 Ns}{P}",
+                      "f = \\frac{PNs}{120}",
+                      "Ns = \\frac{120 P}{f}",
+                      "\\text{Answer not known}"
+                    ],
+                    "ans": 3,
+                    "fig": ""
+                  },
+                  {
+                    "qno": 99,
+                    "qdes": "\\begin{aligned}\n&\\text{The no load current drawn by a transformer is usually \\text{----------} percent of the full load current.}\n\\end{aligned}",
+                    "options": [
+                      "\\text{0.2 to 0.5}",
+                      "\\text{2 to 5}",
+                      "\\text{12 to 15}",
+                      "\\text{20 to 30}",
+                      "\\text{Answer not known}"
+                    ],
+                    "ans": 2,
+                    "fig": ""
+                  },
+                  {
+                    "qno": 100,
+                    "qdes": "\\begin{aligned}\n&\\text{Feedback in amplifier always helps in.}\n\\end{aligned}",
+                    "options": [
+                      "\\text{Controlling its output}",
+                      "\\text{Increasing its gain}",
+                      "\\text{Reducing its input impedance}",
+                      "\\text{Stabilizes its gain}",
+                      "\\text{Answer not known}"
+                    ],
+                    "ans": 1,
+                    "fig": ""
+                  }
 ]
