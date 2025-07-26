@@ -1027,7 +1027,7 @@
                 },
               {
                   "qno": 81,
-                  "qdes": "\\begin{aligned}\n&\\text{The main purpose of performing open-circuit test on a transformer is to measure its.} \\\\\n&\\text{}\\n\\end{aligned}",
+                  "qdes": "\\begin{aligned}\n&\\text{The main purpose of performing open-circuit test on a transformer is to measure its.} \\end{aligned}",
                   "options": [
                     "\\text{Cu Loss}",
                     "\\text{Core loss}",
@@ -1053,7 +1053,7 @@
                 },
                 {
                   "qno": 83,
-                  "qdes": "\\begin{aligned}\n&\\text{The starting current of an induction motor is five times the full load current while the full load slip is 4%.} \\\\\n&\\text{The ratio of starting torque to full load torque is}\n\\end{aligned}",
+                  "qdes": "\\begin{aligned}\n&\\text{The starting current of an induction motor is five times the full load current while the full load slip is 4\\%.} \\\\\n&\\text{The ratio of starting torque to full load torque is} \\end{aligned}",
                   "options": [
                     "\\text{0.6}",
                     "\\text{0.8}",
