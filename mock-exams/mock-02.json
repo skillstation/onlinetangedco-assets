@@ -204,7 +204,7 @@
 },
   {
   "qno": 117,
-  "qdes": "\\text{A boost converter with a 20\\,\\text{KHz} switching frequency is operating with a 50\\% duty cycle. The connected load is } 7\\,\\Omega.\\ \\text{Determine the value of critical inductance so that current } i_L \\text{ is continuous}",
+  "qdes": "\\begin{array}{l} \\text{A boost converter with a } 20\\,\\text{kHz} \\text{ switching frequency is operating with a } 50\\% \\text{ duty cycle.} \\\\ \\text{The connected load is } 7\\,\\Omega. \\\\ \\text{Determine the value of critical inductance so that current } i_L \\text{ is continuous.} \\end{array}",
   "options": [
     "21.9\\,\\mu F",
     "19.5\\,\\mu F",
