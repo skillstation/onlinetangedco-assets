@@ -343,7 +343,7 @@
 },
   {
   "qno": 128,
-  "qdes": "\\text{In a CRO, two in-phase, 50 Hz sinusoidal signals of same magnitude are connected to channel 1 and channel 2. All settings for both the channels are same. The observation on the screen is}",
+  "qdes": "\\begin{array}{l} \\text{In a CRO, two in-phase, 50 Hz sinusoidal signals of same magnitude are connected to channel 1 and channel 2}. \\\\\\text{All settings for both the channels are same. The observation on the screen is}\\end{array}",
   "options": [
     "\\text{A parabola}",
     "\\text{A straight line inclined } 45^\\circ \\text{ to X-axis}",
