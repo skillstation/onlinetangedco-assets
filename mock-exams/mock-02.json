@@ -369,9 +369,7 @@
 },
   {
   "qno": 130,
-  "qdes": "\\begin{array}{l}
-\\text{Match the List I (improvements in transmission system) with List II (effects due to improvements)} \\\\
-\\text{and select the correct answer using the codes given below the lists:} \\\\ \\text{List I (improvements)} \\\\ \\text{(a) Increasing the spacing between conductors} \\\\ \\text{(b) Increased flashover voltage} \\\\ \\text{(c) Increasing sag in overhead line} \\\\ \\text{(d) Usage of guard ring} \\\\ \\text{List II (effects)} \\\\ 1. \\text{Increase string efficiency} \\\\ 2. \\text{Reduces tension in the overhead line} \\\\ 3. \\text{Corona reduces} \\\\ 4. \\text{Safety factor of insulator increases} \\end{array}",
+  "qdes": "\\begin{array}{l} \\text{Match the List I (improvements in transmission system) with List II (effects due to improvements)} \\\\ \\text{and select the correct answer using the codes given below the lists:} \\\\ \\text{List I (improvements)} \\\\ \\text{(a) Increasing the spacing between conductors} \\\\ \\text{(b) Increased flashover voltage} \\\\ \\text{(c) Increasing sag in overhead line} \\\\ \\text{(d) Usage of guard ring} \\\\ \\text{List II (effects)} \\\\ 1. \\text{Increase string efficiency} \\\\ 2. \\text{Reduces tension in the overhead line} \\\\ 3. \\text{Corona reduces} \\\\ 4. \\text{Safety factor of insulator increases} \\end{array}",
   "options": [
     "2\\;4\\;1\\;3",
     "4\\;1\\;2\\;3",
@@ -393,7 +391,7 @@
     "\\text{Answer not known}"
   ],
   "ans": 1,
-  "fig": "circuit with 50V source, 10\\,\\Omega resistor, node A, 5\\,\\Omega resistor, and 25V source between A and B"
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-199-01-FIG.png"
 },
   {
   "qno": 132,
