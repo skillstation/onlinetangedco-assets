@@ -153,7 +153,7 @@
 },
   {
   "qno": 113,
-  "qdes": "\\text{The typical values of a modern thermal power plant having 34\\% overall efficiency are } \\eta_{boil} = 0.42,\\ \\eta_{cycle} = 0.44,\\ \\eta_{Turbine(mesh)} = 0.95 \\text{ and } \\eta_{Generator} = 0.93.\\ \\text{The power consumed by the auxiliaries of the plant is}",
+  "qdes": "\\begin{array}{l} \\text{The typical values of a modern thermal power plant having 34\\% overall efficiency are:} \\\\ \\eta_{boil} = 0.42, \\quad \\eta_{cycle} = 0.44, \\quad \\eta_{Turbine(mesh)} = 0.95, \\quad \\eta_{Generator} = 0.93. \\\\ \\text{The power consumed by the auxiliaries of the plant is} \\end{array}",
   "options": [
     "3\\%",
     "4\\%",
