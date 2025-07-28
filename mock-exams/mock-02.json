@@ -356,7 +356,7 @@
 },
   {
   "qno": 129,
-  "qdes": "\\text{The resultant weight per meter of the conductor and vertical sag are given by\\_\\_\\_\\_ and \\_\\_\\_\\_ respectively, where} \\\\ w_c - \\text{weight of conductor/m} \\\\ w_i - \\text{weight of ice/m} \\\\ w_w - \\text{weight of wind/m} \\\\ s - \\text{slant sag and } \\theta = \\text{angle of resultant weight}",
+  "qdes": "\\begin{array}{l} \\text{The resultant weight per meter of the conductor and vertical sag are given by\\_\\_\\_\\_ and \\_\\_\\_\\_ respectively, where} \\\\ w_c - \\text{weight of conductor/m} \\\\ w_i - \\text{weight of ice/m} \\\\ w_w - \\text{weight of wind/m} \\\\ s - \\text{slant sag and } \\theta = \\text{angle of resultant weight} \\end{array}",
   "options": [
     "\\sqrt{(w_c + w_i)^2 + w_w^2};\\; s \\cos \\theta",
     "\\sqrt{(w_c + w_w)^2 + w_i^2};\\; s \\cos \\theta",
@@ -369,7 +369,9 @@
 },
   {
   "qno": 130,
-  "qdes": "\\text{Match the List I (improvements in transmission system) with List II (effects due to improvements) and select the correct answer using the codes given below the lists:} \\\\ \\text{List I (improvements)} \\\\ \\text{(a) Increasing the spacing between conductors} \\\\ \\text{(b) Increased flashover voltage} \\\\ \\text{(c) Increasing sag in overhead line} \\\\ \\text{(d) Usage of guard ring} \\\\ \\text{List II (effects)} \\\\ 1. \\text{Increase string efficiency} \\\\ 2. \\text{Reduces tension in the overhead line} \\\\ 3. \\text{Corona reduces} \\\\ 4. \\text{Safety factor of insulator increases}",
+  "qdes": "\\begin{array}{l}
+\\text{Match the List I (improvements in transmission system) with List II (effects due to improvements)} \\\\
+\\text{and select the correct answer using the codes given below the lists:} \\\\ \\text{List I (improvements)} \\\\ \\text{(a) Increasing the spacing between conductors} \\\\ \\text{(b) Increased flashover voltage} \\\\ \\text{(c) Increasing sag in overhead line} \\\\ \\text{(d) Usage of guard ring} \\\\ \\text{List II (effects)} \\\\ 1. \\text{Increase string efficiency} \\\\ 2. \\text{Reduces tension in the overhead line} \\\\ 3. \\text{Corona reduces} \\\\ 4. \\text{Safety factor of insulator increases} \\end{array}",
   "options": [
     "2\\;4\\;1\\;3",
     "4\\;1\\;2\\;3",
@@ -433,7 +435,7 @@
 },
 {
   "qno": 135,
-  "qdes": "\\text{A 20,000 kVA transformer with 10% reactance will have a reactance of __________ at 10,000 kVA base.}",
+  "qdes": "\\text{A 20000 kVA transformer with 10\\% reactance will have a reactance of \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ at 10,000 kVA base}",
   "options": [
     "\\text{10%}",
     "\\text{20%}",
