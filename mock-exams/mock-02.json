@@ -102,7 +102,7 @@
 },
 {
   "qno": 109,
-  "qdes": "\\text{A single phase full-wave rectifier using semiconductor diodes has a transformer voltage of 35\\,V rms to center tap.} \\text{The load consists of a }40\\,\\mu \\text{ F capacitor in parallel with a }250\\,\\Omega \\text{resistor. The diode and transformer resistances and leakage reactance may be neglected. The power line frequency is 50\\,Hz. Calculate the dc current } I_{dc} \\text{ in the circuit.}",
+  "qdes": "\\begin{aligned} &\\text{A single phase full-wave rectifier using semiconductor diodes has a transformer voltage of } 35\\,\\text{V rms to center tap.} \\\\& \\text{The load consists of a } 40\\,\\mu \\text{F capacitor in parallel with a } 250\\,\\Omega \\text{ resistor.} \\\\& \\text{The diode and transformer resistances and leakage reactance may be neglected.} \\\\& \\text{The power line frequency is } 50\\,\\text{Hz. Calculate the dc current } I_{dc} \\text{ in the circuit.} \\end{aligned}",
   "options": [
     "132\\,\\text{mA}",
     "100\\,\\text{mA}",
