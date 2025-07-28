@@ -1,7 +1,7 @@
 [
   {
     "qno": 1,
-    "qdes": "\begin{aligned} &\text{When does maximum power transfer to the load in an electrical circuit?} \\  &\text{Let } R_S \text{ and } R_L \text{ be source and load resistances respectively.} \\end{aligned}",
+    "qdes": "\\text{Hello world}",
     "options": [
       "R_L = R_S",
       "R_L = 2R_S",
