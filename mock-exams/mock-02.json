@@ -391,7 +391,7 @@
     "\\text{Answer not known}"
   ],
   "ans": 1,
-  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-199-01-FIG.png"
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/02B-096-06-FIG.png"
 },
   {
   "qno": 132,
@@ -408,7 +408,7 @@
 },
 {
   "qno": 133,
-  "qdes": "\\text{Usually a collection of positive charge is considered for constructing a Gaussian surface. If a Gaussian surface encloses a collection of negative charges, then for such a surface}",
+  "qdes": "\\begin{array}{l} \\text{Usually a collection of positive charge is considered for constructing a Gaussian surface} \\\\ \\text{If a Gaussian surface encloses a collection of negative charges, then for such a surface}\\end{array}",
   "options": [
     "\\text{A normal component of D will become zero}",
     "\\text{The normal component of D will point inwards}",
