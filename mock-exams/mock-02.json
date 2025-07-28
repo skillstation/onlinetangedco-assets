@@ -293,7 +293,7 @@
 },
   {
   "qno": 124,
-  "qdes": "\\text{Consider the following statements related to the function of a booster in distribution network} \\\\ (1) \\text{Booster is a series dc generator connected in series with the feeder.} \\\\ (2) \\text{Booster is a series dc generator connected in parallel to the feeder.} \\\\ (3) \\text{Feeders can be regulated independently} \\\\ \\text{Which of the following are correct?}",
+  "qdes": "\\begin{array}{l} \\text{Consider the following statements related to the function of a booster in distribution network} \\\\  (1) \\text{Booster is a series dc generator connected in series with the feeder.} \\\\  (2) \\text{Booster is a series dc generator connected in parallel to the feeder.} \\\\  (3) \\text{Feeders can be regulated independently} \\\\ \\\\ \\text{Which of the following are correct?} \\end{array}",
   "options": [
     "1 and 2",
     "2 and 3",
@@ -306,7 +306,7 @@
 },
   {
   "qno": 125,
-  "qdes": "\\text{A system is reactance grounded, if} \\\\ \\dfrac{x_0}{x_1} > 3 \\text{ but less than that for resonant grounding}",
+  "qdes": "\\begin{array}{l} \\text{A system is reactance grounded, if} \\\\  \\dfrac{x_0}{x_1} > 3  \\text{ but less than that for resonant grounding} \\end{array}",
   "options": [
     "\\dfrac{x_0}{x_1} > 3 \\text{ but less than that for resonant grounding}",
     "\\dfrac{x_0}{x_1} > 3",
@@ -318,7 +318,7 @@
 },
   {
   "qno": 126,
-  "qdes": "\\text{The sequence components of voltages for a balanced line-to-neutral voltages are} \\\\ \\left[ \\begin{array}{c} V_{an} \\\\ V_{bn} \\\\ V_{cn} \\end{array} \\right] = \\left[ \\begin{array}{c} 220 \\angle 0^\\circ \\\\ 220 \\angle -120^\\circ \\\\ 220 \\angle 120^\\circ \\end{array} \\right] \\text{ kV then, } V_0, V_1 \\text{ and } V_2 \\text{ are?}",
+  "qdes": "\\begin{array}{l} \\text{The sequence components of voltages for a balanced line-to-neutral voltages are} \\\\  \\left[ \\begin{array}{c} V_{an} \\\\ V_{bn} \\\\ V_{cn} \\end{array} \\right] = \\left[ \\begin{array}{c} 220 \\angle 0^\\circ \\\\ 220 \\angle -120^\\circ \\\\ 220 \\angle 120^\\circ \\end{array} \\right] \\text{ kV then, } V_0, V_1 \\text{ and } V_2 \\text{ are?} \\end{array}",
   "options": [
     "V_0 = 0\\text{ kV},\\ V_1 = 220 \\angle 0^\\circ\\text{ kV},\\ \\text{and } V_2 = 0\\text{ kV}",
     "V_0 = 220\\text{ kV},\\ V_1 = 220 \\angle 120^\\circ\\text{ kV},\\ \\text{and } V_2 = 0\\text{ kV}",
@@ -330,7 +330,7 @@
 },
 {
   "qno": 127,
-  "qdes": "\\text{Match the following:} \\\\ (a)\\ \\text{Pin type insulator} \\qquad\\qquad\\quad 1.\\ \\text{Used for low voltage over head lines} \\\\ (b)\\ \\text{Suspension type insulator} \\qquad 2.\\ \\text{Used at dead ends and anchor towers} \\\\ (c)\\ \\text{Strain type insulator} \\qquad\\quad\\ 3.\\ \\text{Used upto 80 KV} \\\\ (d)\\ \\text{Shackle type insulator} \\qquad\\quad\\ 4.\\ \\text{Flexibility of the line is improved}",
+  "qdes": "\\begin{array}{l} \\text{Match the following:} \\\\  (a)\\ \\text{Pin type insulator} \\qquad\\qquad\\quad \\text{  \\ \\ 1. Used for low voltage over head lines} \\\\  (b)\\ \\text{Suspension type insulator} \\qquad \\text{2. Used at dead ends and anchor towers} \\\\  (c)\\ \\text{Strain type insulator} \\qquad\\quad\\ \\text{ \\ \\ \\ \\ 3. Used upto 80 KV} \\\\  (d)\\ \\text{Shackle type insulator} \\qquad\\quad\\ \\text{ \\ 4. Flexibility of the line is improved} \\end{array}",
   "options": [
     "(a)\\to 4,\\ (b)\\to 2,\\ (c)\\to 1,\\ (d)\\to 3",
     "(a)\\to 1,\\ (b)\\to 3,\\ (c)\\to 2,\\ (d)\\to 4",
