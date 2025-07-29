@@ -37,7 +37,160 @@
   "ans": 2,
   "fig": ""
 },
-
+{
+  "qno": 4,
+  "qdes": "\\text{The neutral points of source and load are shorted to form the reference node in a single phase equivalent circuit even if the neutral points are connected through impedance in the actual circuit. This is so because the neutral connection in a balanced circuit will}",
+  "options": [
+    "\\text{Not carry any current}",
+    "\\text{Carry maximum current}",
+    "\\text{Carry minimum current}",
+    "\\text{Not carry zero current}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 5,
+  "qdes": "\\text{A fuel cell is basically}",
+  "options": [
+    "\\text{An electro-mechanical energy conversion device}",
+    "\\text{An electro-chemical energy conversion device}",
+    "\\text{An electro-static energy conversion device}",
+    "\\text{A thermo-electric energy conversion device}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+  {
+  "qno": 6,
+  "qdes": "\\text{For the tank circuit shown below, find the circulating current at resonance, for a supply voltage of } V \\text{ volts (a.c.). Neglect any resistance of the circuit.}",
+  "options": [
+    "\\left(\\dfrac{VL}{C}\\right)^{1/2}",
+    "V\\left(\\dfrac{L}{C}\\right)^{1/2}",
+    "V\\left(\\dfrac{C}{L}\\right)^{1/2}",
+    "\\left(\\dfrac{VC}{L}\\right)^{1/2}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": "tank_circuit.png"
+},
+  {
+  "qno": 7,
+  "qdes": "\\text{Two coupled inductors } L_1 = 0.2\\,H \\text{ and } L_2 = 0.8\\,H \\text{ have coefficient of coupling } K = 0.7. \\text{ The mutual inductance } M \\text{ is}",
+  "options": [
+    "0.2\\,H",
+    "0.28\\,H",
+    "0.112\\,H",
+    "1\\,H"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+  {
+  "qno": 8,
+  "qdes": "\\text{The time constant of the network shown in figure is}",
+  "options": [
+    "2RC",
+    "3RC",
+    "\\dfrac{RC}{2}",
+    "\\dfrac{2RC}{3}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+{
+  "qno": 9,
+  "qdes": "\\text{A parallel RLC circuit has } R = 10000\\, \\Omega,\\ L = 10\\, mH \\text{ and } C = 1\\, \\mu F.\\ \\text{The resonant frequency } W_0\\, (\\text{rad/sec}) \\text{ and } Q \\text{ are respectively given by}",
+  "options": [
+    "10^4 \\text{ and } 200",
+    "10^2 \\text{ and } 1",
+    "10^4 \\text{ and } 100",
+    "10^2 \\text{ and } 100"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+{
+  "qno": 10,
+  "qdes": "\\text{The voltage across R after } t = 0 \\text{ and } t = 1 \\text{ sec, will be}",
+  "options": [
+    "100\\, V,\\ 632\\, V",
+    "0\\, V,\\ 63.2\\, V",
+    "100\\, V,\\ 36.8\\, V",
+    "0\\, V,\\ 36.8\\, V",
+    "Answer not known"
+  ],
+  "ans": 3,
+  "fig": ""
+,
+{
+  "qno": 11,
+  "qdes": "\\text{In a mono stable multivibrator, } R = 100\\ \\text{k}\\Omega \\text{ and time delay } T = 100\\ \\text{ms. Calculate the value of } C",
+  "options": [
+    "0.9\\ \\mu\\text{F}",
+    "0.9\\ \\rho\\text{F}",
+    "0.5\\ \\mu\\text{F}",
+    "0.9\\ \\text{F}",
+    "Answer not known"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 12,
+  "qdes": "\\text{When two resistances of equal values } (R) \\text{ connected in parallel, the effective resistance is}",
+  "options": [
+    "R",
+    "\\dfrac{R}{2}",
+    "2R",
+    "R^2",
+    "Answer not known"
+  ],
+  "ans": 2,
+  "fig": ""
+}
+{
+  "qno": 13,
+  "qdes": "\\text{Find H parameter for the two port network as shown in the figure}",
+  "options": [
+    "\\begin{bmatrix} 25 & 1 \\\\ -1 & 20 \\end{bmatrix}",
+    "\\begin{bmatrix} 20 & -1 \\\\ 1 & 25 \\end{bmatrix}",
+    "\\begin{bmatrix} 20 & 1 \\\\ -1 & 25 \\end{bmatrix}",
+    "\\begin{bmatrix} 25 & -1 \\\\ 1 & 20 \\end{bmatrix}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": "two_port_network.png"
+},
+  {
+  "qno": 14,
+  "qdes": "\\text{The value of a matrix in } \\dot{X} = A X \\text{ for the system described by the differential equation } \\ddot{Y} + 2\\dot{Y} + 3Y = 0 \\text{ is}",
+  "options": [
+    "\\begin{bmatrix} 1 & 0 \\\\ -2 & -1 \\end{bmatrix}",
+    "\\begin{bmatrix} 1 & 0 \\\\ -1 & -2 \\end{bmatrix}",
+    "\\begin{bmatrix} 0 & 1 \\\\ -2 & -1 \\end{bmatrix}",
+    "\\begin{bmatrix} 0 & 1 \\\\ -3 & -2 \\end{bmatrix}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+  {
+  "qno": 15,
+  "qdes": "\\text{For the circuit shown, find the Q-factor}",
+  "options": [
+    "10",
+    "447",
+    "4.47",
+    "71",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": "rlc_circuit_q_factor.png"
+},
+  
 
   
   
