@@ -253,11 +253,97 @@
   ],
   "ans": 2,
   "fig": "max_power_theorem_circuit.png"
-}
-
-
-
-
+},
+{
+  "qno": 21,
+  "qdes": "\\text{At the time of switching of an inductor to a source, a current } I_0 \\text{ was already flowing through the inductor. Then, the inductor will behave as}",
+  "options": [
+    "\\text{an open circuit}",
+    "\\text{a short circuit}",
+    "\\text{a current source of } I_0 \\text{ Ampere}",
+    "\\text{a voltage source of } V_0 \\text{ volts}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+  {
+  "qno": 22,
+  "qdes": "\\text{In an Anderson Bridge, the unknown inductance is measured in term of known}",
+  "options": [
+    "\\text{Resistance}",
+    "\\text{Capacitance}",
+    "\\text{Inductance and Resistance}",
+    "\\text{Resistance and Capacitance}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+  {
+  "qno": 23,
+  "qdes": "\\text{In the circuit given below determine } V_{ab}",
+  "options": [
+    "2.5\\text{ V}",
+    "3.5\\text{ V}",
+    "7\\text{ V}",
+    "5\\text{ V}"
+  ],
+  "ans": 2,
+  "fig": "image_544bc3.png"
+},
+{
+  "qno": 24,
+  "qdes": "\\text{In an RLC parallel circuit } \\rule{2cm}{0.5pt} \\text{ and } \\rule{2cm}{0.5pt} \\text{ are minimum at resonance.}",
+  "options": [
+    "\\text{current, admittance}",
+    "\\text{voltage, resistance}",
+    "\\text{voltage, impedance}",
+    "\\text{current, impedance}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 25,
+  "qdes": "\\text{In a series RLC circuit operating below the resonant frequency, the current}",
+  "options": [
+    "\\text{I leads Vs}",
+    "\\text{I lags Vs}",
+    "\\text{I is in phase with Vs}",
+    "\\text{Zero}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 26,
+  "qdes": "\\text{A point charge of } 4\\pi\\epsilon_0 C \\text{ is situated at origin. What is the value of field intensity at } (0, 0, 1) \\text{ m?}",
+  "options": [
+    "1\\text{ V/m}",
+    "2\\text{ V/m}",
+    "4\\text{ V/m}",
+    "0\\text{ V/m}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 27,
+  "qdes": "\\text{Which of the following relationship exists between electric flux density and electric field intensity?}",
+  "options": [
+    "\\text{Linear}",
+    "\\text{Inversely linear}",
+    "\\text{Non-linear}",
+    "\\text{Inversely non-linear}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  
   
   
  
