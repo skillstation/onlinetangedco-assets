@@ -1,62 +1,19 @@
 [
   {
-    "qno": 1,
-    "qdes": "Who is the Prime Minister of India?",
-    "options": ["Narendra Modi", "Smt. Nirmala Sitharaman", "Dr. Subrahmanyam Jaishankar", "Shri Raj Nath Singh"],
-    "ans": 1
+  "qno": 01,
+  "qdes": "\\text{The voltage across } 30\\Omega \\text{ in the circuit shown is}",
+  "options": [
+    "30\\ \\text{V}",
+    "45\\ \\text{V}",
+    "18\\ \\text{V}",
+    "24\\ \\text{V}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": "circuit_with_30ohm_voltage.png"
   },
-  {
-    "qno": 2,
-    "qdes": "Which planet is known as the Red Planet?",
-    "options": ["Earth", "Mars", "Jupiter", "Venus"],
-    "ans": 2
-  },
-  {
-    "qno": 3,
-    "qdes": "What is the capital of Tamil Nadu?",
-    "options": ["Madurai", "Chennai", "Coimbatore", "Tiruchirappalli"],
-    "ans": 2
-  },
-  {
-    "qno": 4,
-    "qdes": "Who wrote the Indian National Anthem?",
-    "options": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Subhash Chandra Bose", "Sarojini Naidu"],
-    "ans": 1
-  },
-  {
-    "qno": 5,
-    "qdes": "Which gas is most abundant in Earth's atmosphere?",
-    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
-    "ans": 3
-  },
-  {
-    "qno": 6,
-    "qdes": "Which is the largest continent in the world?",
-    "options": ["Africa", "Asia", "Europe", "North America"],
-    "ans": 2
-  },
-  {
-    "qno": 7,
-    "qdes": "Which Indian city is known as the Pink City?",
-    "options": ["Udaipur", "Jaipur", "Jodhpur", "Bikaner"],
-    "ans": 2
-  },
-  {
-    "qno": 8,
-    "qdes": "What is the chemical symbol of water?",
-    "options": ["H2", "H2O", "O2", "HO"],
-    "ans": 2
-  },
-  {
-    "qno": 9,
-    "qdes": "Who invented the telephone?",
-    "options": ["Thomas Edison", "Albert Einstein", "Alexander Graham Bell", "Isaac Newton"],
-    "ans": 3
-  },
-  {
-    "qno": 10,
-    "qdes": "Which is the smallest state in India by area?",
-    "options": ["Goa", "Sikkim", "Tripura", "Manipur"],
-    "ans": 1
-  }
+  
+  
+  
+ 
 ]
