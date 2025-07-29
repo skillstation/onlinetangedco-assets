@@ -442,7 +442,200 @@
   ],
   "ans": 2,
   "fig": ""
-}
-
-
+},
+  {
+    "qno": 136,
+    "qdes": "\\begin{array}{l}\n\\text{A 4 Bit modulo-16 Ripple counter uses J-K flip flop. If the propagation delay of each flip flop is 50 Nano-seconds,} \\\\\n\\text{the maximum clock frequency that can be used is equal to}\n\\end{array}",
+    "options": [
+      "\\text{20 MHz}",
+      "\\text{10 MHz}",
+      "\\text{8 MHz}",
+      "\\text{5 MHz}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 137,
+    "qdes": "\\text{In a bridge rectifier circuit, the peak voltage is 5 V and diode cut voltage is 0.7 V. The peak inverse voltage on the diode is}",
+    "options": [
+      "\\text{4.3 V}",
+      "\\text{3.6 V}",
+      "\\text{9.3 V}",
+      "\\text{8.6 V}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 138,
+    "qdes": "\\text{The reference voltage of a dual slope ADC is 5 V. The integrator has a capacitor of 1 \\mu F and resistance of 100 k}\\Omega. \\text{The time taken to read an unknown voltage } V_X \\text{ is 0.2 sec. Find } V_X",
+    "options": [
+      "\\text{2.1 V}",
+      "\\text{10 V}",
+      "\\text{2.5 V}",
+      "\\text{8 V}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 139,
+    "qdes": "\\text{For second order system, if both the roots of the characteristic equation are real, then the damping ratio will be}",
+    "options": [
+      "\\text{Less than unity}",
+      "\\text{Equal to unity}",
+      "\\text{Equal to zero}",
+      "\\text{Greater than unity}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 140,
+    "qdes": "\\text{A rotor of a hysteresis synchronous motor}",
+    "options": [
+      "\\text{Has salient poles}",
+      "\\text{Has low permeability}",
+      "\\text{Slip behind the stator flux}",
+      "\\text{Is made of high-retentivity hard steel}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 141,
+    "qdes": "\\text{What is the minimum number of Flip Flops required for realizing MOD 9 ripple counter?}",
+    "options": [
+      "\\text{2}",
+      "\\text{4}",
+      "\\text{6}",
+      "\\text{8}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 142,
+    "qdes": "\\text{A D/A converter has a full scale output of 3.5 V with resolution approximately 14 mV. The number of bits required for conversion is}",
+    "options": [
+      "\\text{4}",
+      "\\text{8}",
+      "\\text{16}",
+      "\\text{32}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 143,
+    "qdes": "\\text{Unit of measurement of slew rate in an operational amplifier is}\nV = \\text{VOHS}\nS = \\text{Seconds}",
+    "options": [
+      "\\text{V/S}",
+      "\\text{V/mS}",
+      "\\text{V/}\\mu\\text{S}",
+      "\\text{V/nS}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 144,
+    "qdes": "\\text{In the figure } X_1 = 1, X_2 = 1, \\text{ the output Q remains}",
+    "options": [
+      "\\text{at 1}",
+      "\\text{at 0}",
+      "\\text{at its initial value}",
+      "\\text{unstable}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": "http://googleusercontent.com/file_content/2"
+  },
+  {
+    "qno": 145,
+    "qdes": "\\text{Assume that } D_1, D_2 \\text{ are ideal diodes. The value of current } I \\text{ is}",
+    "options": [
+      "\\text{0 mA}",
+      "\\text{0.5 mA}",
+      "\\text{1 mA}",
+      "\\text{2 mA}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": "http://googleusercontent.com/file_content/4"
+  },
+  {
+    "qno": 146,
+    "qdes": "\\text{An 8-input multiplexer is to be built with a tree network of 2-input multiplexers. The number of 2-input multiplexers required are}",
+    "options": [
+      "\\text{2}",
+      "\\text{4}",
+      "\\text{8}",
+      "\\text{16}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 147,
+    "qdes": "\\text{The logic performance of the following circuit is}",
+    "options": [
+      "\\text{NAND}",
+      "\\text{AND}",
+      "\\text{NOT}",
+      "\\text{OR}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": "http://googleusercontent.com/file_content/6"
+  },
+  {
+    "qno": 148,
+    "qdes": "\\text{A binary Ladder D/A converter is constructed by using resistors having}",
+    "options": [
+      "\\text{Individual values}",
+      "\\text{Only one value}",
+      "\\text{Only two values}",
+      "\\text{Only three values}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 149,
+    "qdes": "\\text{Convert } (0.6875)_{10} \\text{ to binary}",
+    "options": [
+      "\\text{(1.0100)}_2",
+      "\\text{(0.1011)}_2",
+      "\\text{(1.1011)}_2",
+      "\\text{(0.0100)}_2",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 150,
+    "qdes": "\\text{The simplified form of the Boolean function } Y = \\overline{ABC} + \\overline{ABC} + \\overline{ABC} + ABC",
+    "options": [
+      "\\overline{C}",
+      "C",
+      "\\overline{AB}",
+      "AB",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  }
 ]
