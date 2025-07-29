@@ -190,7 +190,73 @@
   "ans": 3,
   "fig": "rlc_circuit_q_factor.png"
 },
-  
+  {
+  "qno": 16,
+  "qdes": "\\text{A stepper motor with a step angle of } 15^{\\circ} \\text{ has a stepping frequency of 300 steps/second. The stepper motor speed will be}",
+  "options": [
+    "300\\ \\text{rpm}",
+    "750\\ \\text{rpm}",
+    "720\\ \\text{rpm}",
+    "350\\ \\text{rpm}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 17,
+  "qdes": "\\text{Bit set/reset mode in 8255 programmable peripheral interface is used to set or reset the pins of}",
+  "options": [
+    "\\text{Port A}",
+    "\\text{Port B}",
+    "\\text{Port C}",
+    "\\text{Port A and Port B}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+{
+  "qno": 18,
+  "qdes": "\\text{The time constant of a series RL circuit is}",
+  "options": [
+    "LR",
+    "\\dfrac{R}{L}",
+    "e^{-RL}",
+    "\\dfrac{L}{R}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+  {
+  "qno": 19,
+  "qdes": "\\text{In the circuit given below the voltage across } 20\\,\\Omega \\text{ resistor is } 100\\,\\text{V. What is the total voltage } V_s \\text{ across the combined circuit?}",
+  "options": [
+    "100\\,\\text{V}",
+    "10\\,\\text{V}",
+    "20\\,\\text{V}",
+    "200\\,\\text{V}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 4,
+  "fig": "voltage_divider_circuit.png"
+},
+  {
+  "qno": 20,
+  "qdes": "\\text{What shall be the value of } R, \\text{ if it has to absorb maximum power from source?}",
+  "options": [
+    "\\dfrac{3}{8}\\,\\Omega",
+    "\\dfrac{8}{3}\\,\\Omega",
+    "4\\,\\Omega",
+    "8\\,\\Omega"
+  ],
+  "ans": 2,
+  "fig": "max_power_theorem_circuit.png"
+}
+
+
+
 
   
   
