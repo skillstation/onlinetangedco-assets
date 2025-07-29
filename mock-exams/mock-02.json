@@ -471,7 +471,7 @@
   },
   {
     "qno": 138,
-    "qdes": "\\text{The reference voltage of a dual slope ADC is 5 V. The integrator has a capacitor of 1 \\mu F and resistance of 100 k}\\Omega. \\text{The time taken to read an unknown voltage } V_X \\text{ is 0.2 sec. Find } V_X",
+    "qdes": "\\begin{array}{l} \\text{The reference voltage of a dual slope ADC is 5 V. The integrator has a capacitor of }1 \\mu F \\text{and resistance of 100 k}\\Omega. \\\\ \\text{The time taken to read an unknown voltage } V_X \\text{ is 0.2 sec. Find } V_X \\end{array}",
     "options": [
       "\\text{2.1 V}",
       "\\text{10 V}",
@@ -558,7 +558,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 4,
-    "fig": "http://googleusercontent.com/file_content/2"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-110-07-FIG-Q144.png"
   },
   {
     "qno": 145,
@@ -571,7 +571,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 1,
-    "fig": "http://googleusercontent.com/file_content/4"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-018-07-FIG-Q145.png"
   },
   {
     "qno": 146,
@@ -597,7 +597,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 2,
-    "fig": "http://googleusercontent.com/file_content/6"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-103-07-FIG-Q147.png"
   },
   {
     "qno": 148,
