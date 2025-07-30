@@ -6,7 +6,8 @@
       "\\text{A synchronous motor with capacitor connected across stator terminals to improve PF}",
       "\\text{A synchronous motor operating at full load with leading PF}",
       "\\text{An over excited synchronous motor partially supplying mechanical load and also improving PF of the system to which it is connected}",
-      "\\text{An over excited synchronous motor operating at no load with leading PF to improve the PF of the system}"
+      "\\text{An over excited synchronous motor operating at no load with leading PF to improve the PF of the system}",
+      "\\text{Answer not known}"
     ],
     "ans": 4,
     "fig": ""
@@ -31,7 +32,8 @@
       "\\text{Width of the pole pitch}",
       "\\text{No. of poles}",
       "\\text{Supply frequency}",
-      "\\text{Both (A) and (C)}"
+      "\\text{Both (A) and (C)}",
+      "\\text{Answer not known}"
     ],
     "ans": 4,
     "fig": ""
@@ -82,7 +84,8 @@
       "\\text{the value of the actuating quantity above which the relay operates}",
       "\\text{the value of the actuating quantity below which the relay opens its contact and comes to original position}",
       "\\text{the value of the actuating quantity when the fault clears}",
-      "\\text{the time between the actuating quantity exceeds pick up value to the instant the relay closes}"
+      "\\text{the time between the actuating quantity exceeds pick up value to the instant the relay closes}",
+      "\\text{Answer not known}"
     ],
     "ans": 2,
     "fig": ""
