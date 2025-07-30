@@ -639,21 +639,21 @@
     "fig": ""
   },
   {
-    "qno": 151,
-    "qdes": "\\begin{array}{l} \\text{DC to DC convertor as shown in fig. a battery of 25V is connected and the input current is 4A.} \\\\ \\text{At the output side, a voltmeter shows 50V across the load end the output current is 1.8A. Find the power lost in the converter due to losses.} \\end{array}",
+    "qno": 152,
+    "qdes": "\\begin{array}{l} \\text{A DC shunt motor takes a current of 80A on a 480V supply and runs at 960 RPM the armature resistance is 0.25 $\\Omega$.} \\\\ \\text{and the field resistance is 120 $\\Omega$. A chopper is used to control the speed of the motor at 400 RPM having constant torque. The on -period of the chopper is 3 ms. The field is supplied directly from 480V supply. Determine the frequency of the chopper} \\end{array}",
     "options": [
-      "25 W",
-      "10 W",
-      "20 W",
-      "15 W",
+      "95.12 Hz",
+      "102.48 Hz",
+      "146.44 Hz",
+      "130.05 Hz",
       "\\text{Answer not known}"
     ],
-    "ans": 2,
-    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-005-08-FIG.png"
+    "ans": 3,
+    "fig": ""
   },
   {
     "qno": 152,
-    "qdes": "\\text{A DC shunt motor takes a current of 80A on a 480V supply and runs at 960 RPM the armature resistance is 0.25 $\\Omega$. and the field resistance is 120 $\\Omega$. A chopper is used to control the speed of the motor at 400 RPM having constant torque. The on -period of the chopper is 3 ms. The field is supplied directly from 480V supply. Determine the frequency of the chopper}",
+    "qdes": "",
     "options": [
       "95.12 Hz",
       "102.48 Hz",
@@ -666,7 +666,7 @@
   },
   {
     "qno": 153,
-    "qdes": "\\text{The supply voltage of a Dc chopper is 220 V it delivers a load of 88 V. If the chopper is operating with 1 kHz frequency, the non-conduction period of the switch is}",
+    "qdes": "\\begin{array}{l} \\text{The supply voltage of a Dc chopper is 220 V it delivers a load of 88 V.} \\\\ \\text{If the chopper is operating with 1 kHz frequency, the non-conduction period of the switch is} \\end{array}",
     "options": [
       "200\\,\\mu s",
       "400\\,\\mu s",
@@ -679,7 +679,7 @@
   },
   {
     "qno": 154,
-    "qdes": "\\text{A 3$\\phi$ wound rotor induction motor is connected by a chopper controlled resistance in its rotor circuit. A resistance of 2 $\\Omega$ is connected in the rotor circuit and a resistance of 4 $\\Omega$ is additionally connected during off period of the chopper (off period 4 ms). The total resistance across the diode bridge for the chopper frequency of 200 Hz is.}",
+    "qdes": "\\begin{array}{l} \\text{A 3$\\phi$ wound rotor induction motor is connected by a chopper controlled resistance in its rotor circuit.} \\\\ \\text{A resistance of 2 $\\Omega$ is connected in the rotor circuit and a resistance of 4 $\\Omega$ is additionally connected during off period of the chopper (off period 4 ms). The total resistance across the diode bridge for the chopper frequency of 200 Hz is.} \\end{array}",
     "options": [
       "\\dfrac{26}{5}",
       "\\dfrac{24}{5}",
@@ -692,7 +692,7 @@
   },
   {
     "qno": 155,
-    "qdes": "\\text{Stator voltage control results in good efficiency for one of the loads given below \\newline T = Torque \\newline $\\omega$ = Speed}",
+    "qdes": "\\begin{array}{l} \\text{Stator voltage control results in good efficiency for one of the loads given below} \\\\ \\text{T = Torque  $\\omega$ = Speed} \\end{array}",
     "options": [
       "T \\propto \\omega^2",
       "T = Constant",
@@ -809,7 +809,7 @@
   },
   {
     "qno": 164,
-    "qdes": "\\text{A single phase transformer, with secondary voltage of 230 V, 50 Hz, delivers power to load R = 10$\\Omega$ \\newline through a half wave controlled rectifier circuit, for a firing angle delay of 60$^\\circ$, determine average O/P current.}",
+    "qdes": "\\begin{array}{l} \\text{A single phase transformer, with secondary voltage of 230 V, 50 Hz, delivers power to load R = 10$\\Omega$} \\\\ \\text{through a half wave controlled rectifier circuit, for a firing angle delay of 60$^\\circ$, determine average O/P current.} \\end{array}",
     "options": [
       "77.64 A",
       "7.764 A",
@@ -847,12 +847,12 @@
   },
   {
     "qno": 167,
-    "qdes": "\\text{A memory mapped I/O device has an address of OOFOH. Which of the following 8085 instruction outputs the content of the accumulator \\newline to the I/O Device?}",
+    "qdes": "\\begin{array}{l} \\text{A memory mapped I/O device has an address of OOFOH. Which of the following 8085 instruction outputs the content of the accumulator} \\\\ \\text{to the I/O Device?} \\end{array}",
     "options": [
-      "\\text{LXI H,OOFOH \\newline MOV M,A}",
-      "\\text{LXI H,OOFOH \\newline OUTM}",
-      "\\text{LXIH, OOFOH \\newline OUT FOH}",
-      "\\text{LXIH, OOFOH \\newline MOVA, M}",
+      "\\begin{array}{l} \\text{LXI H,OOFOH} \\\\ \\text{MOV M,A} \\end{array}",
+      "\\begin{array}{l} \\text{LXI H,OOFOH} \\\\ \\text{OUTM} \\end{array}",
+      "\\begin{array}{l} \\text{LXIH, OOFOH} \\\\ \\text{OUT FOH} \\end{array}",
+      "\\begin{array}{l} \\text{LXIH, OOFOH} \\\\ \\text{MOVA, M} \\end{array}",
       "\\text{Answer not known}"
     ],
     "ans": 2,
@@ -865,7 +865,8 @@
       "\\text{jump to location X if the LSB of accumulator is HIGH}",
       "\\text{jump to location X if the LSB of accumulator is HIGH and also clears the LSB of accumulator}",
       "\\text{jump to location X if the LSB of accumulator is LOW}",
-      "\\text{jump to location X if the LSB of accumulator is LOW and also sets the LSB of accumulator}"
+      "\\text{jump to location X if the LSB of accumulator is LOW and also sets the LSB of accumulator}",
+      "\\text{Answer not known}"
     ],
     "ans": 2,
     "fig": ""
@@ -885,7 +886,7 @@
   },
   {
     "qno": 170,
-    "qdes": "\\text{A single phase half wave rectifier is connected to a 240V supply. The load resistance R=10$\\Omega$, L=0.5mH and firing angle $\\alpha$=30. \\newline Find the average output voltage.}",
+    "qdes": "\\begin{array}{l} \\text{A single phase half wave rectifier is connected to a 240V supply. The load resistance R=10$\\Omega$, L=0.5mH and firing angle $\\alpha$=30} \\\\ \\text{Find the average output voltage.} \\end{array}",
     "options": [
       "50 V",
       "100 V",
