@@ -116,7 +116,7 @@
         "ans": 3,
         "fig": ""
     },
-    {
+     {
         "qno": 10,
         "qdes": "\\text{In a series RLC circuit, if C is increased, what happens to resonant frequency?}",
         "options": [
@@ -144,7 +144,7 @@
     },
     {
         "qno": 12,
-        "qdes": "\\text{In the following figure the switch K is kept first at position 1 and steady state condition is reached. At }t = 0\\text{ the switch is moved to position 2. The current in both cases are}",
+        "qdes": "\\array{begin}{l}\\text{In the following figure the switch K is kept first at position 1 and steady state condition is reached.} \\\\ \\text{ At }t = 0\\text{ the switch is moved to position 2. The current in both cases are}\\end{array}",
         "options": [
             "\\text{10 A and 10 }e^{-40t}",
             "\\text{3.33 A and 3.33 }e^{-20t}",
@@ -196,7 +196,7 @@
     },
     {
         "qno": 16,
-        "qdes": "\\text{A three phase squirrel cage induction motor is developing torque of 1500 sync. watts at 50 Hz and 1440 rpm (synchronous speed is 1500 rpm). If the motor frequency is now increased to 75 Hz using constant power mode, determine the new value of torque developed by motor at constant slip}",
+        "qdes": "\\array{begin}{l}\\text{A three phase squirrel cage induction motor is developing torque of 1500 sync. watts at 50 Hz and 1440 rpm (synchronous speed is 1500 rpm).} \\\\ \\text{ If the motor frequency is now increased to 75 Hz using constant power mode, determine the new value of torque developed by motor at constant slip}\\end{array}",
         "options": [
             "\\text{750 sync. watts}",
             "\\text{900 sync. watts}",
@@ -292,7 +292,7 @@
             "\\text{A = D}",
             "\\text{AD - BC = 1}",
             "\\text{AD + BC = 1}",
-            "\\text{$\\\\Delta$ h = 1}",
+            "\\text{$\\Delta$ h = 1}",
             "\\text{Answer not known}"
         ],
         "ans": 2,
@@ -313,7 +313,7 @@
     },
     {
         "qno": 25,
-        "qdes": "\\text{1$\\phi$, 220 V, 1 KW heater is connected to half wave controlled rectifier and is fed from a 220 V, 50 Hz ac supply. When the firing angle }\\alpha = 90^\\circ\\text{, the power absorbed by the heater will be nearly}",
+        "qdes": "\\array{begin}{l}\\text{1$\\phi$, 220 V, 1 KW heater is connected to half wave controlled rectifier and is fed from a 220 V, 50 Hz ac supply.} \\\\ \\text{ When the firing angle }\\alpha = 90^\\circ\\text{, the power absorbed by the heater will be nearly}\\end{array}",
         "options": [
             "\\text{1000 W}",
             "\\text{750 W}",
@@ -326,7 +326,7 @@
     },
     {
         "qno": 26,
-        "qdes": "\\text{Statement A : Magnetic current consists of entirely a displacement component and no conductance component. Statement B : Magnetic flux lines are always continuous}",
+        "qdes": "\\array{begin}{l}\\text{Statement A : Magnetic current consists of entirely a displacement component and no conductance component.} \\\\ \\text{ Statement B : Magnetic flux lines are always continuous}\\end{array}",
         "options": [
             "\\text{Both Statement A, Statement B are correct. Statement B is correct explanation of Statement A}",
             "\\text{Both Statements are correct. But Statement B is not correct explanation of A}",
@@ -352,7 +352,7 @@
     },
     {
         "qno": 28,
-        "qdes": "\\text{Match List I with List II and select the correct answer using the codes given below the lists. List I (Law / Quantity) (a) Gauss's Law (b) Ampere's law (c) Faraday's law (d) Poynting vector List II (Mathematical expression) 1. }\\nabla \\cdot \\overline{D} = \\rho\\text{ 2. }\\nabla \\times \\overline{E} = -\\frac{\\partial \\overline{B}}{\\partial t}\\text{ 3. }\\overline{S} = \\overline{E} \\times \\overline{H}\\text{ 4. }\\nabla \\times \\overline{H} = \\overline{J}_c + \\frac{\\partial \\overline{D}}{\\partial t}\\text{ 5. }\\overline{F} = q (\\overline{E} + \\overline{V} \\times \\overline{B})\\text{ Codes :}",
+        "qdes": "\\array{begin}{l}\\text{Match List I with List II and select the correct answer using the codes given below the lists.} \\\\ \\text{ List I (Law / Quantity) (a) Gauss's Law (b) Ampere's law (c) Faraday's law (d) Poynting vector List II (Mathematical expression) 1. }\\nabla \\cdot \\overline{D} = \\rho\\text{ 2. }\\nabla \\times \\overline{E} = -\\frac{\\partial \\overline{B}}{\\partial t}\\text{ 3. }\\overline{S} = \\overline{E} \\times \\overline{H}\\text{ 4. }\\nabla \\times \\overline{H} = \\overline{J}_c + \\frac{\\partial \\overline{D}}{\\partial t}\\text{ 5. }\\overline{F} = q (\\overline{E} + \\overline{V} \\times \\overline{B})\\text{ Codes :}\\end{array}",
         "options": [
             "\\text{(a) 1 (b) 2 (c) 4 (d) 3}",
             "\\text{(a) 3 (b) 5 (c) 2 (d) 1}",
@@ -365,7 +365,7 @@
     },
     {
         "qno": 29,
-        "qdes": "\\text{A circuit has 1000 turns enclosing a magnetic circuit 20 }cm^2\\text{ in section. With 4A, the flux density is 1.0 Wb/}m^2\\text{ and with 9 A, it is 1.4 Wb/}m^2\\text{. The mean value of the inductance between these current limits is}",
+        "qdes": "\\array{begin}{l}\\text{A circuit has 1000 turns enclosing a magnetic circuit 20 }cm^2\\text{ in section.} \\\\ \\text{ With 4A, the flux density is 1.0 Wb/}m^2\\text{ and with 9 A, it is 1.4 Wb/}m^2\\text{. The mean value of the inductance between these current limits is}\\end{array}",
         "options": [
             "\\text{1600 H}",
             "\\text{160 H}",
@@ -421,7 +421,7 @@
         "options": [
             "\\text{> 5}",
             "\\text{$\\ge$ 5}",
-            "\\text{$\\\\le$ 5}",
+            "\\text{$\\le$ 5}",
             "\\text{< 5}",
             "\\text{Answer not known}"
         ],
@@ -495,7 +495,7 @@
     },
     {
         "qno": 39,
-        "qdes": "\\text{A wire of length }L\\text{ is bent in the form of circular loop and current is passed through the loop. The magnetic field induction at the centre of the loop is }B\\text{. Find the current passing through the loop}",
+        "qdes": "\\array{begin}{l}\\text{A wire of length }L\\text{ is bent in the form of circular loop and current is passed through the loop.} \\\\ \\text{ The magnetic field induction at the centre of the loop is }B\\text{. Find the current passing through the loop}\\end{array}",
         "options": [
             "$\\frac{B\\pi L}{\\mu_0}$",
             "$\\frac{BL}{\\pi \\mu_0}$",
@@ -599,7 +599,7 @@
     },
     {
         "qno": 47,
-        "qdes": "\\text{A separately excited dc motor is fed from a 500 V dc source through a one quadrant chopper. } R_a = 0.1\\Omega \\text{ and armature current is 200 A. The voltage and torque constant are 1.4 V/A - rad/sec and 1.4 N-M/A}^2. \\text{ The field current is 2 A. The duty cycle of chopper is 0.5. Find the speed of the motor.}",
+        "qdes": "\\array{begin}{l} \\text{A separately excited dc motor is fed from a 500 V dc source through a one quadrant chopper. } R_a = 0.1\\Omega \\text{ and armature current is} \\\\ \\text{ 200 A. The voltage and torque constant are 1.4 V/A - rad/sec and 1.4 N-M/A}^2. \\text{ The field current is 2 A. The duty cycle of chopper is 0.5. Find the speed of the motor.} \\end{array}",
         "options": [
             "\\text{770.20 rpm}",
             "\\text{774.62 rpm}",
