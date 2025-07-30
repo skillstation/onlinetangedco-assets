@@ -352,7 +352,7 @@
     },
     {
         "qno": 28,
-        "qdes": "\\begin{array}{l}\\text{Match List I with List II and select the correct answer using the codes given below the lists.} \\\\ \\text{ List I (Law / Quantity) (a) Gauss's Law (b) Ampere's law (c) Faraday's law (d) Poynting vector List II (Mathematical expression) 1. }\\nabla \\cdot \\overline{D} = \\rho\\text{ 2. }\\nabla \\times \\overline{E} = -\\frac{\\partial \\overline{B}}{\\partial t}\\text{ 3. }\\overline{S} = \\overline{E} \\times \\overline{H}\\text{ 4. }\\nabla \\times \\overline{H} = \\overline{J}_c + \\frac{\\partial \\overline{D}}{\\partial t}\\text{ 5. }\\overline{F} = q (\\overline{E} + \\overline{V} \\times \\overline{B})\\text{ Codes :}\\end{array}",
+        "qdes": "\\begin{array}{l}\\text{Match List I with List II and select the correct answer using the codes given below the lists.} \\\\ \\text{ List I (Law / Quantity) (a) Gauss's Law (b) Ampere's law (c) Faraday's law (d) Poynting vector} \\\\ \\text{List II (Mathematical expression) 1. }\\nabla \\cdot \\overline{D} = \\rho\\text{ 2. }\\nabla \\times \\overline{E} = -\\frac{\\partial \\overline{B}}{\\partial t}\\text{ 3. }\\overline{S} = \\overline{E} \\times \\overline{H}\\text{ 4. }\\nabla \\times \\overline{H} = \\overline{J}_c + \\frac{\\partial \\overline{D}}{\\partial t}\\text{ 5. }\\overline{F} = q (\\overline{E} + \\overline{V} \\times \\overline{B})\\text{ Codes :}\\end{array}",
         "options": [
             "\\text{(a) 1 (b) 2 (c) 4 (d) 3}",
             "\\text{(a) 3 (b) 5 (c) 2 (d) 1}",
@@ -599,7 +599,7 @@
     },
     {
         "qno": 47,
-        "qdes": "\\begin{array}{l} \\text{A separately excited dc motor is fed from a 500 V dc source through a one quadrant chopper. } R_a = 0.1\\Omega \\text{ and armature current is} \\\\ \\text{ 200 A. The voltage and torque constant are 1.4 V/A - rad/sec and 1.4 N-M/A}^2. \\text{ The field current is 2 A. The duty cycle of chopper is 0.5. Find the speed of the motor.} \\end{array}",
+        "qdes": "\\begin{array}{l} \\text{A separately excited dc motor is fed from a 500 V dc source through a one quadrant chopper. } R_a = 0.1\\Omega \\text{ and armature current is} \\\\ \\text{ 200 A. The voltage and torque constant are 1.4 V/A - rad/sec and 1.4 N-M/A}^2. \\text{ The field current is 2 A.} \\text{The duty cycle of chopper is 0.5. Find the speed of the motor.} \\end{array}",
         "options": [
             "\\text{770.20 rpm}",
             "\\text{774.62 rpm}",
@@ -647,6 +647,604 @@
             "\\text{Answer not known}"
         ],
         "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 51,
+        "qdes": "\\text{The static error band of an instrument implies the}",
+        "options": [
+            "\\text{Accuracy of an instrument}",
+            "\\text{Irrepeatability of an instrument}",
+            "\\text{Error caused when the pen is stopped at some deflection}",
+            "\\text{Error introduced in low varying inputs}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 52,
+        "qdes": "\\text{Major cause of creeping in a energy meter is due to}",
+        "options": [
+            "\\text{Vibrations}",
+            "\\text{Overcompensation for friction}",
+            "\\text{Excessive voltage across the potential coil}",
+            "\\text{Stray magnetic field}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 53,
+        "qdes": "\\begin{array}{l}\\text{When measuring low resistance using Kelvin double bridge, two sets of readings are taken,} \\\\ \\text{ one with the current in one direction and the other with current reversed. This is done to}\\end{array}",
+        "options": [
+            "\\text{correct for changes in battery voltage}",
+            "\\text{eliminate the effect of contact resistance}",
+            "\\text{eliminate the effect of resistance of leads}",
+            "\\text{eliminate the effect of thermo-electric emfs}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 54,
+        "qdes": "\\begin{array}{l}\\text{In the measurement of power on balanced load by two-wattmeter method in a 3-phase circuit,} \\\\ \\text{ the readings of the watt meters are 3KW and 1KW respectively, the latter being obtained after reversing the connections of the current coil. The power factor of the load is}\\end{array}",
+        "options": [
+            "0.277",
+            "0.554",
+            "0.625",
+            "0.866",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 55,
+        "qdes": "\\text{The damping force acts on the moving system of an indicating instrument only when it is}",
+        "options": [
+            "\\text{moving}",
+            "\\text{stationary}",
+            "\\text{near its full deflection}",
+            "\\text{just starting to move}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 56,
+        "qdes": "\\text{To reduce temperature error in shunted ammeter, swamping resistance is connected --------------. }",
+        "options": [
+            "\\text{in series with the shunt}",
+            "\\text{in parallel with the shunt}",
+            "\\text{in series with the meter}",
+            "\\text{in between shunt and the meter}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 57,
+        "qdes": "\\begin{array}{l}\\text{A step input of 5 A is applied to an ammeter. The pointer swings to a voltage of 5.18 A} \\\\ \\text{ and finally comes to rest at 5.02 A. Determine the percentage error in the instrument.}\\end{array}",
+        "options": [
+            "0.2 %",
+            "0.3 %",
+            "0.4 %",
+            "0.5 %",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 58,
+        "qdes": "\\text{Which one of the following devices can measure pressure directly?}",
+        "options": [
+            "\\text{LVDT}",
+            "\\text{Strain gauge}",
+            "\\text{Rotameter}",
+            "\\text{Bourden Tube}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 59,
+        "qdes": "\\begin{array}{l}\\text{The threshold of an instrument is normally defined} \\\\ \\text{As the smallest measurable input change (non-zero value) which can be detected}\\end{array}",
+        "options": [
+            "\\text{As the smallest measurable input change (non-zero value) which can be detected}",
+            "\\text{As the smallest measurable input input which can be detected}",
+            "\\text{In terms of linearity of scale}",
+            "\\text{As a function of drift}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 60,
+        "qdes": "\\begin{array}{l}\\text{A moving coil instrument gives a full scale deflection with a current of 40}\\text{ }\\mu\\text{A, while the internal resistance of the meter is 500}\\text{ }\\Omega\\text{.} \\\\ \\text{It is to be used as a voltmeter to measure a voltage range of (0-10)V. Calculate the multiplier resistance needed.}\\end{array}",
+        "options": [
+            "0.249 k \\Omega",
+            "24.9 k \\Omega",
+            "249.5 k \\Omega",
+            "2.49 k \\Omega",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 61,
+        "qdes": "\\text{Pressure error can be measured by}",
+        "options": [
+            "\\text{Differential bellows and strain gauge}",
+            "\\text{Selsyn}",
+            "\\text{Strain gauge}",
+            "\\text{Strain gauge and potentiometer}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 62,
+        "qdes": "\\text{The transfer function } \\frac{V_2(s)}{V_1(s)} \\text{ of the circuit shown below is}",
+        "options": [
+            "\\frac{2 + RCs}{RCs}",
+            "\\frac{1 + RCs}{2 + RCs}",
+            "\\frac{1 + RCs}{RCs}",
+            "\\frac{2 + RCs}{1 + RCs}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": "image_391409.png"
+    },
+    {
+        "qno": 63,
+        "qdes": "\\text{The work done by the force } F = 4a_x - 3a_y + 2a_z \\text{ N in giving a 1nc charge a displacement of 10 } a_x + 2a_y - 7a_z \\text{ m is}",
+        "options": [
+            "103 nJ",
+            "60 nJ",
+            "64 nJ",
+            "20 nJ",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 64,
+        "qdes": "\\begin{array}{l}\\text{In a a.c bridge opposite arms } Z_b \\text{ and } Z_c \\text{ are } 300 \\angle -90^{\\circ} \\text{ and } 200 \\angle 0^{\\circ} \\text{ respectively.} \\\\ \\text{The other arm } Z_a \\text{ is given as } 100 \\angle +50^{\\circ} . \\text{ For balanced condition } Z_d \\text{ will be}\\end{array}",
+        "options": [
+            "600 \\angle -40^{\\circ}",
+            "600 \\angle 140^{\\circ}",
+            "600 \\angle -140^{\\circ}",
+            "150 \\angle 14^{\\circ}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 65,
+        "qdes": "\\begin{array}{l}\\text{A } 250 \\, \\mu A \\text{ ammeter has an internal resistance of } 150 \\, \\Omega. \\\\ \\text{ For extending its range to measure } 1000 \\, \\mu A. \\text{ The shunt resistance required is}\\end{array}",
+        "options": [
+            "25 \\, \\Omega",
+            "50 \\, \\Omega",
+            "55 \\, \\Omega",
+            "30 \\, \\Omega",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 66,
+        "qdes": "\\text{PID controllers are tuned based on the frequency response of the closed loop system by}",
+        "options": [
+            "\\text{Using the open loop gain corresponding to the marginal stability}",
+            "\\text{Using the maximum amplitude of response}",
+            "\\text{Using maximum value of phase}",
+            "\\text{Using minimum value of phase}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 67,
+        "qdes": "\\text{A unity feedback system having } G(S)=\\frac{16}{S(S+8)} \\text{ is ---------- system.}",
+        "options": [
+            "\\text{Critically damped}",
+            "\\text{Over damped}",
+            "\\text{Under damped}",
+            "\\text{Undamped}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 68,
+        "qdes": "\\text{A good control system has all the following features except}",
+        "options": [
+            "\\text{good stability}",
+            "\\text{slow response}",
+            "\\text{good accuracy}",
+            "\\text{sufficient power handling capacity}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 69,
+        "qdes": "\\text{For the equation } S^3 - 4S^2 + S + 6 = 0. \\text{ The number of roots in left half of S-plane will be}",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 70,
+        "qdes": "\\begin{array}{l}\\text{In a block diagram representation} \\\\ \\text{Output is the product of input and transfer function where all of them are in laplace domain}\\end{array}",
+        "options": [
+            "\\text{Output is the product of input and transfer function where all of them are in laplace domain}",
+            "\\text{Output is the ratio of input and transfer function where all of them are in laplace domain}",
+            "\\text{Output is the product of input and transfer function where all of them are in time domain}",
+            "\\text{Output is the ratio of input and transfer function where all of them are in time domain}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 71,
+        "qdes": "\\text{The mass element can be expressed as}",
+        "options": [
+            "F = M\\frac{d^2x}{dt^2}",
+            "F = f(v_1 - x_1)",
+            "F = K\\int_{-a}^{t} u dt",
+            "F = 0",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": "image_398844.png"
+    },
+    {
+        "qno": 72,
+        "qdes": "\\text{In a stable control system, saturation can cause}",
+        "options": [
+            "\\text{low-level oscillations}",
+            "\\text{high- level oscillations}",
+            "\\text{conditional stability}",
+            "\\text{over damping}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 73,
+        "qdes": "\\begin{array}{l}\\text{The characteristic polynomial and the poles of a system with the transfer function,} \\\\ G(S)=\\frac{4(S+2)}{(S+3)(S+4)} \\text{ is}\\end{array}",
+        "options": [
+            "4S + 8 \\text{ and } -3 \\text{ and } -4",
+            "S^2 + 7S + 12 = 0 \\text{ and } -2, -3 \\text{ and } -4",
+            "4S + 8 \\text{ and } -2",
+            "S^2 + 7S + 12 = 0 \\text{ and } -3 \\text{ and } -4",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 74,
+        "qdes": "\\text{Signal flow graph is used to obtain the}",
+        "options": [
+            "\\text{Observability of a system}",
+            "\\text{Controllability of a system}",
+            "\\text{Transfer function of a system}",
+            "\\text{Stability of a system}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 75,
+        "qdes": "\\text{The transfer function of a system is given as } \\frac{25}{S^2 + 2S + 25}. \\text{ The system is}",
+        "options": [
+            "\\text{A critically damped system}",
+            "\\text{An unstable system}",
+            "\\text{An over damped system}",
+            "\\text{An under damped system}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 76,
+        "qdes": "\\begin{array}{l}\\text{If the lower cut-off frequency is 2400 Hz and the upper cut-off frequency is 2800 Hz,} \\\\ \\text{ then the bandwidth will be}\\end{array}",
+        "options": [
+            "2400 Hz",
+            "5200 Hz",
+            "400 Hz",
+            "2800 Hz",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 77,
+        "qdes": "\\begin{array}{l}\\text{A negative feedback closed loop system is supplied with an input of 10 V. The system has} \\\\ \\text{ forward gain of 1 and a feedback gain of 1. The output voltage is,}\\end{array}",
+        "options": [
+            "2.5 V",
+            "5 V",
+            "10 V",
+            "20 V",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 78,
+        "qdes": "\\begin{array}{l}\\text{The signal flow graph for a system is given below. The transfer function } \\frac{Y(s)}{U(s)} \\text{ for this system is}\\end{array}",
+        "options": [
+            "\\frac{s+1}{5s^2 + 6s + 2}",
+            "\\frac{s+1}{s^2 + 6s + 2}",
+            "\\frac{s+1}{s^2 + 4s + 2}",
+            "\\frac{1}{5s^2 + 6s + 2}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": "image_39f506.png"
+    },
+    {
+        "qno": 79,
+        "qdes": "\\begin{array}{l}\\text{The open loop transfer function of a feedback system is } G(S)H(S) = \\frac{K}{S(S+4)(S^2 + 4S + 20)}. \\\\ \\text{ Find the centroid of the given system.}\\end{array}",
+        "options": [
+            "-2",
+            "-3",
+            "-4",
+            "-1",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 80,
+        "qdes": "\\text{A control system working under unknown random actions is called}",
+        "options": [
+            "\\text{Computer control system}",
+            "\\text{Digital data system}",
+            "\\text{Stochastic control system}",
+            "\\text{Adaptive control system}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 81,
+        "qdes": "\\begin{array}{l}\\text{A 10 kW, 250 V dc, 6 pole shunt generator runs at 1000 rpm. When delivering full load. The armature has 534 lap connected conductors.} \\\\ \\text{Full load } C_v \\text{ loss is 0.64 kW. The total brush drop is 1 Volt. Determine the flux per pole. Neglect shunt current.}\\end{array}",
+        "options": [
+            "30 mWb",
+            "90 mWb",
+            "0.3 mWb",
+            "0.9 mWb",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 82,
+        "qdes": "\\begin{array}{l}\\text{Two transformers A and B having equal outputs and voltage ratios but unequal percentage impedances of 4 and 2} \\\\ \\text{ are operating in parallel. Transformer A will be running over-load by -------------- percent.}\\end{array}",
+        "options": [
+            "50",
+            "66",
+            "33",
+            "25",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 83,
+        "qdes": "\\text{It is possible to design a station so that the faults that develop are mostly earth – faults.}",
+        "options": [
+            "\\text{Differential protection}",
+            "\\text{Distance protection}",
+            "\\text{Fault bus protection}",
+            "\\text{Over current protection}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 84,
+        "qdes": "\\text{The use of higher flux density in the transformer design}",
+        "options": [
+            "\\text{reduces the weight per KVA}",
+            "\\text{increases the weight per KVA}",
+            "\\text{has no relation with the weight of transformer}",
+            "\\text{increases the weight per kW}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 86,
+        "qdes": "\\begin{array}{l}\\text{The residual magnetism of a self excited dc generator is lost. To build up its emf again the} \\\\ \\text{field winding must be excited by low voltage dc supply}\\end{array}",
+        "options": [
+            "\\text{field winding must be replaced}",
+            "\\text{armature connection must be reversed}",
+            "\\text{field winding connections must be reversed}",
+            "\\text{field winding must be excited by low voltage dc supply}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 88,
+        "qdes": "\\text{The direction of rotation of a DC compound motor can be reversed by interchanging ———— connections.}",
+        "options": [
+            "\\text{Armature}",
+            "\\text{Series field}",
+            "\\text{Shunt field}",
+            "\\text{Armature and Series field both}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 90,
+        "qdes": "\\begin{array}{l}\\text{A 4 pole lap wound d.c. shunt motor has 60 armature slots and each slot contains 20 conductors.} \\\\ \\text{ If the armature current is 50 A and flux per pole is } 23 \\times 10^{-3} \\text{ Wb, determine the gross torque in N-m. Assume armature reaction reduces the flux by 5\\%}\\end{array}",
+        "options": [
+            "417 Nm",
+            "644 Nm",
+            "208.5 Nm",
+            "834 Nm",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 91,
+        "qdes": "\\begin{array}{l}\\text{A, 10 pole 25 Hz alternator is directly coupled to and is driven by 60 Hz synchronous motor.} \\\\ \\text{Then the number of poles in a synchronous motor are}\\end{array}",
+        "options": [
+            "\\text{12 poles}",
+            "\\text{48 poles}",
+            "\\text{24 poles}",
+            "\\text{6 poles}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 92,
+        "qdes": "\\text{The steady state error resulting from input } r(t) = 2 + 3t + 4t^2 \\text{ for given system is}",
+        "options": [
+            "2.4",
+            "4.0",
+            "\\text{Zero}",
+            "3.2",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": "image_3a8105.png"
+    },
+    {
+        "qno": 93,
+        "qdes": "\\text{When a 400-Hz transformer is operated at 50 Hz its KVA rating is}",
+        "options": [
+            "\\text{reduced to 1/8}",
+            "\\text{increased 8 times}",
+            "\\text{unaffected}",
+            "\\text{increased 64 times}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 94,
+        "qdes": "\\text{Find the step angle of a variable reluctance stepper motor with 12 teeth in the stator and 8 rotor teeth}",
+        "options": [
+            "15\\text{/step}",
+            "4\\text{/step}",
+            "24\\text{/step}",
+            "20\\text{/step}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 95,
+        "qdes": "\\text{In a generating synchronous machine carrying load}",
+        "options": [
+            "E_f \\text{ leads } V_t \\text{ by an angle } \\delta",
+            "E_f \\text{ lays } V_t \\text{ by an angle } \\delta",
+            "E_f \\text{ and } V_t \\text{ are in phase}",
+            "E_f \\text{ and } V_t \\text{ are in phase opposition}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 97,
+        "qdes": "\\begin{array}{l}\\text{A 500 KVA transformer has constant losses of 500 W and copper losses at full load are 2000 W.} \\\\ \\text{Then at what load, is the efficiency maximum?}\\end{array}",
+        "options": [
+            "250 KVA",
+            "500 KVA",
+            "1000 KVA",
+            "125 KVA",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 98,
+        "qdes": "\\text{The equivalent resistance of the primary of a transformer having K = 5 and } R_1 = 0.1 \\omega \\text{ when referred to secondary becomes ———— ohms}",
+        "options": [
+            "0.5",
+            "0.02",
+            "0.004",
+            "2.5",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 99,
+        "qdes": "\\text{Consider a 12 V battery with a charge capacity of 150 Ah. Find the amount of current given by battery if it is discharged in 5 hours.}",
+        "options": [
+            "36 A",
+            "30 A",
+            "180 A",
+            "18.75 A",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 100,
+        "qdes": "\\text{The device which converts alternating current into direct current in a dc machine is}",
+        "options": [
+            "\\text{poles}",
+            "\\text{brushes}",
+            "\\text{armature winding}",
+            "\\text{commutator}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
         "fig": ""
     }
 ]
