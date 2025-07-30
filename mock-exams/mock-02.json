@@ -1143,5 +1143,132 @@
     ],
     "ans": 3,
     "fig": ""
+  },
+  {
+    "qno": 191,
+    "qdes": "\\text{The operating temperature of Molten Carbonate Fuel Cells (MCFCs) is around}",
+    "options": [
+      "650$^\\circ$C",
+      "750$^\\circ$C",
+      "850$^\\circ$C",
+      "950$^\\circ$C",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 192,
+    "qdes": "\\text{At solar noon, the hour angle is}",
+    "options": [
+      "\\text{Zero degrees}",
+      "-90$^\\circ$",
+      "+90$^\\circ$",
+      "+180$^\\circ$",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 193,
+    "qdes": "\\text{The cut-out speed of a wind turbine is from}",
+    "options": [
+      "25 m/s to 40 m/s",
+      "30 m/s to 60 m/s",
+      "40 m/s to 60 m/s",
+      "40 m/s to 80 m/s"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 194,
+    "qdes": "\\text{The ion exchange membrane in fuel cell is permeable to}",
+    "options": [
+      "\\text{all gases}",
+      "\\text{oxygen ions}",
+      "\\text{hydrogen ions}",
+      "\\text{both oxygen and hydrogen ions}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 195,
+    "qdes": "\\begin{array}{l} \\text{For proper operation of a fuel cell, the operating point is set in} \\\\ \\text{\\text{----------} of the VI characteristics.} \\end{array}",
+    "options": [
+      "\\text{high load region}",
+      "\\text{low load region}",
+      "\\text{middle, near flat region}",
+      "\\text{any region, irrespective of load}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 196,
+    "qdes": "\\text{Gauss law relates the electric field intensity E with volume charge density $\\rho$ at point as}",
+    "options": [
+      "$\\nabla \\times E = \\epsilon_0 \\rho$",
+      "$\\nabla \\cdot E = \\dfrac{\\rho}{\\epsilon_0}$",
+      "$\\nabla \\times E = \\dfrac{\\rho}{\\epsilon_0}$",
+      "$\\nabla \\cdot E = \\epsilon_0 \\rho$",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 197,
+    "qdes": "\\text{The theoretical conversion efficiency of hydrogen - oxygen fuel cell at 25$^\\circ$ C is}",
+    "options": [
+      "56\\%",
+      "17\\%",
+      "75\\%",
+      "83\\%"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 198,
+    "qdes": "\\text{The simplest method of hydrogen production is}",
+    "options": [
+      "\\text{Biophotosynthesis}",
+      "\\text{Electrolysis of water}",
+      "\\text{Steam reforming of Methane}",
+      "\\text{Thermolysis of water}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 199,
+    "qdes": "\\text{Freshel's equations relate}",
+    "options": [
+      "\\text{The magnitude of incident waves and power generated}",
+      "\\text{The magnitude of incident, reflected and refracted waves}",
+      "\\text{The magnitude of reflected waves and temperature}",
+      "\\text{The magnitude of refracted waves and power generated}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 200,
+    "qdes": "\\text{Wind Turbines with a high number of blades have}",
+    "options": [
+      "\\text{Low tip speed ratio}",
+      "\\text{High starting torque}",
+      "\\text{Low tip speed ratio but a high starting torque}",
+      "\\text{Neither (A) nor (B)}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
   }
 ]
