@@ -137,7 +137,8 @@
       "\\text{to protect from mechanical wear and tear}",
       "\\text{to protect from moisture}",
       "\\text{to give a round shape}",
-      "\\text{to provide a steel armour around it}"
+      "\\text{to provide a steel armour around it}",
+      "\\text{Answer not known}"
     ],
     "ans": 2,
     "fig": ""
@@ -175,7 +176,8 @@
       "\\text{Three-phase and three-earth fault relays are required}",
       "\\text{Three-phase and two-earth fault relays are required}",
       "\\text{Two-phase and two-earth fault relays are required}",
-      "\\text{Two-phase and one-earth fault relays are required}"
+      "\\text{Two-phase and one-earth fault relays are required}",
+      "\\text{Answer not known}"
     ],
     "ans": 4,
     "fig": ""
@@ -252,7 +254,8 @@
       "\\text{1.5 per unit}",
       "\\text{1.2 per unit}",
       "\\text{1.0 per unit}",
-      "\\text{0.5 per unit}"
+      "\\text{0.5 per unit}",
+      "\\text{Answer not known}"
     ],
     "ans": 4,
     "fig": ""
@@ -290,7 +293,8 @@
       "\\text{high pressure and low velocity}",
       "\\text{high pressure and high velocity}",
       "\\text{low pressure and low velocity}",
-      "\\text{low pressure and high velocity}"
+      "\\text{low pressure and high velocity}",
+      "\\text{Answer not known}"
     ],
     "ans": 3,
     "fig": ""
@@ -315,7 +319,8 @@
       "\\dfrac{x_0}{x_1} > 3 \\text{ but less than that for resonant grounding}",
       "\\dfrac{x_0}{x_1} > 3",
       "\\dfrac{R_0}{x_1} > 3",
-      "\\dfrac{x_0}{x_1} > 3 \\text{ and } \\dfrac{R_0}{x_1} > 3"
+      "\\dfrac{x_0}{x_1} > 3 \\text{ and } \\dfrac{R_0}{x_1} > 3",
+      "\\text{Answer not known}"
     ],
     "ans": 1,
     "fig": ""
@@ -327,7 +332,8 @@
       "V_0 = 0\\text{ kV},\\ V_1 = 220 \\angle 0^\\circ\\text{ kV},\\ \\text{and } V_2 = 0\\text{ kV}",
       "V_0 = 220\\text{ kV},\\ V_1 = 220 \\angle 120^\\circ\\text{ kV},\\ \\text{and } V_2 = 0\\text{ kV}",
       "V_0 = 0\\text{ kV},\\ V_1 = 0\\text{ kV},\\ \\text{and } V_2 = 0\\text{ kV}",
-      "V_0 = 120 \\angle 0^\\circ\\text{ kV},\\ V_1 = 0\\text{ kV},\\ \\text{and } V_2 = 120 \\angle 0^\\circ\\text{ kV}"
+      "V_0 = 120 \\angle 0^\\circ\\text{ kV},\\ V_1 = 0\\text{ kV},\\ \\text{and } V_2 = 120 \\angle 0^\\circ\\text{ kV}",
+      "\\text{Answer not known}"
     ],
     "ans": 1,
     "fig": ""
