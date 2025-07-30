@@ -343,7 +343,145 @@
   "ans": 1,
   "fig": ""
 },
+  {
+  "qno": 28,
+  "qdes": "\\text{Point charges } 30\\,nc,\\ -20\\,nc \\text{ and } 10\\,nc \\text{ are located at } (-1,0,2),\\ (0,0,0) \\text{ and } (1,5,-1) \\text{ respectively. The total flux leaving a cube of side 6 m centered at the origin is}",
+  "options": [
+    "-20\\,nc",
+    "10\\,nc",
+    "20\\,nc",
+    "30\\,nc",
+    "Answer not known"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+  {
+  "qno": 29,
+  "qdes": "\\text{A three phase balanced inductive load draw a current of 10\\ A and consumed 6\\ KW when connected to 400\\ V supply. What is the power factor of the load?}",
+  "options": [
+    "0.866\\ lag",
+    "0.5\\ lag",
+    "0.866\\ lead",
+    "0.5\\ lead",
+    "Answer not known"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 30,
+  "qdes": "\\text{Which one of the following is true for the value of capacitance between two spheres, whose separation is very much larger than their radii } R?",
+  "options": [
+    "\\dfrac{2\\pi}{\\epsilon_0 R}",
+    "2\\pi \\epsilon_0 R",
+    "\\dfrac{2\\pi \\epsilon_0}{R}",
+    "\\dfrac{4\\pi \\epsilon_0}{R}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+  {
+  "qno": 31,
+  "qdes": "\\text{Statement A: The current in a constant inductive system does not change instantaneously.} \\\\ \\text{Statement B: In constant inductive system the flux linkage is conserved initially}",
+  "options": [
+    "\\text{Statements A and B are true Statement B is correct explanation for A}",
+    "\\text{Statements A and B are true but B is not correct explanation for A}",
+    "\\text{Statement A is true and B is false}",
+    "\\text{Statement A is false and B is true}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+  {
+  "qno": 32,
+  "qdes": "\\text{A fuel cell in order to produce electricity, burns}",
+  "options": [
+    "Chromium",
+    "Helium",
+    "Hydrogen",
+    "Nitrogen",
+    "Answer not known"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+  {
+  "qno": 33,
+  "qdes": "\\text{In 8255, the control register is addressed by the pins A1 and A0 as}",
+  "options": [
+    "00",
+    "01",
+    "10",
+    "11",
+    "Answer not known"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+  {
+  "qno": 34,
+  "qdes": "\\text{Which of the following field equation indicate that the free magnetic charges does not exist?}",
+  "options": [
+    "\\vec{H} = (1/\\mu)(\\nabla \\times \\vec{A})",
+    "\\vec{H} = \\int \\frac{Id\\vec{l} \\times \\vec{v}}{4 \\pi R^2}",
+    "\\nabla \\cdot \\vec{H} = 0",
+    "\\nabla \\times \\vec{H} = \\vec{J}",
+    "Answer not known"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+{
+  "qno": 35,
+  "qdes": "\\text{To find, } \\nabla \\cdot (\\nabla \\times \\vec{A}) = ?",
+  "options": [
+    "1",
+    "\\nabla A",
+    "0",
+    "\\nabla^2 A",
+    "Answer not known"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+  {
+  "qno": 36,
+  "qdes": "\\text{A coil of 500 turns is linked by a flux of 0.2 mWb. If the flux is reversed in 0.01 s, then the emf induced in the coil is}",
+  "options": [
+    "200\\ \\text{V}",
+    "20\\ \\text{V}",
+    "2\\ \\text{V}",
+    "0.2\\ \\text{V}",
+    "Answer not known"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+  {
+  "qno": 37,
+  "qdes": "\\text{Verify whether the vector field } \\vec{E} = YZ\\,\\vec{a}_x + XZ\\,\\vec{a}_y + XY\\,\\vec{a}_z \\text{ is both solenoidal and irrotational?} \n\\text{Assertion [A] : Solenoidal and irrotational.} \n\\text{Reason [R] : } \\nabla \\cdot \\vec{E} = 0 \\text{ and } \\nabla \\times \\vec{E} = 0.",
+  "options": [
+    "[A] \\text{ is true but [R] is false}",
+    "\\text{Both [A] and [R] are true; and [R] is the correct explanation}",
+    "[A] \\text{ is false, [R] is true}",
+    "\\text{Both [A] and [R] are true, but [R] is not the correct explanation}",
+    "Answer not known"
+  ],
+  "ans": 2,
+  "fig": ""
+},
   
+
+
+
+
+
+
+
+
+
   
   
  
