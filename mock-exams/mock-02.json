@@ -641,6 +641,19 @@
     "fig": ""
   },
   {
+  "qno": 151,
+  "qdes": "\\begin{array}{l}  \\text{DC to DC convertor as shown in fig. a battery of 25V is connected and the input current is 4A.} \\\\  \\text{At the output side, a voltmeter shows 50V across the load end the output current is 1.8A.} \\\\ \\text{Find the power lost in the converter due to losses.} \\end{array}",
+  "options": [
+    "\\text{25 W}",
+    "\\text{10 W}",
+    "\\text{20 W}",
+    "\\text{15 W}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-005-08-FIG.png"
+},
+  {
     "qno": 152,
     "qdes": "\\begin{array}{l} \\text{A DC shunt motor takes a current of 80A on a 480V supply and runs at 960 RPM the armature resistance is 0.25 $\\Omega$.} \\\\ \\text{and the field resistance is 120 $\\Omega$. A chopper is used to control the speed of the motor at 400 RPM having constant torque.} \\\\ \\text{The on -period of the chopper is 3 ms. The field is supplied directly from 480V supply. Determine the frequency of the chopper} \\end{array}",
     "options": [
