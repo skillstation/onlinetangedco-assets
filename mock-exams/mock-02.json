@@ -640,20 +640,7 @@
   },
   {
     "qno": 152,
-    "qdes": "\\begin{array}{l} \\text{A DC shunt motor takes a current of 80A on a 480V supply and runs at 960 RPM the armature resistance is 0.25 $\\Omega$.} \\\\ \\text{and the field resistance is 120 $\\Omega$. A chopper is used to control the speed of the motor at 400 RPM having constant torque. The on -period of the chopper is 3 ms. The field is supplied directly from 480V supply. Determine the frequency of the chopper} \\end{array}",
-    "options": [
-      "95.12 Hz",
-      "102.48 Hz",
-      "146.44 Hz",
-      "130.05 Hz",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 152,
-    "qdes": "",
+    "qdes": "\\begin{array}{l} \\text{A DC shunt motor takes a current of 80A on a 480V supply and runs at 960 RPM the armature resistance is 0.25 $\\Omega$.} \\\\ \\text{and the field resistance is 120 $\\Omega$. A chopper is used to control the speed of the motor at 400 RPM having constant torque.} \\\\ \\text{The on -period of the chopper is 3 ms. The field is supplied directly from 480V supply. Determine the frequency of the chopper} \\end{array}",
     "options": [
       "95.12 Hz",
       "102.48 Hz",
@@ -679,7 +666,7 @@
   },
   {
     "qno": 154,
-    "qdes": "\\begin{array}{l} \\text{A 3$\\phi$ wound rotor induction motor is connected by a chopper controlled resistance in its rotor circuit.} \\\\ \\text{A resistance of 2 $\\Omega$ is connected in the rotor circuit and a resistance of 4 $\\Omega$ is additionally connected during off period of the chopper (off period 4 ms). The total resistance across the diode bridge for the chopper frequency of 200 Hz is.} \\end{array}",
+    "qdes": "\\begin{array}{l} \\text{A 3$\\phi$ wound rotor induction motor is connected by a chopper controlled resistance in its rotor circuit.} \\\\ \\text{A resistance of 2 $\\Omega$ is connected in the rotor circuit and a resistance of 4 $\\Omega$ is additionally connected during off period of the chopper} \\\\ \\text{(off period 4 ms). The total resistance across the diode bridge for the chopper frequency of 200 Hz is.} \\end{array}",
     "options": [
       "\\dfrac{26}{5}",
       "\\dfrac{24}{5}",
@@ -1025,6 +1012,136 @@
       "\\text{Answer not known}"
     ],
     "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 181,
+    "qdes": "\\text{In a fuel cell the negative electrode is of}",
+    "options": [
+      "\\text{Carbon monoxide}",
+      "\\text{Hydrogen}",
+      "\\text{Oxygen}",
+      "\\text{Ammonia}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 182,
+    "qdes": "\\begin{array}{l} \\text{For small schemes (less than 2 kW), (12 $-$ 24V) dc generation is desirable} \\\\ \\text{where} \\end{array}",
+    "options": [
+      "\\text{All loads are close to the generator}",
+      "\\text{All loads are far away from the generator}",
+      "\\text{Only lamp loads are used}",
+      "\\text{Only dynamic loads are used}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 183,
+    "qdes": "\\begin{array}{l} \\text{If the angle of refraction into a medium is $\\ge$ the critical angle of refraction} \\end{array}",
+    "options": [
+      "\\text{there will be 100\\% reflection and 0\\% refraction}",
+      "\\text{there will be 0\\% reflection and 100\\% refraction}",
+      "\\text{there will be 50\\% reflection and 50\\% refraction}",
+      "\\text{there will be 25\\% reflection and 75\\% refraction}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 184,
+    "qdes": "\\text{The output of solar cell is of the order of}",
+    "options": [
+      "1 W",
+      "5 W",
+      "10 W",
+      "20 W",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 185,
+    "qdes": "\\text{The level of solar intensity before entering the earth's atmosphere is called}",
+    "options": [
+      "\\text{The Boltzmann's constant}",
+      "\\text{Solar constant}",
+      "\\text{Fermi level constant}",
+      "\\text{Valence band constant}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 186,
+    "qdes": "\\text{The fill factor FF of a solar cell is defined as}",
+    "options": [
+      "V$_{OC} \\cdot$ I$_{SC}$",
+      "V$_{OC} \\cdot$ I$_{SC}$ / P$_{min}$",
+      "P$_{max}$ / V$_{OC} \\cdot$ I$_{SC}$",
+      "P$_{max}$ / P$_{min}$",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 187,
+    "qdes": "\\text{Superposition theorem is valid for \\text{----------} response.}",
+    "options": [
+      "\\text{Only power}",
+      "\\text{Only current}",
+      "\\text{Only voltage}",
+      "\\text{Voltage and current}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 188,
+    "qdes": "\\begin{array}{l} \\text{If the speed of a wind stream remains unchanged while passing through} \\\\ \\text{the rotor,} \\end{array}",
+    "options": [
+      "\\text{a large power will be generated}",
+      "\\text{the flow is known as stalled flow}",
+      "\\text{the speed of the rotor will be very high}",
+      "\\text{zero power will be generated}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 189,
+    "qdes": "\\begin{array}{l} \\text{A balance three phase load is supplied from a 3$\\phi$ supply. The} \\\\ \\text{contact in line c of the triple pole switch contactor fails to connect} \\\\ \\text{when switched on. If the line currents in lines a and b records 25 A} \\\\ \\text{each, then the positive sequence component of the current is} \\end{array}",
+    "options": [
+      "14.4 $\\angle 30^\\circ$ A",
+      "25.0 $\\angle -30^\\circ$ A",
+      "14.4 $\\angle -30^\\circ$ A",
+      "25.0 $\\angle 30^\\circ$ A",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 190,
+    "qdes": "\\text{The wind intensity can be described by}",
+    "options": [
+      "\\text{Reynolds number}",
+      "\\text{Mach number}",
+      "\\text{Beaufort number}",
+      "\\text{Froude number}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
     "fig": ""
   }
 ]
