@@ -1,450 +1,450 @@
 [
-{
-  "qno": 101,
-  "qdes": "\\text{Synchronous condenser means}",
-  "options": [
-    "\\text{A synchronous motor with capacitor connected across stator terminals to improve PF}",
-    "\\text{A synchronous motor operating at full load with leading PF}",
-    "\\text{An over excited synchronous motor partially supplying mechanical load and also improving PF of the system to which it is connected}",
-    "\\text{An over excited synchronous motor operating at no load with leading PF to improve the PF of the system}"
-  ],
-  "ans": 4,
-  "fig": ""
-},
   {
-  "qno": 102,
-  "qdes": "\\text{For an induction motor operating at a slip } s, \\text{ the ratio of gross power output to air gap power is equal to}",
-  "options": [
-    "(S - 1)",
-    "(1 - S)",
-    "(1 - S)^2",
-    "\\sqrt{(1 - S)}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 103,
-  "qdes": "\\text{The synchronous speed of linear induction motor depends on}",
-  "options": [
-    "\\text{Width of the pole pitch}",
-    "\\text{No. of poles}",
-    "\\text{Supply frequency}",
-    "\\text{Both (A) and (C)}"
-  ],
-  "ans": 4,
-  "fig": ""
-},
-{
-  "qno": 104,
-  "qdes": "\\text{The generated energy is supplied to the source then it is called as}",
-  "options": [
-    "\\text{Dynamic braking}",
-    "\\text{Regenerative braking}",
-    "\\text{Reverse current braking}",
-    "\\text{Resistive braking}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},  
-{
-  "qno": 105,
-  "qdes": "\\text{What is the frequency of rotor current of a 50 Hz induction motor operating at 2\\% slip?}",
-  "options": [
-    "1\\ \\text{Hz}",
-    "100\\ \\text{Hz}",
-    "2\\ \\text{Hz}",
-    "50\\ \\text{Hz}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 101,
+    "qdes": "\\text{Synchronous condenser means}",
+    "options": [
+      "\\text{A synchronous motor with capacitor connected across stator terminals to improve PF}",
+      "\\text{A synchronous motor operating at full load with leading PF}",
+      "\\text{An over excited synchronous motor partially supplying mechanical load and also improving PF of the system to which it is connected}",
+      "\\text{An over excited synchronous motor operating at no load with leading PF to improve the PF of the system}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
   {
-  "qno": 106,
-  "qdes": "\\text{Choose the wrong: Current transients can lead to serious damage mainly to}",
-  "options": [
-    "\\text{Circuit breakers}",
-    "\\text{Circuit switches}",
-    "\\text{Current transformers}",
-    "\\text{Potential transformers}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 4,
-  "fig": ""
-},
+    "qno": 102,
+    "qdes": "\\text{For an induction motor operating at a slip } s, \\text{ the ratio of gross power output to air gap power is equal to}",
+    "options": [
+      "(S - 1)",
+      "(1 - S)",
+      "(1 - S)^2",
+      "\\sqrt{(1 - S)}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 107,
-  "qdes": "\\text{Reset value of a relay is}",
-  "options": [
-    "\\text{the value of the actuating quantity above which the relay operates}",
-    "\\text{the value of the actuating quantity below which the relay opens its contact and comes to original position}",
-    "\\text{the value of the actuating quantity when the fault clears}",
-    "\\text{the time between the actuating quantity exceeds pick up value to the instant the relay closes}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 108,
-  "qdes": "\\text{A long-line is operating under no-load or light load condition, the receiving end voltage is greater than the sending end voltage. This is called as}",
-  "options": [
-    "\\text{Skin-effect}",
-    "\\text{Ferranti-effect}",
-    "\\text{Hall-effect}",
-    "\\text{Corona-effect}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 109,
-  "qdes": "\\begin{aligned} &\\text{A single phase full-wave rectifier using semiconductor diodes has a transformer voltage of } 35\\,\\text{V rms to center tap.} \\\\& \\text{The load consists of a } 40\\,\\mu \\text{F capacitor in parallel with a } 250\\,\\Omega \\text{ resistor.} \\\\& \\text{The diode and transformer resistances and leakage reactance may be neglected.} \\\\& \\text{The power line frequency is } 50\\,\\text{Hz. Calculate the dc current } I_{dc} \\text{ in the circuit.} \\end{aligned}",
-  "options": [
-    "132\\,\\text{mA}",
-    "100\\,\\text{mA}",
-    "90\\,\\text{mA}",
-    "250\\,\\text{mA}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 103,
+    "qdes": "\\text{The synchronous speed of linear induction motor depends on}",
+    "options": [
+      "\\text{Width of the pole pitch}",
+      "\\text{No. of poles}",
+      "\\text{Supply frequency}",
+      "\\text{Both (A) and (C)}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
   {
-  "qno": 110,
-  "qdes": "\\begin{array}{l} \\text{In a balanced three phase system, which one of the following statements is true?} \\\\ (i)\\, \\text{Positive sequence currents are zero} \\\\ (ii)\\, \\text{Negative sequence currents are zero} \\\\ (iii)\\, \\text{Zero sequence currents are zero} \\end{array}",
-  "options": [
-    "(i)",
-    "(ii)",
-    "(ii) \\text{ and } (iii)",
-    "(i) \\text{ and } (ii)",
-    "\\text{Answer not known}"
-  ],
-  "ans": 3,
-  "fig": ""
-},
+    "qno": 104,
+    "qdes": "\\text{The generated energy is supplied to the source then it is called as}",
+    "options": [
+      "\\text{Dynamic braking}",
+      "\\text{Regenerative braking}",
+      "\\text{Reverse current braking}",
+      "\\text{Resistive braking}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 111,
-  "qdes": "\\text{The purpose of lead sheath in cables is}",
-  "options": [
-    "\\text{to protect from mechanical wear and tear}",
-     "\\text{to protect from moisture}",
-     "\\text{to give a round shape}",
-     "\\text{to provide a steel armour around it}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 105,
+    "qdes": "\\text{What is the frequency of rotor current of a 50 Hz induction motor operating at 2\\% slip?}",
+    "options": [
+      "1\\ \\text{Hz}",
+      "100\\ \\text{Hz}",
+      "2\\ \\text{Hz}",
+      "50\\ \\text{Hz}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 112,
-  "qdes": "\\begin{array}{l} \\text{Match the items in List-1 and List-2. Select your answers using the codes given below.} \\\\  \\text{List 1:} \\\\  (a)\\, \\text{Buchholz relay} \\\\  (b)\\, \\text{Translay Relay} \\\\  (c)\\, \\text{Negative sequence Relay} \\\\  (d)\\, \\text{Distance relay} \\\\[5pt] \\text{List 2:} \\\\  1.\\, \\text{Feeder} \\\\  2.\\, \\text{Transformer} \\\\  3.\\, \\text{Overhead transmission line} \\\\  4.\\, \\text{Generator} \\end{array}",
-  "options": [
-    "(a) 1\\quad (b) 2\\quad (c) 3\\quad (d) 4",
-    "(a) 2\\quad (b) 1\\quad (c) 3\\quad (d) 4",
-    "(a) 2\\quad (b) 1\\quad (c) 4\\quad (d) 3",
-    "(a) 1\\quad (b) 2\\quad (c) 4\\quad (d) 3",
-    "\\text{Answer not known}"
-  ],
-  "ans": 3,
-  "fig": ""
-},
+    "qno": 106,
+    "qdes": "\\text{Choose the wrong: Current transients can lead to serious damage mainly to}",
+    "options": [
+      "\\text{Circuit breakers}",
+      "\\text{Circuit switches}",
+      "\\text{Current transformers}",
+      "\\text{Potential transformers}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
   {
-  "qno": 113,
-  "qdes": "\\begin{array}{l} \\text{The typical values of a modern thermal power plant having 34\\% overall efficiency are:} \\\\ \\eta_{boil} = 0.42, \\quad \\eta_{cycle} = 0.44, \\quad \\eta_{Turbine(mesh)} = 0.95, \\quad \\eta_{Generator} = 0.93. \\\\ \\text{The power consumed by the auxiliaries of the plant is} \\end{array}",
-  "options": [
-    "3\\%",
-    "4\\%",
-    "5\\%",
-    "6\\%",
-    "\\text{Answer not known}"
-  ],
-  "ans": 3,
-  "fig": ""
-},
+    "qno": 107,
+    "qdes": "\\text{Reset value of a relay is}",
+    "options": [
+      "\\text{the value of the actuating quantity above which the relay operates}",
+      "\\text{the value of the actuating quantity below which the relay opens its contact and comes to original position}",
+      "\\text{the value of the actuating quantity when the fault clears}",
+      "\\text{the time between the actuating quantity exceeds pick up value to the instant the relay closes}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 114,
-  "qdes": "\\text{For complete protection of a 3-phase line}",
-  "options": [
+    "qno": 108,
+    "qdes": "\\text{A long-line is operating under no-load or light load condition, the receiving end voltage is greater than the sending end voltage. This is called as}",
+    "options": [
+      "\\text{Skin-effect}",
+      "\\text{Ferranti-effect}",
+      "\\text{Hall-effect}",
+      "\\text{Corona-effect}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 109,
+    "qdes": "\\begin{aligned} &\\text{A single phase full-wave rectifier using semiconductor diodes has a transformer voltage of } 35\\,\\text{V rms to center tap.} \\\\& \\text{The load consists of a } 40\\,\\mu \\text{F capacitor in parallel with a } 250\\,\\Omega \\text{ resistor.} \\\\& \\text{The diode and transformer resistances and leakage reactance may be neglected.} \\\\& \\text{The power line frequency is } 50\\,\\text{Hz. Calculate the dc current } I_{dc} \\text{ in the circuit.} \\end{aligned}",
+    "options": [
+      "132\\,\\text{mA}",
+      "100\\,\\text{mA}",
+      "90\\,\\text{mA}",
+      "250\\,\\text{mA}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 110,
+    "qdes": "\\begin{array}{l} \\text{In a balanced three phase system, which one of the following statements is true?} \\\\ (i)\\, \\text{Positive sequence currents are zero} \\\\ (ii)\\, \\text{Negative sequence currents are zero} \\\\ (iii)\\, \\text{Zero sequence currents are zero} \\end{array}",
+    "options": [
+      "(i)",
+      "(ii)",
+      "(ii) \\text{ and } (iii)",
+      "(i) \\text{ and } (ii)",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 111,
+    "qdes": "\\text{The purpose of lead sheath in cables is}",
+    "options": [
+      "\\text{to protect from mechanical wear and tear}",
+      "\\text{to protect from moisture}",
+      "\\text{to give a round shape}",
+      "\\text{to provide a steel armour around it}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 112,
+    "qdes": "\\begin{array}{l} \\text{Match the items in List-1 and List-2. Select your answers using the codes given below.} \\\\  \\text{List 1:} \\\\  (a)\\, \\text{Buchholz relay} \\\\  (b)\\, \\text{Translay Relay} \\\\  (c)\\, \\text{Negative sequence Relay} \\\\  (d)\\, \\text{Distance relay} \\\\[5pt] \\text{List 2:} \\\\  1.\\, \\text{Feeder} \\\\  2.\\, \\text{Transformer} \\\\  3.\\, \\text{Overhead transmission line} \\\\  4.\\, \\text{Generator} \\end{array}",
+    "options": [
+      "(a) 1\\quad (b) 2\\quad (c) 3\\quad (d) 4",
+      "(a) 2\\quad (b) 1\\quad (c) 3\\quad (d) 4",
+      "(a) 2\\quad (b) 1\\quad (c) 4\\quad (d) 3",
+      "(a) 1\\quad (b) 2\\quad (c) 4\\quad (d) 3",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 113,
+    "qdes": "\\begin{array}{l} \\text{The typical values of a modern thermal power plant having 34\\% overall efficiency are:} \\\\ \\eta_{boil} = 0.42, \\quad \\eta_{cycle} = 0.44, \\quad \\eta_{Turbine(mesh)} = 0.95, \\quad \\eta_{Generator} = 0.93. \\\\ \\text{The power consumed by the auxiliaries of the plant is} \\end{array}",
+    "options": [
+      "3\\%",
+      "4\\%",
+      "5\\%",
+      "6\\%",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 114,
+    "qdes": "\\text{For complete protection of a 3-phase line}",
+    "options": [
       "\\text{Three-phase and three-earth fault relays are required}",
       "\\text{Three-phase and two-earth fault relays are required}",
       "\\text{Two-phase and two-earth fault relays are required}",
       "\\text{Two-phase and one-earth fault relays are required}"
-  ],
-  "ans": 4,
-  "fig": ""
-},
+    ],
+    "ans": 4,
+    "fig": ""
+  },
   {
-  "qno": 115,
-  "qdes": "\\text{Location of a surge tank in a hydro electric power system is near}",
-  "options": [
-    "\\text{Turbine}",
-    "\\text{Tailrace}",
-    "\\text{Reservoir}",
-    "\\text{Dam}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 115,
+    "qdes": "\\text{Location of a surge tank in a hydro electric power system is near}",
+    "options": [
+      "\\text{Turbine}",
+      "\\text{Tailrace}",
+      "\\text{Reservoir}",
+      "\\text{Dam}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 116,
-  "qdes": "\\text{A three phase circuit breaker is rated as 1500 A, 1000 MVA, 33 KV. It's breaking capacity is,}",
-  "options": [
-    "\\sqrt{3} \\times 1000\\ \\text{MVA}",
-    "1000\\ \\text{MVA}",
-    "\\dfrac{1000}{\\sqrt{3}}\\ \\text{MVA}",
-    "3 \\times 1000\\ \\text{MVA}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 116,
+    "qdes": "\\text{A three phase circuit breaker is rated as 1500 A, 1000 MVA, 33 KV. It's breaking capacity is,}",
+    "options": [
+      "\\sqrt{3} \\times 1000\\ \\text{MVA}",
+      "1000\\ \\text{MVA}",
+      "\\dfrac{1000}{\\sqrt{3}}\\ \\text{MVA}",
+      "3 \\times 1000\\ \\text{MVA}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 117,
-  "qdes": "\\begin{array}{l} \\text{A boost converter with a } 20\\,\\text{kHz} \\text{ switching frequency is operating with a } 50\\% \\text{ duty cycle.} \\\\ \\text{The connected load is } 7\\,\\Omega. \\\\ \\text{Determine the value of critical inductance so that current } i_L \\text{ is continuous.} \\end{array}",
-  "options": [
-    "21.9\\,\\mu F",
-    "19.5\\,\\mu F",
-    "15.7\\,\\mu F",
-    "24.8\\,\\mu F",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 117,
+    "qdes": "\\begin{array}{l} \\text{A boost converter with a } 20\\,\\text{kHz} \\text{ switching frequency is operating with a } 50\\% \\text{ duty cycle.} \\\\ \\text{The connected load is } 7\\,\\Omega. \\\\ \\text{Determine the value of critical inductance so that current } i_L \\text{ is continuous.} \\end{array}",
+    "options": [
+      "21.9\\,\\mu F",
+      "19.5\\,\\mu F",
+      "15.7\\,\\mu F",
+      "24.8\\,\\mu F",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 118,
-  "qdes": "\\text{The rated voltage of a 3 phase power system is given as}",
-  "options": [
-    "\\text{RMS line to line voltage}",
-    "\\text{RMS phase voltage}",
-    "\\text{Peak phase voltage}",
-    "\\text{Peak line to line voltage}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 118,
+    "qdes": "\\text{The rated voltage of a 3 phase power system is given as}",
+    "options": [
+      "\\text{RMS line to line voltage}",
+      "\\text{RMS phase voltage}",
+      "\\text{Peak phase voltage}",
+      "\\text{Peak line to line voltage}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 119,
-  "qdes": "\\text{The characteristic equation of a control system is given below} \\,F(S) = S^4 + S^3 + 3S^2 + 2S + 5 = 0. \\,\\text{The system is}",
-  "options": [
-     "\\text{Stable}",
-     "\\text{Critically stable}",
-     "\\text{Conditionally stable}",
-     "\\text{Unstable}",
-     "\\text{Answer not known}"
-  ],
-  "ans": 4,
-  "fig": ""
-},
+    "qno": 119,
+    "qdes": "\\text{The characteristic equation of a control system is given below} \\,F(S) = S^4 + S^3 + 3S^2 + 2S + 5 = 0. \\,\\text{The system is}",
+    "options": [
+      "\\text{Stable}",
+      "\\text{Critically stable}",
+      "\\text{Conditionally stable}",
+      "\\text{Unstable}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
   {
-  "qno": 120,
-  "qdes": "\\text{The typical value of short circuit ratio (SCR) for modern alternators is}",
-  "options": [
-     "\\text{1.5 per unit}",
-     "\\text{1.2 per unit}",
-     "\\text{1.0 per unit}",
-     "\\text{0.5 per unit}"
-  ],
-  "ans": 4,
-  "fig": ""
-},
+    "qno": 120,
+    "qdes": "\\text{The typical value of short circuit ratio (SCR) for modern alternators is}",
+    "options": [
+      "\\text{1.5 per unit}",
+      "\\text{1.2 per unit}",
+      "\\text{1.0 per unit}",
+      "\\text{0.5 per unit}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
   {
-  "qno": 121,
-  "qdes": "\\text{The main drawback(s) of underground system over overhead system in transmission and distribution of power is/are}",
-  "options": [
-     "\\text{exposure to lightning}",
-     "\\text{heavy initial cost}",
-     "\\text{exposure to smoke, ice, wind}",
-     "\\text{interference between power and communication lines}",
-     "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 121,
+    "qdes": "\\text{The main drawback(s) of underground system over overhead system in transmission and distribution of power is/are}",
+    "options": [
+      "\\text{exposure to lightning}",
+      "\\text{heavy initial cost}",
+      "\\text{exposure to smoke, ice, wind}",
+      "\\text{interference between power and communication lines}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 122,
-  "qdes": "\\text{An impedance relay is a}",
-  "options": [
-     "\\text{Voltage restrained over current relay}",
-     "\\text{Voltage restrained directional relay}",
-     "\\text{Current restrained directional relay}",
-     "\\text{Current restrained over-voltage relay}",
-     "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 122,
+    "qdes": "\\text{An impedance relay is a}",
+    "options": [
+      "\\text{Voltage restrained over current relay}",
+      "\\text{Voltage restrained directional relay}",
+      "\\text{Current restrained directional relay}",
+      "\\text{Current restrained over-voltage relay}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 123,
-  "qdes": "\\text{The current chopping tendency is minimised by using the SF}_6 \\text{ gas at relatively}",
-  "options": [
-     "\\text{high pressure and low velocity}",
-     "\\text{high pressure and high velocity}",
-     "\\text{low pressure and low velocity}",
-     "\\text{low pressure and high velocity}"
-  ],
-  "ans": 3,
-  "fig": ""
-},
+    "qno": 123,
+    "qdes": "\\text{The current chopping tendency is minimised by using the SF}_6 \\text{ gas at relatively}",
+    "options": [
+      "\\text{high pressure and low velocity}",
+      "\\text{high pressure and high velocity}",
+      "\\text{low pressure and low velocity}",
+      "\\text{low pressure and high velocity}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
   {
-  "qno": 124,
-  "qdes": "\\begin{array}{l} \\text{Consider the following statements related to the function of a booster in distribution network} \\\\  (1) \\text{Booster is a series dc generator connected in series with the feeder.} \\\\  (2) \\text{Booster is a series dc generator connected in parallel to the feeder.} \\\\  (3) \\text{Feeders can be regulated independently} \\\\ \\\\ \\text{Which of the following are correct?} \\end{array}",
-  "options": [
-    "1 and 2",
-    "2 and 3",
-    "1 and 3",
-    "1 only",
-    "\\text{Answer not known}"
-  ],
-  "ans": 3,
-  "fig": ""
-},
+    "qno": 124,
+    "qdes": "\\begin{array}{l} \\text{Consider the following statements related to the function of a booster in distribution network} \\\\  (1) \\text{Booster is a series dc generator connected in series with the feeder.} \\\\  (2) \\text{Booster is a series dc generator connected in parallel to the feeder.} \\\\  (3) \\text{Feeders can be regulated independently} \\\\ \\\\ \\text{Which of the following are correct?} \\end{array}",
+    "options": [
+      "1 and 2",
+      "2 and 3",
+      "1 and 3",
+      "1 only",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
   {
-  "qno": 125,
-  "qdes": "\\begin{array}{l} \\text{A system is reactance grounded, if} \\\\  \\dfrac{x_0}{x_1} > 3  \\text{ but less than that for resonant grounding} \\end{array}",
-  "options": [
-    "\\dfrac{x_0}{x_1} > 3 \\text{ but less than that for resonant grounding}",
-    "\\dfrac{x_0}{x_1} > 3",
-    "\\dfrac{R_0}{x_1} > 3",
-    "\\dfrac{x_0}{x_1} > 3 \\text{ and } \\dfrac{R_0}{x_1} > 3"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 125,
+    "qdes": "\\begin{array}{l} \\text{A system is reactance grounded, if} \\\\  \\dfrac{x_0}{x_1} > 3  \\text{ but less than that for resonant grounding} \\end{array}",
+    "options": [
+      "\\dfrac{x_0}{x_1} > 3 \\text{ but less than that for resonant grounding}",
+      "\\dfrac{x_0}{x_1} > 3",
+      "\\dfrac{R_0}{x_1} > 3",
+      "\\dfrac{x_0}{x_1} > 3 \\text{ and } \\dfrac{R_0}{x_1} > 3"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 126,
-  "qdes": "\\begin{array}{l} \\text{The sequence components of voltages for a balanced line-to-neutral voltages are} \\\\  \\left[ \\begin{array}{c} V_{an} \\\\ V_{bn} \\\\ V_{cn} \\end{array} \\right] = \\left[ \\begin{array}{c} 220 \\angle 0^\\circ \\\\ 220 \\angle -120^\\circ \\\\ 220 \\angle 120^\\circ \\end{array} \\right] \\text{ kV then, } V_0, V_1 \\text{ and } V_2 \\text{ are?} \\end{array}",
-  "options": [
-    "V_0 = 0\\text{ kV},\\ V_1 = 220 \\angle 0^\\circ\\text{ kV},\\ \\text{and } V_2 = 0\\text{ kV}",
-    "V_0 = 220\\text{ kV},\\ V_1 = 220 \\angle 120^\\circ\\text{ kV},\\ \\text{and } V_2 = 0\\text{ kV}",
-    "V_0 = 0\\text{ kV},\\ V_1 = 0\\text{ kV},\\ \\text{and } V_2 = 0\\text{ kV}",
-    "V_0 = 120 \\angle 0^\\circ\\text{ kV},\\ V_1 = 0\\text{ kV},\\ \\text{and } V_2 = 120 \\angle 0^\\circ\\text{ kV}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
-{
-  "qno": 127,
-  "qdes": "\\begin{array}{l} \\text{Match the following:} \\\\  (a)\\ \\text{Pin type insulator} \\qquad\\qquad\\quad \\text{  \\ \\ 1. Used for low voltage over head lines} \\\\  (b)\\ \\text{Suspension type insulator} \\qquad \\text{2. Used at dead ends and anchor towers} \\\\  (c)\\ \\text{Strain type insulator} \\qquad\\quad\\ \\text{ \\ \\ \\ \\ 3. Used upto 80 KV} \\\\  (d)\\ \\text{Shackle type insulator} \\qquad\\quad\\ \\text{ \\ 4. Flexibility of the line is improved} \\end{array}",
-  "options": [
-    "(a)\\to 4,\\ (b)\\to 2,\\ (c)\\to 1,\\ (d)\\to 3",
-    "(a)\\to 1,\\ (b)\\to 3,\\ (c)\\to 2,\\ (d)\\to 4",
-    "(a)\\to 3,\\ (b)\\to 4,\\ (c)\\to 2,\\ (d)\\to 1",
-    "(a)\\to 2,\\ (b)\\to 1,\\ (c)\\to 3,\\ (d)\\to 4",
-    "\\text{Answer not known}"
-  ],
-  "ans": 3,
-  "fig": ""
-},
+    "qno": 126,
+    "qdes": "\\begin{array}{l} \\text{The sequence components of voltages for a balanced line-to-neutral voltages are} \\\\  \\left[ \\begin{array}{c} V_{an} \\\\ V_{bn} \\\\ V_{cn} \\end{array} \\right] = \\left[ \\begin{array}{c} 220 \\angle 0^\\circ \\\\ 220 \\angle -120^\\circ \\\\ 220 \\angle 120^\\circ \\end{array} \\right] \\text{ kV then, } V_0, V_1 \\text{ and } V_2 \\text{ are?} \\end{array}",
+    "options": [
+      "V_0 = 0\\text{ kV},\\ V_1 = 220 \\angle 0^\\circ\\text{ kV},\\ \\text{and } V_2 = 0\\text{ kV}",
+      "V_0 = 220\\text{ kV},\\ V_1 = 220 \\angle 120^\\circ\\text{ kV},\\ \\text{and } V_2 = 0\\text{ kV}",
+      "V_0 = 0\\text{ kV},\\ V_1 = 0\\text{ kV},\\ \\text{and } V_2 = 0\\text{ kV}",
+      "V_0 = 120 \\angle 0^\\circ\\text{ kV},\\ V_1 = 0\\text{ kV},\\ \\text{and } V_2 = 120 \\angle 0^\\circ\\text{ kV}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 128,
-  "qdes": "\\begin{array}{l} \\text{In a CRO, two in-phase, 50 Hz sinusoidal signals of same magnitude are connected to channel 1 and channel 2}. \\\\\\text{All settings for both the channels are same. The observation on the screen is}\\end{array}",
-  "options": [
-    "\\text{A parabola}",
-    "\\text{A straight line inclined } 45^\\circ \\text{ to X-axis}",
-    "\\text{An ellipse}",
-    "\\text{A circle of unit radius}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 127,
+    "qdes": "\\begin{array}{l} \\text{Match the following:} \\\\  (a)\\ \\text{Pin type insulator} \\qquad\\qquad\\quad \\text{  \\ \\ 1. Used for low voltage over head lines} \\\\  (b)\\ \\text{Suspension type insulator} \\qquad \\text{2. Used at dead ends and anchor towers} \\\\  (c)\\ \\text{Strain type insulator} \\qquad\\quad\\ \\text{ \\ \\ \\ \\ 3. Used upto 80 KV} \\\\  (d)\\ \\text{Shackle type insulator} \\qquad\\quad\\ \\text{ \\ 4. Flexibility of the line is improved} \\end{array}",
+    "options": [
+      "(a)\\to 4,\\ (b)\\to 2,\\ (c)\\to 1,\\ (d)\\to 3",
+      "(a)\\to 1,\\ (b)\\to 3,\\ (c)\\to 2,\\ (d)\\to 4",
+      "(a)\\to 3,\\ (b)\\to 4,\\ (c)\\to 2,\\ (d)\\to 1",
+      "(a)\\to 2,\\ (b)\\to 1,\\ (c)\\to 3,\\ (d)\\to 4",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
   {
-  "qno": 129,
-  "qdes": "\\begin{array}{l} \\text{The resultant weight per meter of the conductor and vertical sag are given by\\_\\_\\_\\_ and \\_\\_\\_\\_ respectively, where} \\\\ w_c - \\text{weight of conductor/m} \\\\ w_i - \\text{weight of ice/m} \\\\ w_w - \\text{weight of wind/m} \\\\ s - \\text{slant sag and } \\theta = \\text{angle of resultant weight} \\end{array}",
-  "options": [
-    "\\sqrt{(w_c + w_i)^2 + w_w^2};\\; s \\cos \\theta",
-    "\\sqrt{(w_c + w_w)^2 + w_i^2};\\; s \\cos \\theta",
-    "\\sqrt{(w_c + w_i)^2 + w_w^2};\\; s \\sin \\theta",
-    "\\sqrt{(w_c + w_w)^2 + w_i^2};\\; s \\sin \\theta",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 128,
+    "qdes": "\\begin{array}{l} \\text{In a CRO, two in-phase, 50 Hz sinusoidal signals of same magnitude are connected to channel 1 and channel 2}. \\\\\\text{All settings for both the channels are same. The observation on the screen is}\\end{array}",
+    "options": [
+      "\\text{A parabola}",
+      "\\text{A straight line inclined } 45^\\circ \\text{ to X-axis}",
+      "\\text{An ellipse}",
+      "\\text{A circle of unit radius}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 130,
-  "qdes": "\\begin{array}{l} \\text{Match the List I (improvements in transmission system) with List II (effects due to improvements)} \\\\ \\text{and select the correct answer using the codes given below the lists:} \\\\ \\text{List I (improvements)} \\\\ \\text{(a) Increasing the spacing between conductors} \\\\ \\text{(b) Increased flashover voltage} \\\\ \\text{(c) Increasing sag in overhead line} \\\\ \\text{(d) Usage of guard ring} \\\\ \\text{List II (effects)} \\\\ 1. \\text{Increase string efficiency} \\\\ 2. \\text{Reduces tension in the overhead line} \\\\ 3. \\text{Corona reduces} \\\\ 4. \\text{Safety factor of insulator increases} \\end{array}",
-  "options": [
-    "2\\;4\\;1\\;3",
-    "4\\;1\\;2\\;3",
-    "3\\;4\\;2\\;1",
-    "4\\;2\\;3\\;1",
-    "\\text{Answer not known}"
-  ],
-  "ans": 3,
-  "fig": ""
-},
-{
-  "qno": 131,
-  "qdes": "\\text{Determine the Thevenin voltage } V_{\\text{TH}} \\text{ across 'AB' for the circuit shown in fig}",
-  "options": [
-    "33.3\\;V",
-    "23.3\\;V",
-    "13.3\\;V",
-    "3.3\\;V",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/02B-096-06-FIG.png"
-},
+    "qno": 129,
+    "qdes": "\\begin{array}{l} \\text{The resultant weight per meter of the conductor and vertical sag are given by\\_\\_\\_\\_ and \\_\\_\\_\\_ respectively, where} \\\\ w_c - \\text{weight of conductor/m} \\\\ w_i - \\text{weight of ice/m} \\\\ w_w - \\text{weight of wind/m} \\\\ s - \\text{slant sag and } \\theta = \\text{angle of resultant weight} \\end{array}",
+    "options": [
+      "\\sqrt{(w_c + w_i)^2 + w_w^2};\\; s \\cos \\theta",
+      "\\sqrt{(w_c + w_w)^2 + w_i^2};\\; s \\cos \\theta",
+      "\\sqrt{(w_c + w_i)^2 + w_w^2};\\; s \\sin \\theta",
+      "\\sqrt{(w_c + w_w)^2 + w_i^2};\\; s \\sin \\theta",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 132,
-  "qdes": "\\text{If the fault current is 1000 A, relay setting is 50\\% and CT ratio is 500 : 5. The plug setting multiplier is}",
-  "options": [
-    "40\\;A",
-    "4\\;A",
-    "5\\;A",
-    "10\\;A",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 133,
-  "qdes": "\\begin{array}{l} \\text{Usually a collection of positive charge is considered for constructing a Gaussian surface} \\\\ \\text{If a Gaussian surface encloses a collection of negative charges, then for such a surface}\\end{array}",
-  "options": [
-    "\\text{A normal component of D will become zero}",
-    "\\text{The normal component of D will point inwards}",
-    "\\text{The normal component of D will point outwards}",
-    "\\text{The normal component of D will point infinity}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 130,
+    "qdes": "\\begin{array}{l} \\text{Match the List I (improvements in transmission system) with List II (effects due to improvements)} \\\\ \\text{and select the correct answer using the codes given below the lists:} \\\\ \\text{List I (improvements)} \\\\ \\text{(a) Increasing the spacing between conductors} \\\\ \\text{(b) Increased flashover voltage} \\\\ \\text{(c) Increasing sag in overhead line} \\\\ \\text{(d) Usage of guard ring} \\\\ \\text{List II (effects)} \\\\ 1. \\text{Increase string efficiency} \\\\ 2. \\text{Reduces tension in the overhead line} \\\\ 3. \\text{Corona reduces} \\\\ 4. \\text{Safety factor of insulator increases} \\end{array}",
+    "options": [
+      "2\\;4\\;1\\;3",
+      "4\\;1\\;2\\;3",
+      "3\\;4\\;2\\;1",
+      "4\\;2\\;3\\;1",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
   {
-  "qno": 134,
-  "qdes": "\\text{Protection scheme used for detection of loss of excitation of a very large generating unit feeding power into a grid employs}",
-  "options": [
-    "\\text{Under voltage relay}",
-    "\\text{Offset mho relay}",
-    "\\text{Under frequency relay}",
-    "\\text{Percentage differential relay}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 135,
-  "qdes": "\\text{A 20000 kVA transformer with 10\\% reactance will have a reactance of \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ at 10,000 kVA base}",
-  "options": [
-    "\\text{10\\%}",
-    "\\text{20\\%}",
-    "\\text{15\\%}",
-    "\\text{5\\%}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 131,
+    "qdes": "\\text{Determine the Thevenin voltage } V_{\\text{TH}} \\text{ across 'AB' for the circuit shown in fig}",
+    "options": [
+      "33.3\\;V",
+      "23.3\\;V",
+      "13.3\\;V",
+      "3.3\\;V",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/02B-096-06-FIG.png"
+  },
+  {
+    "qno": 132,
+    "qdes": "\\text{If the fault current is 1000 A, relay setting is 50\\% and CT ratio is 500 : 5. The plug setting multiplier is}",
+    "options": [
+      "40\\;A",
+      "4\\;A",
+      "5\\;A",
+      "10\\;A",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 133,
+    "qdes": "\\begin{array}{l} \\text{Usually a collection of positive charge is considered for constructing a Gaussian surface} \\\\ \\text{If a Gaussian surface encloses a collection of negative charges, then for such a surface}\\end{array}",
+    "options": [
+      "\\text{A normal component of D will become zero}",
+      "\\text{The normal component of D will point inwards}",
+      "\\text{The normal component of D will point outwards}",
+      "\\text{The normal component of D will point infinity}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 134,
+    "qdes": "\\text{Protection scheme used for detection of loss of excitation of a very large generating unit feeding power into a grid employs}",
+    "options": [
+      "\\text{Under voltage relay}",
+      "\\text{Offset mho relay}",
+      "\\text{Under frequency relay}",
+      "\\text{Percentage differential relay}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 135,
+    "qdes": "\\text{A 20000 kVA transformer with 10\\% reactance will have a reactance of \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ at 10,000 kVA base}",
+    "options": [
+      "\\text{10\\%}",
+      "\\text{20\\%}",
+      "\\text{15\\%}",
+      "\\text{5\\%}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
     "qno": 136,
     "qdes": "\\begin{array}{l}\n\\text{A 4 Bit modulo-16 Ripple counter uses J-K flip flop. If the propagation delay of each flip flop is 50 Nano-seconds,} \\\\\n\\text{the maximum clock frequency that can be used is equal to}\n\\end{array}",
@@ -641,18 +641,18 @@
     "fig": ""
   },
   {
-  "qno": 151,
-  "qdes": "\\begin{array}{l}  \\text{DC to DC convertor as shown in fig. a battery of 25V is connected and the input current is 4A.} \\\\  \\text{At the output side, a voltmeter shows 50V across the load end the output current is 1.8A.} \\\\ \\text{Find the power lost in the converter due to losses.} \\end{array}",
-  "options": [
-    "\\text{25 W}",
-    "\\text{10 W}",
-    "\\text{20 W}",
-    "\\text{15 W}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-005-08-FIG.png"
-},
+    "qno": 151,
+    "qdes": "\\begin{array}{l}  \\text{DC to DC convertor as shown in fig. a battery of 25V is connected and the input current is 4A.} \\\\  \\text{At the output side, a voltmeter shows 50V across the load end the output current is 1.8A.} \\\\ \\text{Find the power lost in the converter due to losses.} \\end{array}",
+    "options": [
+      "\\text{25 W}",
+      "\\text{10 W}",
+      "\\text{20 W}",
+      "\\text{15 W}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-005-08-FIG.png"
+  },
   {
     "qno": 152,
     "qdes": "\\begin{array}{l} \\text{A DC shunt motor takes a current of 80A on a 480V supply and runs at 960 RPM the armature resistance is 0.25 $\\Omega$.} \\\\ \\text{and the field resistance is 120 $\\Omega$. A chopper is used to control the speed of the motor at 400 RPM having constant torque.} \\\\ \\text{The on -period of the chopper is 3 ms. The field is supplied directly from 480V supply. Determine the frequency of the chopper} \\end{array}",
@@ -965,17 +965,17 @@
     "fig": ""
   },
   {
-  "qdes": "\\text{Which of the following is not a part of a modern wind turbine?}",
-  "options": [
-    "\\text{Compressor}",
-    "\\text{Gearbox}",
-    "\\text{Nacelle}",
-    "\\text{Yaw drive}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qdes": "\\text{Which of the following is not a part of a modern wind turbine?}",
+    "options": [
+      "\\text{Compressor}",
+      "\\text{Gearbox}",
+      "\\text{Nacelle}",
+      "\\text{Yaw drive}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
     "qno": 177,
     "qdes": "\\begin{array}{l} \\text{In 8279, keyboard or Display interface the pins used to scan both} \\\\ \\text{the keyboard and displays are} \\end{array}",
@@ -1223,7 +1223,7 @@
     "ans": 3,
     "fig": ""
   },
- {
+  {
     "qno": 196,
     "qdes": "\\text{Gauss law relates the electric field intensity E with volume charge density $\\rho$ at point as}",
     "options": [
@@ -1243,7 +1243,8 @@
       "56\\%",
       "17\\%",
       "75\\%",
-      "83\\%"
+      "83\\%",
+      "\\text{Answer not known}"
     ],
     "ans": 4,
     "fig": ""
@@ -1268,7 +1269,8 @@
       "\\text{The magnitude of incident waves and power generated}",
       "\\text{The magnitude of incident, reflected and refracted waves}",
       "\\text{The magnitude of reflected waves and temperature}",
-      "\\text{The magnitude of refracted waves and power generated}"
+      "\\text{The magnitude of refracted waves and power generated}",
+      "\\text{Answer not known}"
     ],
     "ans": 2,
     "fig": ""
