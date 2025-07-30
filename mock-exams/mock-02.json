@@ -638,9 +638,16 @@
     "ans": 1,
     "fig": ""
   },
+  Got it. I will remove the $ delimiters from the specified questions (154, 161, 162, 169, 171, 175) and ensure that any necessary text breaking for readability within Math.tex is done with \\newline and wrapped within \begin{array}{l}...\end{array} if applicable.
+
+Here is the updated JSON:
+
+JSON
+
+[
   {
     "qno": 151,
-    "qdes": "\\text{DC to DC convertor as shown in fig. a battery of 25V is connected and the input current is 4A. At the output side, a voltmeter shows 50V across the load end the output current is 1.8A. Find the power lost in the converter due to losses.}",
+    "qdes": "\\begin{array}{l} \\text{DC to DC convertor as shown in fig. a battery of 25V is connected and the input current is 4A.} \\\\ \\text{At the output side, a voltmeter shows 50V across the load end the output current is 1.8A. Find the power lost in the converter due to losses.} \\end{array}",
     "options": [
       "25 W",
       "10 W",
@@ -653,7 +660,7 @@
   },
   {
     "qno": 152,
-    "qdes": "\\text{A DC shunt motor takes a current of 80A on a 480V supply and runs at 960 RPM the armature resistance is 0.25 $\\Omega$ and the field resistance is 120 $\\Omega$. A chopper is used to control the speed of the motor at 400 RPM having constant torque. The on -period of the chopper is 3 ms. The field is supplied directly from 480V supply. Determine the frequency of the chopper}",
+    "qdes": "\\text{A DC shunt motor takes a current of 80A on a 480V supply and runs at 960 RPM the armature resistance is 0.25 $\\Omega$. and the field resistance is 120 $\\Omega$. A chopper is used to control the speed of the motor at 400 RPM having constant torque. The on -period of the chopper is 3 ms. The field is supplied directly from 480V supply. Determine the frequency of the chopper}",
     "options": [
       "95.12 Hz",
       "102.48 Hz",
@@ -679,12 +686,12 @@
   },
   {
     "qno": 154,
-    "qdes": "\\text{A 3$\\phi$ wound rotor induction motor is connected by a chopper controlled resistance in its rotor circuit. A resistance of 2 $\\Omega$ is connected in the rotor circuit and a resistance of 4 $\\Omega$ is additionally connected during off period of the chopper (off period 4 ms). The total resistance across the diode bridge for the chopper frequency of 200 Hz is}",
+    "qdes": "\\text{A 3$\\phi$ wound rotor induction motor is connected by a chopper controlled resistance in its rotor circuit. A resistance of 2 $\\Omega$ is connected in the rotor circuit and a resistance of 4 $\\Omega$ is additionally connected during off period of the chopper (off period 4 ms). The total resistance across the diode bridge for the chopper frequency of 200 Hz is.}",
     "options": [
-      "$\\dfrac{26}{5}$",
-      "$\\dfrac{24}{5}$",
-      "$\\dfrac{18}{5}$",
-      "$\\dfrac{16}{5}$",
+      "\\dfrac{26}{5}",
+      "\\dfrac{24}{5}",
+      "\\dfrac{18}{5}",
+      "\\dfrac{16}{5}",
       "\\text{Answer not known}"
     ],
     "ans": 1,
@@ -694,10 +701,10 @@
     "qno": 155,
     "qdes": "\\text{Stator voltage control results in good efficiency for one of the loads given below \\newline T = Torque \\newline $\\omega$ = Speed}",
     "options": [
-      "T $\\propto \\omega^2$",
+      "T \\propto \\omega^2",
       "T = Constant",
-      "T $\\propto \\omega$",
-      "T $\\propto \\dfrac{1}{\\omega}$",
+      "T \\propto \\omega",
+      "T \\propto \\dfrac{1}{\\omega}",
       "\\text{Answer not known}"
     ],
     "ans": 1,
@@ -718,7 +725,7 @@
   },
   {
     "qno": 157,
-    "qdes": "\\text{Single-phase half bridge-inverter has a resistive load of R = 3$\\Omega$ and the d.c. input voltage E$_{dc}$ = 50V. Calculate the RMS output voltage at fundamental frequency E$_1$ and output power P$_0$.}",
+    "qdes": "\\begin{array}{l} \\text{Single-phase half bridge-inverter has a resistive load of R = 3$\\Omega$ and the d.c. input voltage E$_{dc}$ = 50V.} \\\\ \\text{Calculate the RMS output voltage at fundamental frequency E$_1$ and output power P$_0$.} \\end{array}",
     "options": [
       "15.76 V, 253 W",
       "22.5 V, 253 W",
@@ -733,7 +740,7 @@
     "qno": 158,
     "qdes": "\\begin{array}{l} \\text{Assertion [A] : On line UPS provides zero transition time.} \\\\ \\text{Reason [R] : Time required to normal to backup mode and vice versa is zero.} \\end{array}",
     "options": [
-      "\\text{[A] is true [R] is false",
+      "\\text{[A] is true [R] is false}",
       "\\text{Both [A] and [R] are true, and [R] is the correct explanation}",
       "\\text{[A] is false, [R] is true}",
       "\\text{Both [A] and [R] are true, and [R] is not the correct explanation}",
@@ -768,7 +775,7 @@
     "ans": 4,
     "fig": ""
   },
-{
+  {
     "qno": 161,
     "qdes": "\\text{If T is the chopper circuit's time period and $\\alpha$ is its duty cycle, the chopping frequency is}",
     "options": [
@@ -796,7 +803,7 @@
   },
   {
     "qno": 163,
-    "qdes": "\\text{A single phase ac voltage controller feeds power to a resistive load of 3$\\Omega$ from 230 V, 50 Hz source. Calculate the maximum values of average thyristor current for firing angle $\\alpha = 0$.}",
+    "qdes": "\\begin{array}{l} \\text{A single phase ac voltage controller feeds power to a resistive load of 3$\\Omega$ from 230 V, 50 Hz source.} \\\\ \\text{Calculate the maximum values of average thyristor current for firing angle $\\alpha = 0$.} \\end{array}",
     "options": [
       "34.512 A",
       "24.403 A",
@@ -809,7 +816,7 @@
   },
   {
     "qno": 164,
-    "qdes": "\\text{A single phase transformer, with secondary voltage of 230 V, 50 Hz, delivers power to load R = 10$\\Omega$ through a half wave controlled rectifier circuit, for a firing angle delay of 60$^\\circ$, determine average O/P current.}",
+    "qdes": "\\text{A single phase transformer, with secondary voltage of 230 V, 50 Hz, delivers power to load R = 10$\\Omega$ \\newline through a half wave controlled rectifier circuit, for a firing angle delay of 60$^\\circ$, determine average O/P current.}",
     "options": [
       "77.64 A",
       "7.764 A",
@@ -822,7 +829,7 @@
   },
   {
     "qno": 165,
-    "qdes": "\\text{The fundamental current component of a full wave diode bridge rectifier is 3A and the displacement factor is 0.9. When the supply current is purely sinusoidal the input power factor of the circuit is}",
+    "qdes": "\\begin{array}{l} \\text{The fundamental current component of a full wave diode bridge rectifier is 3A and the displacement factor is 0.9.} \\\\ \\text{When the supply current is purely sinusoidal the input power factor of the circuit is} \\end{array}",
     "options": [
       "zero",
       "0.9 lagging",
@@ -847,12 +854,12 @@
   },
   {
     "qno": 167,
-    "qdes": "\\text{A memory mapped I/O device has an address of OOFOH. Which of the following 8085 instruction outputs the content of the accumulator to the I/O Device?}",
+    "qdes": "\\text{A memory mapped I/O device has an address of OOFOH. Which of the following 8085 instruction outputs the content of the accumulator \\newline to the I/O Device?}",
     "options": [
-      "LXI H,OOFOH \\newline MOV M,A",
-      "LXI H,OOFOH \\newline OUTM",
-      "LXIH, OOFOH \\newline OUT FOH",
-      "LXIH, OOFOH \\newline MOVA, M",
+      "\\text{LXI H,OOFOH \\newline MOV M,A}",
+      "\\text{LXI H,OOFOH \\newline OUTM}",
+      "\\text{LXIH, OOFOH \\newline OUT FOH}",
+      "\\text{LXIH, OOFOH \\newline MOVA, M}",
       "\\text{Answer not known}"
     ],
     "ans": 2,
@@ -885,7 +892,7 @@
   },
   {
     "qno": 170,
-    "qdes": "\\text{A single phase half wave rectifier is connected to a 240V supply. The load resistance R=10$\\Omega$, L=0.5mH and firing angle $\\alpha$=30. Find the average output voltage.}",
+    "qdes": "\\text{A single phase half wave rectifier is connected to a 240V supply. The load resistance R=10$\\Omega$, L=0.5mH and firing angle $\\alpha$=30. \\newline Find the average output voltage.}",
     "options": [
       "50 V",
       "100 V",
@@ -900,10 +907,10 @@
     "qno": 171,
     "qdes": "\\text{Carson's rule in the frequency modulation}",
     "options": [
-      "$2\\Delta f\\left(1+\\dfrac{1}{\\beta}\\right)$",
-      "$2\\Delta f(\\beta+1)$",
-      "$2\\Delta f\\left(\\dfrac{1}{\\beta}\\right)$",
-      "$\\Delta f\\left(1+\\dfrac{1}{\\beta}\\right)$",
+      "2\\Delta f(1+\\dfrac{1}{\\beta})",
+      "2\\Delta f(\\beta+1)",
+      "2\\Delta f(\\dfrac{1}{\\beta})",
+      "\\Delta f(1+\\dfrac{1}{\\beta})",
       "\\text{Answer not known}"
     ],
     "ans": 1,
@@ -942,7 +949,8 @@
       "\\text{Restart instruction that begins the execution of a program}",
       "\\text{One-byte call to the memory address 0038 H}",
       "\\text{One-byte call to the memory address 0007 H}",
-      "\\text{Hardware interrupt}"
+      "\\text{Hardware interrupt}",
+      "\\text{Answer not known}"
     ],
     "ans": 2,
     "fig": ""
@@ -951,10 +959,10 @@
     "qno": 175,
     "qdes": "\\text{Determine the Z-transform } x(n) = (1+n)\\cup(n)",
     "options": [
-      "$x(z) = \\dfrac{1}{(1-z^{-1})^2}$",
-      "$x(z) = \\dfrac{1}{(1+z^{+1})^2}$",
-      "$x(z) = \\dfrac{1}{(1-z^{-1})^{-2}}$",
-      "$x(z) = \\dfrac{1}{(1-z^{-1})}$",
+      "x(z) = \\dfrac{1}{(1-z^{-1})^2}",
+      "x(z) = \\dfrac{1}{(1+z^{+1})^2}",
+      "x(z) = \\dfrac{1}{(1-z^{-1})^{-2}",
+      "x(z) = \\dfrac{1}{(1-z^{-1})}",
       "\\text{Answer not known}"
     ],
     "ans": 1,
