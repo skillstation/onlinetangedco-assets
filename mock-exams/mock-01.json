@@ -1934,5 +1934,654 @@
       ],
       "ans":1,
       "fig":""
+   },
+   {
+      "qno":151,
+      "qdes":"\\begin{array}{l}  \\text{DC to DC convertor as shown in fig. a battery of 25V is connected and the input current is 4A.} \\\\  \\text{At the output side, a voltmeter shows 50V across the load end the output current is 1.8A.} \\\\ \\text{Find the power lost in the converter due to losses.} \\end{array}",
+      "options":[
+         "\\text{25 W}",
+         "\\text{10 W}",
+         "\\text{20 W}",
+         "\\text{15 W}",
+         "\\text{Answer not known}"
+      ],
+      "ans":2,
+      "fig":"https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-005-08-FIG.png"
+   },
+   {
+      "qno":152,
+      "qdes":"\\begin{array}{l} \\text{A DC shunt motor takes a current of 80A on a 480V supply and runs at 960 RPM the armature resistance is 0.25 $\\Omega$.} \\\\ \\text{and the field resistance is 120 $\\Omega$. A chopper is used to control the speed of the motor at 400 RPM having constant torque.} \\\\ \\text{The on -period of the chopper is 3 ms. The field is supplied directly from 480V supply. Determine the frequency of the chopper} \\end{array}",
+      "options":[
+         "95.12 Hz",
+         "102.48 Hz",
+         "146.44 Hz",
+         "130.05 Hz",
+         "\\text{Answer not known}"
+      ],
+      "ans":3,
+      "fig":""
+   },
+   {
+      "qno":153,
+      "qdes":"\\begin{array}{l} \\text{The supply voltage of a Dc chopper is 220 V it delivers a load of 88 V.} \\\\ \\text{If the chopper is operating with 1 kHz frequency, the non-conduction period of the switch is} \\end{array}",
+      "options":[
+         "200\\,\\mu s",
+         "400\\,\\mu s",
+         "600\\,\\mu s",
+         "1000\\,\\mu s",
+         "\\text{Answer not known}"
+      ],
+      "ans":3,
+      "fig":""
+   },
+   {
+      "qno":154,
+      "qdes":"\\begin{array}{l} \\text{A 3$\\phi$ wound rotor induction motor is connected by a chopper controlled resistance in its rotor circuit.} \\\\ \\text{A resistance of 2 $\\Omega$ is connected in the rotor circuit and a resistance of 4 $\\Omega$ is additionally connected during off period of the chopper} \\\\ \\text{(off period 4 ms). The total resistance across the diode bridge for the chopper frequency of 200 Hz is.} \\end{array}",
+      "options":[
+         "\\dfrac{26}{5}",
+         "\\dfrac{24}{5}",
+         "\\dfrac{18}{5}",
+         "\\dfrac{16}{5}",
+         "\\text{Answer not known}"
+      ],
+      "ans":1,
+      "fig":""
+   },
+   {
+      "qno":155,
+      "qdes":"\\begin{array}{l} \\text{Stator voltage control results in good efficiency for one of the loads given below} \\\\ \\text{T = Torque  $\\omega$ = Speed} \\end{array}",
+      "options":[
+         "T \\propto \\omega^2",
+         "T = Constant",
+         "T \\propto \\omega",
+         "T \\propto \\dfrac{1}{\\omega}",
+         "\\text{Answer not known}"
+      ],
+      "ans":1,
+      "fig":""
+   },
+   {
+      "qno":156,
+      "qdes":"\\text{The power developed by the motor is the machine works under braking opposing the motion, then it is called as}",
+      "options":[
+         "\\text{Forward braking}",
+         "\\text{Forward motoring}",
+         "\\text{Reverse braking}",
+         "\\text{Reverse motoring}",
+         "\\text{Answer not known}"
+      ],
+      "ans":1,
+      "fig":""
+   },
+   {
+      "qno":157,
+      "qdes":"\\begin{array}{l} \\text{Single-phase half bridge-inverter has a resistive load of R = 3$\\Omega$ and the d.c. input voltage E$_{dc}$ = 50V.} \\\\ \\text{Calculate the RMS output voltage at fundamental frequency E$_1$ and output power P$_0$.} \\end{array}",
+      "options":[
+         "15.76 V, 253 W",
+         "22.5 V, 253 W",
+         "22.5 V, 208.33 W",
+         "15.76 V, 208.33 W",
+         "\\text{Answer not known}"
+      ],
+      "ans":3,
+      "fig":""
+   },
+   {
+      "qno":158,
+      "qdes":"\\begin{array}{l} \\text{Assertion [A] : On line UPS provides zero transition time.} \\\\ \\text{Reason [R] : Time required to normal to backup mode and vice versa is zero.} \\end{array}",
+      "options":[
+         "\\text{[A] is true [R] is false}",
+         "\\text{Both [A] and [R] are true, and [R] is the correct explanation}",
+         "\\text{[A] is false, [R] is true}",
+         "\\text{Both [A] and [R] are true, and [R] is not the correct explanation}",
+         "\\text{Answer not known}"
+      ],
+      "ans":2,
+      "fig":""
+   },
+   {
+      "qno":159,
+      "qdes":"\\text{There is an inherent short circuit protection in}",
+      "options":[
+         "\\text{Voltage source inverter}",
+         "\\text{Current source inverter}",
+         "\\text{AC voltage controller}",
+         "\\text{Cyclo converter}",
+         "\\text{Answer not known}"
+      ],
+      "ans":2,
+      "fig":""
+   },
+   {
+      "qno":160,
+      "qdes":"\\text{The converter which produces a lower average output voltage than the dc i/p voltage is known as}",
+      "options":[
+         "\\text{Cuk converter}",
+         "\\text{Buck-Boost converter}",
+         "\\text{Boost converter}",
+         "\\text{Buck converter}",
+         "\\text{Answer not known}"
+      ],
+      "ans":4,
+      "fig":""
+   },
+   {
+      "qno":161,
+      "qdes":"\\text{If T is the chopper circuit's time period and $\\alpha$ is its duty cycle, the chopping frequency is}",
+      "options":[
+         "T_{ON}/\\alpha",
+         "T_{OFF}/\\alpha",
+         "\\alpha/T_{ON}",
+         "\\alpha/T_{OFF}",
+         "\\text{Answer not known}"
+      ],
+      "ans":3,
+      "fig":""
+   },
+   {
+      "qno":162,
+      "qdes":"\\text{What is the maximum output voltage of a 3$\\phi$ bridge rectifier supplied with line voltage of 440 V?}",
+      "options":[
+         "528 V",
+         "396 V",
+         "594 V",
+         "616 V",
+         "\\text{Answer not known}"
+      ],
+      "ans":3,
+      "fig":""
+   },
+   {
+      "qno":163,
+      "qdes":"\\begin{array}{l} \\text{A single phase ac voltage controller feeds power to a resistive load of 3$\\Omega$ from 230 V, 50 Hz source.} \\\\ \\text{Calculate the maximum values of average thyristor current for firing angle $\\alpha = 0$.} \\end{array}",
+      "options":[
+         "34.512 A",
+         "24.403 A",
+         "17.262 A",
+         "38.621 A",
+         "\\text{Answer not known}"
+      ],
+      "ans":1,
+      "fig":""
+   },
+   {
+      "qno":164,
+      "qdes":"\\begin{array}{l} \\text{A single phase transformer, with secondary voltage of 230 V, 50 Hz, delivers power to load R = 10$\\Omega$} \\\\ \\text{through a half wave controlled rectifier circuit, for a firing angle delay of 60$^\\circ$, determine average O/P current.} \\end{array}",
+      "options":[
+         "77.64 A",
+         "7.764 A",
+         "776.4 A",
+         "0.7764 A",
+         "\\text{Answer not known}"
+      ],
+      "ans":2,
+      "fig":""
+   },
+   {
+      "qno":165,
+      "qdes":"\\begin{array}{l} \\text{The fundamental current component of a full wave diode bridge rectifier is 3A and the displacement factor is 0.9.} \\\\ \\text{When the supply current is purely sinusoidal the input power factor of the circuit is} \\end{array}",
+      "options":[
+         "zero",
+         "0.9 lagging",
+         "0.45 lagging",
+         "0.707 lagging",
+         "\\text{Answer not known}"
+      ],
+      "ans":2,
+      "fig":""
+   },
+   {
+      "qno":166,
+      "qdes":"\\text{The part A of 8255 can be accessible when the pine A1 and A0 are}",
+      "options":[
+         "A1 = 0; A0 = 0",
+         "A1 = 0; A0 = 1",
+         "A1 = 1; A0 = 0",
+         "A1 = 1; A0 = 1"
+      ],
+      "ans":1,
+      "fig":""
+   },
+   {
+      "qno":167,
+      "qdes":"\\begin{array}{l} \\text{A memory mapped I/O device has an address of OOFOH. Which of the following 8085 instruction outputs the content of the accumulator} \\\\ \\text{to the I/O Device?} \\end{array}",
+      "options":[
+         "\\begin{array}{l} \\text{LXI H,OOFOH} \\\\ \\text{MOV M,A} \\end{array}",
+         "\\begin{array}{l} \\text{LXI H,OOFOH} \\\\ \\text{OUTM} \\end{array}",
+         "\\begin{array}{l} \\text{LXIH, OOFOH} \\\\ \\text{OUT FOH} \\end{array}",
+         "\\begin{array}{l} \\text{LXIH, OOFOH} \\\\ \\text{MOVA, M} \\end{array}",
+         "\\text{Answer not known}"
+      ],
+      "ans":2,
+      "fig":""
+   },
+   {
+      "qno":168,
+      "qdes":"\\text{The 8051 instruction JBC ACC.O, X makes the program to}",
+      "options":[
+         "\\text{jump to location X if the LSB of accumulator is HIGH}",
+         "\\text{jump to location X if the LSB of accumulator is HIGH and also clears the LSB of accumulator}",
+         "\\text{jump to location X if the LSB of accumulator is LOW}",
+         "\\text{jump to location X if the LSB of accumulator is LOW and also sets the LSB of accumulator}",
+         "\\text{Answer not known}"
+      ],
+      "ans":2,
+      "fig":""
+   },
+   {
+      "qno":169,
+      "qdes":"\\text{The parameters widely used in transmission line theory}",
+      "options":[
+         "\\text{Z$-$Parameters}",
+         "\\text{Y$-$Parameters}",
+         "\\text{ABCD$-$Parameters}",
+         "\\text{H$-$Parameters}",
+         "\\text{Answer not known}"
+      ],
+      "ans":3,
+      "fig":""
+   },
+   {
+      "qno":170,
+      "qdes":"\\begin{array}{l} \\text{A single phase half wave rectifier is connected to a 240V supply. The load resistance R=10$\\Omega$, L=0.5mH and firing angle $\\alpha$=30} \\\\ \\text{Find the average output voltage.} \\end{array}",
+      "options":[
+         "50 V",
+         "100 V",
+         "150 V",
+         "200 V",
+         "\\text{Answer not known}"
+      ],
+      "ans":2,
+      "fig":""
+   },
+   {
+      "qno":171,
+      "qdes":"\\text{Carson's rule in the frequency modulation}",
+      "options":[
+         "2\\Delta f(1+\\dfrac{1}{\\beta})",
+         "2\\Delta f(\\beta+1)",
+         "2\\Delta f(\\dfrac{1}{\\beta})",
+         "\\Delta f(1+\\dfrac{1}{\\beta})",
+         "\\text{Answer not known}"
+      ],
+      "ans":1,
+      "fig":""
+   },
+   {
+      "qno":172,
+      "qdes":"\\text{The biggest disadvantages of PCM is}",
+      "options":[
+         "\\text{inability to handle analog signals}",
+         "\\text{the high error rate which its quantizing noise introduces}",
+         "\\text{incompatibility with TDM}",
+         "\\text{the requirement of larger bandwidth}",
+         "\\text{Answer not known}"
+      ],
+      "ans":4,
+      "fig":""
+   },
+   {
+      "qno":173,
+      "qdes":"\\text{In remote areas of Jammu and Kashmir and border districts of Arunachal Pradesh which one of the power plants are the only source of energy}",
+      "options":[
+         "\\text{PV - Diesel}",
+         "\\text{Micro hydel - PV}",
+         "\\text{Biomass - Diesel}",
+         "\\text{Solar - Biomass}",
+         "\\text{Answer not known}"
+      ],
+      "ans":2,
+      "fig":""
+   },
+   {
+      "qno":174,
+      "qdes":"\\text{The instruction RST 7 is a}",
+      "options":[
+         "\\text{Restart instruction that begins the execution of a program}",
+         "\\text{One-byte call to the memory address 0038 H}",
+         "\\text{One-byte call to the memory address 0007 H}",
+         "\\text{Hardware interrupt}",
+         "\\text{Answer not known}"
+      ],
+      "ans":2,
+      "fig":""
+   },
+   {
+      "qno":175,
+      "qdes":"\\text{Determine the Z-transform } x(n) = (1+n)\\cup(n)",
+      "options":[
+         "x(z) = \\dfrac{1}{(1-z^{-1})^2}",
+         "x(z) = \\dfrac{1}{(1+z^{+1})^2}",
+         "x(z) = \\dfrac{1}{(1-z^{-1})^{-2}}",
+         "x(z) = \\dfrac{1}{(1-z^{-1})}",
+         "\\text{Answer not known}"
+      ],
+      "ans":1,
+      "fig":""
+   },
+   {
+      "qno":176,
+      "qdes":"\\text{Which of the following is not a part of a modern wind turbine?}",
+      "options":[
+         "\\text{Compressor}",
+         "\\text{Gearbox}",
+         "\\text{Nacelle}",
+         "\\text{Yaw drive}",
+         "\\text{Answer not known}"
+      ],
+      "ans":1,
+      "fig":""
+   },
+   {
+      "qno":177,
+      "qdes":"\\begin{array}{l} \\text{In 8279, keyboard or Display interface the pins used to scan both} \\\\ \\text{the keyboard and displays are} \\end{array}",
+      "options":[
+         "\\text{OUT B3 - OUT B0}",
+         "\\text{RL 7 - RL 0}",
+         "\\text{DB 7 - DB 0}",
+         "\\text{SL 3 - SL 0}",
+         "\\text{Answer not known}"
+      ],
+      "ans":4,
+      "fig":""
+   },
+   {
+      "qno":178,
+      "qdes":"\\begin{array}{l} \\text{Power of an air mass flows in wind power generation does not depend} \\\\ \\text{upon} \\end{array}",
+      "options":[
+         "\\text{Air density}",
+         "\\text{Wind speed}",
+         "\\text{Area in which air passes}",
+         "\\text{Moisture present in air}",
+         "\\text{Answer not known}"
+      ],
+      "ans":4,
+      "fig":""
+   },
+   {
+      "qno":179,
+      "qdes":"\\begin{array}{l} \\text{If the speed of a wind stream remains unchanged while passing through} \\\\ \\text{the rotor,} \\end{array}",
+      "options":[
+         "\\text{a large power will be generated}",
+         "\\text{the flow is known as stalled flow}",
+         "\\text{the speed of the rotor will be very high}",
+         "\\text{zero power will be generated}",
+         "\\text{Answer not known}"
+      ],
+      "ans":4,
+      "fig":""
+   },
+   {
+      "qno":180,
+      "qdes":"\\begin{array}{l} \\text{If the speed of a wind stream remains unchanged while passing through} \\\\ \\text{the rotor,} \\end{array}",
+      "options":[
+         "\\text{a large power will be generated}",
+         "\\text{the flow is known as stalled flow}",
+         "\\text{the speed of the rotor will be very high}",
+         "\\text{zero power will be generated}",
+         "\\text{Answer not known}"
+      ],
+      "ans":4,
+      "fig":""
+   },
+   {
+      "qno":181,
+      "qdes":"\\text{In a fuel cell the negative electrode is of}",
+      "options":[
+         "\\text{Carbon monoxide}",
+         "\\text{Hydrogen}",
+         "\\text{Oxygen}",
+         "\\text{Ammonia}",
+         "\\text{Answer not known}"
+      ],
+      "ans":2,
+      "fig":""
+   },
+   {
+      "qno":182,
+      "qdes":"\\begin{array}{l} \\text{For small schemes (less than 2 kW), (12 $-$ 24V) dc generation is desirable} \\\\ \\text{where} \\end{array}",
+      "options":[
+         "\\text{All loads are close to the generator}",
+         "\\text{All loads are far away from the generator}",
+         "\\text{Only lamp loads are used}",
+         "\\text{Only dynamic loads are used}",
+         "\\text{Answer not known}"
+      ],
+      "ans":1,
+      "fig":""
+   },
+   {
+      "qno":183,
+      "qdes":"\\begin{array}{l} \\text{If the angle of refraction into a medium is $\\ge$ the critical angle of refraction} \\end{array}",
+      "options":[
+         "\\text{there will be 100\\% reflection and 0\\% refraction}",
+         "\\text{there will be 0\\% reflection and 100\\% refraction}",
+         "\\text{there will be 50\\% reflection and 50\\% refraction}",
+         "\\text{there will be 25\\% reflection and 75\\% refraction}",
+         "\\text{Answer not known}"
+      ],
+      "ans":1,
+      "fig":""
+   },
+   {
+      "qno":184,
+      "qdes":"\\text{The output of solar cell is of the order of}",
+      "options":[
+         "1 W",
+         "5 W",
+         "10 W",
+         "20 W",
+         "\\text{Answer not known}"
+      ],
+      "ans":1,
+      "fig":""
+   },
+   {
+      "qno":185,
+      "qdes":"\\text{The level of solar intensity before entering the earth's atmosphere is called}",
+      "options":[
+         "\\text{The Boltzmann's constant}",
+         "\\text{Solar constant}",
+         "\\text{Fermi level constant}",
+         "\\text{Valence band constant}",
+         "\\text{Answer not known}"
+      ],
+      "ans":2,
+      "fig":""
+   },
+   {
+      "qno":186,
+      "qdes":"\\text{The fill factor FF of a solar cell is defined as}",
+      "options":[
+         "V_{OC} \\cdot I_{SC}",
+         "V_{OC} \\cdot I_{SC} / P_{min}",
+         "P_{max} / V_{OC} \\cdot I_{SC}",
+         "P_{max} / P_{min}",
+         "\\text{Answer not known}"
+      ],
+      "ans":3,
+      "fig":""
+   },
+   {
+      "qno":187,
+      "qdes":"\\text{Superposition theorem is valid for \\text{----------} response.}",
+      "options":[
+         "\\text{Only power}",
+         "\\text{Only current}",
+         "\\text{Only voltage}",
+         "\\text{Voltage and current}",
+         "\\text{Answer not known}"
+      ],
+      "ans":4,
+      "fig":""
+   },
+   {
+      "qno":188,
+      "qdes":"\\begin{array}{l} \\text{If the speed of a wind stream remains unchanged while passing through} \\\\ \\text{the rotor,} \\end{array}",
+      "options":[
+         "\\text{a large power will be generated}",
+         "\\text{the flow is known as stalled flow}",
+         "\\text{the speed of the rotor will be very high}",
+         "\\text{zero power will be generated}",
+         "\\text{Answer not known}"
+      ],
+      "ans":4,
+      "fig":""
+   },
+   {
+      "qno":189,
+      "qdes":"\\begin{array}{l} \\text{A balance three phase load is supplied from a 3$\\phi$ supply. The} \\\\ \\text{contact in line c of the triple pole switch contactor fails to connect} \\\\ \\text{when switched on. If the line currents in lines a and b records 25 A} \\\\ \\text{each, then the positive sequence component of the current is} \\end{array}",
+      "options":[
+         "14.4 \\angle 30^\\circ A",
+         "25.0 \\angle -30^\\circ A",
+         "14.4 \\angle -30^\\circ A",
+         "25.0 \\angle 30^\\circ A",
+         "\\text{Answer not known}"
+      ],
+      "ans":3,
+      "fig":"https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/02B-050-10-FIG-Q189.png"
+   },
+   {
+      "qno":190,
+      "qdes":"\\text{The wind intensity can be described by}",
+      "options":[
+         "\\text{Reynolds number}",
+         "\\text{Mach number}",
+         "\\text{Beaufort number}",
+         "\\text{Froude number}",
+         "\\text{Answer not known}"
+      ],
+      "ans":3,
+      "fig":""
+   },
+   {
+      "qno":191,
+      "qdes":"\\text{The operating temperature of Molten Carbonate Fuel Cells (MCFCs) is around}",
+      "options":[
+         "650^\\circ C",
+         "750^\\circ C",
+         "850^\\circ C",
+         "950^\\circ C",
+         "\\text{Answer not known}"
+      ],
+      "ans":1,
+      "fig":""
+   },
+   {
+      "qno":192,
+      "qdes":"\\text{At solar noon, the hour angle is}",
+      "options":[
+         "\\text{Zero degrees}",
+         "-90$^\\circ$",
+         "+90$^\\circ$",
+         "+180$^\\circ$",
+         "\\text{Answer not known}"
+      ],
+      "ans":1,
+      "fig":""
+   },
+   {
+      "qno":193,
+      "qdes":"\\text{The cut-out speed of a wind turbine is from}",
+      "options":[
+         "\\text{25 m/s to 40 m/s}",
+         "\\text{30 m/s to 60 m/s}",
+         "\\text{40 m/s to 60 m/s}",
+         "\\text{40 m/s to 80 m/s}",
+         "\\text{Answer not known}"
+      ],
+      "ans":1,
+      "fig":""
+   },
+   {
+      "qno":194,
+      "qdes":"\\text{The ion exchange membrane in fuel cell is permeable to}",
+      "options":[
+         "\\text{all gases}",
+         "\\text{oxygen ions}",
+         "\\text{hydrogen ions}",
+         "\\text{both oxygen and hydrogen ions}",
+         "\\text{Answer not known}"
+      ],
+      "ans":3,
+      "fig":""
+   },
+   {
+      "qno":195,
+      "qdes":"\\begin{array}{l} \\text{For proper operation of a fuel cell, the operating point is set in} \\\\ \\text{\\text{----------} of the VI characteristics.} \\end{array}",
+      "options":[
+         "\\text{high load region}",
+         "\\text{low load region}",
+         "\\text{middle, near flat region}",
+         "\\text{any region, irrespective of load}",
+         "\\text{Answer not known}"
+      ],
+      "ans":3,
+      "fig":""
+   },
+   {
+      "qno":196,
+      "qdes":"\\text{Gauss law relates the electric field intensity E with volume charge density $\\rho$ at point as}",
+      "options":[
+         "\\nabla \\times E = \\epsilon_0 \\rho",
+         "\\nabla \\cdot E = \\dfrac{\\rho}{\\epsilon_0}",
+         "\\nabla \\times E = \\dfrac{\\rho}{\\epsilon_0}",
+         "\\nabla \\cdot E = \\epsilon_0 \\rho",
+         "\\text{Answer not known}"
+      ],
+      "ans":2,
+      "fig":""
+   },
+   {
+      "qno":197,
+      "qdes":"\\text{The theoretical conversion efficiency of hydrogen - oxygen fuel cell at 25$^\\circ$ C is}",
+      "options":[
+         "56\\%",
+         "17\\%",
+         "75\\%",
+         "83\\%",
+         "\\text{Answer not known}"
+      ],
+      "ans":4,
+      "fig":""
+   },
+   {
+      "qno":198,
+      "qdes":"\\text{The simplest method of hydrogen production is}",
+      "options":[
+         "\\text{Biophotosynthesis}",
+         "\\text{Electrolysis of water}",
+         "\\text{Steam reforming of Methane}",
+         "\\text{Thermolysis of water}",
+         "\\text{Answer not known}"
+      ],
+      "ans":2,
+      "fig":""
+   },
+   {
+      "qno":199,
+      "qdes":"\\text{Freshel's equations relate}",
+      "options":[
+         "\\text{The magnitude of incident waves and power generated}",
+         "\\text{The magnitude of incident, reflected and refracted waves}",
+         "\\text{The magnitude of reflected waves and temperature}",
+         "\\text{The magnitude of refracted waves and power generated}",
+         "\\text{Answer not known}"
+      ],
+      "ans":2,
+      "fig":""
+   },
+   {
+      "qno":200,
+      "qdes":"\\text{Wind Turbines with a high number of blades have}",
+      "options":[
+         "\\text{Low tip speed ratio}",
+         "\\text{High starting torque}",
+         "\\text{Low tip speed ratio but a high starting torque}",
+         "\\text{Neither (A) nor (B)}",
+         "\\text{Answer not known}"
+      ],
+      "ans":3,
+      "fig":""
    }
 ]
