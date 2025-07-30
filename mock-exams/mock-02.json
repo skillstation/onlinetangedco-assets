@@ -965,18 +965,17 @@
     "fig": ""
   },
   {
-    "qno": 176,
-    "qdes": "\\text{Determine the Z-transform } x(n) = (1+n)\\cup(n)",
-    "options": [
-      "x(z) = \\dfrac{1}{(1-z^{-1})^2}",
-      "x(z) = \\dfrac{1}{(1+z^{+1})^2}",
-      "x(z) = \\dfrac{1}{(1-z^{-1})^{-2}}",
-      "x(z) = \\dfrac{1}{(1-z^{-1})}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
+  "qdes": "\\text{Which of the following is not a part of a modern wind turbine?}",
+  "options": [
+    "\\text{Compressor}",
+    "\\text{Gearbox}",
+    "\\text{Nacelle}",
+    "\\text{Yaw drive}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
   {
     "qno": 177,
     "qdes": "\\begin{array}{l} \\text{In 8279, keyboard or Display interface the pins used to scan both} \\\\ \\text{the keyboard and displays are} \\end{array}",
