@@ -472,7 +472,110 @@
   "ans": 2,
   "fig": ""
 },
-  
+  {
+  "qno": 38,
+  "qdes": "\\text{A circular coil of radius 2 m carries a current of 4 amperes. What is the value of magnetic field intensity at the centre?}",
+  "options": [
+    "2\\ \\text{A/m}",
+    "1\\ \\text{A/m}",
+    "10\\ \\text{A/m}",
+    "4\\ \\text{A/m}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 39,
+  "qdes": "\\text{If an amplifier with open loop gain of } 10^4 \\text{ and feedback factor } \\beta = 0.1 \\text{ has lower 3 dB frequency 100 Hz and upper 3 dB frequency as 1 KHz. Find the lower 3 dB frequency in the presence of feedback}",
+  "options": [
+    "0.1\\ \\text{Hz}",
+    "100\\ \\text{Hz}",
+    "10000\\ \\text{Hz}",
+    "1000\\ \\text{Hz}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 40,
+  "qdes": "\\text{The maximum value of power coefficient in a wind turbine is}",
+  "options": [
+    "0.693",
+    "0.593",
+    "0.493",
+    "0.395",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 41,
+  "qdes": "\\text{The divergence of the given field } \\vec{F} = 30\\,\\vec{a}_x + 2xy\\,\\vec{a}_y + 5xz^2\\,\\vec{a}_z \\text{ at } (1,1,-0.2) \\text{ is}",
+  "options": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 42,
+  "qdes": "\\text{The expression } \\oint \\vec{H} \\cdot d\\vec{l} = \\int_S \\vec{J} \\cdot d\\vec{s} \\text{ represents}",
+  "options": [
+    "\\text{Lenz's Law}",
+    "\\text{Maxwell equation}",
+    "\\text{Ampere's Law}",
+    "\\text{Faraday's Law}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+{
+  "qno": 43,
+  "qdes": "\\text{The energy quality index can be defined as the ratio of}\\ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_",
+  "options": [
+    "\\text{Energy Loss / Energy input}",
+    "\\dfrac{\\text{Energy availability of output}}{\\text{Energy availability of input}}",
+    "\\dfrac{\\text{Energy availability of Input}}{\\text{Energy availability of output}}",
+    "\\text{Energy input / Energy output}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 44,
+  "qdes": "\\text{The surge impedance of a 3 phase 400 KV transmission line is } 400\\ \\Omega.\\ \\text{The surge impedance loading is}",
+  "options": [
+    "400\\ \\text{MW}",
+    "100\\ \\text{MW}",
+    "1600\\ \\text{MW}",
+    "200\\ \\text{MW}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 45,
+  "qdes": "\\text{Energy stored in a coil is doubled when current is increased by}",
+  "options": [
+    "100\\%",
+    "41.4\\%",
+    "50\\%",
+    "35\\%",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+
 
 
 
