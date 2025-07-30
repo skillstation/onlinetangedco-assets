@@ -1,3 +1,119 @@
 [
-
+    {
+        "qno": 1,
+        "qdes": "\\text{Determine the value of R and L of the inductor connected in the bridge circuit shown in fig.}",
+        "options": [
+            "\\text{1000 }\\omega\\text{, 500 mH}",
+            "\\text{666.6 }\\omega\\text{, 180 mH}",
+            "\\text{240 }\\omega\\text{, 120 mH}",
+            "\\text{120 }\\omega\\text{, 240 mH}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": "image_2a04a3.png"
+    },
+    {
+        "qno": 2,
+        "qdes": "\\text{100 numbers of 5 $\\omega$ resistors connected in parallel. Find the effective resistance.}",
+        "options": [
+            "\\text{5 }\\omega",
+            "\\text{0.5 }\\omega",
+            "\\text{0.05 }\\omega",
+            "\\text{0.005 }\\omega",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 3,
+        "qdes": "\\text{An op-amp has a differential gain of 10^3 and a CMRR of 100. The output voltage of the op-amp with inputs of 120 $\\mu V$ and 80 $\\mu V$ will be}",
+        "options": [
+            "\\text{26 mV}",
+            "\\text{41 mV}",
+            "\\text{100 mV}",
+            "\\text{200 mV}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 4,
+        "qdes": "\\text{In a delta connected three phase system, the relation between the line and the phase values of voltage and current are}",
+        "options": [
+            "\\text{V_L = V_{ph}, I_L = }\\sqrt{3}\\text{ I_{ph}}",
+            "\\text{V_L = }\\sqrt{3}\\text{ V_{ph}, I_L = I_{ph}}",
+            "\\text{V_L = }\\frac{V_{ph}}{\\sqrt{3}}\\text{, I_L = I_{ph}}",
+            "\\text{V_L = V_{ph}, I_L = }\\frac{I_{ph}}{\\sqrt{3}}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 5,
+        "qdes": "\\text{Two resistances are connected in parallel and each dissipates 40 W. The total power supplied by the source equals}",
+        "options": [
+            "\\text{80 watts}",
+            "\\text{40 watts}",
+            "\\text{160 watts}",
+            "\\text{20 watts}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 6,
+        "qdes": "\\text{The Norton's equivalent circuit shown in the figure II is drawn from figure I. The value of I_{SC} and R_{eq} in the fig. II is}",
+        "options": [
+            "\\text{5/2 A and 2 }\\omega",
+            "\\text{2/5 A and 1 }\\omega",
+            "\\text{4/5 A and 12/5 }\\omega",
+            "\\text{2/5 A and 2 A}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": "image_2a9348.png"
+    },
+    {
+        "qno": 7,
+        "qdes": "\\text{In fig. find the expression for current at t=0+, following switching (opening of S). Assume steady state when S was closed.}",
+        "options": [
+            "\\text{2e^{-t} Amps}",
+            "\\text{3e^{-2t} Amps}",
+            "\\text{5e^{-3t} Amps}",
+            "\\text{2e^{-2t} Amps}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": "image_2afc87.png"
+    },
+    {
+        "qno": 8,
+        "qdes": "\\text{A zener diode, when used in voltage stabilization circuits is used in}",
+        "options": [
+            "\\text{Reverse bias region below the breakdown voltage}",
+            "\\text{Reverse breakdown region}",
+            "\\text{Forward bias region}",
+            "\\text{Forward bias constant current mode}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 9,
+        "qdes": "\\text{Superposition theorem is not applicable for}",
+        "options": [
+            "\\text{Voltage calculations}",
+            "\\text{Bilateral elements}",
+            "\\text{Power calculations}",
+            "\\text{Passive elements}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    }
 ]
