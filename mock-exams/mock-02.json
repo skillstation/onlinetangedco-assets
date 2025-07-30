@@ -961,5 +961,70 @@
     ],
     "ans": 1,
     "fig": ""
+  },
+  {
+    "qno": 176,
+    "qdes": "\\text{Determine the Z-transform } x(n) = (1+n)\\cup(n)",
+    "options": [
+      "x(z) = \\dfrac{1}{(1-z^{-1})^2}",
+      "x(z) = \\dfrac{1}{(1+z^{+1})^2}",
+      "x(z) = \\dfrac{1}{(1-z^{-1})^{-2}}",
+      "x(z) = \\dfrac{1}{(1-z^{-1})}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 177,
+    "qdes": "\\begin{array}{l} \\text{In 8279, keyboard or Display interface the pins used to scan both} \\\\ \\text{the keyboard and displays are} \\end{array}",
+    "options": [
+      "\\text{OUT B3 - OUT B0}",
+      "\\text{RL 7 - RL 0}",
+      "\\text{DB 7 - DB 0}",
+      "\\text{SL 3 - SL 0}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 178,
+    "qdes": "\\begin{array}{l} \\text{Power of an air mass flows in wind power generation does not depend} \\\\ \\text{upon} \\end{array}",
+    "options": [
+      "\\text{Air density}",
+      "\\text{Wind speed}",
+      "\\text{Area in which air passes}",
+      "\\text{Moisture present in air}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 179,
+    "qdes": "\\begin{array}{l} \\text{If the speed of a wind stream remains unchanged while passing through} \\\\ \\text{the rotor,} \\end{array}",
+    "options": [
+      "\\text{a large power will be generated}",
+      "\\text{the flow is known as stalled flow}",
+      "\\text{the speed of the rotor will be very high}",
+      "\\text{zero power will be generated}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 180,
+    "qdes": "\\begin{array}{l} \\text{If the speed of a wind stream remains unchanged while passing through} \\\\ \\text{the rotor,} \\end{array}",
+    "options": [
+      "\\text{a large power will be generated}",
+      "\\text{the flow is known as stalled flow}",
+      "\\text{the speed of the rotor will be very high}",
+      "\\text{zero power will be generated}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
   }
 ]
