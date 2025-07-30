@@ -426,7 +426,8 @@
     "\\text{Under voltage relay}",
     "\\text{Offset mho relay}",
     "\\text{Under frequency relay}",
-    "\\text{Percentage differential relay}"
+    "\\text{Percentage differential relay}",
+    "\\text{Answer not known}"
   ],
   "ans": 2,
   "fig": ""
@@ -435,10 +436,11 @@
   "qno": 135,
   "qdes": "\\text{A 20000 kVA transformer with 10\\% reactance will have a reactance of \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ at 10,000 kVA base}",
   "options": [
-    "\\text{10%}",
-    "\\text{20%}",
-    "\\text{15%}",
-    "\\text{5%}"
+    "\\text{10\\%}",
+    "\\text{20\\%}",
+    "\\text{15\\%}",
+    "\\text{5\\%}",
+    "\\text{Answer not known}"
   ],
   "ans": 2,
   "fig": ""
@@ -1083,10 +1085,10 @@
     "qno": 186,
     "qdes": "\\text{The fill factor FF of a solar cell is defined as}",
     "options": [
-      "V$_{OC} \\cdot$ I$_{SC}$",
-      "V$_{OC} \\cdot$ I$_{SC}$ / P$_{min}$",
-      "P$_{max}$ / V$_{OC} \\cdot$ I$_{SC}$",
-      "P$_{max}$ / P$_{min}$",
+      "V_{OC} \\cdot I_{SC}",
+      "V_{OC} \\cdot I_{SC} / P_{min}",
+      "P_{max} / V_{OC} \\cdot I_{SC}",
+      "P_{max} / P_{min}",
       "\\text{Answer not known}"
     ],
     "ans": 3,
@@ -1148,10 +1150,10 @@
     "qno": 191,
     "qdes": "\\text{The operating temperature of Molten Carbonate Fuel Cells (MCFCs) is around}",
     "options": [
-      "650$^\\circ$C",
-      "750$^\\circ$C",
-      "850$^\\circ$C",
-      "950$^\\circ$C",
+      "650^\\circ C",
+      "750^\\circ C",
+      "850^\\circ C",
+      "950^\\circ C",
       "\\text{Answer not known}"
     ],
     "ans": 1,
@@ -1174,10 +1176,11 @@
     "qno": 193,
     "qdes": "\\text{The cut-out speed of a wind turbine is from}",
     "options": [
-      "25 m/s to 40 m/s",
-      "30 m/s to 60 m/s",
-      "40 m/s to 60 m/s",
-      "40 m/s to 80 m/s"
+      "\\text{25 m/s to 40 m/s}",
+      "\\text{30 m/s to 60 m/s}",
+      "\\text{40 m/s to 60 m/s}",
+      "\\text{40 m/s to 80 m/s}",
+      "\\text{Answer not known}"
     ],
     "ans": 1,
     "fig": ""
@@ -1208,14 +1211,14 @@
     "ans": 3,
     "fig": ""
   },
-  {
+ {
     "qno": 196,
     "qdes": "\\text{Gauss law relates the electric field intensity E with volume charge density $\\rho$ at point as}",
     "options": [
-      "$\\nabla \\times E = \\epsilon_0 \\rho$",
-      "$\\nabla \\cdot E = \\dfrac{\\rho}{\\epsilon_0}$",
-      "$\\nabla \\times E = \\dfrac{\\rho}{\\epsilon_0}$",
-      "$\\nabla \\cdot E = \\epsilon_0 \\rho$",
+      "\\nabla \\times E = \\epsilon_0 \\rho",
+      "\\nabla \\cdot E = \\dfrac{\\rho}{\\epsilon_0}",
+      "\\nabla \\times E = \\dfrac{\\rho}{\\epsilon_0}",
+      "\\nabla \\cdot E = \\epsilon_0 \\rho",
       "\\text{Answer not known}"
     ],
     "ans": 2,
