@@ -767,5 +767,197 @@
     ],
     "ans": 4,
     "fig": ""
+  },
+{
+    "qno": 161,
+    "qdes": "\\text{If T is the chopper circuit's time period and $\\alpha$ is its duty cycle, the chopping frequency is}",
+    "options": [
+      "T$_{ON}/\\alpha$",
+      "T$_{OFF}/\\alpha$",
+      "$\\alpha$/T$_{ON}$",
+      "$\\alpha$/T$_{OFF}$",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 162,
+    "qdes": "\\text{What is the maximum output voltage of a 3$\\phi$ bridge rectifier supplied with line voltage of 440 V?}",
+    "options": [
+      "528 V",
+      "396 V",
+      "594 V",
+      "616 V",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 163,
+    "qdes": "\\text{A single phase ac voltage controller feeds power to a resistive load of 3$\\Omega$ from 230 V, 50 Hz source. Calculate the maximum values of average thyristor current for firing angle $\\alpha = 0$.}",
+    "options": [
+      "34.512 A",
+      "24.403 A",
+      "17.262 A",
+      "38.621 A",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 164,
+    "qdes": "\\text{A single phase transformer, with secondary voltage of 230 V, 50 Hz, delivers power to load R = 10$\\Omega$ through a half wave controlled rectifier circuit, for a firing angle delay of 60$^\\circ$, determine average O/P current.}",
+    "options": [
+      "77.64 A",
+      "7.764 A",
+      "776.4 A",
+      "0.7764 A",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 165,
+    "qdes": "\\text{The fundamental current component of a full wave diode bridge rectifier is 3A and the displacement factor is 0.9. When the supply current is purely sinusoidal the input power factor of the circuit is}",
+    "options": [
+      "zero",
+      "0.9 lagging",
+      "0.45 lagging",
+      "0.707 lagging",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 166,
+    "qdes": "\\text{The part A of 8255 can be accessible when the pine A1 and A0 are}",
+    "options": [
+      "A1 = 0; A0 = 0",
+      "A1 = 0; A0 = 1",
+      "A1 = 1; A0 = 0",
+      "A1 = 1; A0 = 1"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 167,
+    "qdes": "\\text{A memory mapped I/O device has an address of OOFOH. Which of the following 8085 instruction outputs the content of the accumulator to the I/O Device?}",
+    "options": [
+      "LXI H,OOFOH \\newline MOV M,A",
+      "LXI H,OOFOH \\newline OUTM",
+      "LXIH, OOFOH \\newline OUT FOH",
+      "LXIH, OOFOH \\newline MOVA, M",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 168,
+    "qdes": "\\text{The 8051 instruction JBC ACC.O, X makes the program to}",
+    "options": [
+      "\\text{jump to location X if the LSB of accumulator is HIGH}",
+      "\\text{jump to location X if the LSB of accumulator is HIGH and also clears the LSB of accumulator}",
+      "\\text{jump to location X if the LSB of accumulator is LOW}",
+      "\\text{jump to location X if the LSB of accumulator is LOW and also sets the LSB of accumulator}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 169,
+    "qdes": "\\text{The parameters widely used in transmission line theory}",
+    "options": [
+      "\\text{Z$-$Parameters}",
+      "\\text{Y$-$Parameters}",
+      "\\text{ABCD$-$Parameters}",
+      "\\text{H$-$Parameters}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 170,
+    "qdes": "\\text{A single phase half wave rectifier is connected to a 240V supply. The load resistance R=10$\\Omega$, L=0.5mH and firing angle $\\alpha$=30. Find the average output voltage.}",
+    "options": [
+      "50 V",
+      "100 V",
+      "150 V",
+      "200 V",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 171,
+    "qdes": "\\text{Carson's rule in the frequency modulation}",
+    "options": [
+      "$2\\Delta f\\left(1+\\dfrac{1}{\\beta}\\right)$",
+      "$2\\Delta f(\\beta+1)$",
+      "$2\\Delta f\\left(\\dfrac{1}{\\beta}\\right)$",
+      "$\\Delta f\\left(1+\\dfrac{1}{\\beta}\\right)$",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 172,
+    "qdes": "\\text{The biggest disadvantages of PCM is}",
+    "options": [
+      "\\text{inability to handle analog signals}",
+      "\\text{the high error rate which its quantizing noise introduces}",
+      "\\text{incompatibility with TDM}",
+      "\\text{the requirement of larger bandwidth}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 173,
+    "qdes": "\\text{In remote areas of Jammu and Kashmir and border districts of Arunachal Pradesh which one of the power plants are the only source of energy}",
+    "options": [
+      "\\text{PV - Diesel}",
+      "\\text{Micro hydel - PV}",
+      "\\text{Biomass - Diesel}",
+      "\\text{Solar - Biomass}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 174,
+    "qdes": "\\text{The instruction RST 7 is a}",
+    "options": [
+      "\\text{Restart instruction that begins the execution of a program}",
+      "\\text{One-byte call to the memory address 0038 H}",
+      "\\text{One-byte call to the memory address 0007 H}",
+      "\\text{Hardware interrupt}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 175,
+    "qdes": "\\text{Determine the Z-transform } x(n) = (1+n)\\cup(n)",
+    "options": [
+      "$x(z) = \\dfrac{1}{(1-z^{-1})^2}$",
+      "$x(z) = \\dfrac{1}{(1+z^{+1})^2}$",
+      "$x(z) = \\dfrac{1}{(1-z^{-1})^{-2}}$",
+      "$x(z) = \\dfrac{1}{(1-z^{-1})}$",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
   }
 ]
