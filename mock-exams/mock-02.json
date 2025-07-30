@@ -27,7 +27,7 @@
     },
     {
         "qno": 3,
-        "qdes": "\\text{An op-amp has a differential gain of 10^3 and a CMRR of 100. The output voltage of the op-amp with inputs of 120 $\\mu V$ and 80 $\\mu V$ will be}",
+        "qdes": "\\text{An op-amp has a differential gain of }10^3 \\text{and a CMRR of 100. The output voltage of the op-amp with inputs of 120 $\\mu V$ and 80 $\\mu V$ will be}",
         "options": [
             "\\text{26 mV}",
             "\\text{41 mV}",
@@ -66,7 +66,7 @@
     },
     {
         "qno": 6,
-        "qdes": "\\text{The Norton's equivalent circuit shown in the figure II is drawn from figure I. The value of I_{SC} and R_{eq} in the fig. II is}",
+        "qdes": "\\text{The Norton's equivalent circuit shown in the figure II is drawn from figure I. The value of $I_{SC}$ and $R_{eq}$ in the fig. II is}",
         "options": [
             "\\text{5/2 A and 2 }\\omega",
             "\\text{2/5 A and 1 }\\omega",
@@ -114,6 +114,539 @@
             "\\text{Answer not known}"
         ],
         "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 10,
+        "qdes": "\\text{In a series RLC circuit, if C is increased, what happens to resonant frequency?}",
+        "options": [
+            "\\text{It increases}",
+            "\\text{It remains the same}",
+            "\\text{It decreases}",
+            "\\text{It becomes zero}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 11,
+        "qdes": "\\text{A series Rc circuit consists of R=10 }\\omega\\text{ C=0.1 F. A constant voltage of 20 V is applied to the circuit at t=0. Determine the voltage across the resistor?}",
+        "options": [
+            "\\text{20 (1-e^{-10t})volts}",
+            "\\text{20 e^{-10t} volts}",
+            "\\text{20 e^{-t} volts}",
+            "\\text{20 (1-e^{-t})volts}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": "image_2b5de5.png"
+    },
+    {
+        "qno": 12,
+        "qdes": "\\text{In the following figure the switch K is kept first at position 1 and steady state condition is reached. At }t = 0\\text{ the switch is moved to position 2. The current in both cases are}",
+        "options": [
+            "\\text{10 A and 10 }e^{-40t}",
+            "\\text{3.33 A and 3.33 }e^{-20t}",
+            "\\text{10 A and 10 }e^{-20t}",
+            "\\text{3.33 A and 3.33 }e^{-40t}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": "image_2b6984.png"
+    },
+    {
+        "qno": 13,
+        "qdes": "\\text{Determine the current flowing in the 2}\\omega\\text{ resistance in network shown in fig.}",
+        "options": [
+            "\\text{67.5 }\\omega",
+            "\\text{6.75 }\\omega",
+            "\\text{6 }\\omega",
+            "\\text{75 }\\omega",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": "image_2b6d85.png"
+    },
+    {
+        "qno": 14,
+        "qdes": "\\text{Find }V_3\\text{, if the current I in the circuit shown in the figure is 0.40 A}",
+        "options": [
+            "\\text{10 V}",
+            "\\text{15 V}",
+            "\\text{20 V}",
+            "\\text{30 V}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": "image_2b74a4.png"
+    },
+    {
+        "qno": 15,
+        "qdes": "\\text{A High-Q circuit is a resonant circuit in which the quality factor is}",
+        "options": [
+            "\\text{> 5}",
+            "\\text{$\\ge$ 5}",
+            "\\text{$\\le$ 5}",
+            "\\text{< 5}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 16,
+        "qdes": "\\text{A three phase squirrel cage induction motor is developing torque of 1500 sync. watts at 50 Hz and 1440 rpm (synchronous speed is 1500 rpm). If the motor frequency is now increased to 75 Hz using constant power mode, determine the new value of torque developed by motor at constant slip}",
+        "options": [
+            "\\text{750 sync. watts}",
+            "\\text{900 sync. watts}",
+            "\\text{1000 sync. watts}",
+            "\\text{1150 sync. watts}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 17,
+        "qdes": "\\text{At resonant frequency, a RLC series circuit draws maximum current due to}",
+        "options": [
+            "\\text{the difference between capacitive reactance and inductive reactance is zero}",
+            "\\text{the impedance is more than its resistance}",
+            "\\text{the voltage across capacitor is equal to the applied voltage}",
+            "\\text{the PF is less than unity}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 18,
+        "qdes": "\\text{The impedance of each branch of a delta connected circuit is }\\sqrt{3}\\overline{Z}\\text{. What will be the branch impedances of equivalent star-connected circuits?}",
+        "options": [
+            "$\\frac{\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{\\overline{Z}}{\\sqrt{3}}$",
+            "$\\frac{2\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{2\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{2\\overline{Z}}{\\sqrt{3}}$",
+            "$\\frac{3\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{3\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{3\\overline{Z}}{\\sqrt{3}}$",
+            "$\\frac{4\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{4\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{4\\overline{Z}}{\\sqrt{3}}$",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 19,
+        "qdes": "\\text{In a source free RLC parallel circuit , }R=4\\omega\\text{, }L=8 H\\text{, }C=\\frac{1}{2} F\\text{. The natural response is}",
+        "options": [
+            "\\text{Over damped}",
+            "\\text{Critically damped}",
+            "\\text{Under damped}",
+            "\\text{Oscillatory}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 20,
+        "qdes": "\\text{The resolution of an 8 bit DAC will be}",
+        "options": [
+            "$\\frac{1}{288}$",
+            "$\\frac{1}{128}$",
+            "$\\frac{1}{255}$",
+            "$\\frac{1}{64}$",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 21,
+        "qdes": "\\text{The equivalent inductance of two coils A and B connected as in the given figure is given by}",
+        "options": [
+            "\\text{X_{L1} + X_{L2} - 2X_M}",
+            "\\text{X_{L1} + X_{L2} + X_M}",
+            "\\text{X_{L1} + X_{L2} - X_M}",
+            "\\text{X_{L1} + X_{L2} + 2X_M}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": "image_2bed26.png"
+    },
+    {
+        "qno": 22,
+        "qdes": "\\text{In a RLC series circuit, the impedance at resonance is}",
+        "options": [
+            "\\text{Zero}",
+            "\\text{R}",
+            "\\text{Infinity}",
+            "$\\frac{L}{CR}$",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 23,
+        "qdes": "\\text{Condition for reciprocity of two port networks is}",
+        "options": [
+            "\\text{A = D}",
+            "\\text{AD - BC = 1}",
+            "\\text{AD + BC = 1}",
+            "\\text{$\\\\Delta$ h = 1}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 24,
+        "qdes": "\\text{Norton's theorem results in}",
+        "options": [
+            "\\text{A voltage source with impedance is parallel}",
+            "\\text{A current source with an impedance in parallel}",
+            "\\text{A voltage source alone}",
+            "\\text{A current source alone}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 25,
+        "qdes": "\\text{1$\\phi$, 220 V, 1 KW heater is connected to half wave controlled rectifier and is fed from a 220 V, 50 Hz ac supply. When the firing angle }\\alpha = 90^\\circ\\text{, the power absorbed by the heater will be nearly}",
+        "options": [
+            "\\text{1000 W}",
+            "\\text{750 W}",
+            "\\text{500 W}",
+            "\\text{250 W}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 26,
+        "qdes": "\\text{Statement A : Magnetic current consists of entirely a displacement component and no conductance component. Statement B : Magnetic flux lines are always continuous}",
+        "options": [
+            "\\text{Both Statement A, Statement B are correct. Statement B is correct explanation of Statement A}",
+            "\\text{Both Statements are correct. But Statement B is not correct explanation of A}",
+            "\\text{Statement A is true but B is false}",
+            "\\text{Statement A is False, but Statement B is true}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 27,
+        "qdes": "\\text{The relationship between electric field and electric potential is given by}",
+        "options": [
+            "$\\overline{E} = -\\nabla^2V$",
+            "$\\overline{E} = V$",
+            "$\\overline{E} = -\\nabla V$",
+            "$\\overline{E} = -\\frac{\\nabla V}{2}$",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 28,
+        "qdes": "\\text{Match List I with List II and select the correct answer using the codes given below the lists. List I (Law / Quantity) (a) Gauss's Law (b) Ampere's law (c) Faraday's law (d) Poynting vector List II (Mathematical expression) 1. }\\nabla \\cdot \\overline{D} = \\rho\\text{ 2. }\\nabla \\times \\overline{E} = -\\frac{\\partial \\overline{B}}{\\partial t}\\text{ 3. }\\overline{S} = \\overline{E} \\times \\overline{H}\\text{ 4. }\\nabla \\times \\overline{H} = \\overline{J}_c + \\frac{\\partial \\overline{D}}{\\partial t}\\text{ 5. }\\overline{F} = q (\\overline{E} + \\overline{V} \\times \\overline{B})\\text{ Codes :}",
+        "options": [
+            "\\text{(a) 1 (b) 2 (c) 4 (d) 3}",
+            "\\text{(a) 3 (b) 5 (c) 2 (d) 1}",
+            "\\text{(a) 1 (b) 4 (c) 2 (d) 3}",
+            "\\text{(a) 3 (b) 2 (c) 4 (d) 1}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 29,
+        "qdes": "\\text{A circuit has 1000 turns enclosing a magnetic circuit 20 }cm^2\\text{ in section. With 4A, the flux density is 1.0 Wb/}m^2\\text{ and with 9 A, it is 1.4 Wb/}m^2\\text{. The mean value of the inductance between these current limits is}",
+        "options": [
+            "\\text{1600 H}",
+            "\\text{160 H}",
+            "\\text{16 H}",
+            "\\text{0.16 H}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 30,
+        "qdes": "\\text{The current following in a capacitor is called}",
+        "options": [
+            "\\text{Conduction current}",
+            "\\text{Linear current}",
+            "\\text{Displacement current}",
+            "\\text{Constant current}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 31,
+        "qdes": "\\text{Given field A = }3x^2 yz\\text{a}_x + x^3 z\\text{a}_y + (x^3 y - 2z)\\text{a}_z\\text{ it can be said that A is}",
+        "options": [
+            "\\text{Harmonic}",
+            "\\text{Divergenceless}",
+            "\\text{Solenoidal}",
+            "\\text{Conservative}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 32,
+        "qdes": "\\text{What will be the current passing through the ring shaped air cored coil when number of turns is 800 and ampere turns are 2400?}",
+        "options": [
+            "\\text{6 A}",
+            "\\text{1.5 A}",
+            "\\text{12 A}",
+            "\\text{3 A}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 33,
+        "qdes": "\\text{A High-Q circuit is a resonant circuit in which the quality factor is}",
+        "options": [
+            "\\text{> 5}",
+            "\\text{$\\ge$ 5}",
+            "\\text{$\\\\le$ 5}",
+            "\\text{< 5}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 34,
+        "qdes": "\\text{The peak factor and form factor of the sinusoidal waveform are ----------------- respectively.}",
+        "options": [
+            "\\text{1.11, 1.414}",
+            "\\text{1.414, 1.11}",
+            "\\text{1.41, 1.14}",
+            "\\text{1.14, 1.11}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 35,
+        "qdes": "\\text{Plane }z = 10m\\text{ carries charge }20 nc/m^2\\text{. The electric field intensity at the origin is}",
+        "options": [
+            "\\text{-10}a_z\\text{ V/m}",
+            "\\text{-18}\\pi a_z\\text{ V/m}",
+            "\\text{-72}\\pi a_z\\text{ V/m}",
+            "\\text{-360}\\pi a_z\\text{ V/m}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 36,
+        "qdes": "\\text{Which of the following field equation indicate that the free magnetic charges does not exist?}",
+        "options": [
+            "$\\overline{H} = (1/\\mu)(\\nabla \\times \\overline{A})$",
+            "$\\overline{H} = \\int \\frac{Id\\overline{l} \\times \\overline{v}}{4\\pi R^2}$",
+            "$\\nabla \\cdot \\overline{H} = 0$",
+            "$\\nabla \\times \\overline{H} = \\overline{J}$",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 37,
+        "qdes": "\\text{Force experienced by a charge q placed in static electric field of intensity E is given by}",
+        "options": [
+            "$\\overline{F} = \\overline{E}q$",
+            "\\text{F = }$\\frac{E^2}{q}$",
+            "$\\overline{F} = \\frac{\\overline{E}}{q}$",
+            "$\\overline{F} = \\overline{E}q^2$",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 38,
+        "qdes": "\\text{Which of the following is a mathematically incorrect expression?}",
+        "options": [
+            "\\text{Grad DN}",
+            "\\text{Div Curl}",
+            "\\text{Grad Curl}",
+            "\\text{Crul Grad}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 39,
+        "qdes": "\\text{A wire of length }L\\text{ is bent in the form of circular loop and current is passed through the loop. The magnetic field induction at the centre of the loop is }B\\text{. Find the current passing through the loop}",
+        "options": [
+            "$\\frac{B\\pi L}{\\mu_0}$",
+            "$\\frac{BL}{\\pi \\mu_0}$",
+            "$\\frac{B\\pi}{L\\mu_0}$",
+            "$\\frac{BL}{\\pi}$",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 40,
+        "qdes": "\\text{In }xy\\text{-plane, }Q_1=100 \\mu C\\text{ at (2, 3, 0) m experiences a repulsive force of 7.5 N because of }Q_2\\text{ at (10, 6, 0) m. Find }Q_2",
+        "options": [
+            "\\text{608 }\\mu C",
+            "\\text{668 }\\mu C",
+            "\\text{688 }\\mu C",
+            "\\text{638 }\\mu C",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 41,
+        "qdes": "$\\nabla \\cdot (\\nabla \\times \\text{A) is equal to}$",
+        "options": [
+            "\\text{1}",
+            "\\text{-1}",
+            "\\text{0}",
+            "\\text{$\\infty$}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 42,
+        "qdes": "\\text{The ideal transformer has } N_2/N_1 = 10. \\text{ The ratio } V_2/V_1 \\text{ is}",
+        "options": [
+            "\\text{10}",
+            "\\text{0.1}",
+            "\\text{-0.1}",
+            "\\text{-10}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": "image.png"
+    },
+    {
+        "qno": 43,
+        "qdes": "\\text{The electric flux and field intensity inside a conducting sphere is}",
+        "options": [
+            "\\text{Maximum}",
+            "\\text{Minimum}",
+            "\\text{Zero}",
+            "\\text{Uniform}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 44,
+        "qdes": "\\text{A wedge is described by } z = 0.30^\\circ < \\phi < 60^\\circ. \\text{ Which of the following is incorrect?}",
+        "options": [
+            "\\text{The wedge lies in the } x - y \\text{ plane}",
+            "\\text{It is infinitely long}",
+            "\\text{On the wedge, } 0 < \\rho < \\alpha",
+            "\\text{A unit normal to the wedge is } \\pm a_z",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 45,
+        "qdes": "\\text{Image theory is applicable to problem involving}",
+        "options": [
+            "\\text{Electro static field only}",
+            "\\text{Magneto static field only}",
+            "\\text{Both electro static and magneto static fields}",
+            "\\text{Neither electro static nor magneto static fields}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 46,
+        "qdes": "\\text{The damping torque in a measuring instrument can be produced by}",
+        "options": [
+            "\\text{Eddy current}",
+            "\\text{Gravity control}",
+            "\\text{Electro statically}",
+            "\\text{Thermally}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 47,
+        "qdes": "\\text{A separately excited dc motor is fed from a 500 V dc source through a one quadrant chopper. } R_a = 0.1\\Omega \\text{ and armature current is 200 A. The voltage and torque constant are 1.4 V/A - rad/sec and 1.4 N-M/A}^2. \\text{ The field current is 2 A. The duty cycle of chopper is 0.5. Find the speed of the motor.}",
+        "options": [
+            "\\text{770.20 rpm}",
+            "\\text{774.62 rpm}",
+            "\\text{756.83 rpm}",
+            "\\text{784.38 rpm}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 48,
+        "qdes": "\\text{The simple input and output mode in 8255 is}",
+        "options": [
+            "\\text{Mode 0}",
+            "\\text{Mode 1}",
+            "\\text{Mode 2}",
+            "\\text{Mode 3}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 49,
+        "qdes": "\\text{Harmonic distortion analyzer is used to}",
+        "options": [
+            "\\text{Measure the amplitude of each harmonic}",
+            "\\text{Measure RMS value of fundamental frequency component}",
+            "\\text{Measure all harmonics except fundament frequency component}",
+            "\\text{Display RMS value of each harmonic on CRO}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 50,
+        "qdes": "\\text{When a galvanometer is connected in series with high resistance it becomes,}",
+        "options": [
+            "\\text{an ammeter}",
+            "\\text{a voltmeter}",
+            "\\text{a wattmeter}",
+            "\\text{a multimeter}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
         "fig": ""
     }
 ]
