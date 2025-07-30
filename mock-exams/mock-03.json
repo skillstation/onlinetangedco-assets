@@ -575,17 +575,450 @@
   "ans": 2,
   "fig": ""
 },
-
-
-
-
-
-
-
-
-
-
-  
-  
- 
+{
+  "qno": 46,
+  "qdes": "\\text{The minimum number of watt meter(s) required to measure 3-phase, 3-wire balanced or unbalanced power is}",
+  "options": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 47,
+  "qdes": "\\text{In a LVDT, the two secondary voltages}",
+  "options": [
+    "\\text{Are independent of the core position}",
+    "\\text{Vary unequally depending on the core position}",
+    "\\text{Vary equally depending on the core position}",
+    "\\text{Are always in phase quadrature}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 48,
+  "qdes": "Moving iron instruments are",
+  "options": [
+    "Attraction type",
+    "Repulsion type",
+    "Attraction and repulsion type",
+    "Dynamometer type"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+  {
+  "qno": 49,
+  "qdes": "\\text{A dual beam CRO uses}",
+  "options": [
+    "\\text{Electronic Switch}",
+    "\\text{Two sets of VDPs and single set of HDPs}",
+    "\\text{One electron gun}",
+    "\\text{Two time base generator circuits}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 50,
+  "qdes": "\\text{The breakdown strength of air at a barometric pressure of 760 mm and temperature of 25°C is}",
+  "options": [
+    "\\text{19 KV/cm (max)}",
+    "\\text{30.4 KV/cm (max)}",
+    "\\text{33 KV/cm (max)}",
+    "\\text{30 KV/cm (max)}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 51,
+  "qdes": "\\text{Which one of the following materials is not used as a piezoelectric transducer?}",
+  "options": [
+    "\\text{Rochelle salt}",
+    "\\text{Lithium sulphate}",
+    "\\text{Dipotassium tartrate}",
+    "\\text{Tungsten oxide}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+{
+  "qno": 52,
+  "qdes": "\\text{The power consumption of PMMC instrument is typically about}",
+  "options": [
+    "\\text{0.25 W to 2 W}",
+    "\\text{0.25 mW to 2 mW}",
+    "\\text{25 \\mu W to 200 \\mu W}",
+    "\\text{0.25 \\mu W to 2 \\mu W}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 53,
+  "qdes": "\\text{Match the following : \\newline List I (Transducers) \\newline (a) Thermocouple \\newline (b) Thermistor \\newline (c) Strain gauge \\newline (d) LVDT \\newline List II (Characteristics) \\newline 1. Modulated output \\newline 2. Resistance changes with pressure \\newline 3. Negative temperature coefficient \\newline 4. Constant temperature at one end}",
+  "options": [
+    "\\text{(a) 3, (b) 2, (c) 4, (d) 1}",
+    "\\text{(a) 4, (b) 3, (c) 2, (d) 1}",
+    "\\text{(a) 2, (b) 1, (c) 4, (d) 3}",
+    "\\text{(a) 1, (b) 2, (c) 3, (d) 4}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 54,
+  "qdes": "\\text{The stroboscope is used to measure?}",
+  "options": [
+    "\\text{displacement}",
+    "\\text{pressure}",
+    "\\text{speed}",
+    "\\text{temperature}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+  {
+  "qno": 55,
+  "qdes": "\\text{Turns compensation is used in current transformer primarily for reduction of}",
+  "options": [
+    "\\text{Phase angle error}",
+    "\\text{Both ratio and phase angle error}",
+    "\\text{Ratio error, reduction in phase angle error is incidental}",
+    "\\text{None of the above}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 56,
+  "qdes": "\\text{The topology in which there are 'n' devices and each device has n-1 ports is}",
+  "options": [
+    "\\text{star topology}",
+    "\\text{bus topology}",
+    "\\text{ring topology}",
+    "\\text{mesh topology}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+  {
+  "qno": 57,
+  "qdes": "\\text{In the measurement of power on balanced load by two-wattmeter method in a 3-phase circuit, the readings of the watt meters are 3KW and 1KW respectively, the latter being obtained after reversing the connections of the current coil. The power factor of the load is}",
+  "options": [
+    "\\text{0.277}",
+    "\\text{0.554}",
+    "\\text{0.625}",
+    "\\text{0.866}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 0,
+  "fig": ""
+},
+{
+  "qno": 58,
+  "qdes": "\\text{A current carrying conductor is shown below in Fig. (a), If it is brought in a magnetic field in Fig. (b).}",
+  "options": [
+    "\\text{it will experience a force from left to right}",
+    "\\text{it will experience a force from right to left}",
+    "\\text{it will experience a force from top to bottom}",
+    "\\text{it will experience no force}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 59,
+  "qdes": "\\text{The inductance of a moving iron instrument is given by } L=(10+5\\theta-\\theta^2) \\text{ MH where } \\theta \\text{ is the deflection in radian from zero position. The spring constant is } 12 \\times 10^{-6} \\text{ NM/RAD. The deflection for a current of 5 A is}",
+  "options": [
+    "\\text{90°}",
+    "\\text{94.8°}",
+    "\\text{96.8°}",
+    "\\text{92°}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 60,
+  "qdes": "\\text{In a single phase induction type energy meter, the lag adjustment is done to ensure that}",
+  "options": [
+    "\\text{Current coil flux lags the applied voltage by 90°}",
+    "\\text{Pressure coil flux lags the applied voltage by 90°}",
+    "\\text{Pressure coil flux is in phase with the applied voltage}",
+    "\\text{Current coil flux lags the pressure coil flux by 90°}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 61,
+  "qdes": "\\text{A basic D'Arsonval movement with a full scale deflection of 50 \\mu A and internal resistance of 500 \\Omega is used as a volt meter. Determine the value of multiplier resistor to measure a voltage range of 0-10 V.}",
+  "options": [
+    "\\text{2.5 K Ohms}",
+    "\\text{199.5 k\\Omega}",
+    "\\text{400 \\Omega}",
+    "\\text{200 \\Omega}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 62,
+  "qdes": "\\text{The nominal ratio of a current transformer is}",
+  "options": [
+    "\\text{Primary winding current/Secondary winding current}",
+    "\\text{Rated primary winding current/Rated Secondary winding current}",
+    "\\text{Number of Secondary winding turns/Number of primary winding turns}",
+    "\\text{(PrimaryWinding Current)}^2 \\frac{}{\\sqrt{\\text{Secondary Winding Current}}}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 63,
+  "qdes": "\\text{An instrument which is used to measure the level of illumination is}",
+  "options": [
+    "\\text{Power Analyser}",
+    "\\text{Synergy Meter}",
+    "\\text{Multimeter}",
+    "\\text{Lux meter}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+{
+  "qno": 64,
+  "qdes": "\\text{A 53 Hz reed type frequency meter is polarized with dc. The new range of frequency meter is}",
+  "options": [
+    "\\text{106 Hz}",
+    "\\text{26.5 Hz}",
+    "\\text{53 Hz}",
+    "\\text{79.5 Hz}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 0,
+  "fig": ""
+},
+{
+  "qno": 65,
+  "qdes": "\\text{Dummy strain gauges are used for}",
+  "options": [
+    "\\text{compensation of temperature changes}",
+    "\\text{increases of the sensitivity of bridge in which they are included}",
+    "\\text{compensating for different expansion}",
+    "\\text{calibration of strain gauges}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 0,
+  "fig": ""
+},
+  {
+  "qno": 66,
+  "qdes": "\\text{A system is stable if}",
+  "options": [
+    "\\text{All the poles of the characteristic equation are towards the left hand side of the S-plane}",
+    "\\text{One of the poles of the characteristic equation is in the left hand side of S-plane and remaining poles in the right hand side of S-plane}",
+    "\\text{One of the poles of the characteristic equation is towards the right hand side of S-plane}",
+    "\\text{One of the poles of the characteristic equation lies on the origin}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 0,
+  "fig": ""
+},
+  {
+  "qno": 67,
+  "qdes": "\\text{Choose the incorrect force-current analogy of the following \\newline (1) Displacement and inductance \\newline (2) Velocity and voltage \\newline (3) Mass and capacitance}",
+  "options": [
+    "\\text{(1) only}",
+    "\\text{(1) and (2) only}",
+    "\\text{(3) only}",
+    "\\text{(2) and (3) only}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 0,
+  "fig": ""
+},
+ {
+  "qno": 68,
+  "qdes": "\\text{The frequency and time domain are related through}",
+  "options": [
+    "\\text{Laplace Transform and Fourier Integral}",
+    "\\text{Laplace Transform}",
+    "\\text{Fourier Integral}",
+    "\\text{Nyquist criterion}"
+  ],
+  "ans": 0,
+  "fig": ""
+},
+  {
+  "qno": 69,
+  "qdes": "\\text{The characteristic equation of a system is given by, } S^3+3S^2+2S+5=0. \\text{ The system is,}",
+  "options": [
+    "\\text{unstable}",
+    "\\text{stable}",
+    "\\text{partially stable}",
+    "\\text{marginally stable}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 0,
+  "fig": ""
+},
+  {
+  "qno": 70,
+  "qdes": "\\text{The armature torque of a DC motor is a function of its}",
+  "options": [
+    "\\text{Pole flux and Speed}",
+    "\\text{Armature current and pole flux}",
+    "\\text{Speed and armature current}",
+    "\\text{Speed alone}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 71,
+  "qdes": "\\text{A phase lead compensation network}",
+  "options": [
+    "\\text{Decreases the system bandwidth}",
+    "\\text{Speeds up the dynamic response}",
+    "\\text{Is applied when error constants are specified}",
+    "\\text{Reduces the steady – state error}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+  {
+  "qno": 72,
+  "qdes": "\\text{X – Y recorders}",
+  "options": [
+    "\\text{Record one quantity with respect to another quantity}",
+    "\\text{Record one quantity on X-AXIS with respect to time on Y-AXIS}",
+    "\\text{Record one quantity on Y-AXIS with respect to time on X-AXIS}",
+    "\\text{Record one quantity on X-AXIS with respect to time on Z-AXIS}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 0,
+  "fig": ""
+},
+  {
+  "qno": 73,
+  "qdes": "\\text{When the system in Fig. 1 is subjected to a unit-step input, the system output responds as in Fig. 2. The values of K and T from the response curve are}",
+  "options": [
+    "\\text{K = 1.09, T = 1.42}",
+    "\\text{K = 1.42, T = 1.09}",
+    "\\text{K = 1, T = 1}",
+    "\\text{K = 0, T = 0}"
+  ],
+  "ans": 1,
+  "fig": "Fig. 1 and Fig. 2"
+},
+  {
+  "qno": 74,
+  "qdes": "\\text{The transfer function of the circuit shown}",
+  "options": [
+    "\\text{$\\frac{1}{1 + SRC}$}",
+    "\\text{$\\frac{SRC}{1 + SRC}$}",
+    "\\text{$\\frac{SRC}{1 - SRC}$}",
+    "\\text{$1 + SRC$}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 75,
+  "qdes": "\\text{An amplidyne can give which of the following characteristics?}",
+  "options": [
+    "\\text{constant current}",
+    "\\text{constant voltage}",
+    "\\text{constant current and constant voltage}",
+    "\\text{constant current, constant voltage and constant power}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+  {
+  "qno": 76,
+  "qdes": "\\text{A solar cell (0.9 cm$^2$) receives solar radiation with photons of 1.8 ev energy having an intensity of 0.9 mw/cm$^2$. Measurement show open - circuit voltage of 0.6 V/cm$^2$, short circuit current of 10 mA/cm$^2$, and the maximum current is 50% of the short circuit current. The efficiency of the cell is 25%. Calculate the fill factor}",
+  "options": [
+    "\\text{1.124}",
+    "\\text{0.0375}",
+    "\\text{2.578}",
+    "\\text{3.421}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 77,
+  "qdes": "\\text{The steady state error for the system below to unit step input is}",
+  "options": [
+    "\\text{25%}",
+    "\\text{0.75%}",
+    "\\text{6%}",
+    "\\text{33%}"
+  ],
+  "ans": 0,
+  "fig": ""
+},
+  {
+  "qno": 78,
+  "qdes": "\\text{A unity feedback (negative) system has open loop transfer function } G(s)=\\frac{k}{s(s+2)}. \\text{ Calculate the value of gain k so that the closed loop system has a steady state unit ramp error of 0.1}",
+  "options": [
+    "\\text{0.5}",
+    "\\text{10}",
+    "\\text{20}",
+    "\\text{100}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+  {
+  "qno": 79,
+  "qdes": "\\text{If a system has two real and equal characteristic roots, it is described as}",
+  "options": [
+    "\\text{having to damping}",
+    "\\text{being critically damped}",
+    "\\text{being underdamped}",
+    "\\text{being overdamped}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 80,
+  "qdes": "\\text{The serial data rate is known as the baud rate (ie)}",
+  "options": [
+    "\\text{No of bits of data transferred per second}",
+    "\\text{No of bits of data transferred per min}",
+    "\\text{No of bits of data transferred per hour}",
+    "\\text{None of the above}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 0,
+  "fig": ""
+}
 ]
