@@ -637,5 +637,135 @@
     ],
     "ans": 1,
     "fig": ""
+  },
+  {
+    "qno": 151,
+    "qdes": "\\text{DC to DC convertor as shown in fig. a battery of 25V is connected and the input current is 4A. At the output side, a voltmeter shows 50V across the load end the output current is 1.8A. Find the power lost in the converter due to losses.}",
+    "options": [
+      "25 W",
+      "10 W",
+      "20 W",
+      "15 W",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-005-08-FIG.png"
+  },
+  {
+    "qno": 152,
+    "qdes": "\\text{A DC shunt motor takes a current of 80A on a 480V supply and runs at 960 RPM the armature resistance is 0.25 $\\Omega$ and the field resistance is 120 $\\Omega$. A chopper is used to control the speed of the motor at 400 RPM having constant torque. The on -period of the chopper is 3 ms. The field is supplied directly from 480V supply. Determine the frequency of the chopper}",
+    "options": [
+      "95.12 Hz",
+      "102.48 Hz",
+      "146.44 Hz",
+      "130.05 Hz",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 153,
+    "qdes": "\\text{The supply voltage of a Dc chopper is 220 V it delivers a load of 88 V. If the chopper is operating with 1 kHz frequency, the non-conduction period of the switch is}",
+    "options": [
+      "200\\,\\mu s",
+      "400\\,\\mu s",
+      "600\\,\\mu s",
+      "1000\\,\\mu s",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 154,
+    "qdes": "\\text{A 3$\\phi$ wound rotor induction motor is connected by a chopper controlled resistance in its rotor circuit. A resistance of 2 $\\Omega$ is connected in the rotor circuit and a resistance of 4 $\\Omega$ is additionally connected during off period of the chopper (off period 4 ms). The total resistance across the diode bridge for the chopper frequency of 200 Hz is}",
+    "options": [
+      "$\\dfrac{26}{5}$",
+      "$\\dfrac{24}{5}$",
+      "$\\dfrac{18}{5}$",
+      "$\\dfrac{16}{5}$",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 155,
+    "qdes": "\\text{Stator voltage control results in good efficiency for one of the loads given below \\newline T = Torque \\newline $\\omega$ = Speed}",
+    "options": [
+      "T $\\propto \\omega^2$",
+      "T = Constant",
+      "T $\\propto \\omega$",
+      "T $\\propto \\dfrac{1}{\\omega}$",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 156,
+    "qdes": "\\text{The power developed by the motor is the machine works under braking opposing the motion, then it is called as}",
+    "options": [
+      "\\text{Forward braking}",
+      "\\text{Forward motoring}",
+      "\\text{Reverse braking}",
+      "\\text{Reverse motoring}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 157,
+    "qdes": "\\text{Single-phase half bridge-inverter has a resistive load of R = 3$\\Omega$ and the d.c. input voltage E$_{dc}$ = 50V. Calculate the RMS output voltage at fundamental frequency E$_1$ and output power P$_0$.}",
+    "options": [
+      "15.76 V, 253 W",
+      "22.5 V, 253 W",
+      "22.5 V, 208.33 W",
+      "15.76 V, 208.33 W",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 158,
+    "qdes": "\\begin{array}{l} \\text{Assertion [A] : On line UPS provides zero transition time.} \\\\ \\text{Reason [R] : Time required to normal to backup mode and vice versa is zero.} \\end{array}",
+    "options": [
+      "\\text{[A] is true [R] is false",
+      "\\text{Both [A] and [R] are true, and [R] is the correct explanation}",
+      "\\text{[A] is false, [R] is true}",
+      "\\text{Both [A] and [R] are true, and [R] is not the correct explanation}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 159,
+    "qdes": "\\text{There is an inherent short circuit protection in}",
+    "options": [
+      "\\text{Voltage source inverter}",
+      "\\text{Current source inverter}",
+      "\\text{AC voltage controller}",
+      "\\text{Cyclo converter}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 160,
+    "qdes": "\\text{The converter which produces a lower average output voltage than the dc i/p voltage is known as}",
+    "options": [
+      "\\text{Cuk converter}",
+      "\\text{Buck-Boost converter}",
+      "\\text{Boost converter}",
+      "\\text{Buck converter}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
   }
 ]
