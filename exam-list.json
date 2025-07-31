@@ -2,7 +2,7 @@
   {
     "exam_no": 1,
     "title": "Unit I: Electrical Circuits - Chapter Test",
-    "is_locked": 1,
+    "is_locked": 0,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/practise-questions/practise-questions-01.json"
   },
   {
@@ -68,19 +68,19 @@
   {
     "exam_no": 12,
     "title": "Full Syllabus Mock Exam 2 - Paper 2",
-    "is_locked": 0,
+    "is_locked": 1,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/mock-02.json"
   },
   {
     "exam_no": 13,
     "title": "Full Syllabus Mock Exam 3 - Paper 2",
-    "is_locked": 0,
+    "is_locked": 1,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/mock-03.json"
   },
   {
     "exam_no": 14,
     "title": "Full Syllabus Mock Exam 4 - Paper 2",
-    "is_locked": 0,
+    "is_locked": 1,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/mock-04.json"
   }
 ]
