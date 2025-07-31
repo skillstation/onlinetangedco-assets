@@ -1,0 +1,92 @@
+[
+  {
+    "unit_no": 1,
+    "vid_id": "PP2-V01",
+    "title": "Unit I: Electrical Circuits",
+    "is_locked": 0,
+    "vid_path": "eee-lecture/03-0102-EEE.mp4",
+    "vid_des": "",
+    "vid_duration": ""
+  },
+  {
+    "unit_no": 2,
+    "title": "Unit II: Electric and Magnetic Fields",
+    "is_locked": 0,
+    "vid_id": "PP2-V02",
+    "vid_path": "eee-lecture/03-0102-EEE.mp4",
+    "vid_des": "",
+    "vid_duration": ""
+  },
+  {
+    "unit_no": 3,
+    "title": "Unit III: Measurements and Instrumentation",
+    "is_locked": 0,
+    "vid_id": "PP2-V03",
+    "vid_path": "eee-lecture/03-0102-EEE.mp4",
+    "vid_des": "",
+    "vid_duration": ""
+  },
+  {
+    "unit_no": 4,
+    "title": "Unit IV: Control Systems",
+    "is_locked": 0,
+    "vid_id": "PP2-V04",
+    "vid_path": "eee-lecture/03-0102-EEE.mp4",
+    "vid_des": "",
+    "vid_duration": ""
+  },
+  {
+    "unit_no": 5,
+    "title": "Unit V: Electrical Machines",
+    "is_locked": 0,
+    "vid_id": "PP2-V05",
+    "vid_path": "eee-lecture/03-0102-EEE.mp4",
+    "vid_des": "",
+    "vid_duration": ""
+  },
+  {
+    "unit_no": 6,
+    "title": "Unit VI: Power Systems",
+    "is_locked": 1,
+    "vid_id": "PP2-V06",
+    "vid_path": "eee-lecture/03-0102-EEE.mp4",
+    "vid_des": "",
+    "vid_duration": ""
+  },
+  {
+    "unit_no": 7,
+    "title": "Unit VII: Analog and Digital Electronics",
+    "is_locked": 0,
+    "vid_id": "PP2-V07",
+    "vid_path": "eee-lecture/03-0102-EEE.mp4",
+    "vid_des": "",
+    "vid_duration": ""
+  },
+  {
+    "unit_no": 8,
+    "title": "Unit VIII: Power Electronics and Drives",
+    "is_locked": 0,
+    "vid_id": "PP2-V08",
+    "vid_path": "eee-lecture/03-0102-EEE.mp4",
+    "vid_des": "",
+    "vid_duration": ""
+  },
+  {
+    "unit_no": 9,
+    "title": "Unit IX: Digital Processors and Communication",
+    "is_locked": 0,
+    "vid_id": "PP2-V09",
+    "vid_path": "eee-lecture/03-0102-EEE.mp4",
+    "vid_des": "",
+    "vid_duration": ""
+  },
+  {
+    "unit_no": 10,
+    "title": "Unit X: Renewable Energy Sources and Storage Devices",
+    "is_locked": 0,
+    "vid_id": "PP2-V10",
+    "vid_path": "eee-lecture/03-0102-EEE.mp4",
+    "vid_des": "",
+    "vid_duration": ""
+  }
+]
