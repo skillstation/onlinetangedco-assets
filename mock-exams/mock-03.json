@@ -1020,5 +1020,68 @@
     ],
     "ans": 0,
     "fig": ""
-  }
+  },
+  {
+  "qno": 81,
+  "qdes": "\\text{Moving iron instruments are}",
+  "options": [
+    "\\text{Attraction type}",
+    "\\text{Repulsion type}",
+    "\\text{Attraction and repulsion type}",
+    "\\text{Dynamometer type}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+  {
+  "qno": 82,
+  "qdes": "\\text{Airgap at the pole tips of a DC machine is kept more than that at the centre of mains to reduce}",
+  "options": [
+    "\\text{reactance voltage}",
+    "\\text{effect of armature reaction}",
+    "\\text{losses of armature core}",
+    "\\text{noise of the machine}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 83,
+  "qdes": "\\text{The number of parallel paths in the armature winding of a four pole wave connected DC machine having 22 coil side is}",
+  "options": [
+    "\\text{04}",
+    "\\text{02}",
+    "\\text{22}",
+    "\\text{01}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 84,
+  "qdes": "\\text{Match List I (Machines) with List II (Test) and select the correct answer. \\newline List I \\newline (a) Transformer \\newline (b) DC motor \\newline (c) Alternator \\newline (d) Induction Motor \\newline List II \\newline 1. Slip test \\newline 2. Blocked rotor test \\newline 3. Sumpner's test \\newline 4. Swinburne's test \\newline Codes :}",
+  "options": [
+    "\\text{(a)-3, (b)-4, (c)-1, (d)-2}",
+    "\\text{(a)-4, (b)-3, (c)-2, (d)-1}",
+    "\\text{(a)-3, (b)-4, (c)-2, (d)-1}",
+    "\\text{(a)-4, (b)-3, (c)-1, (d)-2}"
+  ],
+  "ans": 0,
+  "fig": ""
+},
+  {
+  "qno": 85,
+  "qdes": "\\text{If a microprocessor is capable of addressing 64K bytes of memory, its address bus width is}",
+  "options": [
+    "\\text{16 BITS}",
+    "\\text{20 BITS}",
+    "\\text{8 BITS}",
+    "\\text{12 BITS}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 0,
+  "fig": ""
+},
 ]
