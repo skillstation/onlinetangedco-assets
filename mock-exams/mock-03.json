@@ -1148,8 +1148,69 @@
   "ans": 2,
   "fig": ""
 },
-
-
-
+{
+  "qno": 91,
+  "qdes": "\\text{How can the reactive power delivered by a synchronous generator be controlled?}",
+  "options": [
+    "\\text{By changing the prime mover input}",
+    "\\text{By changing the excitation}",
+    "\\text{By changing the direction of rotation}",
+    "\\text{By changing the prime mover speed}"
+  ],
+  "ans": 1,
+  "fig": ""
+}
+  {
+  "qno": 92,
+  "qdes": "\\text{The power factor correction capability of a loaded synchronous motor \\rule{2cm}{0.4pt} with the increase in mechanical load.}",
+  "options": [
+    "\\text{decreases}",
+    "\\text{increases}",
+    "\\text{remains unchanged}",
+    "\\text{none of the above}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+}
+{
+"qno": 93,
+"qdes": "\\text{The current drawn by a 120 V dc motor of armature resistance 0.5 Omega and back emf 110 V is}",
+"options": [
+"\\text{10 A}",
+"\\text{20 A}",
+"\\text{5 A}",
+"\\text{2 A}",
+"\\text{Answer not known}"
+],
+"ans": 1,
+"fig": ""
+},
+{
+  "qno": 94,
+  "qdes": "\\text{The DC generator that has poorest voltage regulation is}",
+  "options": [
+    "\\text{Shunt generator}",
+    "\\text{Series generator}",
+    "\\text{Flat-compounded generator}",
+    "\\text{Over-compounded generator}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+  {
+  "qno": 95,
+  "qdes": "\\text{For the network shown in the figure if } V_s = 1V \\text{ and } V = 0, \\text{ then } I = -5A \\text{ and if } V_s = 0 \\text{ and } V = 1V, \\text{ then } I = \\frac{1}{2} A. \\text{The values of } I_{SC} \\text{ and } R_N \\text{ of the Norton's equivalent across } AB \\text{ would be respectively}",
+  "options": [
+    "\\text{-5A and 2 $\\Omega$}",
+    "\\text{10A and 0.5 $\\Omega$}",
+    "\\text{5A and 2 $\\Omega$}",
+    "\\text{2.5 $\\Omega$ and 5 $\\Omega$}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": "image_86f7be.png"
+},
   
 ]
