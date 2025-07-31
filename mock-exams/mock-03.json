@@ -1212,5 +1212,65 @@
   "ans": 2,
   "fig": "image_86f7be.png"
 },
-  
+  {
+  "qno": 96,
+  "qdes": "\\text{The advantage of double squirrel cage induction motor over single cage rotor is to improve}",
+  "options": [
+    "\\text{Speed regulation}",
+    "\\text{Power factor}",
+    "\\text{Slip}",
+    "\\text{Starting torque}"
+  ],
+  "ans": 3,
+  "fig": "image_86f8ba.png"
+},
+{
+  "qno": 97,
+  "qdes": "\\text{In a 100 KVA, 1100/220 V, 50 Hz single phase transformer with 2000 turns on high voltage side, the open circuit test result gives 220 V, 91 A, 5 kW on low voltage side. The core component of current is approximately.}",
+  "options": [
+    "\\text{9.1 A}",
+    "\\text{22.7 A}",
+    "\\text{45 A}",
+    "\\text{91 A}"
+  ],
+  "ans": 1,
+  "fig": "image_86fc36.png"
+},
+{
+  "qno": 98,
+  "qdes": "\\text{Why is the armature core of a dc machine laminated?}",
+  "options": [
+    "\\text{to reduce hysteresis loss}",
+    "\\text{to reduce eddy current loss}",
+    "\\text{to improve voltage regulation}",
+    "\\text{to reduce armature reaction}"
+  ],
+  "ans": 1,
+  "fig": "image_86ff3e.png"
+},
+  {
+  "qno": 99,
+  "qdes": "\\text{The function of oil in a transformer is to provide}",
+  "options": [
+    "\\text{Insulation and cooling}",
+    "\\text{Protection against lighting}",
+    "\\text{Protection against short circuit}",
+    "\\text{Lubrication}"
+  ],
+  "ans": 0,
+  "fig": "image_86ffbf.png"
+},
+  {
+  "qno": 100,
+  "qdes": "\\text{The critical resistance of the dc generator is the resistance of}",
+  "options": [
+    "\\text{Armature winding}",
+    "\\text{Field winding}",
+    "\\text{Load}",
+    "\\text{Brushes}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": "image_8702fc.png"
+}
 ]
