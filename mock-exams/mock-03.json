@@ -1084,4 +1084,72 @@
   "ans": 0,
   "fig": ""
 },
+{
+  "qno": 86,
+  "qdes": "\\text{A 4 pole DC generator runs at 750 r.p.m and generates an emf of 240 V. The armature is wave-wound and has 792 conductors. If the total flux from each pole is 0.0145 Wb, what is the leakage coefficient?}",
+  "options": [
+    "4.6",
+    "1.2",
+    "2",
+    "3",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 87,
+  "qdes": "\\text{The DC motor which can provide zero speed regulation at full load without any controller is}",
+  "options": [
+    "\\text{Cumulative compound}",
+    "\\text{Differential compound}",
+    "\\text{Series}",
+    "\\text{Shunt}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 88,
+  "qdes": "\\text{The maximum speed at which the field of alternator can be operated to develop 60 Hz is}",
+  "options": [
+    "\\text{1800 rpm}",
+    "\\text{3600 rpm}",
+    "\\text{7200 rpm}",
+    "\\text{1500 rpm}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 89,
+  "qdes": "\\text{In a small transformer the primary and secondary windings are of thin wires. In a short circuit test, the frequency is increased to 100 Hz from 50 Hz}",
+  "options": [
+    "\\text{the copper losses will increase by four times}",
+    "\\text{the copper loss will reduce to one fourth}",
+    "\\text{the copper loss will remain the same}",
+    "\\text{the copper loss will be doubled}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 90,
+  "qdes": "\\text{The primary difference between counter and register is}",
+  "options": [
+    "\\text{A register counts data}",
+    "\\text{A counter can store 'n' bit data but register can store one bit data}",
+    "\\text{A register has no specific sequence of data}",
+    "\\text{A counter has no specific sequence of data}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+
+
+
+  
 ]
