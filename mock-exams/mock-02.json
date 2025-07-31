@@ -1948,5 +1948,642 @@
         ],
         "ans": 1,
         "fig": ""
-    }
+    },
+    {
+    "qno": 151,
+    "qdes": "\\text{In 3-phase AC to DC converter which requires neutral point connection is}",
+    "options": [
+      "\\text{3-phase semi converter}",
+      "\\text{3-phase full converter}",
+      "\\text{3-phase half-wave converter}",
+      "\\text{3-phase full converter with diodes}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 152,
+    "qdes": "\\text{SCRs with peak forward voltage rating of 1000 V and average on state current of 40 A are used in single phase mid point converter. Find the maximum voltage of the converter. Use Factor of Safety (FOS) = 2.5.}",
+    "options": [
+      "\\text{500 V}",
+      "\\text{400 V}",
+      "\\text{600 V}",
+      "\\text{200 V}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 153,
+    "qdes": "\\text{If the latching current in the circuit shown in fig is 4 mA, obtain the minimum width of the gating pulse required to properly turn-on the SCR.}",
+    "options": [
+      "2 \\, \\mu \\text{S}",
+      "4 \\, \\mu \\text{S}",
+      "4 \\, \\text{mS}",
+      "2 \\, \\text{mS}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": "image_53d349.png"
+  },
+  {
+    "qno": 154,
+    "qdes": "\\text{For the power semiconductor devices IGBT, MOSFET, Diode and Thyristor which one of the following statement is true?}",
+    "options": [
+      "\\text{All the four are majority carrier devices}",
+      "\\text{All the four are minority carrier devices}",
+      "\\text{IGBT and MOSFET are majority carrier devices whereas diode and thyristor are minority carrier devices}",
+      "\\text{MOSFET is majority carrier devices where as IGBT, diode and thyristor are minority carrier devices}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 155,
+    "qdes": "\\text{RC snubber is used in parallel with the thyristor to}",
+    "options": [
+      "\\text{reduce } dV/dt \\text{ across it}",
+      "\\text{reduce } di/dt \\text{ through it}",
+      "\\text{limit current through thyristor}",
+      "\\text{ensure its conduction after gate signal is removed}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 156,
+    "qdes": "\\text{A triac is equivalent to two thyristors.}",
+    "options": [
+      "\\text{in series}",
+      "\\text{in inverse series}",
+      "\\text{in parallel}",
+      "\\text{in inverse parallel}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 157,
+    "qdes": "\\begin{array}{l} \\text{Local winds are caused by} \\\\ \\text{(i) Differential heating of land and water bodies} \\\\ \\text{(ii) Differential heating of plains and mountains} \\\\ \\text{Choose the correct answer} \\end{array}",
+    "options": [
+      "\\text{Both (i) and (ii) are correct}",
+      "\\text{(i) only correct}",
+      "\\text{(ii) only correct}",
+      "\\text{Both (i) and (ii) are not correct}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 158,
+    "qdes": "\\text{Angle made by plane surface with horizontal is called}",
+    "options": [
+      "\\text{Slope}",
+      "\\text{Altitude angle}",
+      "\\text{Zenith angle}",
+      "\\text{Hour angle}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 159,
+    "qdes": "\\begin{array}{l} \\text{In a PWM inverter, } f_0 \\text{ and } f \\text{ are the frequencies in Hz for the carrier signal and} \\\\ \\text{reference signal respectively. Then the number of pulse per half cycle is} \\end{array}",
+    "options": [
+      "N = \\frac{f}{f_0}",
+      "N = \\frac{f}{2f_0}",
+      "N = \\frac{f_0}{2f}",
+      "N = \\frac{f_0}{f}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 160,
+    "qdes": "\\text{Choose the correct statement}",
+    "options": [
+      "\\text{MOSFET is a uncontrolled device}",
+      "\\text{MOSFET is a voltage controlled device}",
+      "\\text{MOSFET is a current controlled device}",
+      "\\text{MOSFET is a temperature controlled device}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 161,
+    "qdes": "\\begin{array}{l} \\text{The zero sequence current of a generator for line to ground fault is j 2.4 P.U. Then} \\\\ \\text{the current through the neutral during the fault is} \\end{array}",
+    "options": [
+      "\\text{j 2.4 P.U.}",
+      "\\text{j 0.8 P.U.}",
+      "\\text{j 7.2 P.U.}",
+      "\\text{j 0.24 P.U.}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 162,
+    "qdes": "\\begin{array}{l} \\text{Two alternators each having 4\\% speed regulation are working in parallel.} \\\\ \\text{Alternator 1 is rated for 12 MW and alternator 2 is rated for 8 MW, when the total} \\\\ \\text{load is 10 MW, the loads shared by alternators 1 and 2 respectively would be} \\end{array}",
+    "options": [
+      "\\text{4 MW and 6 MW}",
+      "\\text{6 MW and 4 MW}",
+      "\\text{5 MW and 5 MW}",
+      "\\text{100 MW and zero}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 163,
+    "qdes": "\\begin{array}{l} \\text{The closed loop transfer function of a system is}\\frac{C(S)}{R(S)} = \\frac{K}{S^2 + AS + K} \\\\ \\text{The characteristic equation of the system is} \\end{array}",
+    "options": [
+      "S^2 + AS + 2K = 0",
+      "S^2 + AS + K = 0",
+      "S^2 + AS + K^2 = 0",
+      "S^2 + AS = 0",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 164,
+    "qdes": "\\begin{array}{l} \\text{In the general transfer function, of a second-order system expressed as} \\\\ \\frac{C(S)}{R(S)} = \\frac{\\omega_n^2}{S^2 + 2\\zeta\\omega_n S + \\omega_n^2} \\\\ \\text{The terms } \\zeta \\text{ and } \\omega_n \\text{ stands respectively for} \\end{array}",
+    "options": [
+      "\\text{Error coefficient and undamped natural frequency of oscillations}",
+      "\\text{Damping factor and undamped natural frequency of oscillations}",
+      "\\text{Phase margin and undamped natural frequency of oscillations}",
+      "\\text{Damping factor and angular velocity}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 165,
+    "qdes": "\\text{In an a.c. circuit, } V = 100 \\sin(\\omega t + 30^\\circ)V, i = 5 \\sin(\\omega t - 30^\\circ) A. \\text{ Find apparent power and reactive power}",
+    "options": [
+      "\\text{500 VA, 433 VAr}",
+      "\\text{354 VA, 30 6.5 VAr}",
+      "\\text{250 VA, 217 VAr}",
+      "\\text{354 VA, 177 VAr}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 166,
+    "qdes": "\\text{In pulse code modulation, when number of quantization levels increase,}",
+    "options": [
+      "\\text{Noise decreases, cost reduces, BW decreases}",
+      "\\text{Noise decreases, cost increases, BW increases}",
+      "\\text{Noise increases, cost reduces, BW decreases}",
+      "\\text{Noise increases, cost increases, BW increases}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 167,
+    "qdes": "\\text{A 5A ammeter has a resistance of 0.01 }\\Omega \\text{. Determine the efficiency of the instrument}",
+    "options": [
+      "\\text{0.05 A per watts}",
+      "\\text{20 A per watts}",
+      "\\text{0.002 A per watts}",
+      "\\text{500 A per watts}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 168,
+    "qdes": "\\begin{array}{l} \\text{In radix – 2 DIT, Fast Fourier Transform computation the number of additions and} \\\\ \\text{multiplications are given by} \\end{array}",
+    "options": [
+      "N(N-1) \\text{ and } N^2 \\text{ respectively}",
+      "N\\log_2 N \\text{ and } \\frac{N}{2}\\log_2 N \\text{ respectively}",
+      "N^2 \\text{ and } N\\log_2 N \\text{ respectively}",
+      "\\frac{N}{2}\\log_2 N \\text{ and } N(N-1) \\text{ respectively}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 169,
+    "qdes": "\\begin{array}{l} \\text{A signal is sampled at Nyquist rate } f_s = 2f_0 \\text{. The function can be record from} \\\\ \\text{its samples only if it is a} \\end{array}",
+    "options": [
+      "\\text{Periodic square wave with fundamental frequency, } f_0",
+      "\\text{Periodic sine wave with fundamental frequency, } f_0",
+      "\\text{Periodic triangular wave with fundamental frequency, } f_0",
+      "\\text{Periodic saw tooth wave with fundamental frequency, } f_0",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 170,
+    "qdes": "\\text{The numbers of layers in ISO/OSI model and TCP/IP model are}",
+    "options": [
+      "\\text{5 and 7}",
+      "\\text{7 and 5}",
+      "\\text{7 and 7}",
+      "\\text{5 and 5}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 171,
+    "qdes": "\\text{Suppose registers ‘A’ and ‘B’ contain 50H and 40H respectively. After execution of MOVA, B instruction, find the contents of Registers A and B}",
+    "options": [
+      "\\text{40 H, 40H}",
+      "\\text{50 H, 40 H}",
+      "\\text{50 H, 50 H}",
+      "\\text{60 H, 40 H}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 172,
+    "qdes": "\\text{In pipelining for a C67x processor the maximum number of execute packets for a fetch packet is}",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "32",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 173,
+    "qdes": "\\text{PIC is an acronym for}",
+    "options": [
+      "\\text{Programmable Interrupt Controller}",
+      "\\text{Peripheral Interface Controller}",
+      "\\text{Programmable Interval Controller}",
+      "\\text{Programmable Interrupt Communication}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 174,
+    "qdes": "\\text{A typical example for a TDM system is \\text{-----------------}}",
+    "options": [
+      "\\text{Multiplexing of Address and Data lines in a microprocessor}",
+      "\\text{A local telephone system}",
+      "\\text{Broad cast Radio}",
+      "\\text{Broadcast TV}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 175,
+    "qdes": "\\begin{array}{l} \\text{Plane } y=0 \\text{ carries a uniform current of } 30 \\, a_z \\text{ mA/m. At (1, 10, -2), the} \\\\ \\text{magnetic field intensity is} \\end{array}",
+    "options": [
+      "\\text{-15 } a_x \\text{ mA/m}",
+      "\\text{15 } a_x \\text{ mA/m}",
+      "\\text{477.5 } a_y \\text{ A/m}",
+      "\\text{18.95 } a_y \\text{ nA/m}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 176,
+    "qdes": "\\text{Universal gates are}",
+    "options": [
+      "\\text{NOR Gate}",
+      "\\text{AND Gate}",
+      "\\text{NAND Gate}",
+      "\\text{NOR Gate and NAND Gate}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 177,
+    "qdes": "\\begin{array}{l} \\text{A solar PV module having total area of } 1.646 \\text{ m}^2 \\text{, and gives a current of 8.08 A and} \\\\ \\text{voltage of 29.72 V. The short circuit current of the module is 8.48A and Open} \\\\ \\text{Circuit Voltage is 37.34 V. Find the fill factor of the Solar Cell.} \\end{array}",
+    "options": [
+      "\\text{75.83\\%}",
+      "\\text{70.63\\%}",
+      "\\text{83.45\\%}",
+      "\\text{55.63\\%}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 178,
+    "qdes": "\\text{Global warming is mainly caused due to}",
+    "options": [
+      "\\text{Air Pollution}",
+      "\\text{Emission of heat from engines}",
+      "\\text{Emission of CO}_2 \\text{ due to burning of fossil fuels}",
+      "\\text{Use of Nuclear Energy}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 179,
+    "qdes": "\\begin{array}{l} \\text{Full sunlight falling on a 15\\% efficiency solar cell of area } 2\\, \\text{m}^2 \\text{ at angle of 60 degrees to} \\\\ \\text{the normal to the panel. The output power of the panel is} \\end{array}",
+    "options": [
+      "\\text{75 W}",
+      "\\text{500 W}",
+      "\\text{300 W}",
+      "\\text{150 W}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 180,
+    "qdes": "\\text{The best indication about the state of charge on a lead acid battery is given by}",
+    "options": [
+      "\\text{output voltage}",
+      "\\text{temperature of electrolyte}",
+      "\\text{specific gravity of electrolyte}",
+      "\\text{colour of the electrolyte}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 181,
+    "qdes": "\\text{The type of battery which is commonly used in modern electric vehicles due to its high energy density and efficiency is}",
+    "options": [
+      "\\text{Nickel – Cadmium}",
+      "\\text{Lead – Acid}",
+      "\\text{Lithium – Ion}",
+      "\\text{Alkaline}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 182,
+    "qdes": "\\text{Select the incorrect statement about the Fuel cells.}",
+    "options": [
+      "\\text{Fuel Cells have few moving parts and hence less maintenance}",
+      "\\text{The emission levels of fuel cells are low}",
+      "\\text{Fuel cells are modular}",
+      "\\text{The noise levels of fuel cells are high}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 184,
+    "qdes": "\\text{Wind Speed is measure by}",
+    "options": [
+      "\\text{Odometers}",
+      "\\text{Anemometers}",
+      "\\text{Ammeter}",
+      "\\text{Weather Vanes}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 185,
+    "qdes": "\\text{Improper biasing of a transistor circuit leads to}",
+    "options": [
+      "\\text{Excessive heat production in collector}",
+      "\\text{Distortion in output signal}",
+      "\\text{Faulty location of load line}",
+      "\\text{Heavy loading of emitter terminal}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 186,
+    "qdes": "\\begin{array}{l} \\text{For a } H_2 - O_2 \\text{ cell, faradays constant } F = 96500 \\text{ c/g mole} \\\\ \\Delta G = -237191 \\text{ kJ/kg mole} \\\\ \\Delta H = -285838 \\text{ kJ/kg mole. The maximum efficiency of the fuel cell will be} \\end{array}",
+    "options": [
+      "\\text{0.83}",
+      "\\text{0.9}",
+      "\\text{0.93}",
+      "\\text{0.8}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 187,
+    "qdes": "\\text{What is the maximum possible output of a solar array?}",
+    "options": [
+      "\\text{500 w/m}^2",
+      "\\text{250 w/m}^2",
+      "\\text{500 kw/m}^2",
+      "\\text{250 mw/m}^2",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 188,
+    "qdes": "\\text{The surface temperature of the sun is approximately}",
+    "options": [
+      "6000^\\circ\\text{ K}",
+      "80,000^\\circ\\text{ C}",
+      "100,000^\\circ\\text{ F}",
+      "10,00,000^\\circ\\text{ K}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 189,
+    "qdes": "\\text{Which one of the following statement is not true for a micro hydro scheme?}",
+    "options": [
+      "\\text{A complicated and sophisticated control scheme is used}",
+      "\\text{It has a capacity less than 100 kW}",
+      "\\text{It is used where a grid does not exist}",
+      "\\text{Power is generated for local use only}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 190,
+    "qdes": "\\text{Five measured wind speeds are 2, 4, 7, 8 and 9 m/s. Find the standard deviation.}",
+    "options": [
+      "\\text{6 m/s}",
+      "\\text{2.92 m/s}",
+      "\\text{7 m/s}",
+      "\\text{8.56 m/s}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 191,
+    "qdes": "\\text{Sulphation in a lead-acid battery occurs due to}",
+    "options": [
+      "\\text{Heavy discharging}",
+      "\\text{Fast charging}",
+      "\\text{Incomplete charging}",
+      "\\text{Trickle charging}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 192,
+    "qdes": "\\text{The disadvantage of Maxwell's bridge is that}",
+    "options": [
+      "\\text{Both inductance and Q of a coil cannot be measured}",
+      "\\text{Measurement is not independent of frequency}",
+      "\\text{Inductance cannot be measured over wide range of Q}",
+      "\\text{Number of components is large}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 193,
+    "qdes": "\\text{Solar beam radiation is measured using}",
+    "options": [
+      "\\text{Anemometer}",
+      "\\text{Thermometer}",
+      "\\text{Sunshine recorder}",
+      "\\text{Pyrheliometer}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 194,
+    "qdes": "\\text{Vent plug in a battery is used for}",
+    "options": [
+      "\\text{Cooling the battery}",
+      "\\text{Preventing corrosion}",
+      "\\text{To passout gases produced during chemical reaction}",
+      "\\text{To breath oxygen from the atmosphere}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 195,
+    "qdes": "\\begin{array}{l} \\text{A micro Hydro scheme has following data : Gross Power = 15 kW, Head = 25 meters} \\\\ \\text{Water discharge rate = 0.1 m}^3\\text{/s. Assume Density of fresh water = 996 kg/m}^3 \\\\ \\text{g = 9.81 m/s}^2\\text{. The overall efficiency of micro hydro scheme is} \\end{array}",
+    "options": [
+      "\\text{0.55}",
+      "\\text{0.51}",
+      "\\text{0.70}",
+      "\\text{0.61}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 196,
+    "qdes": "\\text{The theoretical conversion efficiency of hydrogen – oxygen fuel cell at } 25^\\circ\\text{ C is}",
+    "options": [
+      "\\text{56\\%}",
+      "\\text{17\\%}",
+      "\\text{75\\%}",
+      "\\text{83\\%}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 197,
+    "qdes": "\\text{The conversion efficiency of a solar cell unit fill factor FF can be calculated as}",
+    "options": [
+      "\\text{P}_{max} \\text{ FF / } V_{OC} I_{SC}",
+      "\\text{I}_{SC} V_{OC} \\text{ FF / } P_{min}",
+      "\\text{P}_{min} \\text{ / } I_{SC} V_{OC} \\text{ FF}",
+      "\\text{V}_{SC} I_{OC} \\text{ / } P_{max} \\text{ FF}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 198,
+    "qdes": "\\text{A RL series circuit draws a current of 1 A, when connected across 10 V, 1 rad/sec a.c supply. Assuming the resistance to be 5 }\\Omega\\text{, find the inductance of the circuit}",
+    "options": [
+      "\\sqrt{75} \\text{ H}",
+      "\\text{100 mH}",
+      "\\sqrt{10} \\text{ mH}",
+      "\\text{0.1 H}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 199,
+    "qdes": "\\text{The wind speed (14 km/h or 4 m/s) at which the turbine output begins is called}",
+    "options": [
+      "\\text{Rated Speed}",
+      "\\text{Cut-Out speed}",
+      "\\text{Cut-in Speed}",
+      "\\text{Average Speed}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 200,
+    "qdes": "\\text{Which of the following statements is not true about battery storage?}",
+    "options": [
+      "\\text{It is a modular and portable source of energy}",
+      "\\text{The cost of battery storage is high}",
+      "\\text{It has prolonged life}",
+      "\\text{It has the ability of rapid switchover between charging and discharging operations}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  }
 ]
