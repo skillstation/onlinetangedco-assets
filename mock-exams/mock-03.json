@@ -1,1025 +1,1024 @@
 [
   {
-  "qno": 1,
-  "qdes": "\\text{The voltage across } 30\\Omega \\text{ in the circuit shown is}",
-  "options": [
-    "30\\ \\text{V}",
-    "45\\ \\text{V}",
-    "18\\ \\text{V}",
-    "24\\ \\text{V}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": "circuit_with_30ohm_voltage.png"
+    "qno": 1,
+    "qdes": "\\text{The voltage across } 30\\Omega \\text{ in the circuit shown is}",
+    "options": [
+      "30\\ \\text{V}",
+      "45\\ \\text{V}",
+      "18\\ \\text{V}",
+      "24\\ \\text{V}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": "circuit_with_30ohm_voltage.png"
   },
   {
-  "qno": 2,
-  "qdes": "\\text{A } 0.1\\,\\mu F \\text{ capacitor is charged to 200V before being connected across a } 4k\\Omega \\text{ resistor. Determine the initial discharge current.}",
-  "options": [
-    "5\\text{A}",
-    "0.05\\text{A}",
-    "0.5\\text{A}",
-    "0.005\\text{A}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 2,
+    "qdes": "\\text{A } 0.1\\,\\mu F \\text{ capacitor is charged to 200V before being connected across a } 4k\\Omega \\text{ resistor. Determine the initial discharge current.}",
+    "options": [
+      "5\\text{A}",
+      "0.05\\text{A}",
+      "0.5\\text{A}",
+      "0.005\\text{A}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 3,
-  "qdes": "\\text{All the charges on a charged conducting body remains on the\\_\\_\\_\\_\\_\\_\\_ of the body}",
-  "options": [
-    "\\text{Inside}",
-    "\\text{Surface}",
-    "\\text{Outside}",
-    "\\text{Origin}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 4,
-  "qdes": "\\text{The neutral points of source and load are shorted to form the reference node in a single phase equivalent circuit even if the neutral points are connected through impedance in the actual circuit. This is so because the neutral connection in a balanced circuit will}",
-  "options": [
-    "\\text{Not carry any current}",
-    "\\text{Carry maximum current}",
-    "\\text{Carry minimum current}",
-    "\\text{Not carry zero current}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 3,
+    "qdes": "\\text{All the charges on a charged conducting body remains on the\\_\\_\\_\\_\\_\\_\\_ of the body}",
+    "options": [
+      "\\text{Inside}",
+      "\\text{Surface}",
+      "\\text{Outside}",
+      "\\text{Origin}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 5,
-  "qdes": "\\text{A fuel cell is basically}",
-  "options": [
-    "\\text{An electro-mechanical energy conversion device}",
-    "\\text{An electro-chemical energy conversion device}",
-    "\\text{An electro-static energy conversion device}",
-    "\\text{A thermo-electric energy conversion device}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 4,
+    "qdes": "\\text{The neutral points of source and load are shorted to form the reference node in a single phase equivalent circuit even if the neutral points are connected through impedance in the actual circuit. This is so because the neutral connection in a balanced circuit will}",
+    "options": [
+      "\\text{Not carry any current}",
+      "\\text{Carry maximum current}",
+      "\\text{Carry minimum current}",
+      "\\text{Not carry zero current}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 6,
-  "qdes": "\\text{For the tank circuit shown below, find the circulating current at resonance, for a supply voltage of } V \\text{ volts (a.c.). Neglect any resistance of the circuit.}",
-  "options": [
-    "\\left(\\dfrac{VL}{C}\\right)^{1/2}",
-    "V\\left(\\dfrac{L}{C}\\right)^{1/2}",
-    "V\\left(\\dfrac{C}{L}\\right)^{1/2}",
-    "\\left(\\dfrac{VC}{L}\\right)^{1/2}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 3,
-  "fig": "tank_circuit.png"
-},
+    "qno": 5,
+    "qdes": "\\text{A fuel cell is basically}",
+    "options": [
+      "\\text{An electro-mechanical energy conversion device}",
+      "\\text{An electro-chemical energy conversion device}",
+      "\\text{An electro-static energy conversion device}",
+      "\\text{A thermo-electric energy conversion device}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 7,
-  "qdes": "\\text{Two coupled inductors } L_1 = 0.2\\,H \\text{ and } L_2 = 0.8\\,H \\text{ have coefficient of coupling } K = 0.7. \\text{ The mutual inductance } M \\text{ is}",
-  "options": [
-    "0.2\\,H",
-    "0.28\\,H",
-    "0.112\\,H",
-    "1\\,H"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 6,
+    "qdes": "\\text{For the tank circuit shown below, find the circulating current at resonance, for a supply voltage of } V \\text{ volts (a.c.). Neglect any resistance of the circuit.}",
+    "options": [
+      "\\left(\\dfrac{VL}{C}\\right)^{1/2}",
+      "V\\left(\\dfrac{L}{C}\\right)^{1/2}",
+      "V\\left(\\dfrac{C}{L}\\right)^{1/2}",
+      "\\left(\\dfrac{VC}{L}\\right)^{1/2}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": "tank_circuit.png"
+  },
   {
-  "qno": 8,
-  "qdes": "\\text{The time constant of the network shown in figure is}",
-  "options": [
-    "2RC",
-    "3RC",
-    "\\dfrac{RC}{2}",
-    "\\dfrac{2RC}{3}"
-  ],
-  "ans": 4,
-  "fig": ""
-},
-{
-  "qno": 9,
-  "qdes": "\\text{A parallel RLC circuit has } R = 10000\\, \\Omega,\\ L = 10\\, mH \\text{ and } C = 1\\, \\mu F.\\ \\text{The resonant frequency } W_0\\, (\\text{rad/sec}) \\text{ and } Q \\text{ are respectively given by}",
-  "options": [
-    "10^4 \\text{ and } 200",
-    "10^2 \\text{ and } 1",
-    "10^4 \\text{ and } 100",
-    "10^2 \\text{ and } 100"
-  ],
-  "ans": 3,
-  "fig": ""
-},
-{
-  "qno": 10,
-  "qdes": "\\text{The voltage across R after } t = 0 \\text{ and } t = 1 \\text{ sec, will be}",
-  "options": [
-    "100\\, V,\\ 632\\, V",
-    "0\\, V,\\ 63.2\\, V",
-    "100\\, V,\\ 36.8\\, V",
-    "0\\, V,\\ 36.8\\, V",
-    "Answer not known"
-  ],
-  "ans": 3,
-  "fig": ""
-}
-,
-{
-  "qno": 11,
-  "qdes": "\\text{In a mono stable multivibrator, } R = 100\\ \\text{k}\\Omega \\text{ and time delay } T = 100\\ \\text{ms. Calculate the value of } C",
-  "options": [
-    "0.9\\ \\mu\\text{F}",
-    "0.9\\ \\rho\\text{F}",
-    "0.5\\ \\mu\\text{F}",
-    "0.9\\ \\text{F}",
-    "Answer not known"
-  ],
-  "ans": 1,
-  "fig": ""
-},
-{
-  "qno": 12,
-  "qdes": "\\text{When two resistances of equal values } (R) \\text{ connected in parallel, the effective resistance is}",
-  "options": [
-    "R",
-    "\\dfrac{R}{2}",
-    "2R",
-    "R^2",
-    "Answer not known"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 13,
-  "qdes": "\\text{Find H parameter for the two port network as shown in the figure}",
-  "options": [
-    "\\begin{bmatrix} 25 & 1 \\\\ -1 & 20 \\end{bmatrix}",
-    "\\begin{bmatrix} 20 & -1 \\\\ 1 & 25 \\end{bmatrix}",
-    "\\begin{bmatrix} 20 & 1 \\\\ -1 & 25 \\end{bmatrix}",
-    "\\begin{bmatrix} 25 & -1 \\\\ 1 & 20 \\end{bmatrix}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 3,
-  "fig": "two_port_network.png"
-},
+    "qno": 7,
+    "qdes": "\\text{Two coupled inductors } L_1 = 0.2\\,H \\text{ and } L_2 = 0.8\\,H \\text{ have coefficient of coupling } K = 0.7. \\text{ The mutual inductance } M \\text{ is}",
+    "options": [
+      "0.2\\,H",
+      "0.28\\,H",
+      "0.112\\,H",
+      "1\\,H"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 14,
-  "qdes": "\\text{The value of a matrix in } \\dot{X} = A X \\text{ for the system described by the differential equation } \\ddot{Y} + 2\\dot{Y} + 3Y = 0 \\text{ is}",
-  "options": [
-    "\\begin{bmatrix} 1 & 0 \\\\ -2 & -1 \\end{bmatrix}",
-    "\\begin{bmatrix} 1 & 0 \\\\ -1 & -2 \\end{bmatrix}",
-    "\\begin{bmatrix} 0 & 1 \\\\ -2 & -1 \\end{bmatrix}",
-    "\\begin{bmatrix} 0 & 1 \\\\ -3 & -2 \\end{bmatrix}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 4,
-  "fig": ""
-},
+    "qno": 8,
+    "qdes": "\\text{The time constant of the network shown in figure is}",
+    "options": [
+      "2RC",
+      "3RC",
+      "\\dfrac{RC}{2}",
+      "\\dfrac{2RC}{3}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
   {
-  "qno": 15,
-  "qdes": "\\text{For the circuit shown, find the Q-factor}",
-  "options": [
-    "10",
-    "447",
-    "4.47",
-    "71",
-    "\\text{Answer not known}"
-  ],
-  "ans": 3,
-  "fig": "rlc_circuit_q_factor.png"
-},
+    "qno": 9,
+    "qdes": "\\text{A parallel RLC circuit has } R = 10000\\, \\Omega,\\ L = 10\\, mH \\text{ and } C = 1\\, \\mu F.\\ \\text{The resonant frequency } W_0\\, (\\text{rad/sec}) \\text{ and } Q \\text{ are respectively given by}",
+    "options": [
+      "10^4 \\text{ and } 200",
+      "10^2 \\text{ and } 1",
+      "10^4 \\text{ and } 100",
+      "10^2 \\text{ and } 100"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
   {
-  "qno": 16,
-  "qdes": "\\text{A stepper motor with a step angle of } 15^{\\circ} \\text{ has a stepping frequency of 300 steps/second. The stepper motor speed will be}",
-  "options": [
-    "300\\ \\text{rpm}",
-    "750\\ \\text{rpm}",
-    "720\\ \\text{rpm}",
-    "350\\ \\text{rpm}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 17,
-  "qdes": "\\text{Bit set/reset mode in 8255 programmable peripheral interface is used to set or reset the pins of}",
-  "options": [
-    "\\text{Port A}",
-    "\\text{Port B}",
-    "\\text{Port C}",
-    "\\text{Port A and Port B}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 3,
-  "fig": ""
-},
-{
-  "qno": 18,
-  "qdes": "\\text{The time constant of a series RL circuit is}",
-  "options": [
-    "LR",
-    "\\dfrac{R}{L}",
-    "e^{-RL}",
-    "\\dfrac{L}{R}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 4,
-  "fig": ""
-},
+    "qno": 10,
+    "qdes": "\\text{The voltage across R after } t = 0 \\text{ and } t = 1 \\text{ sec, will be}",
+    "options": [
+      "100\\, V,\\ 632\\, V",
+      "0\\, V,\\ 63.2\\, V",
+      "100\\, V,\\ 36.8\\, V",
+      "0\\, V,\\ 36.8\\, V",
+      "Answer not known"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
   {
-  "qno": 19,
-  "qdes": "\\text{In the circuit given below the voltage across } 20\\,\\Omega \\text{ resistor is } 100\\,\\text{V. What is the total voltage } V_s \\text{ across the combined circuit?}",
-  "options": [
-    "100\\,\\text{V}",
-    "10\\,\\text{V}",
-    "20\\,\\text{V}",
-    "200\\,\\text{V}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 4,
-  "fig": "voltage_divider_circuit.png"
-},
+    "qno": 11,
+    "qdes": "\\text{In a mono stable multivibrator, } R = 100\\ \\text{k}\\Omega \\text{ and time delay } T = 100\\ \\text{ms. Calculate the value of } C",
+    "options": [
+      "0.9\\ \\mu\\text{F}",
+      "0.9\\ \\rho\\text{F}",
+      "0.5\\ \\mu\\text{F}",
+      "0.9\\ \\text{F}",
+      "Answer not known"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 20,
-  "qdes": "\\text{What shall be the value of } R, \\text{ if it has to absorb maximum power from source?}",
-  "options": [
-    "\\dfrac{3}{8}\\,\\Omega",
-    "\\dfrac{8}{3}\\,\\Omega",
-    "4\\,\\Omega",
-    "8\\,\\Omega"
-  ],
-  "ans": 2,
-  "fig": "max_power_theorem_circuit.png"
-},
-{
-  "qno": 21,
-  "qdes": "\\text{At the time of switching of an inductor to a source, a current } I_0 \\text{ was already flowing through the inductor. Then, the inductor will behave as}",
-  "options": [
-    "\\text{an open circuit}",
-    "\\text{a short circuit}",
-    "\\text{a current source of } I_0 \\text{ Ampere}",
-    "\\text{a voltage source of } V_0 \\text{ volts}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 3,
-  "fig": ""
-},
+    "qno": 12,
+    "qdes": "\\text{When two resistances of equal values } (R) \\text{ connected in parallel, the effective resistance is}",
+    "options": [
+      "R",
+      "\\dfrac{R}{2}",
+      "2R",
+      "R^2",
+      "Answer not known"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 22,
-  "qdes": "\\text{In an Anderson Bridge, the unknown inductance is measured in term of known}",
-  "options": [
-    "\\text{Resistance}",
-    "\\text{Capacitance}",
-    "\\text{Inductance and Resistance}",
-    "\\text{Resistance and Capacitance}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 4,
-  "fig": ""
-},
+    "qno": 13,
+    "qdes": "\\text{Find H parameter for the two port network as shown in the figure}",
+    "options": [
+      "\\begin{bmatrix} 25 & 1 \\\\ -1 & 20 \\end{bmatrix}",
+      "\\begin{bmatrix} 20 & -1 \\\\ 1 & 25 \\end{bmatrix}",
+      "\\begin{bmatrix} 20 & 1 \\\\ -1 & 25 \\end{bmatrix}",
+      "\\begin{bmatrix} 25 & -1 \\\\ 1 & 20 \\end{bmatrix}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": "two_port_network.png"
+  },
   {
-  "qno": 23,
-  "qdes": "\\text{In the circuit given below determine } V_{ab}",
-  "options": [
-    "2.5\\text{ V}",
-    "3.5\\text{ V}",
-    "7\\text{ V}",
-    "5\\text{ V}"
-  ],
-  "ans": 2,
-  "fig": "image_544bc3.png"
-},
-{
-  "qno": 24,
-  "qdes": "\\text{In an RLC parallel circuit } \\rule{2cm}{0.5pt} \\text{ and } \\rule{2cm}{0.5pt} \\text{ are minimum at resonance.}",
-  "options": [
-    "\\text{current, admittance}",
-    "\\text{voltage, resistance}",
-    "\\text{voltage, impedance}",
-    "\\text{current, impedance}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 14,
+    "qdes": "\\text{The value of a matrix in } \\dot{X} = A X \\text{ for the system described by the differential equation } \\ddot{Y} + 2\\dot{Y} + 3Y = 0 \\text{ is}",
+    "options": [
+      "\\begin{bmatrix} 1 & 0 \\\\ -2 & -1 \\end{bmatrix}",
+      "\\begin{bmatrix} 1 & 0 \\\\ -1 & -2 \\end{bmatrix}",
+      "\\begin{bmatrix} 0 & 1 \\\\ -2 & -1 \\end{bmatrix}",
+      "\\begin{bmatrix} 0 & 1 \\\\ -3 & -2 \\end{bmatrix}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
   {
-  "qno": 25,
-  "qdes": "\\text{In a series RLC circuit operating below the resonant frequency, the current}",
-  "options": [
-    "\\text{I leads Vs}",
-    "\\text{I lags Vs}",
-    "\\text{I is in phase with Vs}",
-    "\\text{Zero}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
-{
-  "qno": 26,
-  "qdes": "\\text{A point charge of } 4\\pi\\epsilon_0 C \\text{ is situated at origin. What is the value of field intensity at } (0, 0, 1) \\text{ m?}",
-  "options": [
-    "1\\text{ V/m}",
-    "2\\text{ V/m}",
-    "4\\text{ V/m}",
-    "0\\text{ V/m}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
-{
-  "qno": 27,
-  "qdes": "\\text{Which of the following relationship exists between electric flux density and electric field intensity?}",
-  "options": [
-    "\\text{Linear}",
-    "\\text{Inversely linear}",
-    "\\text{Non-linear}",
-    "\\text{Inversely non-linear}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 15,
+    "qdes": "\\text{For the circuit shown, find the Q-factor}",
+    "options": [
+      "10",
+      "447",
+      "4.47",
+      "71",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": "rlc_circuit_q_factor.png"
+  },
   {
-  "qno": 28,
-  "qdes": "\\text{Point charges } 30\\,nc,\\ -20\\,nc \\text{ and } 10\\,nc \\text{ are located at } (-1,0,2),\\ (0,0,0) \\text{ and } (1,5,-1) \\text{ respectively. The total flux leaving a cube of side 6 m centered at the origin is}",
-  "options": [
-    "-20\\,nc",
-    "10\\,nc",
-    "20\\,nc",
-    "30\\,nc",
-    "Answer not known"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 16,
+    "qdes": "\\text{A stepper motor with a step angle of } 15^{\\circ} \\text{ has a stepping frequency of 300 steps/second. The stepper motor speed will be}",
+    "options": [
+      "300\\ \\text{rpm}",
+      "750\\ \\text{rpm}",
+      "720\\ \\text{rpm}",
+      "350\\ \\text{rpm}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 29,
-  "qdes": "\\text{A three phase balanced inductive load draw a current of 10\\ A and consumed 6\\ KW when connected to 400\\ V supply. What is the power factor of the load?}",
-  "options": [
-    "0.866\\ lag",
-    "0.5\\ lag",
-    "0.866\\ lead",
-    "0.5\\ lead",
-    "Answer not known"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 17,
+    "qdes": "\\text{Bit set/reset mode in 8255 programmable peripheral interface is used to set or reset the pins of}",
+    "options": [
+      "\\text{Port A}",
+      "\\text{Port B}",
+      "\\text{Port C}",
+      "\\text{Port A and Port B}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
   {
-  "qno": 30,
-  "qdes": "\\text{Which one of the following is true for the value of capacitance between two spheres, whose separation is very much larger than their radii } R?",
-  "options": [
-    "\\dfrac{2\\pi}{\\epsilon_0 R}",
-    "2\\pi \\epsilon_0 R",
-    "\\dfrac{2\\pi \\epsilon_0}{R}",
-    "\\dfrac{4\\pi \\epsilon_0}{R}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 18,
+    "qdes": "\\text{The time constant of a series RL circuit is}",
+    "options": [
+      "LR",
+      "\\dfrac{R}{L}",
+      "e^{-RL}",
+      "\\dfrac{L}{R}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
   {
-  "qno": 31,
-  "qdes": "\\text{Statement A: The current in a constant inductive system does not change instantaneously.} \\\\ \\text{Statement B: In constant inductive system the flux linkage is conserved initially}",
-  "options": [
-    "\\text{Statements A and B are true Statement B is correct explanation for A}",
-    "\\text{Statements A and B are true but B is not correct explanation for A}",
-    "\\text{Statement A is true and B is false}",
-    "\\text{Statement A is false and B is true}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 3,
-  "fig": ""
-},
+    "qno": 19,
+    "qdes": "\\text{In the circuit given below the voltage across } 20\\,\\Omega \\text{ resistor is } 100\\,\\text{V. What is the total voltage } V_s \\text{ across the combined circuit?}",
+    "options": [
+      "100\\,\\text{V}",
+      "10\\,\\text{V}",
+      "20\\,\\text{V}",
+      "200\\,\\text{V}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": "voltage_divider_circuit.png"
+  },
   {
-  "qno": 32,
-  "qdes": "\\text{A fuel cell in order to produce electricity, burns}",
-  "options": [
-    "Chromium",
-    "Helium",
-    "Hydrogen",
-    "Nitrogen",
-    "Answer not known"
-  ],
-  "ans": 3,
-  "fig": ""
-},
+    "qno": 20,
+    "qdes": "\\text{What shall be the value of } R, \\text{ if it has to absorb maximum power from source?}",
+    "options": [
+      "\\dfrac{3}{8}\\,\\Omega",
+      "\\dfrac{8}{3}\\,\\Omega",
+      "4\\,\\Omega",
+      "8\\,\\Omega"
+    ],
+    "ans": 2,
+    "fig": "max_power_theorem_circuit.png"
+  },
   {
-  "qno": 33,
-  "qdes": "\\text{In 8255, the control register is addressed by the pins A1 and A0 as}",
-  "options": [
-    "00",
-    "01",
-    "10",
-    "11",
-    "Answer not known"
-  ],
-  "ans": 4,
-  "fig": ""
-},
+    "qno": 21,
+    "qdes": "\\text{At the time of switching of an inductor to a source, a current } I_0 \\text{ was already flowing through the inductor. Then, the inductor will behave as}",
+    "options": [
+      "\\text{an open circuit}",
+      "\\text{a short circuit}",
+      "\\text{a current source of } I_0 \\text{ Ampere}",
+      "\\text{a voltage source of } V_0 \\text{ volts}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
   {
-  "qno": 34,
-  "qdes": "\\text{Which of the following field equation indicate that the free magnetic charges does not exist?}",
-  "options": [
-    "\\vec{H} = (1/\\mu)(\\nabla \\times \\vec{A})",
-    "\\vec{H} = \\int \\frac{Id\\vec{l} \\times \\vec{v}}{4 \\pi R^2}",
-    "\\nabla \\cdot \\vec{H} = 0",
-    "\\nabla \\times \\vec{H} = \\vec{J}",
-    "Answer not known"
-  ],
-  "ans": 3,
-  "fig": ""
-},
-{
-  "qno": 35,
-  "qdes": "\\text{To find, } \\nabla \\cdot (\\nabla \\times \\vec{A}) = ?",
-  "options": [
-    "1",
-    "\\nabla A",
-    "0",
-    "\\nabla^2 A",
-    "Answer not known"
-  ],
-  "ans": 3,
-  "fig": ""
-},
+    "qno": 22,
+    "qdes": "\\text{In an Anderson Bridge, the unknown inductance is measured in term of known}",
+    "options": [
+      "\\text{Resistance}",
+      "\\text{Capacitance}",
+      "\\text{Inductance and Resistance}",
+      "\\text{Resistance and Capacitance}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
   {
-  "qno": 36,
-  "qdes": "\\text{A coil of 500 turns is linked by a flux of 0.2 mWb. If the flux is reversed in 0.01 s, then the emf induced in the coil is}",
-  "options": [
-    "200\\ \\text{V}",
-    "20\\ \\text{V}",
-    "2\\ \\text{V}",
-    "0.2\\ \\text{V}",
-    "Answer not known"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 23,
+    "qdes": "\\text{In the circuit given below determine } V_{ab}",
+    "options": [
+      "2.5\\text{ V}",
+      "3.5\\text{ V}",
+      "7\\text{ V}",
+      "5\\text{ V}"
+    ],
+    "ans": 2,
+    "fig": "image_544bc3.png"
+  },
   {
-  "qno": 37,
-  "qdes": "\\text{Verify whether the vector field } \\vec{E} = YZ\\,\\vec{a}_x + XZ\\,\\vec{a}_y + XY\\,\\vec{a}_z \\text{ is both solenoidal and irrotational?} \n\\text{Assertion [A] : Solenoidal and irrotational.} \n\\text{Reason [R] : } \\nabla \\cdot \\vec{E} = 0 \\text{ and } \\nabla \\times \\vec{E} = 0.",
-  "options": [
-    "[A] \\text{ is true but [R] is false}",
-    "\\text{Both [A] and [R] are true; and [R] is the correct explanation}",
-    "[A] \\text{ is false, [R] is true}",
-    "\\text{Both [A] and [R] are true, but [R] is not the correct explanation}",
-    "Answer not known"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 24,
+    "qdes": "\\text{In an RLC parallel circuit } \\rule{2cm}{0.5pt} \\text{ and } \\rule{2cm}{0.5pt} \\text{ are minimum at resonance.}",
+    "options": [
+      "\\text{current, admittance}",
+      "\\text{voltage, resistance}",
+      "\\text{voltage, impedance}",
+      "\\text{current, impedance}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 38,
-  "qdes": "\\text{A circular coil of radius 2 m carries a current of 4 amperes. What is the value of magnetic field intensity at the centre?}",
-  "options": [
-    "2\\ \\text{A/m}",
-    "1\\ \\text{A/m}",
-    "10\\ \\text{A/m}",
-    "4\\ \\text{A/m}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 39,
-  "qdes": "\\text{If an amplifier with open loop gain of } 10^4 \\text{ and feedback factor } \\beta = 0.1 \\text{ has lower 3 dB frequency 100 Hz and upper 3 dB frequency as 1 KHz. Find the lower 3 dB frequency in the presence of feedback}",
-  "options": [
-    "0.1\\ \\text{Hz}",
-    "100\\ \\text{Hz}",
-    "10000\\ \\text{Hz}",
-    "1000\\ \\text{Hz}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
-{
-  "qno": 40,
-  "qdes": "\\text{The maximum value of power coefficient in a wind turbine is}",
-  "options": [
-    "0.693",
-    "0.593",
-    "0.493",
-    "0.395",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 41,
-  "qdes": "\\text{The divergence of the given field } \\vec{F} = 30\\,\\vec{a}_x + 2xy\\,\\vec{a}_y + 5xz^2\\,\\vec{a}_z \\text{ at } (1,1,-0.2) \\text{ is}",
-  "options": [
-    "0",
-    "1",
-    "2",
-    "3",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
-{
-  "qno": 42,
-  "qdes": "\\text{The expression } \\oint \\vec{H} \\cdot d\\vec{l} = \\int_S \\vec{J} \\cdot d\\vec{s} \\text{ represents}",
-  "options": [
-    "\\text{Lenz's Law}",
-    "\\text{Maxwell equation}",
-    "\\text{Ampere's Law}",
-    "\\text{Faraday's Law}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 3,
-  "fig": ""
-},
-{
-  "qno": 43,
-  "qdes": "\\text{The energy quality index can be defined as the ratio of}\\ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_",
-  "options": [
-    "\\text{Energy Loss / Energy input}",
-    "\\dfrac{\\text{Energy availability of output}}{\\text{Energy availability of input}}",
-    "\\dfrac{\\text{Energy availability of Input}}{\\text{Energy availability of output}}",
-    "\\text{Energy input / Energy output}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 44,
-  "qdes": "\\text{The surge impedance of a 3 phase 400 KV transmission line is } 400\\ \\Omega.\\ \\text{The surge impedance loading is}",
-  "options": [
-    "400\\ \\text{MW}",
-    "100\\ \\text{MW}",
-    "1600\\ \\text{MW}",
-    "200\\ \\text{MW}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
-{
-  "qno": 45,
-  "qdes": "\\text{Energy stored in a coil is doubled when current is increased by}",
-  "options": [
-    "100\\%",
-    "41.4\\%",
-    "50\\%",
-    "35\\%",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 46,
-  "qdes": "\\text{The minimum number of watt meter(s) required to measure 3-phase, 3-wire balanced or unbalanced power is}",
-  "options": [
-    "1",
-    "2",
-    "3",
-    "4",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 47,
-  "qdes": "\\text{In a LVDT, the two secondary voltages}",
-  "options": [
-    "\\text{Are independent of the core position}",
-    "\\text{Vary unequally depending on the core position}",
-    "\\text{Vary equally depending on the core position}",
-    "\\text{Are always in phase quadrature}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 48,
-  "qdes": "Moving iron instruments are",
-  "options": [
-    "Attraction type",
-    "Repulsion type",
-    "Attraction and repulsion type",
-    "Dynamometer type"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 25,
+    "qdes": "\\text{In a series RLC circuit operating below the resonant frequency, the current}",
+    "options": [
+      "\\text{I leads Vs}",
+      "\\text{I lags Vs}",
+      "\\text{I is in phase with Vs}",
+      "\\text{Zero}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 49,
-  "qdes": "\\text{A dual beam CRO uses}",
-  "options": [
-    "\\text{Electronic Switch}",
-    "\\text{Two sets of VDPs and single set of HDPs}",
-    "\\text{One electron gun}",
-    "\\text{Two time base generator circuits}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 26,
+    "qdes": "\\text{A point charge of } 4\\pi\\epsilon_0 C \\text{ is situated at origin. What is the value of field intensity at } (0, 0, 1) \\text{ m?}",
+    "options": [
+      "1\\text{ V/m}",
+      "2\\text{ V/m}",
+      "4\\text{ V/m}",
+      "0\\text{ V/m}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 50,
-  "qdes": "\\text{The breakdown strength of air at a barometric pressure of 760 mm and temperature of 25°C is}",
-  "options": [
-    "\\text{19 KV/cm (max)}",
-    "\\text{30.4 KV/cm (max)}",
-    "\\text{33 KV/cm (max)}",
-    "\\text{30 KV/cm (max)}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 27,
+    "qdes": "\\text{Which of the following relationship exists between electric flux density and electric field intensity?}",
+    "options": [
+      "\\text{Linear}",
+      "\\text{Inversely linear}",
+      "\\text{Non-linear}",
+      "\\text{Inversely non-linear}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 51,
-  "qdes": "\\text{Which one of the following materials is not used as a piezoelectric transducer?}",
-  "options": [
-    "\\text{Rochelle salt}",
-    "\\text{Lithium sulphate}",
-    "\\text{Dipotassium tartrate}",
-    "\\text{Tungsten oxide}"
-  ],
-  "ans": 3,
-  "fig": ""
-},
-{
-  "qno": 52,
-  "qdes": "\\text{The power consumption of PMMC instrument is typically about}",
-  "options": [
-    "\\text{0.25 W to 2 W}",
-    "\\text{0.25 mW to 2 mW}",
-    "\\text{25 \\mu W to 200 \\mu W}",
-    "\\text{0.25 \\mu W to 2 \\mu W}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 53,
-  "qdes": "\\text{Match the following : \\newline List I (Transducers) \\newline (a) Thermocouple \\newline (b) Thermistor \\newline (c) Strain gauge \\newline (d) LVDT \\newline List II (Characteristics) \\newline 1. Modulated output \\newline 2. Resistance changes with pressure \\newline 3. Negative temperature coefficient \\newline 4. Constant temperature at one end}",
-  "options": [
-    "\\text{(a) 3, (b) 2, (c) 4, (d) 1}",
-    "\\text{(a) 4, (b) 3, (c) 2, (d) 1}",
-    "\\text{(a) 2, (b) 1, (c) 4, (d) 3}",
-    "\\text{(a) 1, (b) 2, (c) 3, (d) 4}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
-{
-  "qno": 54,
-  "qdes": "\\text{The stroboscope is used to measure?}",
-  "options": [
-    "\\text{displacement}",
-    "\\text{pressure}",
-    "\\text{speed}",
-    "\\text{temperature}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 28,
+    "qdes": "\\text{Point charges } 30\\,nc,\\ -20\\,nc \\text{ and } 10\\,nc \\text{ are located at } (-1,0,2),\\ (0,0,0) \\text{ and } (1,5,-1) \\text{ respectively. The total flux leaving a cube of side 6 m centered at the origin is}",
+    "options": [
+      "-20\\,nc",
+      "10\\,nc",
+      "20\\,nc",
+      "30\\,nc",
+      "Answer not known"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 55,
-  "qdes": "\\text{Turns compensation is used in current transformer primarily for reduction of}",
-  "options": [
-    "\\text{Phase angle error}",
-    "\\text{Both ratio and phase angle error}",
-    "\\text{Ratio error, reduction in phase angle error is incidental}",
-    "\\text{None of the above}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 56,
-  "qdes": "\\text{The topology in which there are 'n' devices and each device has n-1 ports is}",
-  "options": [
-    "\\text{star topology}",
-    "\\text{bus topology}",
-    "\\text{ring topology}",
-    "\\text{mesh topology}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 3,
-  "fig": ""
-},
+    "qno": 29,
+    "qdes": "\\text{A three phase balanced inductive load draw a current of 10\\ A and consumed 6\\ KW when connected to 400\\ V supply. What is the power factor of the load?}",
+    "options": [
+      "0.866\\ lag",
+      "0.5\\ lag",
+      "0.866\\ lead",
+      "0.5\\ lead",
+      "Answer not known"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 57,
-  "qdes": "\\text{In the measurement of power on balanced load by two-wattmeter method in a 3-phase circuit, the readings of the watt meters are 3KW and 1KW respectively, the latter being obtained after reversing the connections of the current coil. The power factor of the load is}",
-  "options": [
-    "\\text{0.277}",
-    "\\text{0.554}",
-    "\\text{0.625}",
-    "\\text{0.866}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 0,
-  "fig": ""
-},
-{
-  "qno": 58,
-  "qdes": "\\text{A current carrying conductor is shown below in Fig. (a), If it is brought in a magnetic field in Fig. (b).}",
-  "options": [
-    "\\text{it will experience a force from left to right}",
-    "\\text{it will experience a force from right to left}",
-    "\\text{it will experience a force from top to bottom}",
-    "\\text{it will experience no force}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 30,
+    "qdes": "\\text{Which one of the following is true for the value of capacitance between two spheres, whose separation is very much larger than their radii } R?",
+    "options": [
+      "\\dfrac{2\\pi}{\\epsilon_0 R}",
+      "2\\pi \\epsilon_0 R",
+      "\\dfrac{2\\pi \\epsilon_0}{R}",
+      "\\dfrac{4\\pi \\epsilon_0}{R}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 59,
-  "qdes": "\\text{The inductance of a moving iron instrument is given by } L=(10+5\\theta-\\theta^2) \\text{ MH where } \\theta \\text{ is the deflection in radian from zero position. The spring constant is } 12 \\times 10^{-6} \\text{ NM/RAD. The deflection for a current of 5 A is}",
-  "options": [
-    "\\text{90°}",
-    "\\text{94.8°}",
-    "\\text{96.8°}",
-    "\\text{92°}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
-{
-  "qno": 60,
-  "qdes": "\\text{In a single phase induction type energy meter, the lag adjustment is done to ensure that}",
-  "options": [
-    "\\text{Current coil flux lags the applied voltage by 90°}",
-    "\\text{Pressure coil flux lags the applied voltage by 90°}",
-    "\\text{Pressure coil flux is in phase with the applied voltage}",
-    "\\text{Current coil flux lags the pressure coil flux by 90°}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
-{
-  "qno": 61,
-  "qdes": "\\text{A basic D'Arsonval movement with a full scale deflection of 50 \\mu A and internal resistance of 500 \\Omega is used as a volt meter. Determine the value of multiplier resistor to measure a voltage range of 0-10 V.}",
-  "options": [
-    "\\text{2.5 K Ohms}",
-    "\\text{199.5 k\\Omega}",
-    "\\text{400 \\Omega}",
-    "\\text{200 \\Omega}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 31,
+    "qdes": "\\text{Statement A: The current in a constant inductive system does not change instantaneously.} \\\\ \\text{Statement B: In constant inductive system the flux linkage is conserved initially}",
+    "options": [
+      "\\text{Statements A and B are true Statement B is correct explanation for A}",
+      "\\text{Statements A and B are true but B is not correct explanation for A}",
+      "\\text{Statement A is true and B is false}",
+      "\\text{Statement A is false and B is true}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
   {
-  "qno": 62,
-  "qdes": "\\text{The nominal ratio of a current transformer is}",
-  "options": [
-    "\\text{Primary winding current/Secondary winding current}",
-    "\\text{Rated primary winding current/Rated Secondary winding current}",
-    "\\text{Number of Secondary winding turns/Number of primary winding turns}",
-    "\\text{(PrimaryWinding Current)}^2 \\frac{}{\\sqrt{\\text{Secondary Winding Current}}}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
-{
-  "qno": 63,
-  "qdes": "\\text{An instrument which is used to measure the level of illumination is}",
-  "options": [
-    "\\text{Power Analyser}",
-    "\\text{Synergy Meter}",
-    "\\text{Multimeter}",
-    "\\text{Lux meter}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 3,
-  "fig": ""
-},
-{
-  "qno": 64,
-  "qdes": "\\text{A 53 Hz reed type frequency meter is polarized with dc. The new range of frequency meter is}",
-  "options": [
-    "\\text{106 Hz}",
-    "\\text{26.5 Hz}",
-    "\\text{53 Hz}",
-    "\\text{79.5 Hz}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 0,
-  "fig": ""
-},
-{
-  "qno": 65,
-  "qdes": "\\text{Dummy strain gauges are used for}",
-  "options": [
-    "\\text{compensation of temperature changes}",
-    "\\text{increases of the sensitivity of bridge in which they are included}",
-    "\\text{compensating for different expansion}",
-    "\\text{calibration of strain gauges}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 0,
-  "fig": ""
-},
+    "qno": 32,
+    "qdes": "\\text{A fuel cell in order to produce electricity, burns}",
+    "options": [
+      "Chromium",
+      "Helium",
+      "Hydrogen",
+      "Nitrogen",
+      "Answer not known"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
   {
-  "qno": 66,
-  "qdes": "\\text{A system is stable if}",
-  "options": [
-    "\\text{All the poles of the characteristic equation are towards the left hand side of the S-plane}",
-    "\\text{One of the poles of the characteristic equation is in the left hand side of S-plane and remaining poles in the right hand side of S-plane}",
-    "\\text{One of the poles of the characteristic equation is towards the right hand side of S-plane}",
-    "\\text{One of the poles of the characteristic equation lies on the origin}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 0,
-  "fig": ""
-},
+    "qno": 33,
+    "qdes": "\\text{In 8255, the control register is addressed by the pins A1 and A0 as}",
+    "options": [
+      "00",
+      "01",
+      "10",
+      "11",
+      "Answer not known"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
   {
-  "qno": 67,
-  "qdes": "\\text{Choose the incorrect force-current analogy of the following \\newline (1) Displacement and inductance \\newline (2) Velocity and voltage \\newline (3) Mass and capacitance}",
-  "options": [
-    "\\text{(1) only}",
-    "\\text{(1) and (2) only}",
-    "\\text{(3) only}",
-    "\\text{(2) and (3) only}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 0,
-  "fig": ""
-},
- {
-  "qno": 68,
-  "qdes": "\\text{The frequency and time domain are related through}",
-  "options": [
-    "\\text{Laplace Transform and Fourier Integral}",
-    "\\text{Laplace Transform}",
-    "\\text{Fourier Integral}",
-    "\\text{Nyquist criterion}"
-  ],
-  "ans": 0,
-  "fig": ""
-},
+    "qno": 34,
+    "qdes": "\\text{Which of the following field equation indicate that the free magnetic charges does not exist?}",
+    "options": [
+      "\\vec{H} = (1/\\mu)(\\nabla \\times \\vec{A})",
+      "\\vec{H} = \\int \\frac{Id\\vec{l} \\times \\vec{v}}{4 \\pi R^2}",
+      "\\nabla \\cdot \\vec{H} = 0",
+      "\\nabla \\times \\vec{H} = \\vec{J}",
+      "Answer not known"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
   {
-  "qno": 69,
-  "qdes": "\\text{The characteristic equation of a system is given by, } S^3+3S^2+2S+5=0. \\text{ The system is,}",
-  "options": [
-    "\\text{unstable}",
-    "\\text{stable}",
-    "\\text{partially stable}",
-    "\\text{marginally stable}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 0,
-  "fig": ""
-},
+    "qno": 35,
+    "qdes": "\\text{To find, } \\nabla \\cdot (\\nabla \\times \\vec{A}) = ?",
+    "options": [
+      "1",
+      "\\nabla A",
+      "0",
+      "\\nabla^2 A",
+      "Answer not known"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
   {
-  "qno": 70,
-  "qdes": "\\text{The armature torque of a DC motor is a function of its}",
-  "options": [
-    "\\text{Pole flux and Speed}",
-    "\\text{Armature current and pole flux}",
-    "\\text{Speed and armature current}",
-    "\\text{Speed alone}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 36,
+    "qdes": "\\text{A coil of 500 turns is linked by a flux of 0.2 mWb. If the flux is reversed in 0.01 s, then the emf induced in the coil is}",
+    "options": [
+      "200\\ \\text{V}",
+      "20\\ \\text{V}",
+      "2\\ \\text{V}",
+      "0.2\\ \\text{V}",
+      "Answer not known"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 71,
-  "qdes": "\\text{A phase lead compensation network}",
-  "options": [
-    "\\text{Decreases the system bandwidth}",
-    "\\text{Speeds up the dynamic response}",
-    "\\text{Is applied when error constants are specified}",
-    "\\text{Reduces the steady – state error}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 37,
+    "qdes": "\\text{Verify whether the vector field } \\vec{E} = YZ\\,\\vec{a}_x + XZ\\,\\vec{a}_y + XY\\,\\vec{a}_z \\text{ is both solenoidal and irrotational?} \n\\text{Assertion [A] : Solenoidal and irrotational.} \n\\text{Reason [R] : } \\nabla \\cdot \\vec{E} = 0 \\text{ and } \\nabla \\times \\vec{E} = 0.",
+    "options": [
+      "[A] \\text{ is true but [R] is false}",
+      "\\text{Both [A] and [R] are true; and [R] is the correct explanation}",
+      "[A] \\text{ is false, [R] is true}",
+      "\\text{Both [A] and [R] are true, but [R] is not the correct explanation}",
+      "Answer not known"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 72,
-  "qdes": "\\text{X – Y recorders}",
-  "options": [
-    "\\text{Record one quantity with respect to another quantity}",
-    "\\text{Record one quantity on X-AXIS with respect to time on Y-AXIS}",
-    "\\text{Record one quantity on Y-AXIS with respect to time on X-AXIS}",
-    "\\text{Record one quantity on X-AXIS with respect to time on Z-AXIS}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 0,
-  "fig": ""
-},
+    "qno": 38,
+    "qdes": "\\text{A circular coil of radius 2 m carries a current of 4 amperes. What is the value of magnetic field intensity at the centre?}",
+    "options": [
+      "2\\ \\text{A/m}",
+      "1\\ \\text{A/m}",
+      "10\\ \\text{A/m}",
+      "4\\ \\text{A/m}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 73,
-  "qdes": "\\text{When the system in Fig. 1 is subjected to a unit-step input, the system output responds as in Fig. 2. The values of K and T from the response curve are}",
-  "options": [
-    "\\text{K = 1.09, T = 1.42}",
-    "\\text{K = 1.42, T = 1.09}",
-    "\\text{K = 1, T = 1}",
-    "\\text{K = 0, T = 0}"
-  ],
-  "ans": 1,
-  "fig": "Fig. 1 and Fig. 2"
-},
+    "qno": 39,
+    "qdes": "\\text{If an amplifier with open loop gain of } 10^4 \\text{ and feedback factor } \\beta = 0.1 \\text{ has lower 3 dB frequency 100 Hz and upper 3 dB frequency as 1 KHz. Find the lower 3 dB frequency in the presence of feedback}",
+    "options": [
+      "0.1\\ \\text{Hz}",
+      "100\\ \\text{Hz}",
+      "10000\\ \\text{Hz}",
+      "1000\\ \\text{Hz}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 74,
-  "qdes": "\\text{The transfer function of the circuit shown}",
-  "options": [
-    "\\text{$\\frac{1}{1 + SRC}$}",
-    "\\text{$\\frac{SRC}{1 + SRC}$}",
-    "\\text{$\\frac{SRC}{1 - SRC}$}",
-    "\\text{$1 + SRC$}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 40,
+    "qdes": "\\text{The maximum value of power coefficient in a wind turbine is}",
+    "options": [
+      "0.693",
+      "0.593",
+      "0.493",
+      "0.395",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 75,
-  "qdes": "\\text{An amplidyne can give which of the following characteristics?}",
-  "options": [
-    "\\text{constant current}",
-    "\\text{constant voltage}",
-    "\\text{constant current and constant voltage}",
-    "\\text{constant current, constant voltage and constant power}"
-  ],
-  "ans": 3,
-  "fig": ""
-},
+    "qno": 41,
+    "qdes": "\\text{The divergence of the given field } \\vec{F} = 30\\,\\vec{a}_x + 2xy\\,\\vec{a}_y + 5xz^2\\,\\vec{a}_z \\text{ at } (1,1,-0.2) \\text{ is}",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 76,
-  "qdes": "\\text{A solar cell (0.9 cm$^2$) receives solar radiation with photons of 1.8 ev energy having an intensity of 0.9 mw/cm$^2$. Measurement show open - circuit voltage of 0.6 V/cm$^2$, short circuit current of 10 mA/cm$^2$, and the maximum current is 50% of the short circuit current. The efficiency of the cell is 25%. Calculate the fill factor}",
-  "options": [
-    "\\text{1.124}",
-    "\\text{0.0375}",
-    "\\text{2.578}",
-    "\\text{3.421}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 42,
+    "qdes": "\\text{The expression } \\oint \\vec{H} \\cdot d\\vec{l} = \\int_S \\vec{J} \\cdot d\\vec{s} \\text{ represents}",
+    "options": [
+      "\\text{Lenz's Law}",
+      "\\text{Maxwell equation}",
+      "\\text{Ampere's Law}",
+      "\\text{Faraday's Law}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
   {
-  "qno": 77,
-  "qdes": "\\text{The steady state error for the system below to unit step input is}",
-  "options": [
-    "\\text{25%}",
-    "\\text{0.75%}",
-    "\\text{6%}",
-    "\\text{33%}"
-  ],
-  "ans": 0,
-  "fig": ""
-},
+    "qno": 43,
+    "qdes": "\\text{The energy quality index can be defined as the ratio of}\\ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_",
+    "options": [
+      "\\text{Energy Loss / Energy input}",
+      "\\dfrac{\\text{Energy availability of output}}{\\text{Energy availability of input}}",
+      "\\dfrac{\\text{Energy availability of Input}}{\\text{Energy availability of output}}",
+      "\\text{Energy input / Energy output}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 78,
-  "qdes": "\\text{A unity feedback (negative) system has open loop transfer function } G(s)=\\frac{k}{s(s+2)}. \\text{ Calculate the value of gain k so that the closed loop system has a steady state unit ramp error of 0.1}",
-  "options": [
-    "\\text{0.5}",
-    "\\text{10}",
-    "\\text{20}",
-    "\\text{100}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 2,
-  "fig": ""
-},
+    "qno": 44,
+    "qdes": "\\text{The surge impedance of a 3 phase 400 KV transmission line is } 400\\ \\Omega.\\ \\text{The surge impedance loading is}",
+    "options": [
+      "400\\ \\text{MW}",
+      "100\\ \\text{MW}",
+      "1600\\ \\text{MW}",
+      "200\\ \\text{MW}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
   {
-  "qno": 79,
-  "qdes": "\\text{If a system has two real and equal characteristic roots, it is described as}",
-  "options": [
-    "\\text{having to damping}",
-    "\\text{being critically damped}",
-    "\\text{being underdamped}",
-    "\\text{being overdamped}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 1,
-  "fig": ""
-},
+    "qno": 45,
+    "qdes": "\\text{Energy stored in a coil is doubled when current is increased by}",
+    "options": [
+      "100\\%",
+      "41.4\\%",
+      "50\\%",
+      "35\\%",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
   {
-  "qno": 80,
-  "qdes": "\\text{The serial data rate is known as the baud rate (ie)}",
-  "options": [
-    "\\text{No of bits of data transferred per second}",
-    "\\text{No of bits of data transferred per min}",
-    "\\text{No of bits of data transferred per hour}",
-    "\\text{None of the above}",
-    "\\text{Answer not known}"
-  ],
-  "ans": 0,
-  "fig": ""
-}
+    "qno": 46,
+    "qdes": "\\text{The minimum number of watt meter(s) required to measure 3-phase, 3-wire balanced or unbalanced power is}",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 47,
+    "qdes": "\\text{In a LVDT, the two secondary voltages}",
+    "options": [
+      "\\text{Are independent of the core position}",
+      "\\text{Vary unequally depending on the core position}",
+      "\\text{Vary equally depending on the core position}",
+      "\\text{Are always in phase quadrature}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 48,
+    "qdes": "Moving iron instruments are",
+    "options": [
+      "Attraction type",
+      "Repulsion type",
+      "Attraction and repulsion type",
+      "Dynamometer type"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 49,
+    "qdes": "\\text{A dual beam CRO uses}",
+    "options": [
+      "\\text{Electronic Switch}",
+      "\\text{Two sets of VDPs and single set of HDPs}",
+      "\\text{One electron gun}",
+      "\\text{Two time base generator circuits}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 50,
+    "qdes": "\\text{The breakdown strength of air at a barometric pressure of 760 mm and temperature of 25°C is}",
+    "options": [
+      "\\text{19 KV/cm (max)}",
+      "\\text{30.4 KV/cm (max)}",
+      "\\text{33 KV/cm (max)}",
+      "\\text{30 KV/cm (max)}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 51,
+    "qdes": "\\text{Which one of the following materials is not used as a piezoelectric transducer?}",
+    "options": [
+      "\\text{Rochelle salt}",
+      "\\text{Lithium sulphate}",
+      "\\text{Dipotassium tartrate}",
+      "\\text{Tungsten oxide}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 52,
+    "qdes": "\\text{The power consumption of PMMC instrument is typically about}",
+    "options": [
+      "\\text{0.25 W to 2 W}",
+      "\\text{0.25 mW to 2 mW}",
+      "\\text{25 \\mu W to 200 \\mu W}",
+      "\\text{0.25 \\mu W to 2 \\mu W}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 53,
+    "qdes": "\\text{Match the following : \\newline List I (Transducers) \\newline (a) Thermocouple \\newline (b) Thermistor \\newline (c) Strain gauge \\newline (d) LVDT \\newline List II (Characteristics) \\newline 1. Modulated output \\newline 2. Resistance changes with pressure \\newline 3. Negative temperature coefficient \\newline 4. Constant temperature at one end}",
+    "options": [
+      "\\text{(a) 3, (b) 2, (c) 4, (d) 1}",
+      "\\text{(a) 4, (b) 3, (c) 2, (d) 1}",
+      "\\text{(a) 2, (b) 1, (c) 4, (d) 3}",
+      "\\text{(a) 1, (b) 2, (c) 3, (d) 4}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 54,
+    "qdes": "\\text{The stroboscope is used to measure?}",
+    "options": [
+      "\\text{displacement}",
+      "\\text{pressure}",
+      "\\text{speed}",
+      "\\text{temperature}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 55,
+    "qdes": "\\text{Turns compensation is used in current transformer primarily for reduction of}",
+    "options": [
+      "\\text{Phase angle error}",
+      "\\text{Both ratio and phase angle error}",
+      "\\text{Ratio error, reduction in phase angle error is incidental}",
+      "\\text{None of the above}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 56,
+    "qdes": "\\text{The topology in which there are 'n' devices and each device has n-1 ports is}",
+    "options": [
+      "\\text{star topology}",
+      "\\text{bus topology}",
+      "\\text{ring topology}",
+      "\\text{mesh topology}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 57,
+    "qdes": "\\text{In the measurement of power on balanced load by two-wattmeter method in a 3-phase circuit, the readings of the watt meters are 3KW and 1KW respectively, the latter being obtained after reversing the connections of the current coil. The power factor of the load is}",
+    "options": [
+      "\\text{0.277}",
+      "\\text{0.554}",
+      "\\text{0.625}",
+      "\\text{0.866}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 0,
+    "fig": ""
+  },
+  {
+    "qno": 58,
+    "qdes": "\\text{A current carrying conductor is shown below in Fig. (a), If it is brought in a magnetic field in Fig. (b).}",
+    "options": [
+      "\\text{it will experience a force from left to right}",
+      "\\text{it will experience a force from right to left}",
+      "\\text{it will experience a force from top to bottom}",
+      "\\text{it will experience no force}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 59,
+    "qdes": "\\text{The inductance of a moving iron instrument is given by } L=(10+5\\theta-\\theta^2) \\text{ MH where } \\theta \\text{ is the deflection in radian from zero position. The spring constant is } 12 \\times 10^{-6} \\text{ NM/RAD. The deflection for a current of 5 A is}",
+    "options": [
+      "\\text{90°}",
+      "\\text{94.8°}",
+      "\\text{96.8°}",
+      "\\text{92°}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 60,
+    "qdes": "\\text{In a single phase induction type energy meter, the lag adjustment is done to ensure that}",
+    "options": [
+      "\\text{Current coil flux lags the applied voltage by 90°}",
+      "\\text{Pressure coil flux lags the applied voltage by 90°}",
+      "\\text{Pressure coil flux is in phase with the applied voltage}",
+      "\\text{Current coil flux lags the pressure coil flux by 90°}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 61,
+    "qdes": "\\text{A basic D'Arsonval movement with a full scale deflection of 50 \\mu A and internal resistance of 500 \\Omega is used as a volt meter. Determine the value of multiplier resistor to measure a voltage range of 0-10 V.}",
+    "options": [
+      "\\text{2.5 K Ohms}",
+      "\\text{199.5 k\\Omega}",
+      "\\text{400 \\Omega}",
+      "\\text{200 \\Omega}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 62,
+    "qdes": "\\text{The nominal ratio of a current transformer is}",
+    "options": [
+      "\\text{Primary winding current/Secondary winding current}",
+      "\\text{Rated primary winding current/Rated Secondary winding current}",
+      "\\text{Number of Secondary winding turns/Number of primary winding turns}",
+      "\\text{(PrimaryWinding Current)}^2 \\frac{}{\\sqrt{\\text{Secondary Winding Current}}}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 63,
+    "qdes": "\\text{An instrument which is used to measure the level of illumination is}",
+    "options": [
+      "\\text{Power Analyser}",
+      "\\text{Synergy Meter}",
+      "\\text{Multimeter}",
+      "\\text{Lux meter}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 64,
+    "qdes": "\\text{A 53 Hz reed type frequency meter is polarized with dc. The new range of frequency meter is}",
+    "options": [
+      "\\text{106 Hz}",
+      "\\text{26.5 Hz}",
+      "\\text{53 Hz}",
+      "\\text{79.5 Hz}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 0,
+    "fig": ""
+  },
+  {
+    "qno": 65,
+    "qdes": "\\text{Dummy strain gauges are used for}",
+    "options": [
+      "\\text{compensation of temperature changes}",
+      "\\text{increases of the sensitivity of bridge in which they are included}",
+      "\\text{compensating for different expansion}",
+      "\\text{calibration of strain gauges}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 0,
+    "fig": ""
+  },
+  {
+    "qno": 66,
+    "qdes": "\\text{A system is stable if}",
+    "options": [
+      "\\text{All the poles of the characteristic equation are towards the left hand side of the S-plane}",
+      "\\text{One of the poles of the characteristic equation is in the left hand side of S-plane and remaining poles in the right hand side of S-plane}",
+      "\\text{One of the poles of the characteristic equation is towards the right hand side of S-plane}",
+      "\\text{One of the poles of the characteristic equation lies on the origin}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 0,
+    "fig": ""
+  },
+  {
+    "qno": 67,
+    "qdes": "\\text{Choose the incorrect force-current analogy of the following \\newline (1) Displacement and inductance \\newline (2) Velocity and voltage \\newline (3) Mass and capacitance}",
+    "options": [
+      "\\text{(1) only}",
+      "\\text{(1) and (2) only}",
+      "\\text{(3) only}",
+      "\\text{(2) and (3) only}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 0,
+    "fig": ""
+  },
+  {
+    "qno": 68,
+    "qdes": "\\text{The frequency and time domain are related through}",
+    "options": [
+      "\\text{Laplace Transform and Fourier Integral}",
+      "\\text{Laplace Transform}",
+      "\\text{Fourier Integral}",
+      "\\text{Nyquist criterion}"
+    ],
+    "ans": 0,
+    "fig": ""
+  },
+  {
+    "qno": 69,
+    "qdes": "\\text{The characteristic equation of a system is given by, } S^3+3S^2+2S+5=0. \\text{ The system is,}",
+    "options": [
+      "\\text{unstable}",
+      "\\text{stable}",
+      "\\text{partially stable}",
+      "\\text{marginally stable}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 0,
+    "fig": ""
+  },
+  {
+    "qno": 70,
+    "qdes": "\\text{The armature torque of a DC motor is a function of its}",
+    "options": [
+      "\\text{Pole flux and Speed}",
+      "\\text{Armature current and pole flux}",
+      "\\text{Speed and armature current}",
+      "\\text{Speed alone}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 71,
+    "qdes": "\\text{A phase lead compensation network}",
+    "options": [
+      "\\text{Decreases the system bandwidth}",
+      "\\text{Speeds up the dynamic response}",
+      "\\text{Is applied when error constants are specified}",
+      "\\text{Reduces the steady – state error}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 72,
+    "qdes": "\\text{X – Y recorders}",
+    "options": [
+      "\\text{Record one quantity with respect to another quantity}",
+      "\\text{Record one quantity on X-AXIS with respect to time on Y-AXIS}",
+      "\\text{Record one quantity on Y-AXIS with respect to time on X-AXIS}",
+      "\\text{Record one quantity on X-AXIS with respect to time on Z-AXIS}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 0,
+    "fig": ""
+  },
+  {
+    "qno": 73,
+    "qdes": "\\text{When the system in Fig. 1 is subjected to a unit-step input, the system output responds as in Fig. 2. The values of K and T from the response curve are}",
+    "options": [
+      "\\text{K = 1.09, T = 1.42}",
+      "\\text{K = 1.42, T = 1.09}",
+      "\\text{K = 1, T = 1}",
+      "\\text{K = 0, T = 0}"
+    ],
+    "ans": 1,
+    "fig": "Fig. 1 and Fig. 2"
+  },
+  {
+    "qno": 74,
+    "qdes": "\\text{The transfer function of the circuit shown}",
+    "options": [
+      "\\text{$\\frac{1}{1 + SRC}$}",
+      "\\text{$\\frac{SRC}{1 + SRC}$}",
+      "\\text{$\\frac{SRC}{1 - SRC}$}",
+      "\\text{$1 + SRC$}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 75,
+    "qdes": "\\text{An amplidyne can give which of the following characteristics?}",
+    "options": [
+      "\\text{constant current}",
+      "\\text{constant voltage}",
+      "\\text{constant current and constant voltage}",
+      "\\text{constant current, constant voltage and constant power}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 76,
+    "qdes": "\\text{A solar cell (0.9 cm$^2$) receives solar radiation with photons of 1.8 ev energy having an intensity of 0.9 mw/cm$^2$. Measurement show open - circuit voltage of 0.6 V/cm$^2$, short circuit current of 10 mA/cm$^2$, and the maximum current is 50% of the short circuit current. The efficiency of the cell is 25%. Calculate the fill factor}",
+    "options": [
+      "\\text{1.124}",
+      "\\text{0.0375}",
+      "\\text{2.578}",
+      "\\text{3.421}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 77,
+    "qdes": "\\text{The steady state error for the system below to unit step input is}",
+    "options": [
+      "\\text{25%}",
+      "\\text{0.75%}",
+      "\\text{6%}",
+      "\\text{33%}"
+    ],
+    "ans": 0,
+    "fig": ""
+  },
+  {
+    "qno": 78,
+    "qdes": "\\text{A unity feedback (negative) system has open loop transfer function } G(s)=\\frac{k}{s(s+2)}. \\text{ Calculate the value of gain k so that the closed loop system has a steady state unit ramp error of 0.1}",
+    "options": [
+      "\\text{0.5}",
+      "\\text{10}",
+      "\\text{20}",
+      "\\text{100}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 79,
+    "qdes": "\\text{If a system has two real and equal characteristic roots, it is described as}",
+    "options": [
+      "\\text{having to damping}",
+      "\\text{being critically damped}",
+      "\\text{being underdamped}",
+      "\\text{being overdamped}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 80,
+    "qdes": "\\text{The serial data rate is known as the baud rate (ie)}",
+    "options": [
+      "\\text{No of bits of data transferred per second}",
+      "\\text{No of bits of data transferred per min}",
+      "\\text{No of bits of data transferred per hour}",
+      "\\text{None of the above}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 0,
+    "fig": ""
+  }
 ]
