@@ -42,10 +42,10 @@
         "qno": 4,
         "qdes": "\\text{In a delta connected three phase system, the relation between the line and the phase values of voltage and current are}",
         "options": [
-            "\\text{V_L = V_{ph}, I_L = }\\sqrt{3}\\text{ I_{ph}}",
-            "\\text{V_L = }\\sqrt{3}\\text{ V_{ph}, I_L = I_{ph}}",
-            "\\text{V_L = }\\frac{V_{ph}}{\\sqrt{3}}\\text{, I_L = I_{ph}}",
-            "\\text{V_L = V_{ph}, I_L = }\\frac{I_{ph}}{\\sqrt{3}}",
+            "{V_L = V_{ph}, I_L = }\\sqrt{3}{ I_{ph}}",
+            "{V_L = }\\sqrt{3}{ V_{ph}, I_L = I_{ph}}",
+            "{V_L = }\\frac{V_{ph}}{\\sqrt{3}}{, I_L = I_{ph}}",
+            "{V_L = V_{ph}, I_L = }\\frac{I_{ph}}{\\sqrt{3}}",
             "\\text{Answer not known}"
         ],
         "ans": 1,
@@ -81,10 +81,10 @@
         "qno": 7,
         "qdes": "\\text{In fig. find the expression for current at t=0+, following switching (opening of S). Assume steady state when S was closed.}",
         "options": [
-            "\\text{2e^{-t} Amps}",
-            "\\text{3e^{-2t} Amps}",
-            "\\text{5e^{-3t} Amps}",
-            "\\text{2e^{-2t} Amps}",
+            "{2e^{-t} Amps}",
+            "{3e^{-2t} Amps}",
+            "{5e^{-3t} Amps}",
+            "{2e^{-2t} Amps}",
             "\\text{Answer not known}"
         ],
         "ans": 1,
@@ -116,7 +116,7 @@
         "ans": 3,
         "fig": ""
     },
-     {
+    {
         "qno": 10,
         "qdes": "\\text{In a series RLC circuit, if C is increased, what happens to resonant frequency?}",
         "options": [
@@ -133,11 +133,11 @@
         "qno": 11,
         "qdes": "\\text{A series Rc circuit consists of R=10 }\\omega\\text{ C=0.1 F. A constant voltage of 20 V is applied to the circuit at t=0. Determine the voltage across the resistor?}",
         "options": [
-            "\\text{20 (1-e^{-10t})volts}",
-            "\\text{20 e^{-10t} volts}",
-            "\\text{20 e^{-t} volts}",
-            "\\text{20 (1-e^{-t})volts}",
-            "\\text{Answer not known}"
+            "{20 (1-e^{-10t})volts}",
+            "{20 e^{-10t} volts}",
+            "{20 e^{-t} volts}",
+            "{20 (1-e^{-t})volts}",
+            "{Answer not known}"
         ],
         "ans": 3,
         "fig": "image_2b5de5.png"
@@ -224,10 +224,10 @@
         "qno": 18,
         "qdes": "\\text{The impedance of each branch of a delta connected circuit is }\\sqrt{3}\\overline{Z}\\text{. What will be the branch impedances of equivalent star-connected circuits?}",
         "options": [
-            "$\\frac{\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{\\overline{Z}}{\\sqrt{3}}$",
-            "$\\frac{2\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{2\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{2\\overline{Z}}{\\sqrt{3}}$",
-            "$\\frac{3\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{3\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{3\\overline{Z}}{\\sqrt{3}}$",
-            "$\\frac{4\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{4\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{4\\overline{Z}}{\\sqrt{3}}$",
+            "\\frac{\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{\\overline{Z}}{\\sqrt{3}}",
+            "\\frac{2\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{2\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{2\\overline{Z}}{\\sqrt{3}}",
+            "\\frac{3\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{3\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{3\\overline{Z}}{\\sqrt{3}}",
+            "\\frac{4\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{4\\overline{Z}}{\\sqrt{3}}\\text{, }\\frac{4\\overline{Z}}{\\sqrt{3}}",
             "\\text{Answer not known}"
         ],
         "ans": 1,
@@ -250,10 +250,10 @@
         "qno": 20,
         "qdes": "\\text{The resolution of an 8 bit DAC will be}",
         "options": [
-            "$\\frac{1}{288}$",
-            "$\\frac{1}{128}$",
-            "$\\frac{1}{255}$",
-            "$\\frac{1}{64}$",
+            "\\frac{1}{288}",
+            "\\frac{1}{128}",
+            "\\frac{1}{255}",
+            "\\frac{1}{64}",
             "\\text{Answer not known}"
         ],
         "ans": 3,
@@ -263,10 +263,10 @@
         "qno": 21,
         "qdes": "\\text{The equivalent inductance of two coils A and B connected as in the given figure is given by}",
         "options": [
-            "\\text{X_{L1} + X_{L2} - 2X_M}",
-            "\\text{X_{L1} + X_{L2} + X_M}",
-            "\\text{X_{L1} + X_{L2} - X_M}",
-            "\\text{X_{L1} + X_{L2} + 2X_M}",
+            "{X_{L1} + X_{L2} - 2X_M}",
+            "{X_{L1} + X_{L2} + X_M}",
+            "{X_{L1} + X_{L2} - X_M}",
+            "{X_{L1} + X_{L2} + 2X_M}",
             "\\text{Answer not known}"
         ],
         "ans": 4,
@@ -341,10 +341,10 @@
         "qno": 27,
         "qdes": "\\text{The relationship between electric field and electric potential is given by}",
         "options": [
-            "$\\overline{E} = -\\nabla^2V$",
-            "$\\overline{E} = V$",
-            "$\\overline{E} = -\\nabla V$",
-            "$\\overline{E} = -\\frac{\\nabla V}{2}$",
+            "\\overline{E} = -\\nabla^2V",
+            "\\overline{E} = V",
+            "\\overline{E} = -\\nabla V",
+            "\\overline{E} = -\\frac{\\nabla V}{2}",
             "\\text{Answer not known}"
         ],
         "ans": 3,
@@ -458,10 +458,10 @@
         "qno": 36,
         "qdes": "\\text{Which of the following field equation indicate that the free magnetic charges does not exist?}",
         "options": [
-            "$\\overline{H} = (1/\\mu)(\\nabla \\times \\overline{A})$",
-            "$\\overline{H} = \\int \\frac{Id\\overline{l} \\times \\overline{v}}{4\\pi R^2}$",
-            "$\\nabla \\cdot \\overline{H} = 0$",
-            "$\\nabla \\times \\overline{H} = \\overline{J}$",
+            "\\overline{H} = (1/\\mu)(\\nabla \\times \\overline{A})",
+            "\\overline{H} = \\int \\frac{Id\\overline{l} \\times \\overline{v}}{4\\pi R^2}",
+            "\\nabla \\cdot \\overline{H} = 0",
+            "\\nabla \\times \\overline{H} = \\overline{J}",
             "\\text{Answer not known}"
         ],
         "ans": 3,
@@ -471,10 +471,10 @@
         "qno": 37,
         "qdes": "\\text{Force experienced by a charge q placed in static electric field of intensity E is given by}",
         "options": [
-            "$\\overline{F} = \\overline{E}q$",
-            "\\text{F = }$\\frac{E^2}{q}$",
-            "$\\overline{F} = \\frac{\\overline{E}}{q}$",
-            "$\\overline{F} = \\overline{E}q^2$",
+            "\\overline{F} = \\overline{E}q",
+            "\\text{F = }\\frac{E^2}{q}",
+            "\\overline{F} = \\frac{\\overline{E}}{q}",
+            "\\overline{F} = \\overline{E}q^2",
             "\\text{Answer not known}"
         ],
         "ans": 1,
@@ -497,10 +497,10 @@
         "qno": 39,
         "qdes": "\\begin{array}{l}\\text{A wire of length }L\\text{ is bent in the form of circular loop and current is passed through the loop.} \\\\ \\text{ The magnetic field induction at the centre of the loop is }B\\text{. Find the current passing through the loop}\\end{array}",
         "options": [
-            "$\\frac{B\\pi L}{\\mu_0}$",
-            "$\\frac{BL}{\\pi \\mu_0}$",
-            "$\\frac{B\\pi}{L\\mu_0}$",
-            "$\\frac{BL}{\\pi}$",
+            "\\frac{B\\pi L}{\\mu_0}",
+            "\\frac{BL}{\\pi \\mu_0}",
+            "\\frac{B\\pi}{L\\mu_0}",
+            "\\frac{BL}{\\pi}",
             "\\text{Answer not known}"
         ],
         "ans": 2,
@@ -1092,6 +1092,19 @@
         "fig": ""
     },
     {
+        "qno": 85,
+        "qdes": "\\begin{array}{l} \\text{Choose the right matches:} \\\\ \\text{The effect of armature reaction in alternators} \\\\ \\text{1. Under unity PF load - Cross magnetises} \\\\ \\text{2. Under unity PF load - Demagnetises} \\\\ \\text{3. Under zero PF lagging load - Demagnetises} \\\\ \\text{4. Under zero PF lagging load - Cross Demagnetises} \\end{array}",
+        "options": [
+            "\\text{1 and 3 are correct}",
+            "\\text{1 and 2 are correct}",
+            "\\text{2 and 3 are correct}",
+            "\\text{3 and 4 are correct}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
         "qno": 86,
         "qdes": "\\begin{array}{l}\\text{The residual magnetism of a self excited dc generator is lost. To build up its emf again the} \\\\ \\text{field winding must be excited by low voltage dc supply}\\end{array}",
         "options": [
@@ -1102,6 +1115,19 @@
             "\\text{Answer not known}"
         ],
         "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 87,
+        "qdes": "\\begin{array}{l} \\text{The following statements are about thermocouple transducer :} \\\\ \\text{I. A thermocouple is an active transducer} \\\\ \\text{II. The electrical energy generated by temperature gradient} \\\\ \\text{Choose the correct answer :} \\end{array}",
+        "options": [
+            "\\text{Statements I and II are true}",
+            "\\text{Statements I and II are false}",
+            "\\text{Statements I is true but II is false}",
+            "\\text{Statements I is false but II is true}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
         "fig": ""
     },
     {
@@ -1116,6 +1142,19 @@
         ],
         "ans": 1,
         "fig": ""
+    },
+    {
+        "qno": 89,
+        "qdes": "\\begin{array}{l} \\text{Due to armature reaction, the armature magnetic field has following} \\\\ \\text{effects.} \\\\ \\text{(i) It demagnetics the main flux} \\\\ \\text{(ii) It magnetics the main flux} \\\\ \\text{(iii) It crossmagnetics the main flux} \\\\ \\text{(iv) It does not have any effect on main flux} \\end{array}",
+        "options": [
+            "\\text{(i) and (ii)}",
+            "\\text{(i), (ii), (iii) and (iv)}",
+            "\\text{(i) and (iii)}",
+            "\\text{(ii) and (iv)}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": "Screenshot 2025-07-31 at 6.06.24 AM.jpg"
     },
     {
         "qno": 90,
@@ -1196,6 +1235,19 @@
         "fig": ""
     },
     {
+        "qno": 96,
+        "qdes": "\\begin{array}{l} \\text{Match List I (Machines) with List II (Test) and select the correct answer.} \\\\ \\text{List I} \\qquad\\qquad\\qquad\\quad \\text{List II} \\\\ \\text{(a) Transformer} \\qquad\\quad\\quad\\ \\text{1. Slip test} \\\\ \\text{(b) DC motor} \\qquad\\quad\\quad\\ \\text{2. Blocked rotor test} \\\\ \\text{(c) Alternator} \\qquad\\quad\\quad \\text{3. Sumpner's test} \\\\ \\text{(d) Induction Motor} \\qquad \\text{4. Swinburne's test} \\\\ \\text{Codes:} \\end{array}",
+        "options": [
+            "\\text{(a) 3\\quad (b) 4\\quad (c) 1\\quad (d) 2}",
+            "\\text{(b) 4\\quad (b) 3\\quad (c) 2\\quad (d) 1}",
+            "\\text{(c) 3\\quad (b) 4\\quad (c) 2\\quad (d) 1}",
+            "\\text{(d) 4\\quad (b) 3\\quad (c) 1\\quad (d) 2}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
         "qno": 97,
         "qdes": "\\begin{array}{l}\\text{A 500 KVA transformer has constant losses of 500 W and copper losses at full load are 2000 W.} \\\\ \\text{Then at what load, is the efficiency maximum?}\\end{array}",
         "options": [
@@ -1248,601 +1300,653 @@
         "fig": ""
     },
     {
-    "qno": 101,
-    "qdes": "\\text{The saving in Cu achieved by converting a 2-winding transformer into an auto transformer is determined by}",
-    "options": [
-      "\\text{Size of transformer core}",
-      "\\text{Load on the secondary}",
-      "\\text{Voltage transformation ratio}",
-      "\\text{Magnetic quality of core material}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 102,
-    "qdes": "\\text{During hunting of synchronous motor}",
-    "options": [
-      "\\text{Negative phase sequence currents are generated}",
-      "\\text{Harmonics are developed in the armature circuit}",
-      "\\text{Damper bar develops torque}",
-      "\\text{Field excitation increases}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 103,
-    "qdes": "\\text{In an induction motor if the air gap is increased}",
-    "options": [
-      "\\text{speed will reduce}",
-      "\\text{efficiency will improve}",
-      "\\text{power factor will be lowered}",
-      "\\text{breakdown torque will reduce}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 104,
-    "qdes": "\\text{A synchronous machine with low value of short circuit ratio has}",
-    "options": [
-      "\\text{high stability limit}",
-      "\\text{lower stability limit}",
-      "\\text{good voltage regulation}",
-      "\\text{easier parallel operating capacity}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 105,
-    "qdes": "\\text{Determine the RMS current in the circuit shown in fig}",
-    "options": [
-      "1.57 mA",
-      "2.57 mA",
-      "3.57 mA",
-      "0.57 mA",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": "image_44e931.png"
-  },
-  {
-    "qno": 106,
-    "qdes": "\\text{A single phase transformer is rated at 2.5 KVA, 11/0.4 KV. If the leakage reactance is 0.96 }\\omega \\text{ when referred to low-voltage side, then determine its leakage reactance in per unit.}",
-    "options": [
-      "0.021 p.u.",
-      "0.015 p.u.",
-      "0.018 p.u.",
-      "0.025 p.u.",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 108,
-    "qdes": "\\text{A steam power station has an overall efficiency of 20\\% and 0.5 kg of coal is burnt per kWh of electrical energy generated. If the heat equivalent of 1 kWh is 860 KCal how much will be the calorific value of fuel.}",
-    "options": [
-      "860 KCal/kg",
-      "86 KCal/kg",
-      "8600 KCal/kg",
-      "344 KCal/kg",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 109,
-    "qdes": "\\text{The energy audit strategy consists of}",
-    "options": [
-      "\\text{General considerations, preliminary studies and detailed study}",
-      "\\text{Detailed study only}",
-      "\\text{General considerations only}",
-      "\\text{Preliminary study only}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 110,
-    "qdes": "\\text{Two insulator discs of identical capacitance value C make up a string for a 22 KV, 50 Hz single phase overhead line insulator system. If the pin to earth capacitance is also C. Then the string efficiency is}",
-    "options": [
-      "50\\%",
-      "75\\%",
-      "90\\%",
-      "86\\%",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 111,
-    "qdes": "\\text{Choose the right one. The efficiency range of fuel cells (SOFC) of size 5 KW – 3 MW, is}",
-    "options": [
-      "33\\% – 37\\%",
-      "45\\% – 65\\%",
-      "34\\% – 36\\%",
-      "40\\% – 50\\%",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 112,
-    "qdes": "\\text{The capacity factor of a plant is equal to}",
-    "options": [
-      "\\text{maximum load/average load}",
-      "\\text{average load/maximum load}",
-      "\\text{maximum load/plant capacity}",
-      "\\text{average load/plant capacity}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 4,
-    "fig": ""
-  },
-  {
-    "qno": 113,
-    "qdes": "\\text{For a single line to ground fault, on phase a , the terminal conditions are}",
-    "options": [
-      "Va = 0; Ib = Ic = 0",
-      "Vb = 0; Ia = Ic = 0",
-      "Vc = 0; Ia = Ic = 0",
-      "Va = 0; Vb = 0; Ic = 0",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 115,
-    "qdes": "\\text{Which type of distance protection relay is used for long transmission lines?}",
-    "options": [
-      "\\text{Reactance type relay}",
-      "\\text{Mho type relay}",
-      "\\text{Impedance relay}",
-      "\\text{Resistance type relay}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 117,
-    "qdes": "\\text{A circuit breaker is rated at 1500 A, 1800 MVA, 33 kV, 3-sec, 3 phase oil circuit breaker. The short time rating of the circuit breaker is}",
-    "options": [
-      "1500 A",
-      "80.3046 kA",
-      "1800 A",
-      "31.492 kA",
-      "\\text{Answer not known}"
-    ],
-    "ans": 4,
-    "fig": ""
-  },
-  {
-    "qno": 118,
-    "qdes": "\\text{The exciting coils of the commutating poles are connected}",
-    "options": [
-      "\\text{In series with the armature}",
-      "\\text{In parallel with the armature}",
-      "\\text{In series with the field coil}",
-      "\\text{In parallel with the field coil}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 119,
-    "qdes": "\\text{The order of the lightning discharge current is}",
-    "options": [
-      "10,000 \\text{ amp}",
-      "100 \\text{ amp}",
-      "1 \\text{ amp}",
-      "1 \\text{ micro-amp}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 120,
-    "qdes": "\\text{The Nodal Admittance Matrix } (Y_{bus}) \\text{of a power system is not}",
-    "options": [
-      "\\text{Symmetric}",
-      "\\text{A square matrix}",
-      "\\text{A full matrix}",
-      "\\text{Generally having dominant diagonal elements}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 121,
-    "qdes": "\\text{A 3 phase alternator rated at 50 MVA, 22 KV has a synchronous reactance per phase of 5 P.U on its thermal rating. The P.U value of this reactance on a base of 100 MVA and 220 KV is}",
-    "options": [
-      "25 P.U",
-      "12.5 P.U",
-      "1 P.U",
-      "0.1 P.U",
-      "\\text{Answer not known}"
-    ],
-    "ans": 4,
-    "fig": ""
-  },
-  {
-    "qno": 122,
-    "qdes": "\\text{Determine the new per unit impedance Zpu new if the base MVA and base kV are doubled and the old per unit impedance Zpu old is 0.1 on its own base values.}",
-    "options": [
-      "0.8",
-      "0.2",
-      "0.05",
-      "0.01",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 123,
-    "qdes": "\\text{A MOSFET rated for 12 A carries a periodic current as shown in figure on state resistance is 0.2}\\omega\\text{. The average on state loss is}",
-    "options": [
-      "14.4 W",
-      "28.4 W",
-      "30 W",
-      "3 W",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": "image.png"
-  },
-  {
-    "qno": 124,
-    "qdes": "\\text{With usual notation, the sag } d \\text{ is given by}",
-    "options": [
-      "d = H \\text{cosh}\\frac{wl}{H}",
-      "d = \\frac{wl}{2T^2}",
-      "d = \\frac{H}{W} \\left[\\text{cosh}\\left(\\frac{wl}{H}\\right)+1\\right]",
-      "d = \\frac{H}{W} \\left[\\text{cosh}\\left(\\frac{wl}{H}\\right)-1\\right]",
-      "\\text{Answer not known}"
-    ],
-    "ans": 4,
-    "fig": ""
-  },
-  {
-    "qno": 125,
-    "qdes": "\\text{The phase comparators in case of static relays and electro-mechanical relays normally are}",
-    "options": [
-      "\\text{sine and cosine comparators respectively}",
-      "\\text{cosine and sine comparators respectively}",
-      "\\text{both are cosine comparators}",
-      "\\text{both are sine comparators}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 126,
-    "qdes": "\\text{A 50 Hz, 4-pole turbo generator rated 100 MVA, 11 KV has a inertia constant of 8.0 MJ/MVA. Determine the stored energy in the rotor at synchronous speed.}",
-    "options": [
-      "800 MJ",
-      "1600 MJ",
-      "400 MJ",
-      "1000 MJ",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 127,
-    "qdes": "\\text{If, the voltage magnitude V and phase angle 8 are specified for the bus, the bus is classified as}",
-    "options": [
-      "\\text{Slack bus}",
-      "\\text{Generator bus}",
-      "\\text{Load bus}",
-      "\\text{Feeder}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 128,
-    "qdes": "\\text{The voltages at the two ends of a line are 132 kV and its reactance is 40}\\omega. \\text{The capacity of the line is}",
-    "options": [
-      "435.6 MW",
-      "217.5 MW",
-      "251.5 MW",
-      "500 MW",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 129,
-    "qdes": "\\text{Bundled conductors in EHV transmission systems provide}",
-    "options": [
-      "\\text{increased line reactance}",
-      "\\text{reduced line capacitance}",
-      "\\text{reduced voltage gradient}",
-      "\\text{increased corona loss}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 130,
-    "qdes": "\\text{Which one of the following is not a vectored interrupt?}",
-    "options": [
-      "TRAP",
-      "INTR",
-      "RST 3",
-      "RST 7.5",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 131,
-    "qdes": "\\text{The relation between insulation resistance and length of the cable is}",
-    "options": [
-      "\\text{Directly proportional}",
-      "\\text{Inversely proportional}",
-      "\\text{Remain unchanged}",
-      "\\text{Exponential rise}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 133,
-    "qdes": "\\text{A single phase full-wave rectifier use semiconductor diodes has transformer voltage is 35 V rms to center tap. The load consists of a 40 $\\mu$F capacitor in parallel with a 250 $\\omega$ resistor. The diode and transformer resistances and leakage reactance may be neglected. The power line frequency is 50 Hz. Calculate the dc current I_dc in the circuit}",
-    "options": [
-      "132 mA",
-      "100 mA",
-      "90 mA",
-      "250 mA",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 134,
-    "qdes": "\\text{For a 15 bus power system with 3 voltage controlled bus, the size of Jacobian matrix is}",
-    "options": [
-      "11\\times11",
-      "12\\times12",
-      "24\\times24",
-      "28\\times28",
-      "\\text{Answer not known}"
-    ],
-    "ans": 4,
-    "fig": ""
-  },
-  {
-    "qno": 135,
-    "qdes": "\\text{The string efficiency of a high voltage line is around}",
-    "options": [
-      "100%",
-      "80%",
-      "40%",
-      "10%",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 136,
-    "qdes": "\\text{A 4 Bit modulo-16 Ripple counter uses J-K flip flop. If the propagation delay of each flip flop is 50 Nano-seconds, the maximum clock frequency that can be used is equal to}",
-    "options": [
-      "20 MHz",
-      "10 MHz",
-      "8 MHz",
-      "5 MHz",
-      "\\text{Answer not known}"
-    ],
-    "ans": 4,
-    "fig": ""
-  },
-  {
-    "qno": 137,
-    "qdes": "\\text{In a bridge rectifier circuit, the peak voltage is 5 V and diode cut voltage is 0.7 V. The peak inverse voltage on the diode is}",
-    "options": [
-      "4.3 V",
-      "3.6 V",
-      "9.3 V",
-      "8.6 V",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 138,
-    "qdes": "\\text{The reference voltage of a dual slope ADC is 5 V. The integrator has a capacitor of 1 $\\mu$F and resistance of 100 k }\\omega \\text{. The time taken to read an unknown voltage Vx is 0.2 sec. Find Vx}",
-    "options": [
-      "2.1 V",
-      "10 V",
-      "2.5 V",
-      "8 V",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 139,
-    "qdes": "\\text{For second order system, if both the roots of the characteristic equation are real, then the damping ratio will be}",
-    "options": [
-      "\\text{Less than unity}",
-      "\\text{Equal to unity}",
-      "\\text{Equal to zero}",
-      "\\text{Greater than unity}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 4,
-    "fig": ""
-  },
-  {
-    "qno": 140,
-    "qdes": "\\text{A rotor of a hysteresis synchronous motor}",
-    "options": [
-      "\\text{Has salient poles}",
-      "\\text{Has low permeability}",
-      "\\text{Slip behind the stator flux}",
-      "\\text{Is made of high-retentivity hard steel}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 4,
-    "fig": ""
-  },
-  {
-    "qno": 141,
-    "qdes": "\\text{What is the minimum number of Flip Flops required for realizing MOD 9 ripple counter?}",
-    "options": [
-      "2",
-      "4",
-      "6",
-      "8",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 142,
-    "qdes": "\\text{A D/A converter has a full scale output of 3.5 V with resolution approximately 14 mV. The number of bits required for conversion is}",
-    "options": [
-      "4",
-      "8",
-      "16",
-      "32",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 143,
-    "qdes": "\\text{Unit of measurement of slew rate in an operational amplifier is}",
-    "options": [
-      "V/S",
-      "V/mS",
-      "V/ \\mu S",
-      "V/nS",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 144,
-    "qdes": "\\text{In the figure } X_1 = 1, X_2 = 1 \\text{, the output Q remains}",
-    "options": [
-      "\\text{at 1}",
-      "\\text{at 0}",
-      "\\text{at its initial value}",
-      "\\text{unstable}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 4,
-    "fig": "image.png"
-  },
-  {
-    "qno": 145,
-    "qdes": "\\text{Assume that } D_1, D_2 \\text{ are ideal diodes. The value of current I is}",
-    "options": [
-      "0 mA",
-      "0.5 mA",
-      "1 mA",
-      "2 mA",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": "image.png"
-  },
-  {
-    "qno": 146,
-    "qdes": "\\text{An 8-input multiplexer is to be built with a tree network of 2-input multiplexers. The number of 2-input multiplexers required are}",
-    "options": [
-      "2",
-      "4",
-      "8",
-      "16",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 147,
-    "qdes": "\\text{The logic performance of the following circuit is}",
-    "options": [
-      "NAND",
-      "AND",
-      "NOT",
-      "OR",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 148,
-    "qdes": "\\text{A binary Ladder D/A converter is constructed by using resistors having}",
-    "options": [
-      "\\text{Individual values}",
-      "\\text{Only one value}",
-      "\\text{Only two values}",
-      "\\text{Only three values}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 149,
-    "qdes": "\\text{The diffusion capacitance of a forward biased } P^+\\text{N (highly doped P-region) junction diode with a steady state current I depends on}",
-    "options": [
-      "\\text{junction area}",
-      "\\text{mean life-time of the electrons}",
-      "\\text{mean life time of the holes}",
-      "\\text{width of the depleted region}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 150,
-    "qdes": "\\text{The simplified form of the Boolean function } Y = \\overline{ABC} + \\overline{ABC} + A\\overline{BC} + \\overline{ABC}",
-    "options": [
-      "\\overline{C}",
-      "C",
-      "\\overline{AB}",
-      "AB",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  }
+        "qno": 101,
+        "qdes": "\\text{The saving in Cu achieved by converting a 2-winding transformer into an auto transformer is determined by}",
+        "options": [
+            "\\text{Size of transformer core}",
+            "\\text{Load on the secondary}",
+            "\\text{Voltage transformation ratio}",
+            "\\text{Magnetic quality of core material}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 102,
+        "qdes": "\\text{During hunting of synchronous motor}",
+        "options": [
+            "\\text{Negative phase sequence currents are generated}",
+            "\\text{Harmonics are developed in the armature circuit}",
+            "\\text{Damper bar develops torque}",
+            "\\text{Field excitation increases}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 103,
+        "qdes": "\\text{In an induction motor if the air gap is increased}",
+        "options": [
+            "\\text{speed will reduce}",
+            "\\text{efficiency will improve}",
+            "\\text{power factor will be lowered}",
+            "\\text{breakdown torque will reduce}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 104,
+        "qdes": "\\text{A synchronous machine with low value of short circuit ratio has}",
+        "options": [
+            "\\text{high stability limit}",
+            "\\text{lower stability limit}",
+            "\\text{good voltage regulation}",
+            "\\text{easier parallel operating capacity}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 105,
+        "qdes": "\\text{Determine the RMS current in the circuit shown in fig}",
+        "options": [
+            "1.57 mA",
+            "2.57 mA",
+            "3.57 mA",
+            "0.57 mA",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": "image_44e931.png"
+    },
+    {
+        "qno": 106,
+        "qdes": "\\begin{array}{l}\\text{A single phase transformer is rated at 2.5 KVA, 11/0.4 KV. If the leakage reactance is 0.96 }\\omega \\\\ \\text{ when referred to low voltage side, then determine its leakage reactance in per unit.} \\end{array}",
+        "options": [
+            "0.021 p.u.",
+            "0.015 p.u.",
+            "0.018 p.u.",
+            "0.025 p.u.",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 107,
+        "qdes": "\\begin{array}{l} \\text{A single phase full-waverectifier use semiconductor diodes has} \\\\ \\text{transformer voltage is 35 V rms to center tap. The load consists of a} \\\\ 40 \\,\\mu \\text{F capacitor in parallel with a } 250 \\,\\Omega \\text{ resistor. The diode and} \\\\ \\text{transformer resistances and leakage reactance may be neglected.} \\\\ \\text{The power line frequency is 50 Hz. Calculate the dc current } I_{dc} \\text{ in} \\\\ \\text{the circuit} \\end{array}",
+        "options": [
+            "\\text{132 mA}",
+            "\\text{100 mA}",
+            "\\text{90 mA}",
+            "\\text{250 mA}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 108,
+        "qdes": "\\begin{array}{l}\\text{A steam power station has an overall efficiency of 20\\% and 0.5 kg of coal is burnt per kWh of electrical energy generated.} \\\\ \\text{If the heat equivalent of 1 kWh is 860 KCal how much will be the calorific value of fuel.}\\end{array}",
+        "options": [
+            "860 KCal/kg",
+            "86 KCal/kg",
+            "8600 KCal/kg",
+            "344 KCal/kg",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 109,
+        "qdes": "\\text{The energy audit strategy consists of}",
+        "options": [
+            "\\text{General considerations, preliminary studies and detailed study}",
+            "\\text{Detailed study only}",
+            "\\text{General considerations only}",
+            "\\text{Preliminary study only}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 110,
+        "qdes": "\\begin{array}{l} \\text{Two insulator discs of identical capacitance value C make up a string for a 22 KV, 50 Hz single phase overhead line insulator system.} \\\\ \\text{If the pin to earth capacitance is also C. Then the string efficiency is}\\end{array}",
+        "options": [
+            "50\\%",
+            "75\\%",
+            "90\\%",
+            "86\\%",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 111,
+        "qdes": "\\text{Choose the right one. The efficiency range of fuel cells (SOFC) of size 5 KW – 3 MW, is}",
+        "options": [
+            "33\\% – 37\\%",
+            "45\\% – 65\\%",
+            "34\\% – 36\\%",
+            "40\\% – 50\\%",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 112,
+        "qdes": "\\text{The capacity factor of a plant is equal to}",
+        "options": [
+            "\\text{maximum load/average load}",
+            "\\text{average load/maximum load}",
+            "\\text{maximum load/plant capacity}",
+            "\\text{average load/plant capacity}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 113,
+        "qdes": "\\text{For a single line to ground fault, on phase a , the terminal conditions are}",
+        "options": [
+            "Va = 0; Ib = Ic = 0",
+            "Vb = 0; Ia = Ic = 0",
+            "Vc = 0; Ia = Ic = 0",
+            "Va = 0; Vb = 0; Ic = 0",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 114,
+        "qdes": "\\begin{array}{l} \\text{Assertion [A] : The Bus admittance matrix } (Y_{\\text{Bus}}) \\text{ used in load-flow} \\\\ \\text{studies is a sparse matrix.} \\\\ \\text{Reason [R] : The elements of } Y_{\\text{Bus}} \\text{ exhibit the physical inter} \\\\ \\text{connection of nodes of the power system.} \\end{array}",
+        "options": [
+            "\\text{Both [A] and [R] are true and [R] is a correct explanation of [A]}",
+            "\\text{Both [A] and [R] are true but [R] is not a correct explanation of [A]}",
+            "\\text{[A] is true but [R] is false}",
+            "\\text{[A] is false but [R] is true}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 115,
+        "qdes": "\\text{Which type of distance protection relay is used for long transmission lines?}",
+        "options": [
+            "\\text{Reactance type relay}",
+            "\\text{Mho type relay}",
+            "\\text{Impedance relay}",
+            "\\text{Resistance type relay}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 116,
+        "qdes": "\\begin{array}{l} \\text{A 3$\\phi$, 11 kV, 50 Hz, 10 MVA star connected synchronous generator} \\\\ \\text{has armature reactance of 2.2 $\\Omega$/phase. The leakage reactance is} \\\\ \\text{0.15 times the armature reactance. The armature resistance is} \\\\ \\text{negligible. The synchronous reactance per phase is} \\end{array}",
+        "options": [
+            "\\text{2.35 $\\Omega$}",
+            "\\text{2.05 $\\Omega$}",
+            "\\text{2.53 $\\Omega$}",
+            "\\text{0.33 $\\Omega$}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 117,
+        "qdes": "\\text{A circuit breaker is rated at 1500 A, 1800 MVA, 33 kV, 3-sec, 3 phase oil circuit breaker. The short time rating of the circuit breaker is}",
+        "options": [
+            "1500 A",
+            "80.3046 kA",
+            "1800 A",
+            "31.492 kA",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 118,
+        "qdes": "\\text{The exciting coils of the commutating poles are connected}",
+        "options": [
+            "\\text{In series with the armature}",
+            "\\text{In parallel with the armature}",
+            "\\text{In series with the field coil}",
+            "\\text{In parallel with the field coil}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 119,
+        "qdes": "\\text{The order of the lightning discharge current is}",
+        "options": [
+            "10,000 \\text{ amp}",
+            "100 \\text{ amp}",
+            "1 \\text{ amp}",
+            "1 \\text{ micro-amp}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 120,
+        "qdes": "\\text{The Nodal Admittance Matrix } (Y_{bus}) \\text{of a power system is not}",
+        "options": [
+            "\\text{Symmetric}",
+            "\\text{A square matrix}",
+            "\\text{A full matrix}",
+            "\\text{Generally having dominant diagonal elements}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 121,
+        "qdes": "\\begin{array}{l}\\text{A 3 phase alternator rated at 50 MVA, 22 KV has a synchronous reactance per phase of 5 P.U on its thermal rating.} \\\\ \\text{The P.U value of this reactance on a base of 100 MVA and 220 KV is}\\end{array}",
+        "options": [
+            "25 P.U",
+            "12.5 P.U",
+            "1 P.U",
+            "0.1 P.U",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 122,
+        "qdes": "\\begin{array}{l}\\text{Determine the new per unit impedance Zpu new if the base MVA and base kV are doubled and the old per unit impedance Zpu old is 0.1} \\\\ \\text{on its own base values.}",
+        "options": [
+            "0.8",
+            "0.2",
+            "0.05",
+            "0.01",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 123,
+        "qdes": "\\text{A MOSFET rated for 12 A carries a periodic current as shown in figure on state resistance is 0.2}\\omega\\text{. The average on state loss is}",
+        "options": [
+            "14.4 W",
+            "28.4 W",
+            "30 W",
+            "3 W",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": "image.png"
+    },
+    {
+        "qno": 124,
+        "qdes": "\\text{With usual notation, the sag } d \\text{ is given by}",
+        "options": [
+            "d = H \\text{cosh}\\frac{wl}{H}",
+            "d = \\frac{wl}{2T^2}",
+            "d = \\frac{H}{W} \\left[\\text{cosh}\\left(\\frac{wl}{H}\\right)+1\\right]",
+            "d = \\frac{H}{W} \\left[\\text{cosh}\\left(\\frac{wl}{H}\\right)-1\\right]",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 125,
+        "qdes": "\\text{The phase comparators in case of static relays and electro-mechanical relays normally are}",
+        "options": [
+            "\\text{sine and cosine comparators respectively}",
+            "\\text{cosine and sine comparators respectively}",
+            "\\text{both are cosine comparators}",
+            "\\text{both are sine comparators}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 126,
+        "qdes": "\\being{array}{l}\\text{A 50 Hz, 4-pole turbo generator rated 100 MVA, 11 KV has a inertia constant of 8.0 MJ/MVA. Determine the stored energy} \\\\ \\text{in the rotor at synchronous speed.}\\end{array}",
+        "options": [
+            "800 MJ",
+            "1600 MJ",
+            "400 MJ",
+            "1000 MJ",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 127,
+        "qdes": "\\text{If, the voltage magnitude V and phase angle 8 are specified for the bus, the bus is classified as}",
+        "options": [
+            "\\text{Slack bus}",
+            "\\text{Generator bus}",
+            "\\text{Load bus}",
+            "\\text{Feeder}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 128,
+        "qdes": "\\text{The voltages at the two ends of a line are 132 kV and its reactance is 40}\\omega. \\text{The capacity of the line is}",
+        "options": [
+            "435.6 MW",
+            "217.5 MW",
+            "251.5 MW",
+            "500 MW",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 129,
+        "qdes": "\\text{Bundled conductors in EHV transmission systems provide}",
+        "options": [
+            "\\text{increased line reactance}",
+            "\\text{reduced line capacitance}",
+            "\\text{reduced voltage gradient}",
+            "\\text{increased corona loss}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 130,
+        "qdes": "\\text{Which one of the following is not a vectored interrupt?}",
+        "options": [
+            "TRAP",
+            "INTR",
+            "RST 3",
+            "RST 7.5",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 131,
+        "qdes": "\\text{The relation between insulation resistance and length of the cable is}",
+        "options": [
+            "\\text{Directly proportional}",
+            "\\text{Inversely proportional}",
+            "\\text{Remain unchanged}",
+            "\\text{Exponential rise}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 132,
+        "qdes": "\\begin{array}{l} \\text{Consider the following statements. Which of the following are correct?} \\\\ \\text{(1) Positive sequence currents are present in all types of faults.} \\\\ \\text{(2) Negative sequence currents are present in all unsymmetrical faults.} \\\\ \\text{(3) Zero sequence currents are present when neutral of the system is} \\\\ \\text{grounded and the fault involves the ground.} \\end{array}",
+        "options": [
+            "\\text{1 and 2 only}",
+            "\\text{1 and 3 only}",
+            "\\text{2 and 3 only}",
+            "\\text{1, 2 and 3 only}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 133,
+        "qdes": "\\begin{array}{l}\\text{A single phase full-wave rectifier use semiconductor diodes has transformer voltage is 35 V rms to center tap.} \\\\ \\text{The load consists of a 40 $\\mu$F capacitor in parallel with a 250 $\\omega$ resistor.} \\\\ \\text{The diode and transformer resistances and leakage reactance may be neglected.} \\\\ \\text{The power line frequency is 50 Hz. Calculate the dc current $I_dc$ in the circuit} \\end{array}",
+        "options": [
+            "132 mA",
+            "100 mA",
+            "90 mA",
+            "250 mA",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 134,
+        "qdes": "\\text{For a 15 bus power system with 3 voltage controlled bus, the size of Jacobian matrix is}",
+        "options": [
+            "11\\times11",
+            "12\\times12",
+            "24\\times24",
+            "28\\times28",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 135,
+        "qdes": "\\text{The string efficiency of a high voltage line is around}",
+        "options": [
+            "100%",
+            "80%",
+            "40%",
+            "10%",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 136,
+        "qdes": "\\begin{array} \\text{A 4 Bit modulo-16 Ripple counter uses J-K flip flop. If the propagation delay of each flip flop is 50 Nano-seconds,} \\\\ \\text{the maximum clock frequency that can be used is equal to}\\end{array}",
+        "options": [
+            "20 MHz",
+            "10 MHz",
+            "8 MHz",
+            "5 MHz",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 137,
+        "qdes": "\\text{In a bridge rectifier circuit, the peak voltage is 5 V and diode cut voltage is 0.7 V. The peak inverse voltage on the diode is}",
+        "options": [
+            "4.3 V",
+            "3.6 V",
+            "9.3 V",
+            "8.6 V",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 138,
+        "qdes": "\\begin{array}{l}\\text{The reference voltage of a dual slope ADC is 5 V. The integrator has a capacitor of 1 $\\mu$F and resistance of 100 k }\\omega \\\\ \\text{. The time taken to read an unknown voltage Vx is 0.2 sec. Find Vx}\\end{array}",
+        "options": [
+            "2.1 V",
+            "10 V",
+            "2.5 V",
+            "8 V",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 139,
+        "qdes": "\\text{For second order system, if both the roots of the characteristic equation are real, then the damping ratio will be}",
+        "options": [
+            "\\text{Less than unity}",
+            "\\text{Equal to unity}",
+            "\\text{Equal to zero}",
+            "\\text{Greater than unity}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 140,
+        "qdes": "\\text{A rotor of a hysteresis synchronous motor}",
+        "options": [
+            "\\text{Has salient poles}",
+            "\\text{Has low permeability}",
+            "\\text{Slip behind the stator flux}",
+            "\\text{Is made of high-retentivity hard steel}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 141,
+        "qdes": "\\text{What is the minimum number of Flip Flops required for realizing MOD 9 ripple counter?}",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 142,
+        "qdes": "\\text{A D/A converter has a full scale output of 3.5 V with resolution approximately 14 mV. The number of bits required for conversion is}",
+        "options": [
+            "4",
+            "8",
+            "16",
+            "32",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 143,
+        "qdes": "\\text{Unit of measurement of slew rate in an operational amplifier is}",
+        "options": [
+            "V/S",
+            "V/mS",
+            "V/ \\mu S",
+            "V/nS",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 144,
+        "qdes": "\\text{In the figure } X_1 = 1, X_2 = 1 \\text{, the output Q remains}",
+        "options": [
+            "\\text{at 1}",
+            "\\text{at 0}",
+            "\\text{at its initial value}",
+            "\\text{unstable}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": "image.png"
+    },
+    {
+        "qno": 145,
+        "qdes": "\\text{Assume that } D_1, D_2 \\text{ are ideal diodes. The value of current I is}",
+        "options": [
+            "0 mA",
+            "0.5 mA",
+            "1 mA",
+            "2 mA",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": "image.png"
+    },
+    {
+        "qno": 146,
+        "qdes": "\\text{An 8-input multiplexer is to be built with a tree network of 2-input multiplexers. The number of 2-input multiplexers required are}",
+        "options": [
+            "2",
+            "4",
+            "8",
+            "16",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 147,
+        "qdes": "\\text{The logic performance of the following circuit is}",
+        "options": [
+            "NAND",
+            "AND",
+            "NOT",
+            "OR",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 148,
+        "qdes": "\\text{A binary Ladder D/A converter is constructed by using resistors having}",
+        "options": [
+            "\\text{Individual values}",
+            "\\text{Only one value}",
+            "\\text{Only two values}",
+            "\\text{Only three values}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 149,
+        "qdes": "\\text{The diffusion capacitance of a forward biased } P^+\\text{N (highly doped P-region) junction diode with a steady state current I depends on}",
+        "options": [
+            "\\text{junction area}",
+            "\\text{mean life-time of the electrons}",
+            "\\text{mean life time of the holes}",
+            "\\text{width of the depleted region}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 150,
+        "qdes": "\\text{The simplified form of the Boolean function } Y = \\overline{ABC} + \\overline{ABC} + A\\overline{BC} + \\overline{ABC}",
+        "options": [
+            "\\overline{C}",
+            "C",
+            "\\overline{AB}",
+            "AB",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    }
 ]
