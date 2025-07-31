@@ -1,60 +1,70 @@
 [
   {
     "unit_no": 1,
+    "pdf_id": "PP2-N01",
     "title": "Unit I: Electrical Circuits",
     "is_locked": 0,
     "pdf_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/study-material-pdf/01-EEE.pdf"
   },
   {
     "unit_no": 2,
+    "pdf_id": "PP2-N02",
     "title": "Unit II: Electric and Magnetic Fields",
     "is_locked": 1,
     "pdf_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/study-material-pdf/01-EEE.pdf"
   },
   {
     "unit_no": 3,
+    "pdf_id": "PP2-N03",
     "title": "Unit III: Measurements and Instrumentation",
     "is_locked": 1,
     "pdf_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/study-material-pdf/01-EEE.pdf"
   },
   {
     "unit_no": 4,
+    "pdf_id": "PP2-N04",
     "title": "Unit IV: Control Systems",
     "is_locked": 1,
     "pdf_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/study-material-pdf/01-EEE.pdf"
   },
   {
     "unit_no": 5,
+    "pdf_id": "PP2-N05",
     "title": "Unit V: Electrical Machines",
     "is_locked": 1,
     "pdf_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/study-material-pdf/01-EEE.pdf"
   },
   {
     "unit_no": 6,
+    "pdf_id": "PP2-N06",
     "title": "Unit VI: Power Systems",
     "is_locked": 1,
     "pdf_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/study-material-pdf/01-EEE.pdf"
   },
   {
     "unit_no": 7,
+    "pdf_id": "PP2-N07",
     "title": "Unit VII: Analog and Digital Electronics",
     "is_locked": 1,
     "pdf_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/study-material-pdf/01-EEE.pdf"
   },
   {
     "unit_no": 8,
+    "pdf_id": "PP2-N08",
     "title": "Unit VIII: Power Electronics and Drives",
     "is_locked": 1,
     "pdf_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/study-material-pdf/01-EEE.pdf"
   },
   {
     "unit_no": 9,
+    "pdf_id": "PP2-N09",
     "title": "Unit IX: Digital Processors and Communication",
     "is_locked": 1,
     "pdf_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/study-material-pdf/01-EEE.pdf"
   },
   {
     "unit_no": 10,
+    "pdf_id": "PP2-N10",
     "title": "Unit X: Renewable Energy Sources and Storage Devices",
     "is_locked": 1,
     "pdf_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/study-material-pdf/01-EEE.pdf"
