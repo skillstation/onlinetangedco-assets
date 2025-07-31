@@ -1,84 +1,98 @@
 [
   {
     "exam_no": 1,
+    "exam_id": "PP2-P01",
     "title": "Unit I: Electrical Circuits - Chapter Test",
     "is_locked": 0,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/practise-questions/practise-questions-01.json"
   },
   {
     "exam_no": 2,
+    "exam_id": "PP2-P02",
     "title": "Unit II: Electric and Magnetic Fields - Chapter Test",
     "is_locked": 1,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/practise-questions/practise-questions-02.json"
   },
   {
     "exam_no": 3,
+    "exam_id": "PP2-P03",
     "title": "Unit III: Measurements and Instrumentation - Chapter Test",
     "is_locked": 1,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/practise-questions/practise-questions-03.json"
   },
   {
     "exam_no": 4,
+    "exam_id": "PP2-P04",
     "title": "Unit IV: Control Systems - Chapter Test",
     "is_locked": 1,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/practise-questions/practise-questions-04.json"
   },
   {
     "exam_no": 5,
+    "exam_id": "PP2-P05",
     "title": "Unit V: Electrical Machines - Chapter Test",
     "is_locked": 1,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/practise-questions/practise-questions-05.json"
   },
   {
     "exam_no": 6,
+    "exam_id": "PP2-P06",
     "title": "Unit VI: Power Systems - Chapter Test",
     "is_locked": 1,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/practise-questions/practise-questions-06.json"
   },
   {
     "exam_no": 7,
+    "exam_id": "PP2-P07",
     "title": "Unit VII: Analog and Digital Electronics - Chapter Test",
     "is_locked": 1,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/practise-questions/practise-questions-07.json"
   },
   {
     "exam_no": 8,
+    "exam_id": "PP2-P08",
     "title": "Unit VIII: Power Electronics and Drives - Chapter Test",
     "is_locked": 1,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/practise-questions/practise-questions-08.json"
   },
   {
     "exam_no": 9,
+    "exam_id": "PP2-P09",
     "title": "Unit IX: Digital Processors and Communication - Chapter Test",
     "is_locked": 1,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/practise-questions/practise-questions-09.json"
   },
   {
     "exam_no": 10,
+    "exam_id": "PP2-P10",
     "title": "Unit X: Renewable Energy Sources and Storage Devices - Chapter Test",
     "is_locked": 1,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/main/practise-questions/practise-questions-10.json"
   },
   {
     "exam_no": 11,
+    "exam_id": "PP2-M01",
     "title": "Full Syllabus Mock Exam 1 - Paper 2",
     "is_locked": 0,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/mock-01.json"
   },
   {
     "exam_no": 12,
+    "exam_id": "PP2-M02",
     "title": "Full Syllabus Mock Exam 2 - Paper 2",
     "is_locked": 1,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/mock-02.json"
   },
   {
     "exam_no": 13,
+    "exam_id": "PP2-M03",
     "title": "Full Syllabus Mock Exam 3 - Paper 2",
     "is_locked": 1,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/mock-03.json"
   },
   {
     "exam_no": 14,
+    "exam_id": "PP2-M04",
     "title": "Full Syllabus Mock Exam 4 - Paper 2",
     "is_locked": 1,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/mock-04.json"
