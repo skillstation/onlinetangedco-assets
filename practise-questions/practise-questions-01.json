@@ -1,0 +1,40 @@
+[
+  {
+    "qno": 1,
+    "qdes": "\\text{The voltage across } 30\\Omega \\text{ in the circuit shown is}",
+    "options": [
+      "30\\ \\text{V}",
+      "45\\ \\text{V}",
+      "18\\ \\text{V}",
+      "24\\ \\text{V}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": "circuit_with_30ohm_voltage.png"
+  },
+  {
+    "qno": 2,
+    "qdes": "\\text{A } 0.1\\,\\mu F \\text{ capacitor is charged to 200V before being connected across a } 4k\\Omega \\text{ resistor. Determine the initial discharge current.}",
+    "options": [
+      "5\\text{A}",
+      "0.05\\text{A}",
+      "0.5\\text{A}",
+      "0.005\\text{A}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 3,
+    "qdes": "\\text{All the charges on a charged conducting body remains on the\\_\\_\\_\\_\\_\\_\\_ of the body}",
+    "options": [
+      "\\text{Inside}",
+      "\\text{Surface}",
+      "\\text{Outside}",
+      "\\text{Origin}"
+    ],
+    "ans": 2,
+    "fig": ""
+  }
+]
