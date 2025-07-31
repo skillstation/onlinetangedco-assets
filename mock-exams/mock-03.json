@@ -124,6 +124,7 @@
   ],
   "ans": 3,
   "fig": ""
+}
 ,
 {
   "qno": 11,
@@ -150,7 +151,7 @@
   ],
   "ans": 2,
   "fig": ""
-}
+},
 {
   "qno": 13,
   "qdes": "\\text{Find H parameter for the two port network as shown in the figure}",
