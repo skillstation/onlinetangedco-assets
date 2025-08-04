@@ -202,7 +202,7 @@
         "\\text{Answer not known}"
       ],
       "ans": 4,
-      "fig": ""
+      "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-200-01-M01-Q016-FIG.png"
     },
     {
         "qno": 17,
@@ -586,18 +586,18 @@
           "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-119-03-FIG.png"
         },
         {
-          "qno": 47,
-          "qdes": "\\text{Find the potential between points } p(1, -1, 0) \\text{ and } q(2, 1, 3) \\text{ with } E = 40xy\\overline{i} + 20x^2y^7\\overline{j} + 2\\overline{k} \\text{ .}",
-          "options": [
-            "104",
-            "105",
-            "106",
-            "107",
-            "\\text{Answer not known}"
-          ],
-          "ans": 3,
-          "fig": ""
-        },
+                "qno": 47,
+                "qdes": "\\text{Identify the element, which is not a part of a data acquisition system}",
+                "options": [
+                  "\\text{Digital to Analog converter}",
+                  "\\text{Filter}",
+                  "\\text{Display}",
+                  "\\text{Timer}",
+                  "\\text{Answer not known}"
+                ],
+                "ans": 3,
+                "fig": ""
+              },
         {
           "qno": 48,
           "qdes": "\\text{The material of wires used for making resistance standards is usually}",
@@ -652,15 +652,15 @@
           },
           {
             "qno": 52,
-            "qdes": "\\begin{aligned}\n&\\text{Due to armature reaction, the armature magnetic field has following effects.}\n\\\\&(i)\\,\\text{It demagnetics the main flux}\n\\\\&(ii)\\,\\text{It magnetics the main flux}\n\\\\&(iii)\\,\\text{It crossmagnetics the main flux}\n\\\\&(iv)\\,\\text{It does not have any effect on main flux}\n\\end{aligned}",
+            "qdes": "\\begin{aligned}\n&\\text{The smallest change in a measured variable to which an instrument will}\n\\\\&(i)\\,\\text{respond is}\\end{aligned}",
             "options": [
-              "\\text{(i) and (ii)}",
-              "\\text{(B) (i), (ii), (iii) and (iv)}",
-              "\\text{(i) and (iii)}",
-              "\\text{(D) (ii) and (iv)}",
+              "\\text{Accuracy}",
+              "\\text{Resolution}",
+              "\\text{Precision}",
+              "\\text{Sensitivity}",
               "\\text{Answer not known}"
             ],
-            "ans": 3,
+            "ans": 2,
             "fig": ""
           },
           {
@@ -756,15 +756,15 @@
           },
           {
             "qno": 60,
-            "qdes": "\\begin{aligned}\n&\\text{A steam power station has an overall efficiency of 20\\% and 0.5 kg of coal is burnt per kWh of electrical energy generated. } \\\\\n&\\text{If the heat equivalent of 1 kWh is 860 KCal how much will be the calorific value of fuel}\n\\end{aligned}",
+            "qdes": "\\text{The variable-inductance type electrical transducer is}",
             "options": [
-              "860\\,\\text{KCal/kg}",
-              "86\\,\\text{KCal/kg}",
-              "8600\\,\\text{KCal/kg}",
-              "344\\,\\text{KCal/kg}",
+              "\\text{LVDT}",
+              "\\text{Strain gauge}",
+              "\\text{Capacitive transducer}",
+              "\\text{Photovoltaic cell}",
               "\\text{Answer not known}"
             ],
-            "ans": 3,
+            "ans": 1,
             "fig": ""
           },
           {
@@ -934,7 +934,7 @@
                   "\\text{Answer not known}"
                 ],
                 "ans": 1,
-                "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-138-04-FIG-Q75.png"
+                "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/03B-192-04-FIG-Q73.png"
               },
               {
                   "qno": 74,
@@ -960,7 +960,7 @@
                   "\\text{Answer not known}"
                 ],
                 "ans": 2,
-                "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/03B-192-04-FIG-Q73.png"
+                "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-138-04-FIG-Q75.png"
               },
               {
                   "qno": 76,
@@ -1599,7 +1599,7 @@
    },
    {
       "qno":125,
-      "qdes":"\\begin{array}{l} \\text{A system is reactance grounded, if} \\\\  \\dfrac{x_0}{x_1} > 3  \\text{ but less than that for resonant grounding} \\end{array}",
+      "qdes":"\\begin{array}{l} \\text{A system is reactance grounded, if} \\end{array}",
       "options":[
          "\\dfrac{x_0}{x_1} > 3 \\text{ but less than that for resonant grounding}",
          "\\dfrac{x_0}{x_1} > 3",
@@ -1911,15 +1911,15 @@
    },
    {
       "qno":149,
-      "qdes":"\\text{Convert } (0.6875)_{10} \\text{ to binary}",
+      "qdes":"\\begin{array}{l} \\text{The diffusion capacitance of a forward biased P+N (highly doped P-region) junction diode} (0.6875)_{10} \\ \\ \\text{with a steady state current I depends on} \\end{array}",
       "options":[
-         "\\text{(1.0100)}_2",
-         "\\text{(0.1011)}_2",
-         "\\text{(1.1011)}_2",
-         "\\text{(0.0100)}_2",
+         "\\text{0.04}",
+         "\\text{0.05}",
+         "\\text{-0.4}",
+         "\\text{0.4}",
          "\\text{Answer not known}"
       ],
-      "ans":2,
+      "ans":1,
       "fig":""
    },
    {
