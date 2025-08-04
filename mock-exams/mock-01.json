@@ -2183,15 +2183,15 @@
    },
    {
       "qno":170,
-      "qdes":"\\begin{array}{l} \\text{A single phase half wave rectifier is connected to a 240V supply. The load resistance R=10$\\Omega$, L=0.5mH and firing angle $\\alpha$=30} \\\\ \\text{Find the average output voltage.} \\end{array}",
+      "qdes":"\\begin{array}{l} \\text{Show the status of the CY, AC and P flags after the addition of 9CH and} \\\\ \\text{64 H in the following instructions.} \\\\ \\text{MOV A, # 9CH} \\\\ \\text{ADDA, #64H} \\end{array}",
       "options":[
-         "50 V",
-         "100 V",
-         "150 V",
-         "200 V",
+         "\\text{CY =1, AC =1, P = 0}",
+         "\\text{CY = 0, AC =0, P=1}",
+         "\\text{CY =1, AC= 0, P=0}",
+         "\\text{CY =1, AC =1, P =1}",
          "\\text{Answer not known}"
       ],
-      "ans":2,
+      "ans":1,
       "fig":""
    },
    {
@@ -2274,15 +2274,15 @@
    },
    {
       "qno":177,
-      "qdes":"\\begin{array}{l} \\text{In 8279, keyboard or Display interface the pins used to scan both} \\\\ \\text{the keyboard and displays are} \\end{array}",
+      "qdes":"\\begin{array}{l} \\text{A solar cell is an electrical device that converts the energy of light} \\\\ \\text{directly into electricity by the} \\end{array}",
       "options":[
-         "\\text{OUT B3 - OUT B0}",
-         "\\text{RL 7 - RL 0}",
-         "\\text{DB 7 - DB 0}",
-         "\\text{SL 3 - SL 0}",
+         "\\text{Photovoltaic effect}",
+         "\\text{Chemical effect}",
+         "\\text{Atmospheric effect}",
+         "\\text{Physical effect}",
          "\\text{Answer not known}"
       ],
-      "ans":4,
+      "ans":1,
       "fig":""
    },
    {
@@ -2313,15 +2313,15 @@
    },
    {
       "qno":180,
-      "qdes":"\\begin{array}{l} \\text{If the speed of a wind stream remains unchanged while passing through} \\\\ \\text{the rotor,} \\end{array}",
+      "qdes":"\\begin{array}{l} \\text{An instrument which measures global or diffuse radiation on a} \\\\ \\text{horizontal surface is called} \\end{array}",
       "options":[
-         "\\text{a large power will be generated}",
-         "\\text{the flow is known as stalled flow}",
-         "\\text{the speed of the rotor will be very high}",
-         "\\text{zero power will be generated}",
+         "\\text{Pyranometer}",
+         "\\text{Pyrheliometer}",
+         "\\text{Sunshine recorder}",
+         "\\text{Solar radiator}",
          "\\text{Answer not known}"
       ],
-      "ans":4,
+      "ans":1,
       "fig":""
    },
    {
@@ -2339,15 +2339,15 @@
    },
    {
       "qno":182,
-      "qdes":"\\begin{array}{l} \\text{For small schemes (less than 2 kW), (12 $-$ 24V) dc generation is desirable} \\\\ \\text{where} \\end{array}",
+      "qdes":"\\begin{array}{l} \\text{Which of the following causes the least pollution when burnt?} \\\\ \\text{} \\end{array}",
       "options":[
-         "\\text{All loads are close to the generator}",
-         "\\text{All loads are far away from the generator}",
-         "\\text{Only lamp loads are used}",
-         "\\text{Only dynamic loads are used}",
+         "\\text{Petrol}",
+         "\\text{Diesel}",
+         "\\text{Coal}",
+         "\\text{Natural gas}",
          "\\text{Answer not known}"
       ],
-      "ans":1,
+      "ans":4,
       "fig":""
    },
    {
@@ -2417,15 +2417,15 @@
    },
    {
       "qno":188,
-      "qdes":"\\begin{array}{l} \\text{If the speed of a wind stream remains unchanged while passing through} \\\\ \\text{the rotor,} \\end{array}",
+      "qdes":"\\begin{array}{l} \\text{Practical efficiency obtained using wind mills is approximately in the} \\\\ \\text{range of} \\end{array}",
       "options":[
-         "\\text{a large power will be generated}",
-         "\\text{the flow is known as stalled flow}",
-         "\\text{the speed of the rotor will be very high}",
-         "\\text{zero power will be generated}",
+         "\\text{5 to 10\\%}",
+         "\\text{10 to 30\\%}",
+         "\\text{30 to 50\\%}",
+         "\\text{50 to 80\\%}",
          "\\text{Answer not known}"
       ],
-      "ans":4,
+      "ans":2,
       "fig":""
    },
    {
@@ -2443,15 +2443,15 @@
    },
    {
       "qno":190,
-      "qdes":"\\text{The wind intensity can be described by}",
+      "qdes":"\\text{For a battery, A C-rate of 'n' indicates that the battery fully discharges in}",
       "options":[
-         "\\text{Reynolds number}",
-         "\\text{Mach number}",
-         "\\text{Beaufort number}",
-         "\\text{Froude number}",
+         "\\text{n hours }",
+         "\\text{C x n hours}",
+         "\\text{C/n hours}",
+         "\\text{1/n hours}",
          "\\text{Answer not known}"
       ],
-      "ans":3,
+      "ans":4,
       "fig":""
    },
    {
@@ -2472,9 +2472,9 @@
       "qdes":"\\text{At solar noon, the hour angle is}",
       "options":[
          "\\text{Zero degrees}",
-         "-90$^\\circ$",
-         "+90$^\\circ$",
-         "+180$^\\circ$",
+         "-90^\\circ",
+         "+90^\\circ",
+         "+180^\\circ",
          "\\text{Answer not known}"
       ],
       "ans":1,
@@ -2482,12 +2482,12 @@
    },
    {
       "qno":193,
-      "qdes":"\\text{The cut-out speed of a wind turbine is from}",
+      "qdes":"\\text{Undercharging of a battery}",
       "options":[
-         "\\text{25 m/s to 40 m/s}",
-         "\\text{30 m/s to 60 m/s}",
-         "\\text{40 m/s to 60 m/s}",
-         "\\text{40 m/s to 80 m/s}",
+         "\\text{Reduces specific gravity of the electrolyte}",
+         "\\text{Increases specific gravity of the electrolyte}",
+         "\\text{Produces excessive gassing}",
+         "\\text{Increases the temperature}",
          "\\text{Answer not known}"
       ],
       "ans":1,
@@ -2534,15 +2534,15 @@
    },
    {
       "qno":197,
-      "qdes":"\\text{The theoretical conversion efficiency of hydrogen - oxygen fuel cell at 25$^\\circ$ C is}",
+      "qdes":"\\text{The aperture area of a solar module is defined as}",
       "options":[
-         "56\\%",
-         "17\\%",
-         "75\\%",
-         "83\\%",
+         "\\text{the total area of the solar module}",
+         "\\text{the area of PV - active parts only}",
+         "\\text{the total area less the PV - active area}",
+         "\\text{the sum of the module area and the PV - active area}",
          "\\text{Answer not known}"
       ],
-      "ans":4,
+      "ans":2,
       "fig":""
    },
    {
