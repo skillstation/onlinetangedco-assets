@@ -652,7 +652,7 @@
           },
           {
             "qno": 52,
-            "qdes": "\\begin{aligned}\n&\\text{The smallest change in a measured variable to which an instrument will}\n\\\\&(i)\\,\\text{respond is}\\end{aligned}",
+            "qdes": "\\begin{aligned}\n&\\text{The smallest change in a measured variable to which an instrument will}\n\\\\&\\text{respond is}\\end{aligned}",
             "options": [
               "\\text{Accuracy}",
               "\\text{Resolution}",
