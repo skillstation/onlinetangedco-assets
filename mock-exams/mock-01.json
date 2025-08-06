@@ -927,10 +927,10 @@
                 "qno": 73,
                 "qdes": "\\text{The transfer function } \\frac{x_1(s)}{x_2(s)} \\text{ for the following mechanical system is}",
                 "options": [
-                  "\\text{(k_2 + sf)/(k_1 + k_2 + sf)}",
-                  "\\text{(k_1 + sf)/(k_1 + k_2 + sf)}",
-                  "\\text{(k_1 + k_2 + sf)/(k_1 + k_2)}",
-                  "\\text{(k_1 + k_2 + sf)/(k_1 + sf)}",
+                  "{(k_2 + sf)/(k_1 + k_2 + sf)}",
+                  "{(k_1 + sf)/(k_1 + k_2 + sf)}",
+                  "{(k_1 + k_2 + sf)/(k_1 + k_2)}",
+                  "{(k_1 + k_2 + sf)/(k_1 + sf)}",
                   "\\text{Answer not known}"
                 ],
                 "ans": 1,
@@ -1911,12 +1911,12 @@
    },
    {
       "qno":149,
-      "qdes":"\\begin{array}{l} \\text{The diffusion capacitance of a forward biased P+N (highly doped P-region) junction diode} (0.6875)_{10} \\ \\ \\text{with a steady state current I depends on} \\end{array}",
+      "qdes":"\\begin{array}{l} \\text{The diffusion capacitance of a forward biased} P^{+}N^{-} \\text{(highly doped P-region) junction diode}  \\ \\ \\text{with a steady state current I depends on} \\end{array}",
       "options":[
-         "\\text{0.04}",
-         "\\text{0.05}",
-         "\\text{-0.4}",
-         "\\text{0.4}",
+         "\\text{junction area}",
+         "\\text{mean life-time of the electrons}",
+         "\\text{mean life time of the holes}",
+         "\\text{width of the depleted region}",
          "\\text{Answer not known}"
       ],
       "ans":2,
@@ -2183,7 +2183,7 @@
    },
    {
       "qno":170,
-      "qdes":"\\begin{array}{l} \\text{Show the status of the CY, AC and P flags after the addition of 9CH and} \\\\ \\text{64 H in the following instructions.} \\\\ \\text{MOV A, # 9CH} \\\\ \\text{ADDA, #64H} \\end{array}",
+      "qdes":"\\begin{array}{l}  \\text{Show the status of the CY, AC and P flags after the addition of 9CH and} \\\\  \\text{64 H in the following instructions.} \\\\  \\text{MOV A, \\# 9CH} \\\\ \\text{ADDA, \\#64H}  \\end{array}",
       "options":[
          "\\text{CY =1, AC =1, P = 0}",
          "\\text{CY = 0, AC =0, P=1}",
