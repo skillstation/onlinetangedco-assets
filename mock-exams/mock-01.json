@@ -1737,7 +1737,7 @@
          "\\text{5\\%}",
          "\\text{Answer not known}"
       ],
-      "ans":2,
+      "ans":4,
       "fig":""
    },
    {
@@ -1750,7 +1750,7 @@
          "\\text{5 MHz}",
          "\\text{Answer not known}"
       ],
-      "ans":3,
+      "ans":4,
       "fig":""
    },
    {
@@ -1919,7 +1919,7 @@
          "\\text{0.4}",
          "\\text{Answer not known}"
       ],
-      "ans":1,
+      "ans":2,
       "fig":""
    },
    {
