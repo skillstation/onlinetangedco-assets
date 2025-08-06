@@ -75,7 +75,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 4,
-        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-007-01-M02-Q06-FIG.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-007-01-M02-Q06-FIG.PNG"
     },
     {
         "qno": 7,
@@ -88,7 +88,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 1,
-        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/03B-148-01-M02-Q07-FIG.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/03B-148-01-M02-Q07-FIG.PNG"
     },
     {
         "qno": 8,
@@ -140,7 +140,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 3,
-        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-189-01-M02-Q11-FIG.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-189-01-M02-Q11-FIG.PNG"
     },
     {
         "qno": 12,
@@ -153,20 +153,20 @@
             "\\text{Answer not known}"
         ],
         "ans": 4,
-        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-007-01-M02-Q06-FIG.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/03B-147-01-M02-Q12-FIG.PNG"
     },
     {
         "qno": 13,
-        "qdes": "\\text{Determine the current flowing in the 2}\\omega\\text{ resistance in network shown in fig.}",
+        "qdes": "\\text{Determine the current flowing in the 2}\\Omega\\text{ resistance in network shown in fig.}",
         "options": [
-            "\\text{67.5 }\\omega",
-            "\\text{6.75 }\\omega",
-            "\\text{6 }\\omega",
-            "\\text{75 }\\omega",
+            "\\text{67.5 }\\Omega",
+            "\\text{6.75 }\\Omega",
+            "\\text{6 }\\Omega",
+            "\\text{75 }\\Omega",
             "\\text{Answer not known}"
         ],
         "ans": 2,
-        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-007-01-M02-Q06-FIG.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-197-01-M02-Q13-FIG.PNG"
     },
     {
         "qno": 14,
@@ -179,7 +179,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 4,
-        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-007-01-M02-Q06-FIG.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-098-01-M02-Q14-FIG.PNG"
     },
     {
         "qno": 15,
@@ -270,7 +270,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 4,
-        "fig": "image_2bed26.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-084-01-M02-Q21-FIG.PNG"
     },
     {
         "qno": 22,
@@ -279,7 +279,7 @@
             "\\text{Zero}",
             "\\text{R}",
             "\\text{Infinity}",
-            "$\\frac{L}{CR}$",
+            "\\frac{L}{CR}",
             "\\text{Answer not known}"
         ],
         "ans": 2,
@@ -326,7 +326,7 @@
     },
     {
         "qno": 26,
-        "qdes": "\\begin{array}{l}\\text{Statement A : Magnetic current consists of entirely a displacement component and no conductance component.} \\\\ \\text{ Statement B : Magnetic flux lines are always continuous}\\end{array}",
+        "qdes": "\\begin{array}{l}\\text{Statement A : Magnetic current consists of entirely a displacement component and no conductance component.} \\\\ \\text{Statement B : Magnetic flux lines are always continuous}\\end{array}",
         "options": [
             "\\text{Both Statement A, Statement B are correct. Statement B is correct explanation of Statement A}",
             "\\text{Both Statements are correct. But Statement B is not correct explanation of A}",
@@ -543,7 +543,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 4,
-        "fig": "image.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-044-02-M02-Q42-FIG.PNG"
     },
     {
         "qno": 43,
@@ -803,7 +803,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 2,
-        "fig": "image_391409.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/02B-073-03-M02-Q62-FIG.PNG"
     },
     {
         "qno": 63,
@@ -920,7 +920,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 1,
-        "fig": "image_398844.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-132-04-M02-Q71-FIG.PNG"
     },
     {
         "qno": 72,
@@ -1011,7 +1011,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 1,
-        "fig": "image_39f506.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-036-04-M02-Q78-FIG.PNG"
     },
     {
         "qno": 79,
@@ -1154,7 +1154,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 3,
-        "fig": "Screenshot 2025-07-31 at 6.06.24 AM.jpg"
+        "fig": ""
     },
     {
         "qno": 90,
@@ -1193,7 +1193,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 4,
-        "fig": "image_3a8105.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/02B-065-05-M02-Q92-FIG.PNG"
     },
     {
         "qno": 93,
@@ -1362,7 +1362,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 1,
-        "fig": "image_44e931.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/02B-095-05-M02-Q105-FIG.PNG"
     },
     {
         "qno": 106,
@@ -1596,7 +1596,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 1,
-        "fig": "image.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/02B-036-06-M02-Q123-FIG.PNG"
     },
     {
         "qno": 124,
@@ -1869,7 +1869,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 4,
-        "fig": "image.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-110-07-M02-Q144-FIG.PNG"
     },
     {
         "qno": 145,
@@ -1882,7 +1882,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 1,
-        "fig": "image.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-018-07-M02-Q145-FIG.PNG"
     },
     {
         "qno": 146,
@@ -1908,7 +1908,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 2,
-        "fig": ""
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-103-07-M02-Q147-FIG.PNG"
     },
     {
         "qno": 148,
@@ -1986,7 +1986,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 2,
-        "fig": "image_53d349.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-137-08-M02-Q153-FIG.PNG"
     },
     {
         "qno": 154,
