@@ -3,10 +3,10 @@
         "qno": 1,
         "qdes": "\\text{Determine the value of R and L of the inductor connected in the bridge circuit shown in fig.}",
         "options": [
-            "\\text{1000 }\\omega\\text{, 500 mH}",
-            "\\text{666.6 }\\omega\\text{, 180 mH}",
-            "\\text{240 }\\omega\\text{, 120 mH}",
-            "\\text{120 }\\omega\\text{, 240 mH}",
+            "\\text{1000 }\\Omega\\text{, 500 mH}",
+            "\\text{666.6 }\\Omega\\text{, 180 mH}",
+            "\\text{240 }\\Omega\\text{, 120 mH}",
+            "\\text{120 }\\Omega\\text{, 240 mH}",
             "\\text{Answer not known}"
         ],
         "ans": 3,
@@ -68,14 +68,14 @@
         "qno": 6,
         "qdes": "\\text{The Norton's equivalent circuit shown in the figure II is drawn from figure I. The value of $I_{SC}$ and $R_{eq}$ in the fig. II is}",
         "options": [
-            "\\text{5/2 A and 2 }\\omega",
-            "\\text{2/5 A and 1 }\\omega",
-            "\\text{4/5 A and 12/5 }\\omega",
+            "\\text{5/2 A and 2 }\\Omega",
+            "\\text{2/5 A and 1 }\\Omega",
+            "\\text{4/5 A and 12/5 }\\Omega",
             "\\text{2/5 A and 2 A}",
             "\\text{Answer not known}"
         ],
         "ans": 4,
-        "fig": "image_2a9348.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-007-01-M02-Q06-FIG.png"
     },
     {
         "qno": 7,
@@ -88,7 +88,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 1,
-        "fig": "image_2afc87.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/03B-148-01-M02-Q07-FIG.png"
     },
     {
         "qno": 8,
@@ -140,7 +140,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 3,
-        "fig": "image_2b5de5.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-189-01-M02-Q11-FIG.png"
     },
     {
         "qno": 12,
@@ -153,7 +153,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 4,
-        "fig": "image_2b6984.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-007-01-M02-Q06-FIG.png"
     },
     {
         "qno": 13,
@@ -166,7 +166,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 2,
-        "fig": "image_2b6d85.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-007-01-M02-Q06-FIG.png"
     },
     {
         "qno": 14,
@@ -179,7 +179,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 4,
-        "fig": "image_2b74a4.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-007-01-M02-Q06-FIG.png"
     },
     {
         "qno": 15,
