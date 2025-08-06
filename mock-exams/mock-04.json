@@ -1,62 +1,2604 @@
 [
   {
-    "qno": 1,
-    "qdes": "Who is the Prime Minister of India?",
-    "options": ["Narendra Modi", "Smt. Nirmala Sitharaman", "Dr. Subrahmanyam Jaishankar", "Shri Raj Nath Singh"],
-    "ans": 1
+  "qno": 1,
+  "qdes": "\\text{A circuit with a resistor, inductor and capacitor in series is resonant of } f_\\text{o} \\text{ Hz. If all the components values are now doubled, the new resonant frequency is}",
+  "options": [
+    "2f_\\text{o}",
+    "\\text{Still } f_\\text{o}",
+    "f_\\text{o}/4",
+    "f_\\text{o}/2",
+    "\\text{Answer not known}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+{
+  "qno": 2,
+  "qdes": "\\text{Mesh analysis is applicable only for the network which are } \\_------\\text{ in nature}",
+  "options": [
+    "\\text{Polar}",
+    "\\text{Planer}",
+    "\\text{Non-polar}",
+    "\\text{Non-planer}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 3,
+  "qdes": "\\text{The output of the following circuit is}",
+  "options": [
+    "\\text{Square wave with a magnitude 5.8 V to - 5.8 V}",
+    "\\text{Square wave with a magnitude +5.1 V to - 5.1 V}",
+    "\\text{Square wave with a magnitude +5.8 V to - 5.3 V}",
+    "\\text{Square wave with a magnitude +12 V to - 12 V}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": "image_772281.jpg"
+},
+{
+  "qno": 4,
+  "qdes": "\\text{The sum of the Instantaneous voltages around a delta connected supply is equal to}",
+  "options": [
+    "\\text{the maximum line voltage}",
+    "\\text{twice the maximum line voltage}",
+    "\\sqrt{2} \\text{ times the rms value of the phase voltage}",
+    "\\text{zero}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+{
+  "qno": 5,
+  "qdes": "\\text{In fig. 1 } R_\\text{a}\\text{, } R_\\text{b}\\text{ and } R_\\text{c}\\text{ are 20 } \\omega\\text{, 10 } \\omega\\text{ and 10 } \\omega\\text{ respectively. The resistances } R_1\\text{, } R_2\\text{ and } R_3\\text{ in } \\omega\\text{ of an equivalent star-connection are}",
+  "options": [
+    "2.5, 5, 5",
+    "5, 2.5, 5",
+    "5, 5, 2.5",
+    "2.5, 5, 2.5",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": "image_773089.jpg"
+},
+{
+  "qno": 6,
+  "qdes": "\\text{Calculate the power dissipation in 3} \\omega \\text{ resistor}",
+  "options": [
+    "1.33 \\text{ W}",
+    "5.33 \\text{ W}",
+    "2.33 \\text{ W}",
+    "4.33 \\text{ W}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": "image_778761.png"
+},
+{
+  "qno": 7,
+  "qdes": "\\text{A star connected network consists of three resistances 10 } \\omega\\text{, 10} \\omega\\text{ and 5 } \\omega\\text{. Convert the star-connected network to equivalent delta-connected network.}",
+  "options": [
+    "40 \\omega\\text{, 20 } \\omega\\text{, 20 } \\omega",
+    "40 \\omega\\text{, 15 } \\omega\\text{, 15 } \\omega",
+    "15 \\omega\\text{, 40 } \\omega\\text{, 15 } \\omega",
+    "10 \\omega\\text{, 15 } \\omega\\text{, 15 } \\omega",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 8,
+  "qdes": "\\text{The Y parameter of the following network is } \\begin{bmatrix} 0 & -1/2 \\\\ 1/2 & 1 \\end{bmatrix}",
+  "options": [
+    "\\text{Non reciprocal and active}",
+    "\\text{Non reciprocal and passive}",
+    "\\text{Reciprocal and active}",
+    "\\text{Reciprocal and passive}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 9,
+  "qdes": "\\text{When two 2-port network are connected in parallel, it is convenient to use}",
+  "options": [
+    "\\text{Open circuit impedance parameters}",
+    "\\text{Short circuit impedance parameters}",
+    "\\text{Z parameters}",
+    "\\text{Y parameters}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+{
+  "qno": 10,
+  "qdes": "\\text{Find the Z-parameters for the network shown in fig.}",
+  "options": [
+    "Z_{11} = 15 \\text{ K} \\omega\\text{, } Z_{12} = 17 \\text{ K} \\omega\\text{, } Z_{21} = 17 \\text{ K} \\omega\\text{, } Z_{22} = 12 \\text{ K} \\omega",
+    "Z_{11} = 17 \\text{ K} \\omega\\text{, } Z_{12} = 12 \\text{ K} \\omega\\text{, } Z_{21} = 12 \\text{ K} \\omega\\text{, } Z_{22} = 15 \\text{ K} \\omega",
+    "Z_{11} = 17 \\text{ K} \\omega\\text{, } Z_{12} = 15 \\text{ K} \\omega\\text{, } Z_{21} = 12 \\text{ K} \\omega\\text{, } Z_{22} = 15 \\text{ K} \\omega",
+    "Z_{11} = 15 \\text{ K} \\omega\\text{, } Z_{12} = 17 \\text{ K} \\omega\\text{, } Z_{21} = 17 \\text{ K} \\omega\\text{, } Z_{22} = 15 \\text{ K} \\omega",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": "image_7799a5.png"
+},
+{
+  "qno": 11,
+  "qdes": "\\text{A current of 2A is flowing through an inductor of 100 mH. Find the energy stored in the inductor.}",
+  "options": [
+    "0.2 \\text{ J}",
+    "0.25 \\text{ J}",
+    "0.3 \\text{ J}",
+    "0.35 \\text{ J}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 12,
+  "qdes": "\\text{If } v_1 = 30\\text{sin}(\\omega t+10^\\circ)\\text{V and } v_2 =20\\text{sin}(\\omega t+50^\\circ)\\text{V, which of these statements are true?}",
+  "options": [
+    "v_1 \\text{ leads } v_2",
+    "v_2 \\text{ leads } v_1",
+    "v_1 \\text{ and } v_2 \\text{ are in phase with each other}",
+    "v_1 \\text{ and } v_2 \\text{ are exactly out of phase with each other}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 13,
+  "qdes": "\\text{Wind speed is 10 m/s at the standard atmospheric pressure and air density is 1.226 J/kg – k/m}^3\\text{. Find the total power density in wind stream}",
+  "options": [
+    "800 \\text{ w/m}^2",
+    "700 \\text{ w/m}^2",
+    "613 \\text{ w/m}^2",
+    "713 \\text{ w/m}^2",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+{
+  "qno": 14,
+  "qdes": "\\text{Find the value of L at which the circuit resonates at a frequency of 1000 rad/sec.}",
+  "options": [
+    "18.98 \\text{ H or 1.32 H}",
+    "18.98 \\text{ mH or 1.32 mH}",
+    "1.898 \\text{ mH or 13.2 mH}",
+    "1.898 \\text{ H or 13.2 H}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": "image_77a5c6.jpg"
+},
+{
+    "qno": 15,
+    "qdes": "\\text{In a source free RLC circuit (series), if the neper frequency is greater than undamped natural frequency, then the response is}",
+    "options": [
+        "\\text{Over damped}",
+        "\\text{Under damped}",
+        "\\text{Critically damped}",
+        "\\text{Oscillatory}"
+    ],
+    "ans": 1,
+    "fig": ""
+},
+{
+  "qno": 16,
+  "qdes": "\\text{Two coils X of 1000 turns and Y of 2000 turns are placed such that 60 \\% of the flux produced by coil X links coil Y. A current 1 A in coil X produces 0.1 MWb flux. The mutual inductance between the coil is}",
+  "options": [
+    "0.12 \\text{ H}",
+    "0.08 \\text{ H}",
+    "0.06 \\text{ H}",
+    "0.04 \\text{ H}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 17,
+  "qdes": "\\text{The Thevenin's equivalent circuit resistance } R_\\text{th} \\text{ for the given network is}",
+  "options": [
+    "1 \\omega",
+    "2 \\omega",
+    "4 \\omega",
+    "\\text{Infinity}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": "image_7802ff.png"
+},
+{
+  "qno": 18,
+  "qdes": "\\text{For the circuit shown in figure, the current I is}",
+  "options": [
+    "3 \\text{ A}",
+    "2 \\text{ A}",
+    "1 \\text{ A}",
+    "0 \\text{ A}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": "image_780665.png"
+},
+{
+  "qno": 19,
+  "qdes": "\\text{A sinusoidal current has peak value of 12 A. What is its average value?}",
+  "options": [
+    "24 \\text{ A}",
+    "7.64 \\text{ A}",
+    "8.48 \\text{ A}",
+    "12 \\text{ A}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": "image_78075a.png"
+},
+{
+  "qno": 20,
+  "qdes": "\\text{When a load is connected to 230}\\angle 10^\\circ \\text{V, it draw a current of 10}\\angle -50^\\circ \\text{ A , what is the real and reactive power of the load?}",
+  "options": [
+    "1992 \\text{ W, 1150 VAR}",
+    "1150 \\text{ W, 1150 VAR}",
+    "1626 \\text{ W, 2086 VAR}",
+    "1150 \\text{ W, 1992 VAR}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+{
+  "qno": 21,
+  "qdes": "\\text{Norton's current I}_{\\text{N}} \\text{ flowing between terminals A and B of the following circuit is}",
+  "options": [
+    "- 4.6 \\text{ A}",
+    "- 5.4 \\text{ A}",
+    "4.6 \\text{ A}",
+    "5.4 \\text{ A}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": "image_780ebb.png"
+},
+{
+    "qno": 22,
+    "qdes": "\\text{The input and output impedance of the two port network shown in the figure respectively}",
+    "options": [
+      "4 \\omega\\text{, 3} \\omega",
+      "4 \\omega\\text{, 2} \\omega",
+      "3 \\omega\\text{, 2} \\omega",
+      "2 \\omega\\text{, 1} \\omega",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": "image_78125e.png"
+},
+{
+    "qno": 23,
+    "qdes": "\\text{Characteristic equation of SR flipflop is}",
+    "options": [
+      "S+RQ_n",
+      "S+\\overline{R}Q_n",
+      "\\overline{S}+Q_n",
+      "\\overline{S}+\\overline{R}Q_n",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+},
+{
+    "qno": 24,
+    "qdes": "\\text{The Thevenin's voltage across the terminal } ab \\text{ of the circuit is}",
+    "options": [
+        "1 V",
+        "2 V",
+        "0 V",
+        "\\infty",
+        "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+},
+{
+    "qno": 25,
+    "qdes": "\\text{For the circuit shown in fig. determine the bandwidth. The resonant frequency of the circuit is 7.12 Hz.}",
+    "options": [
+        "2.17 Hz",
+        "3.23 Hz",
+        "2.57 Hz",
+        "3.178 Hz",
+        "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": "image_79607c.png"
+},
+{
+    "qno": 26,
+    "qdes": "\\text{The energy stored in Electric field is}",
+    "options": [
+        "1/2\\varepsilon E",
+        "1/2\\varepsilon E^2",
+        "\\varepsilon E^2",
+        "\\text{None}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+},
+{
+    "qno": 27,
+    "qdes": "\\text{The inductance of a solenoid of 10 turns is 5 }\\mu\\text{H. Which one of the following is correct value of inductance when the number of turns is 20 and length is doubled?}",
+    "options": [
+        "10 \\mu\\text{H}",
+        "20 \\mu\\text{H}",
+        "40 \\mu\\text{H}",
+        "5 \\mu\\text{H}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+},
+{
+    "qno": 28,
+    "qdes": "\\text{According to Faraday's law, the abbreviation for EMF is}",
+    "options": [
+        "\\text{Electromagnetic Force}",
+        "\\text{Electromagnetic Field}",
+        "\\text{Electromagnetic Friction}",
+        "\\text{Electromotive Force}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+},
+{
+    "qno": 29,
+    "qdes": "\\text{A parallel plate capacitor has an area of 0.8 }\\text{m}^2\\text{. Separation of 0.1 mm with a dielectric for which }\\varepsilon_v = 1000\\text{ and a field of }10^6\\text{ V/m. Determine the capacitance of the parallel plate}",
+    "options": [
+        "60.59 \\mu\\text{F}",
+        "65.13 \\mu\\text{F}",
+        "68.02 \\mu\\text{F}",
+        "70.83 \\mu\\text{F}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+},
+{
+    "qno": 30,
+    "qdes": "\\text{Statement A : } \\oint_s \\vec{B} . d\\vec{S} = 0 \\text{ where B = magnetic flux density. Statement B : Tubes to magnetic flux have no source or sinks}",
+    "options": [
+        "\\text{Statement A is true. Statement B is true and it is explanation for statement A}",
+        "\\text{Statement A and B are true. But is not correct explanation for A}",
+        "\\text{Statement A is true and B is false}",
+        "\\text{Statement A is false and B is true}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+},
+{
+    "qno": 31,
+    "qdes": "\\text{A multilayer coil of 3000 turns of fine wire is 10 mm long and has thickness of 5 mm winding. If the coil carries a current of 5 mA, the mmf generated is}",
+    "options": [
+        "750 AT",
+        "15 AT",
+        "600 AT",
+        "5000 AT",
+        "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+},
+{
+    "qno": 32,
+    "qdes": "\\text{Point charges } Q_1 = 1\\text{nC and } Q_2 = 2\\text{nC are at a distance apart. Which of the following statement are incorrect?}",
+    "options": [
+        "\\text{The force on } Q_1 \\text{ is repulsive}",
+        "\\text{The force on } Q_2 \\text{ is the same in magnitude as that on } Q_1",
+        "\\text{As the distance between them decreases, the force on } Q_1 \\text{ increases linearly}",
+        "\\text{The force on } Q_2 \\text{ is along the line joining them}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+},
+{
+    "qno": 33,
+    "qdes": "\\text{A parallel plate capacitor with two dielectric material is shown in the figure. If the potential difference between one of the plate and nearest surface of dielectric is 2V, then the ratio of }\\varepsilon_1 : \\varepsilon_2 \\text{ is}",
+    "options": [
+        "1 : 4",
+        "2 : 3",
+        "3 : 2",
+        "4 : 1",
+        "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": "image_7a4d14.png"
+},
+{
+    "qno": 34,
+    "qdes": "\\text{Characteristic equation of T flipflop is}",
+    "options": [
+        "T\\overline{Q}_n + T",
+        "Q_n T",
+        "T \\cdot \\overline{Q}_n + \\overline{T} \\cdot Q_n",
+        "\\overline{T}Q_n",
+        "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+},
+{
+    "qno": 35,
+    "qdes": "\\text{Which of the following statements is correct for divergence of electric and magnetic flux densities?}",
+    "options": [
+        "\\text{It is zero for electric flux density}",
+        "\\text{It is zero for magnetic flux density}",
+        "\\text{Both are zero}",
+        "\\text{These are zero for static densities}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+},
+{
+    "qno": 36,
+    "qdes": "\\text{The expression for lifting power of an electromagnet is}",
+    "options": [
+        "F = BH",
+        "F = 2BH",
+        "F = BH^2",
+        "F = \\frac{1}{2}BH",
+        "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+},
+{
+    "qno": 37,
+    "qdes": "\\text{A 10-bit digital ramp ADC is using 300 KHz clock. The maximum time is}",
+    "options": [
+        "3576 \\mu\\text{s}",
+        "3776 \\mu\\text{s}",
+        "3476 \\mu\\text{s}",
+        "3376 \\mu\\text{s}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+},
+{
+    "qno": 38,
+    "qdes": "\\text{Intrinsic impedance of free space}",
+    "options": [
+        "75 \\omega",
+        "73 \\omega",
+        "300 \\omega",
+        "377 \\omega",
+        "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+},
+{
+    "qno": 39,
+    "qdes": "\\text{For a perfect conductor, the field strength at a distance equal to the skin depth is X\\% of the field strength at its surface. The value of X\\% is}",
+    "options": [
+        "\\text{Zero}",
+        "50%",
+        "36%",
+        "26%",
+        "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+},
+{
+    "qno": 40,
+    "qdes": "\\text{The amount of torque required to move a stepper motor one full step is called}",
+    "options": [
+        "\\text{holding torque}",
+        "\\text{residual torque}",
+        "\\text{detent torque}",
+        "\\text{developed torque}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+},
+{
+    "qno": 41,
+    "qdes": "\\text{Identify correct relationship for the following equation } \\_\\_\\_\\_\\_ = I \\text{ where } I = \\text{Current, } J = \\text{Current density vector } \\hat{n} = \\text{normal component of } J \\text{ A = Area.}",
+    "options": [
+        "\\oint_l J^2 \\cdot dI",
+        "\\iint_A J \\cdot \\hat{n} \\text{ dA}",
+        "\\iint_A J^2 \\cdot \\text{dA}",
+        "\\iint_A \\frac{J}{\\hat{n}} \\text{dA}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+},
+{
+    "qno": 42,
+    "qdes": "\\text{Gauss's Law is an alternative statement of}",
+    "options": [
+        "\\text{Stoke's Theorem}",
+        "\\text{Coulomb's Law}",
+        "\\text{Faraday's Law}",
+        "\\text{Green's Theorem}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+},
+{
+    "qno": 43,
+    "qdes": "\\text{The finite sheet } 0 \\le x \\le 1, 0 \\le xy \\le 1 \\text{ on the } z = 0 \\text{ plane has a charge density } P_s = xy(x^2 + y^2 + 25)^{3/2} \\text{ nc/m}^2\\text{. Find total charge on the sheet.}",
+    "options": [
+        "33.15 \\text{ nc}",
+        "30 \\text{ nc}",
+        "13.15 \\text{ nc}",
+        "131 \\text{ nc}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+},
+{
+    "qno": 44,
+    "qdes": "\\text{A 3}\\phi\\text{, 400 V, 50 Hz, 6 pole, star connected round rotor synchronous motor speed is lowered by keeping V/f constant and maintaining unity power factor. For the motor operation at 600 rpm the supply voltage will be}",
+    "options": [
+        "240 V",
+        "400 V",
+        "230 V",
+        "800 V",
+        "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+},
+{
+    "qno": 45,
+    "qdes": "\\text{Total magnetic flux coming out of closed surface is}",
+    "options": [
+        "1",
+        "\\text{zero}",
+        "\\text{maximum}",
+        "\\text{minimum}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+},
+{
+    "qno": 46,
+    "qdes": "\\text{A bridge circuit works at a frequency of 2 kHz. Which of the following can be used as a detector for null condition in the bridge?}",
+    "options": [
+        "\\text{Headphones and vibration galvanometers}",
+        "\\text{Headphones and tunable amplifier}",
+        "\\text{Vibration galvanometer and tunable amplifier}",
+        "\\text{Headphones, vibration galvanometer and tunable amplifiers}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+},
+{
+    "qno": 47,
+    "qdes": "\\text{Capacitive transducers}",
+    "options": [
+        "\\text{are used for dynamic measurements}",
+        "\\text{act as high pass filters}",
+        "\\text{both (A) and (B)}",
+        "\\text{are used for both static and dynamic measurements and act as notch filter}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+},
+{
+    "qno": 48,
+    "qdes": "\\text{The gap of tape recorder is 7 }\\mu\\text{m. Determine the speed of the tape so as to have satisfactory response at 40000 Hz. Assume the wavelength of the recorded signal is 3 times greater than the gap of recorder.}",
+    "options": [
+        "2.8 m/sec",
+        "5.75 m/sec",
+        "840 m/sec",
+        "8.4 m/sec",
+        "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+},
+{
+    "qno": 49,
+    "qdes": "\\text{In a wheat stone bridge } R_1 = 50 \\omega, R_2 = 65 \\omega, R_3 = 100 \\omega \\text{ and } R_x \\text{ is unknown resistance when the Galvanometer indicates zero. If } R_3 \\text{ is having } \\pm 5\\% \\text{ tolerance on its nominal value, the range of } R_x \\text{ are}",
+    "options": [
+        "117, 143",
+        "120, 140",
+        "125.75, 134.75",
+        "123.5, 136.5",
+        "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": "image.png"
+},
+{
+    "qno": 50,
+    "qdes": "\\text{A Maxwell's bridge is used to measure an inductive impedance. The bridge constants at balance are } C_1 = 0.01 \\mu\\text{F}, R_1 = 470 \\text{ k}\\omega, R_2 = 5.1 \\text{ k}\\omega \\text{, and } R_3 = 100 \\text{ k}\\omega. \\text{ Find the series equivalent of the unknown impedance.}",
+    "options": [
+        "R_X = 1.09 \\text{ k}\\omega, C_X = 0.01 \\mu\\text{F}",
+        "R_X = 1.09 \\text{ k}\\omega, L_X = 5.1 \\text{ H}",
+        "L_X = 5.1 \\text{ H}, C_X = 0.01 \\mu\\text{F}",
+        "L_X = 5.1 \\text{ H}, R_X = 0.109 \\text{ k}\\omega",
+        "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+},
+{
+    "qno": 51,
+    "qdes": "\\text{Supercapacitors are suitable for } \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ \\text{ applications.}",
+    "options": [
+        "\\text{High power density}",
+        "\\text{Low power density}",
+        "\\text{Back up power}",
+        "\\text{High energy density}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+},
+{
+    "qno": 52,
+    "qdes": "\\text{The number of units generated will be more, if the } \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ \\text{ is more.}",
+    "options": [
+        "\\text{Cost factor}",
+        "\\text{Demand factor}",
+        "\\text{Depreciation factor}",
+        "\\text{Load factor}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+},
+{
+    "qno": 53,
+    "qdes": "\\text{In spring-controlled moving Iron instrument, the scale is}",
+    "options": [
+        "\\text{Uniform}",
+        "\\text{Cramped at lower end and expanded at the upper end}",
+        "\\text{Expanded at lower end and Cramped at upper end}",
+        "\\text{Cramped both at lower and at the upper end}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+},
+{
+    "qno": 54,
+    "qdes": "\\text{The wind power in wind mill is directly proportional to}",
+    "options": [
+        "\\text{Wind velocity}",
+        "\\text{Cube of wind velocity}",
+        "\\text{Square of area}",
+        "\\text{Square of wind velocity}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+},
+{
+    "qno": 55,
+    "qdes": "\\text{The principle of voltage to time conversion is used in}",
+    "options": [
+        "\\text{Dual slope type DVM}",
+        "\\text{Successive approximation type DVM}",
+        "\\text{Integrating type DVM}",
+        "\\text{Continuous balance DVM}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+},
+{
+    "qno": 56,
+    "qdes": "\\text{The smallest change in a measured variable to which an instrument will respond is}",
+    "options": [
+        "\\text{Accuracy}",
+        "\\text{Resolution}",
+        "\\text{Precision}",
+        "\\text{Sensitivity}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+},
+{
+    "qno": 57,
+    "qdes": "\\text{The inductance of a long solenoid with length 1000 mm would with 3000 turns on a cylindrical paper tube 60 mm diameter is}",
+    "options": [
+        "3.2 \\mu\\text{H}",
+        "3.2 mH",
+        "32 mH",
+        "3.2 H",
+        "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+},
+{
+    "qno": 58,
+    "qdes": "\\text{Thermocouples works on}",
+    "options": [
+        "\\text{induction effect}",
+        "\\text{seebeck effect}",
+        "\\text{piezo-electric effect}",
+        "\\text{magnetostrictive effect}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+},
+{
+    "qno": 59,
+    "qdes": "\\text{Phantom loading for testing of energy meter is used}",
+    "options": [
+        "\\text{to isolate the current and potential circuits}",
+        "\\text{to improve accuracy}",
+        "\\text{for meters having low current rating}",
+        "\\text{to test meters having large current rating for which loads may not be available in laboratory and also reduces power losses during testing.}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+},
+{
+    "qno": 60,
+    "qdes": "\\text{To measure precise inductance from a few }\\mu\\text{H to several henries, } \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ \\text{ bridge is used.}",
+    "options": [
+        "\\text{Maxwell's}",
+        "\\text{Hay}",
+        "\\text{Maxwell-Wein}",
+        "\\text{Anderson}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+},
+{
+    "qno": 61,
+    "qdes": "\\text{Megger is used for testing}",
+    "options": [
+        "\\text{Open circuit only}",
+        "\\text{Short circuit only}",
+        "\\text{Both open, short circuits, earth resistance and insulation}",
+        "\\text{Low resistances only}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+},
+{
+    "qno": 62,
+    "qdes": "\\text{A single phase half wave ac voltage controller feeds a load of } R = 20\\omega \\text{ with an input voltage of 230 V, 50 Hz. Firing angle of thyristor is 45}^{\\circ}. \\text{ Determine RMS value of output voltage}",
+    "options": [
+        "\\text{224.682 V}",
+        "\\text{232 V}",
+        "\\text{220.32 V}",
+        "\\text{192 V}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+},
+{
+    "qno": 63,
+    "qdes": "\\text{An oscilloscope indicates}",
+    "options": [
+        "\\text{RMS value}",
+        "\\text{Average value}",
+        "\\text{Peak to peak value}",
+        "\\text{DC value}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+},
+{
+    "qno": 64,
+    "qdes": "\\text{The steady state stability limit of a synchronous generator can be increased by}",
+    "options": [
+        "\\text{Increasing its reactance}",
+        "\\text{Increasing its moment of inertia}",
+        "\\text{Increasing its excitation}",
+        "\\text{Decreasing its reactance}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+},
+{
+    "qno": 65,
+    "qdes": "\\text{Biot-Savart's Law states the relation between magnetic field intensity and}",
+    "options": [
+        "\\text{Electric Intensity}",
+        "\\text{Electric Current}",
+        "\\text{Work Done}",
+        "\\text{Vector Potential}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+},
+{
+    "qno": 66,
+    "qdes": "\\text{The unit impulse response of a second order under damped system starting from the rest is } c(t)=12.5e^{-6t} \\sin 8t, \\text{ the steady state value of } t\\ge0 \\text{ unit step response of the system is equal to}",
+    "options": [
+        "\\text{0}",
+        "\\text{0.25}",
+        "\\text{0.5}",
+        "\\text{1}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+},
+{
+    "qno": 67,
+    "qdes": "\\text{In V/f speed control, at low speed the maximum torque capability of the motor}",
+    "options": [
+        "\\text{Reduces due to stator resistance drop}",
+        "\\text{Remains constant}",
+        "\\text{Increases}",
+        "\\text{Becomes zero}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+},
+{
+    "qno": 68,
+    "qdes": "\\text{For the block diagram shown, the transfer function } \\frac{C(S)}{R(S)} \\text{ equals}",
+    "options": [
+        "\\frac{S^2 + 1}{S^2}",
+        "\\frac{S^2 + S + 1}{S^2}",
+        "\\frac{S^2 + S + 1}{S^3}",
+        "\\frac{1}{S^2 + S + 1}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": "image_85b503.png"
+},
+{
+    "qno": 69,
+    "qdes": "\\text{If the poles of the system lie on the right half of S plane, the system will be}",
+    "options": [
+        "\\text{Stable}",
+        "\\text{Conditionally stable}",
+        "\\text{Marginally stable}",
+        "\\text{Unstable}",
+        "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+},
+  {
+        "qno": 70,
+        "qdes": "\\text{The loop gain GH of a closed loop systems is given by the expression } \\frac{K}{s(s+2)(s+4)} \\text{ the value of K for which the system just becomes unstable is}",
+        "options": [
+            "K = 6",
+            "K = 8",
+            "K = 48",
+            "K = 96",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 71,
+        "qdes": "\\text{Which of the following is correct?}\\text{Negative feedback amplifiers increase}\\text{(i) Bandwidth}\\text{(ii) Distortion}\\text{(iii) Gain}\\text{(iv) Noise}",
+        "options": [
+            "\\text{(i) and (iv) only}",
+            "\\text{(ii) only}",
+            "\\text{(ii) and (iii) only}",
+            "\\text{(i) only}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 72,
+        "qdes": "\\text{If the open-loop transfer function has one pole in the right half of S-plane. The closed loop system will be stable if the nyquist plot of GH is}",
+        "options": [
+            "\\text{Does not encircle the } (-1+j0) \\text{ point}",
+            "\\text{Encircles the } (-1+j0) \\text{ point once in the counterclock wise direction}",
+            "\\text{Encircles the } (-1+j0) \\text{ point once in the clock wise direction}",
+            "\\text{Encircles the origin one in the counterclock wise direction}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 73,
+        "qdes": "\\text{A balanced star } - \\text{ connected load of (4 + j3)}\\omega \\text{ per phase is connected to a balanced 3 } - \\text{ phase 400 V supply. The phase current is 12 A. The value of real power is}",
+        "options": [
+            "\\text{5650.24 watts}",
+            "\\text{6650.88 watts}",
+            "\\text{7650.78 watts}",
+            "\\text{8750.67 watts}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 74,
+        "qdes": "\\text{Consider a type-1 system with open loop transfer function of } G_f(s) = \\frac{k}{s(s+1)(s+4)} \\text{ with damping ratio } \\rho = 0.5 \\text{ settling time } t_s=10 \\text{ sec. Find the undamped natural frequency.}",
+        "options": [
+            "\\text{0.5 rad/sec}",
+            "\\text{0.7 rad/sec}",
+            "\\text{0.8 rad/sec}",
+            "\\text{0.6 rad/sec}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 75,
+        "qdes": "\\text{The open loop transfer function of a feedback control system is } G(S)H(S)=\\frac{1}{(S+1)^3}. \\text{ The gain margin of the system is}",
+        "options": [
+            "\\text{2}",
+            "\\text{4}",
+            "\\text{8}",
+            "\\text{16}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 76,
+        "qdes": "\\text{Which of the following statements is not necessarily correct for open control system?}",
+        "options": [
+            "\\text{Input command is the sole factor responsible for providing the control action}",
+            "\\text{Presence of non-linearities causes malfunctioning}",
+            "\\text{Less expensive}",
+            "\\text{Generally free from problems of non-linearities}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 77,
+        "qdes": "\\text{The main difficulty in using the array method of Routh-Hurwitz stability criterion is that}",
+        "options": [
+            "\\text{It is difficult to compute various entries of the table}",
+            "\\text{When one of the pivoting elements becomes zero, it has to be assumed to be a small number}",
+            "\\text{It is not very accurate}",
+            "\\text{It is not predicting the system stability}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 78,
+        "qdes": "\\text{The step response of a first order system is as shown}\\text{The time constant of the system is}",
+        "options": [
+            "\\text{0.612}",
+            "\\text{0.524}",
+            "\\text{0.48}",
+            "\\text{52.4}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": "image_86261f.png"
+    },
+    {
+        "qno": 79,
+        "qdes": "\\text{Which of the following device is used for conversion of co-ordinates?}",
+        "options": [
+            "\\text{Microsyn}",
+            "\\text{Selsyn}",
+            "\\text{Synchro-resolver}",
+            "\\text{Synchro-transformer}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 80,
+        "qdes": "\\text{In the 'V' curve shown in figure for a synchronous motor, the parameter of y and x co-ordinates are respectively}",
+        "options": [
+            "\\text{armature current and field current}",
+            "\\text{power factor and field current}",
+            "\\text{armature current and torque}",
+            "\\text{torque and field current}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": "image_862cea.png"
+    },
+    {
+        "qno": 81,
+        "qdes": "\\text{Condition for maximum torque under running conditions is}",
+        "options": [
+            "\\text{R}_2 = \\text{X}_2",
+            "\\text{R}_2 = \\text{SX}_2",
+            "\\text{R}_2 = \\text{S}",
+            "\\text{R}_2 = \\text{S}^2\\text{X}_2",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 82,
+        "qdes": "\\text{A 100 KVA, 1100/400 V, 50 Hz 1}\\phi \\text{ transformer has 100 turns on the secondary winding. The number of turns in its primary will be}",
+        "options": [
+            "\\text{550}",
+            "\\text{275}",
+            "\\text{2750}",
+            "\\text{5500}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 83,
+        "qdes": "\\text{If the input to the prime mover of an alternator is kept constant and the excitation is increased, the power factor is}",
+        "options": [
+            "\\text{Leading}",
+            "\\text{Lagging}",
+            "\\text{Not changing}",
+            "\\text{Unity}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 84,
+        "qdes": "\\text{It is desired to operate a 3}\\phi, \\text{ 440V, 60 Hz induction motor from a 25 Hz source. The voltage that should be applied to the machine if the air gap flux density is to be maintained at its normal value is}",
+        "options": [
+            "\\text{183 V}",
+            "\\text{1056 V}",
+            "\\text{105.7 V}",
+            "\\text{609.7 V}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 85,
+        "qdes": "\\text{In the 'V' curve of a synchronous motor, the 'x' axis parameter and 'y' axis parameter are respectively.}",
+        "options": [
+            "\\text{Armature current and field current}",
+            "\\text{Power factor and field current}",
+            "\\text{Armature current and torque}",
+            "\\text{Field current and armature current}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 86,
+        "qdes": "\\text{The current drawn by 220 V DC motor of armature resistance of 0.5 }\\omega \\text{ and back emf of 200 V is}",
+        "options": [
+            "\\text{40 A}",
+            "\\text{44 A}",
+            "\\text{440 A}",
+            "\\text{400 A}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 87,
+        "qdes": "\\text{The starting torque can be obtained in case of single phase induction motor with identical main and auxiliary windings, by connecting}",
+        "options": [
+            "\\text{A capacitors across the mains}",
+            "\\text{A capacitor in series with the machine}",
+            "\\text{A capacitor in series with the auxiliary winding}",
+            "\\text{The main and auxiliary winding in series}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 88,
+        "qdes": "\\text{A 100 V, voltmeter has full scale accuracy of 5% when reading 50 V, the error will be}",
+        "options": [
+            "\\text{10%}",
+            "\\text{5%}",
+            "\\text{2.5%}",
+            "\\text{1.25%}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 89,
+        "qdes": "\\text{The voltage applied to the h.v. side of a transformer during short-circuit test is 2\\% of its rated voltage. The core loss will be } \\text{--------} \\text{ percent of the rated core loss.}",
+        "options": [
+            "\\text{4}",
+            "\\text{0.4}",
+            "\\text{0.25}",
+            "\\text{0.04}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 90,
+        "qdes": "\\text{A 4 pole, 50 Hz induction motor is running at –\\% slip. The actual speed of the rotor and its made of operation is}",
+        "options": [
+            "\\text{1500 rpm motor}",
+            "\\text{1470 rpm motor}",
+            "\\text{1530 rpm induction generator}",
+            "\\text{1560 rpm alternator}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 91,
+        "qdes": "\\text{A 600 V, 60 KVA, single phase alternator has an effective resistance of 0.2 }\\omega \\text{. A field current of 10 A produces on armature current of 210 A on short circuit and emf of 480 V on open circuit. Calculate synchronous impedance and reactance}",
+        "options": [
+            "\\text{2.28 }\\omega, \\text{ 2.27 }\\omega",
+            "\\text{2.27 }\\omega, \\text{ 2.28 }\\omega",
+            "\\text{2.32 }\\omega, \\text{ 2.34 }\\omega",
+            "\\text{2.34 }\\omega, \\text{ 2.32 }\\omega",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 92,
+        "qdes": "\\text{The Lamination reduces the}",
+        "options": [
+            "\\text{Magnetic reluctance and core losses at low flux densities}",
+            "\\text{Magnetic reluctance and core losses at high flux densities}",
+            "\\text{Magnetic reluctance and copper losses at low flux densities}",
+            "\\text{Magnetic reluctance and copper losses at high flux densities}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 93,
+        "qdes": "\\text{The maximum output torque of a permanent magnet synchronous motors is}",
+        "options": [
+            "\\text{150 percent of the rated torque}",
+            "\\text{100 percent of the rated torque}",
+            "\\text{50 percent of the rated torque}",
+            "\\text{25 percent of the rated torque}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 94,
+        "qdes": "\\text{If } \\vec{E} \\text{ is the electric field intensity, } \\nabla(\\nabla \\times \\vec{E}) \\text{ is equal to}",
+        "options": [
+            "\\text{Zero}",
+            "\\vec{E}",
+            "|\\vec{E}|",
+            "\\text{Null Vector}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 95,
+        "qdes": "\\text{To overcome the problems arising from the circulating current flow through the brush contacts in the lap wound armatures, \\_\\_\\_\\_\\_\\_\\_ are used.}",
+        "options": [
+            "\\text{Dampers}",
+            "\\text{High resistance copper conductors}",
+            "\\text{Interpoles}",
+            "\\text{Equaliser rings}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 96,
+        "qdes": "\\text{The current drawn by a 120 V DC motor with back emf of 110 V and armature resistance of 0.4 } \\omega \\text{ is}",
+        "options": [
+            "\\text{4 A}",
+            "\\text{25 A}",
+            "\\text{274 A}",
+            "\\text{300 A}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 97,
+        "qdes": "\\text{If rotor input of a squirrel cage induction motor running with a slip of 10\\% is 100 kW, gross power developed by its rotor is \\_\\_\\_\\_\\_\\_\\_ kW.}",
+        "options": [
+            "\\text{10}",
+            "\\text{90}",
+            "\\text{99}",
+            "\\text{80}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 98,
+        "qdes": "\\text{The short pitch angle (electrical) to eliminate 5th harmonics in phase voltage of an alternator is}",
+        "options": [
+            "\\text{5\\textdegree}",
+            "\\text{18\\textdegree}",
+            "\\text{36\\textdegree}",
+            "\\text{72\\textdegree}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 99,
+        "qdes": "\\text{Salient pole alternators are used when the}",
+        "options": [
+            "\\text{speed of the alternator is low and medium}",
+            "\\text{power required is large}",
+            "\\text{speed of the alternator is high}",
+            "\\text{voltage generated is high}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 100,
+        "qdes": "\\text{The power factor of a squirrel cage induction motor is}",
+        "options": [
+            "\\text{low at light loads}",
+            "\\text{low at heavy loads}",
+            "\\text{low at light and heavy loads}",
+            "\\text{low at rated load only}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 101,
+        "qdes": "\\text{The most economical method of finding no load losses of a large dc shunt motor is \\_\\_\\_\\_\\_\\_\\_ test.}",
+        "options": [
+            "\\text{Swinburne's}",
+            "\\text{Hopkinson's}",
+            "\\text{Retardation}",
+            "\\text{Field}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 102,
+        "qdes": "\\text{The PCM for speech coding at standard rate of}",
+        "options": [
+            "\\text{32 Kb/s}",
+            "\\text{64 Kb/s}",
+            "\\text{16 Kb/s}",
+            "\\text{8 Kb/s}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 103,
+        "qdes": "\\text{Damper winding in a synchronous motor}",
+        "options": [
+            "\\text{Reduces winding losses}",
+            "\\text{Serves to start the motor}",
+            "\\text{Improves p.f of the motor}",
+            "\\text{Increases hunting of the motor}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 104,
+        "qdes": "\\text{The speed control of DC shunt motor in both the directions can be obtained by}",
+        "options": [
+            "\\text{Armature resistance control method}",
+            "\\text{Ward Leonard method}",
+            "\\text{Field diverter method}",
+            "\\text{Armature voltage control method}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 105,
+        "qdes": "\\text{As load p.f of an alternator becomes more leading, the value of generated voltage required to give rated terminal voltage}",
+        "options": [
+            "\\text{increases}",
+            "\\text{remains unchanged}",
+            "\\text{decreases}",
+            "\\text{varies with rotor speed}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 106,
+        "qdes": "\\text{The primary winding of a 1000/5 A, 50 Hz current transformer has a single turn. Its secondary burden consists of non-inductive impedance of 1.4} \\omega \\text{. The ratio error is}",
+        "options": [
+            "\\text{- 3.85\\%}",
+            "\\text{- 4\\%}",
+            "\\text{+ 3.85\\%}",
+            "\\text{+ 4\\%}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 107,
+        "qdes": "\\text{A 3-wire dc distribution makes \\_\\_\\_\\_\\_\\_\\_ voltages available.}",
+        "options": [
+            "\\text{one}",
+            "\\text{two}",
+            "\\text{three}",
+            "\\text{four}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 108,
+        "qdes": "\\text{Match the List I (improvements in transmission system) with List II (effects due to improvements) and select the correct answer using the codes given below the lists: List I (improvements) (a) Increasing the spacing between conductors 1. Increase string efficiency (b) Increased flashover voltage 2. Reduces tension in the overhead line (c) Increasing sag in overhead line 3. Corona reduces (d) Usage of gaurd ring 4. Safety factor of insulator increases (a) (b) (c) (d)}",
+        "options": [
+            "\\text{2 4 1 3}",
+            "\\text{4 1 2 3}",
+            "\\text{3 4 2 1}",
+            "\\text{4 2 3 1}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 109,
+        "qdes": "\\text{Transmission lines are transposed to}",
+        "options": [
+            "\\text{reduce copper loss}",
+            "\\text{reduce skin effect}",
+            "\\text{prevent interference with neighbouring telephone lines}",
+            "\\text{prevent short circuit between any two lines}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 110,
+        "qdes": "\\text{Which type of distance protection relay is used for long transmission lines?}",
+        "options": [
+            "\\text{Reactance type relay}",
+            "\\text{Mho type relay}",
+            "\\text{Impedance relay}",
+            "\\text{Resistance type relay}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 111,
+        "qdes": "\\text{If the fault current is 2000 A, the relay setting is 50\\% and CT ratio is 400/5, the plug setting multiplier is}",
+        "options": [
+            "\\text{25}",
+            "\\text{15}",
+            "\\text{50}",
+            "\\text{10}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 112,
+        "qdes": "\\text{Parseval's theorem } \\sum_{n=0}^{N-1} |x(n)|^2 =",
+        "options": [
+            "\\dfrac{1}{N} \\sum_{k=0}^{N-1} |X(k)|^2",
+            "\\sum_{k=0}^{N-1} |X(k)|^2",
+            "\\dfrac{1}{N} \\sum_{k=0}^{N-1} |X(k)|",
+            "\\sum_{k=0}^{N-1} \\left| \\dfrac{X(k)}{2} \\right|",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 113,
+        "qdes": "\\text{Surge impedance is given by}",
+        "options": [
+            "{\\sqrt{\\dfrac{z}{y}}}",
+            "{\\sqrt{\\dfrac{L}{C}}}",
+            "{\\sqrt{yz}}",
+            "{\\sqrt{LC}}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 114,
+        "qdes": "\\text{The per unit impedance of a circuit element is 0.30. If the base KV and base MVA are halved, then the new value of the per unit impedance of the circuit element will be}",
+        "options": [
+            "\\text{0.30}",
+            "\\text{0.60}",
+            "\\text{0.0030}",
+            "\\text{0.0060}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 115,
+        "qdes": "\\text{The company which is responsible for transmission of Electrical Energy is called as}",
+        "options": [
+            "\\text{Genco}",
+            "\\text{Transco}",
+            "\\text{Discom}",
+            "\\text{Retailcos}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 116,
+        "qdes": "\\text{If the supply frequency increases, then skin effect is}",
+        "options": [
+            "\\text{increased}",
+            "\\text{decreased}",
+            "\\text{unaltered}",
+            "\\text{infinity}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 117,
+        "qdes": "\\text{For a single line to ground fault, on phase a, the terminal conditions are}",
+        "options": [
+            "\\text{Va = 0; Ib = Ic = 0}",
+            "\\text{Vb = 0; Ia = Ic = 0}",
+            "\\text{Vc = 0; Ia = Ic = 0}",
+            "\\text{Va = 0; Vb = 0; Ic = 0}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 118,
+        "qdes": "\\text{In a common emitter amplifier, the un bypassed emitter resistor provides.}",
+        "options": [
+            "\\text{current shunt feedback}",
+            "\\text{current series feedback}",
+            "\\text{voltage shunt feedback}",
+            "\\text{voltage series feedback}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 119,
+        "qdes": "\\text{In the case of a HVDC system there is}",
+        "options": [
+            "\\text{Charging current but no skin effect}",
+            "\\text{No charging current but skin effect}",
+            "\\text{Neither charging current nor skin effect}",
+            "\\text{Both charging current and skin effect}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 120,
+        "qdes": "\\text{Flux linkages within a conductor producing flux in Wb-T/m are given by}",
+        "options": [
+            "0.5 \\times 10^{-7}",
+            "\\frac{\\mu I}{8\\pi}",
+            "\\frac{\\mu}{4\\pi}",
+            "\\frac{\\mu I}{4\\pi}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 121,
+        "qdes": "\\text{Which of the following statement is false?}",
+        "options": [
+            "\\text{(i) Glass insulators are mainly used for EHV AC and DC systems}",
+            "\\text{(ii) Moisture condensation is less likely on the surface of glass insulator causing lower leakage current}",
+            "\\text{(iii) Leakage current is higher in synthetic insulators}",
+            "\\text{(iv) Synthetic insulators are cheaper and have applications in bushings only}",
+            "\\text{(A) Only (ii)}",
+            "\\text{(B) (ii) and (iv)}",
+            "\\text{(C) (i) and (ii)}",
+            "\\text{(D) (ii) and (iii)}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 6,
+        "fig": ""
+    },
+    {
+        "qno": 122,
+        "qdes": "\\text{Consider the following statements: } \\\\ \\text{(1) It is easier to construct the Y-Bus matrix as compared to Z-Bus} \\\\ \\text{(2) Z bus is a full matrix while Y bus is sparse} \\\\ \\text{(3) Y Bus can be easily modified whenever the network changes as compared to the Z Bus} \\\\ \\text{Choose the correct statement}",
+        "options": [
+            "\\text{(A) (1) and (2)}",
+            "\\text{(B) (2) and (3)}",
+            "\\text{(C) (1) and (3)}",
+            "\\text{(D) (1), (2) and (3)}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 123,
+        "qdes": "\\text{The phase comparators in case of static relays and electro-mechanical relays normally are}",
+        "options": [
+            "\\text{sine and cosine comparators respectively}",
+            "\\text{cosine and sine comparators respectively}",
+            "\\text{both are cosine comparators}",
+            "\\text{both are sine comparators}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 124,
+        "qdes": "\\text{Buchholz relay provides protection against faults in}",
+        "options": [
+            "\\text{Generators}",
+            "\\text{Transformers}",
+            "\\text{Transmission lines}",
+            "\\text{Motors}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 125,
+        "qdes": "\\text{A conductor of Length L has current I passing through it, when it is placed parallel to strong magnetic field. The force experienced by the conductor will be}",
+        "options": [
+            "BL^{2}I",
+            "BIL",
+            "BI^{2}L",
+            "\\text{Zero}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 126,
+        "qdes": "\\text{Pin type insulators are generally not used for voltages exceeding}",
+        "options": [
+            "\\text{66 kV}",
+            "\\text{33 kV}",
+            "\\text{25 kV}",
+            "\\text{11 kV}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 127,
+        "qdes": "\\text{The number of units generated will be more, if the \\_\\_\\_\\_\\_\\_ is more.}",
+        "options": [
+            "\\text{Cost factor}",
+            "\\text{Demand factor}",
+            "\\text{Depreciation factor}",
+            "\\text{Load factor}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 128,
+        "qdes": "\\text{Large size steam power plants and nuclear plants are suitable for}",
+        "options": [
+            "\\text{base loads}",
+            "\\text{intermediate loads}",
+            "\\text{peak loads}",
+            "\\text{both base and peak loads}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 129,
+        "qdes": "\\text{A circuit breaker is essentially}",
+        "options": [
+            "\\text{an arc extinguisher}",
+            "\\text{a current interrupting device}",
+            "\\text{a power factor correcting device}",
+            "\\text{a device to neutralise the transient effects}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 130,
+        "qdes": "\\text{A hydro-electric generating station is supplied from a reserviour of capacity } 5 \\times 10^6 \\text{ cubic metres at a head of 200 metres. The total energy available in kWh if the overall efficiency is 75\\% is}",
+        "options": [
+            "2.044 \\times 10^6 \\text{ kWh}",
+            "252 \\times 10^6 \\text{ kWh}",
+            "775 \\text{ kWh}",
+            "81620 \\text{ kWh}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 131,
+        "qdes": "\\text{The impulse response of a linear system is } e^{-t}, t > 0. \\text{ The corresponding transfer function is}",
+        "options": [
+            "\\frac{1}{S(S+1)}",
+            "\\frac{1}{S+1}",
+            "\\frac{1}{S}",
+            "\\frac{S}{S+1}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 132,
+        "qdes": "\\text{The primary winding of a 1000/5 A, 50 Hz current transformer has a single turn. Its secondary burnden consists of non-inductive impedance of 1.4 }\\omega\\text{. The ratio error is}",
+        "options": [
+            "-3.85\\%",
+            "-4\\%",
+            "+3.85\\%",
+            "+4\\%",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 133,
+        "qdes": "\\text{Large size steam plants and nuclear plants are suitable for}",
+        "options": [
+            "\\text{Peak loads}",
+            "\\text{Intermediate loads}",
+            "\\text{Base loads}",
+            "\\text{Both base and peak loads}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 134,
+        "qdes": "\\text{In a short line, the regulation at leading power factor is}",
+        "options": [
+            "IR \\cos \\phi_r + IX \\sin \\phi_r",
+            "IX \\cos \\phi_r + IR \\sin \\phi_r",
+            "IR \\cos \\phi_r - IX \\sin \\phi_r",
+            "IX \\cos \\phi_r - IR \\sin \\phi_r",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 135,
+        "qdes": "\\text{The function of economiser is to}",
+        "options": [
+            "\\text{heat the feed water using exhaust steam}",
+            "\\text{heat the feed water using exhaust gases}",
+            "\\text{heat the incoming air using exhaust gases}",
+            "\\text{heat the cooling water using exhaust steam}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 136,
+        "qdes": "\\text{A 4 Bit modulo-16 Ripple counter uses J-K flip flop. If the propagation delay of each flip flop is 50 Nano-seconds, the maximum clock frequency that can be used is equal to}",
+        "options": [
+            "20 \\text{ MHz}",
+            "10 \\text{ MHz}",
+            "8 \\text{ MHz}",
+            "5 \\text{ MHz}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 137,
+        "qdes": "\\text{In a bridge rectifier circuit, the peak voltage is 5 V and diode cut voltage is 0.7 V. The peak inverse voltage on the diode is}",
+        "options": [
+            "4.3 \\text{ V}",
+            "3.6 \\text{ V}",
+            "9.3 \\text{ V}",
+            "8.6 \\text{ V}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 138,
+        "qdes": "\\text{The reference voltage of a dual slope ADC is 5 V. The integrator has a capacitor of 1 }\\mu\\text{F and resistance of 100 k}\\omega\\text{. The time taken to read an unknown voltage }V_x\\text{ is 0.2 sec. Find }V_x",
+        "options": [
+            "2.1 \\text{ V}",
+            "10 \\text{ V}",
+            "2.5 \\text{ V}",
+            "8 \\text{ V}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 139,
+        "qdes": "\\text{For second order system, if both the roots of the characteristic equation are real, then the damping ratio will be}",
+        "options": [
+            "\\text{Less than unity}",
+            "\\text{Equal to unity}",
+            "\\text{Equal to zero}",
+            "\\text{Greater than unity}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 140,
+        "qdes": "\\text{A rotor of a hysteresis synchronous motor}",
+        "options": [
+            "\\text{Has salient poles}",
+            "\\text{Has low permeability}",
+            "\\text{Slip behind the stator flux}",
+            "\\text{Is made of high-retentivity hard steel}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 141,
+        "qdes": "\\text{What is the minimum number of Flip Flops required for realizing MOD 9 ripple counter?}",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 142,
+        "qdes": "\\text{A D/A converter has a full scale output of 3.5 V with resolution approximately 14 mV. The number of bits required for conversion is}",
+        "options": [
+            "4",
+            "8",
+            "16",
+            "32",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 143,
+        "qdes": "\\text{Unit of measurement of slew rate in an operational amplifier is V=VOHS S=Seconds}",
+        "options": [
+            "V/S",
+            "V/mS",
+            "V/\\mu\\text{S}",
+            "V/nS",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 144,
+        "qdes": "\\text{In the figure }X_1=1, X_2=1, \\text{the output Q remains}",
+        "options": [
+            "\\text{at 1}",
+            "\\text{at 0}",
+            "\\text{at its initial value}",
+            "\\text{unstable}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": "image.png"
+    },
+    {
+        "qno": 145,
+        "qdes": "\\text{Assume that }D_1, D_2\\text{ are ideal diodes. The value of current I is}",
+        "options": [
+            "0 \\text{ mA}",
+            "0.5 \\text{ mA}",
+            "1 \\text{ mA}",
+            "2 \\text{ mA}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": "image.png"
+    },
+    {
+        "qno": 146,
+        "qdes": "\\text{An 8-input multiplexer is to be built with a tree network of 2-input multiplexers. The number of 2-input multiplexers required are}",
+        "options": [
+            "2",
+            "4",
+            "8",
+            "16",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 147,
+        "qdes": "\\text{The logic performance of the following circuit is}",
+        "options": [
+            "\\text{NAND}",
+            "\\text{AND}",
+            "\\text{NOT}",
+            "\\text{OR}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": "image.png"
+    },
+    {
+        "qno": 148,
+        "qdes": "\\text{A binary Ladder D/A converter is constructed by using resistors having}",
+        "options": [
+            "\\text{Individual values}",
+            "\\text{Only one value}",
+            "\\text{Only two values}",
+            "\\text{Only three values}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 149,
+        "qdes": "\\text{The diffusion capacitance of a forward biased }P^+N \\text{ (highly doped P-region) junction diode with a steady state current I depends on}",
+        "options": [
+            "\\text{junction area}",
+            "\\text{mean life-time of the electrons}",
+            "\\text{mean life time of the holes}",
+            "\\text{width of the depleted region}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 150,
+        "qdes": "\\text{The simplified form of the Boolean function }Y = \\overline{ABC} + \\overline{A}BC + \\overline{AB}C + \\overline{A}B\\overline{C} + A\\overline{BC}\\text{ is}",
+        "options": [
+            "\\overline{C}",
+            "C",
+            "\\overline{A} \\overline{B}",
+            "A B",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 151,
+        "qdes": "\\text{A step-up chopper has }'E_{dc}'\\text{ as the source voltage and }'\\alpha'\\text{ as the duty cycle. The output voltage for this chopper is given by,}",
+        "options": [
+            "E_0 = \\frac{E_{dc}}{1-\\alpha}",
+            "E_0 = \\frac{E_{dc}}{1+\\alpha}",
+            "E_0 = E_{dc}(1-\\alpha)",
+            "E_0 = E_{dc}(1+\\alpha)",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 152,
+        "qdes": "\\text{If the pulses of different widths and heights are superimposed to produce a resultant wave with reduced harmonic content then it is called as}",
+        "options": [
+            "\\text{Harmonic reduction by stepped wave inverters}",
+            "\\text{Harmonic reduction by transformer connections}",
+            "\\text{Harmonic reduction by PWM}",
+            "\\text{Harmonic reduction by multiple commutation in Each Half-cycle}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 153,
+        "qdes": "\\text{Select the incorrect statement of switched mode power supplies (SMPS)}",
+        "options": [
+            "\\text{SMPS is less sensitive to changes in input voltage}",
+            "\\text{SMPS has low output ripple}",
+            "\\text{SMPS is smaller in size}",
+            "\\text{SMPS is a radio interference source}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 154,
+        "qdes": "\\text{A converter which can operate both in 3 pulse and 6 pulse modes is a}",
+        "options": [
+            "\\text{1$\\omega$ full converter}",
+            "\\text{3 phase half wave converter}",
+            "\\text{3 phase semi converter}",
+            "\\text{3 phase full converter}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 155,
+        "qdes": "\\text{TRIAC cannot be used in}",
+        "options": [
+            "\\text{AC voltage regulators}",
+            "\\text{Cyclo converters}",
+            "\\text{Solid state type of switch}",
+            "\\text{Inverter}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 156,
+        "qdes": "\\text{The thyristor circuit that directly converts AC voltages from one frequency to another frequency is called}",
+        "options": [
+            "\\text{AC voltage controller}",
+            "\\text{Cyclo converter}",
+            "\\text{Inverter}",
+            "\\text{Chopper}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 157,
+        "qdes": "\\text{An inductor L is connected in series with the thyristor for}",
+        "options": [
+            "\\text{Reducing switching loss}",
+            "\\text{Reducing conduction loss}",
+            "\\frac{dv}{dt}\\text{ protection}",
+            "\\frac{di}{dt}\\text{ protection}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 158,
+        "qdes": "\\text{Form factor ratio is defined as}",
+        "options": [
+            "\\frac{V_{ac}}{V_{dc}}",
+            "\\frac{V_{rms}}{V_{av}}",
+            "\\frac{V_{rms}}{V_{ac}}",
+            "\\frac{V_{dc}}{V_{ac}}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 159,
+        "qdes": "\\text{In a DC chopper:}\\begin{array}{l} \\text{I. The waveform of input voltage is continuous.} \\\\ \\text{II. The waveform of output voltage is discontinuous.} \\\\ \\text{III. Per unit ripple current is maximum when duty cycle is 0.5.} \\\\ \\text{IV. The output can be controlled by PWM by varying the chopping period keeping }T_{\\text{on}}\\text{ constant.} \\end{array} \\text{Which of the following combination of statements are true?}",
+        "options": [
+            "\\text{I, II and III}",
+            "\\text{II, III and IV}",
+            "\\text{I, III and IV}",
+            "\\text{I, II and IV}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 160,
+        "qdes": "\\text{The latching current in given circuit is 4mA. The minimum width of the gate pulse required to properly turn on the thyristor is}",
+        "options": [
+            "6 \\mu s",
+            "4 \\mu s",
+            "2 \\mu s",
+            "1 \\mu s",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 161,
+        "qdes": "\\text{A boost regulator has an input voltage of 5V. The average output voltage 15V, average load current of 0.5A. The switching frequency is 25 kHz. If }L=150\\mu H\\text{ and }C=220\\mu F\\text{. Determine the ripple current of inductor (}\\Delta I\\text{).}",
+        "options": [
+            "1\\text{A}",
+            "1.5\\text{A}",
+            "0.89\\text{A}",
+            "0.99\\text{A}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 162,
+        "qdes": "\\text{A single phase full converter bridge is connected to RLE load. The source has a rms voltage of 230 V and the average load current is 10 A. Find the firing angle for which the power flows from AC source to the DC load. Consider firing angle delay for }E=120 \\text{V, }R=0.4\\omega\\text{.}",
+        "options": [
+            "29.31\\degree",
+            "72.72\\degree",
+            "53.21\\degree",
+            "45.62\\degree",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 163,
+        "qdes": "\\text{A single phase fully controlled bridge converter supplies an inductive load. Assuming that output current is virtually constant, determine average output voltage if the supply voltage is 230V and firing angle is maintained at }\\pi/6\\text{ radians.}",
+        "options": [
+            "179.33 \\text{V}",
+            "126.80 \\text{V}",
+            "153.27 \\text{V}",
+            "143.86 \\text{V}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 164,
+        "qdes": "\\text{A single phase half wave rectifier is connected to a 240V supply. The load resistance }R=10\\omega\\text{, }L=0.5mH\\text{ and firing angle }\\alpha=30\\text{. Find the average output voltage.}",
+        "options": [
+            "50 \\text{V}",
+            "100 \\text{V}",
+            "150 \\text{V}",
+            "200 \\text{V}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 165,
+        "qdes": "\\text{A single phase semi-converter is supplying an RL load with a firing angle of }\\alpha\\text{. When the mode of operation is discontinuous, the conduction and free wheeling period of each cycle are respectively.}",
+        "options": [
+            "\\alpha-\\pi, \\alpha",
+            "\\alpha-\\pi, \\alpha-\\beta",
+            "\\pi-\\alpha, \\beta",
+            "\\pi-\\alpha, \\beta-\\pi",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 166,
+        "qdes": "\\text{Multiplexing technique that shifts each signal to a different carrier frequency is called}",
+        "options": [
+            "\\text{Frequency Division Multiplexing}",
+            "\\text{Time Division Multiplexing}",
+            "\\text{Both (A) and (B)}",
+            "\\text{Space Division Multiplexing}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 167,
+        "qdes": "\\text{When high speed data transfer is required, which I/O technique is most widely used?}",
+        "options": [
+            "\\text{Memory mapped I/O}",
+            "\\text{I/O mapped I/O}",
+            "\\text{Status check I/O}",
+            "\\text{Direct Memory Access}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 168,
+        "qdes": "\\text{The Fourier transform of }x(n)=a^n u(n)\\text{ for }-1<a<1\\text{ is}",
+        "options": [
+            "X(\\omega)=1-ae^{-j\\omega}",
+            "X(\\omega)=\\frac{1}{1-ae^{-j\\omega}}",
+            "X(\\omega)=\\frac{a}{1-ae^{-j\\omega}}",
+            "X(\\omega)=\\frac{e^{-j\\omega}}{1-ae^{-j\\omega}}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 169,
+        "qdes": "\\text{In circuit switching, the path}",
+        "options": [
+            "\\text{to be followed depends on length of message}",
+            "\\text{upto next intermediate node is allocated before transmission of message begins}",
+            "\\text{upto destination is allocated before transmission of message begins}",
+            "\\text{Both (A) and (B)}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 170,
+        "qdes": "\\text{Any signal }x(t)\\text{ can be represented as}",
+        "options": [
+            "x_e(t)+x_o(t)",
+            "x_e(t)-x_o(t)",
+            "\\frac{x_e(t)}{x_o(t)}",
+            "x_e(t)\\times x_o(t)",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 171,
+        "qdes": "\\text{A special PCM system uses 16 channels of data, one whose purpose is identification and synchronization. The sampling rate is 3.5 kHz. The word length is 6 bits. Find}\\begin{array}{l}\\text{(i) The no. of bits per frame}\\\\ \\text{(ii) The serial data rate}\\end{array}",
+        "options": [
+            "69, 300 \\text{kHz}",
+            "96, 336 \\text{kHz}",
+            "75, 400 \\text{kHz}",
+            "100, 500 \\text{kHz}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 2,
+        "fig": ""
+    },
+    {
+        "qno": 172,
+        "qdes": "\\text{A 250 V, 4 pole, wave wound DC series motor has 782 conductors on its armature. It has armature and series field resistance of 0.75 }\\omega\\text{. The motor takes a current of 40 A. Estimate its speed and gross torque developed if it has a flux per pole of 25 MWB}",
+        "options": [
+            "250 \\text{ N-M}",
+            "251 \\text{ NM}",
+            "248 \\text{ NM}",
+            "249 \\text{ NM}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 4,
+        "fig": ""
+    },
+    {
+        "qno": 173,
+        "qdes": "\\text{If the 8085 adds 87 H and 79 H, specify the status of the S, Z and CY flags.}",
+        "options": [
+            "\\text{S=0; CY=1; Z=1}",
+            "\\text{S=1; Z=1; CY=1}",
+            "\\text{S=0; CY=0; Z=1}",
+            "\\text{S=0; CY=1; Z=0}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+    {
+        "qno": 174,
+        "qdes": "\\text{Consider the following drawbacks :}\\begin{array}{l}\\text{1. Slope over load noise}\\\\ \\text{2. Serration noise}\\\\ \\text{3. Granular noise}\\\\ \\text{4. Quantization noise}\\end{array}\\text{Which of these drawbacks does Delta modulation have?}",
+        "options": [
+            "\\text{1 and 2}",
+            "\\text{1 and 4}",
+            "\\text{1 and 3}",
+            "\\text{2 and 4}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 3,
+        "fig": ""
+    },
+    {
+        "qno": 175,
+        "qdes": "\\text{The seventh bit }D_7\\text{ of control register in 8255 is 1. It specifies that, }D_6-D_0\\text{ determines}",
+        "options": [
+            "\\text{I/O functions in various modes}",
+            "\\text{Input mode}",
+            "\\text{Output mode}",
+            "\\text{Bit set/Reset mode}",
+            "\\text{Answer not known}"
+        ],
+        "ans": 1,
+        "fig": ""
+    },
+  {
+    "qno": 176,
+    "qdes": "\\text{At gradient height the shear force is}",
+    "options": [
+      "\\text{minimum}",
+      "\\text{zero}",
+      "\\text{one}",
+      "\\text{maximum}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
   },
   {
-    "qno": 2,
-    "qdes": "Which planet is known as the Red Planet?",
-    "options": ["Earth", "Mars", "Jupiter", "Venus"],
-    "ans": 2
+    "qno": 177,
+    "qdes": "\\text{Calculate the number of day light hours (sunshine hours) in Srinagar on January 1. The Latitude of Srinagar is }34\\degree05'\\text{N}",
+    "options": [
+      "\\text{9.77 hrs}",
+      "\\text{14.24 hrs}",
+      "\\text{8.27 hrs}",
+      "\\text{4.5 hrs}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
   },
   {
-    "qno": 3,
-    "qdes": "What is the capital of Tamil Nadu?",
-    "options": ["Madurai", "Chennai", "Coimbatore", "Tiruchirappalli"],
-    "ans": 2
+    "qno": 178,
+    "qdes": "\\text{A fuel cell in order to produce electricity burns}",
+    "options": [
+      "\\text{Helium}",
+      "\\text{Nitrogen}",
+      "\\text{Hydrogen}",
+      "\\text{Lithium}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
   },
   {
-    "qno": 4,
-    "qdes": "Who wrote the Indian National Anthem?",
-    "options": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Subhash Chandra Bose", "Sarojini Naidu"],
-    "ans": 1
+    "qno": 179,
+    "qdes": "\\text{A typical open circuit voltage of a solar cell is}",
+    "options": [
+      "\\text{12 V}",
+      "\\text{6 V}",
+      "\\text{3 V}",
+      "\\text{0.5 V}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
   },
   {
-    "qno": 5,
-    "qdes": "Which gas is most abundant in Earth's atmosphere?",
-    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
-    "ans": 3
+    "qno": 180,
+    "qdes": "\\text{The following data are given for a wind turbine: Blade length = 52 m; wind velocity = 12 m/sec; Air density = }1.23\\text{ kg/}m^3\\text{; Power coefficient = 0.4. The power generated by the wind turbine is}",
+    "options": [
+      "\\text{3.5 MW}",
+      "\\text{6.3 MW}",
+      "\\text{8.8 MW}",
+      "\\text{10 MW}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
   },
   {
-    "qno": 6,
-    "qdes": "Which is the largest continent in the world?",
-    "options": ["Africa", "Asia", "Europe", "North America"],
-    "ans": 2
+    "qno": 181,
+    "qdes": "\\text{\\_\\_\\_\\_\\_\\_\\_\\_\\_ in the discharge rate, for a given battery results in a \\_\\_\\_\\_\\_\\_\\_\\_\\_ in the amount of electrical energy that can be delivered.}",
+    "options": [
+      "\\text{decrease, decrease}",
+      "\\text{decrease, increase}",
+      "\\text{increase, decrease}",
+      "\\text{increase, increase}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
   },
   {
-    "qno": 7,
-    "qdes": "Which Indian city is known as the Pink City?",
-    "options": ["Udaipur", "Jaipur", "Jodhpur", "Bikaner"],
-    "ans": 2
+    "qno": 182,
+    "qdes": "\\text{Energy Conservation means}",
+    "options": [
+      "\\text{Reducing energy consumption by reducing the output}",
+      "\\text{Increasing the output by consuming more energy}",
+      "\\text{Reducing the energy consumption without compromising the quantity or quality of production}",
+      "\\text{Reducing the energy consumption by reducing the production}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
   },
   {
-    "qno": 8,
-    "qdes": "What is the chemical symbol of water?",
-    "options": ["H2", "H2O", "O2", "HO"],
-    "ans": 2
+    "qno": 183,
+    "qdes": "\\text{The aperture area of a solar module is defined as}",
+    "options": [
+      "\\text{the total area of the solar module}",
+      "\\text{the area of PV – active parts only}",
+      "\\text{the total area less the PV – active area}",
+      "\\text{the sum of the module area and the PV – active area}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
   },
   {
-    "qno": 9,
-    "qdes": "Who invented the telephone?",
-    "options": ["Thomas Edison", "Albert Einstein", "Alexander Graham Bell", "Isaac Newton"],
-    "ans": 3
+    "qno": 184,
+    "qdes": "\\text{In a wind turbine the radius of the rotor is 3 metre has 24 blades, each 0.35 m wide, the solidity is}",
+    "options": [
+      "\\text{54.6 %}",
+      "\\text{34.6 %}",
+      "\\text{64.6 %}",
+      "\\text{44.6 %}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
   },
   {
-    "qno": 10,
-    "qdes": "Which is the smallest state in India by area?",
-    "options": ["Goa", "Sikkim", "Tripura", "Manipur"],
-    "ans": 1
+    "qno": 185,
+    "qdes": "\\text{A 10 Ah battery discharged by 2 Ah has}",
+    "options": [
+      "\\text{a state of charge of 20% and a depth of discharge of 80%}",
+      "\\text{a state of charge of 80% and a depth of discharge of 20%}",
+      "\\text{a state of charge of 80% and a depth of discharge is 80%}",
+      "\\text{a state of charge of 20% and a depth of discharge is 20%}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 186,
+    "qdes": "\\text{An Induction Generator Controller (IGC) controls}",
+    "options": [
+      "\\text{Only the voltage and not the frequency}",
+      "\\text{Only the frequency and not the voltage}",
+      "\\text{Both the voltage and frequency}",
+      "\\text{The power input to the generator}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 187,
+    "qdes": "\\text{In Photo Voltaic system arrange the following from smallest to the largest unit. (i) Module (ii) Array (iii) Solar Cell (iv) Array field Choose the correct answer from the following options given below:}",
+    "options": [
+      "\\text{(ii), (iv), (i), (iii)}",
+      "\\text{(ii), (iv), (iii), (i)}",
+      "\\text{(iii), (ii), (iv), (i)}",
+      "\\text{(iii), (i), (ii), (iv)}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 188,
+    "qdes": "\\text{The insulated gate bipolar transistor’s (IGBT)’s structure is a}",
+    "options": [
+      "\\text{P–N–P structure connected by a MOS gate}",
+      "\\text{N–P–N structure connected by a MOS gate}",
+      "\\text{P–N–P–N structure connected by a MOS gate}",
+      "\\text{N–P–N–P structure connected by a MOS gate}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 189,
+    "qdes": "\\text{Construct routh array and determine the stability of the system whose characteristics equation is }S^6 + 2S^5 + 8S^4 + 12S^3 + 20S^2 + 16S + 16 = 0\\text{, also determine the number of roots lying on right half of }s\\text{–plane, left half of }s\\text{ plane and on imaginary axis}",
+    "options": [
+      "\\text{Marginally stable}",
+      "\\text{Unstable}",
+      "\\text{Stable}",
+      "\\text{Zero}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 190,
+    "qdes": "\\text{A point charge of }2\\text{nc}\\text{ is located at the origin. Find the value of potential at }p(1, 0, 0)\\text{ m.}",
+    "options": [
+      "\\text{06.42 V}",
+      "\\text{27.01 V}",
+      "\\text{17.98 V}",
+      "\\text{36.12 V}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 191,
+    "qdes": "\\text{A community requires }60\\text{ kW of power output to meet their daily electricity needs it indicates }100\\text{ m of gross head to be available what design discharge is require community’s electricity needs? Assume an overall efficiency of }55\\text{%}",
+    "options": [
+      "\\text{0.011 }m^3/s",
+      "\\text{0.111 }m^3/s",
+      "\\text{0.001 }m^3/s",
+      "\\text{0.010 }m^3/s",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 192,
+    "qdes": "\\text{The wind intensity can be described by}",
+    "options": [
+      "\\text{Reynolds Number}",
+      "\\text{Mach Number}",
+      "\\text{Froude Number}",
+      "\\text{Beaufort Number}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 193,
+    "qdes": "\\text{Ethanol is a}",
+    "options": [
+      "\\text{Inflamable Coloured Bio Fuel}",
+      "\\text{Flamable Colourless Bio Fuel}",
+      "\\text{Flamable Coloured Bio Fuel}",
+      "\\text{Inflamable Colourless Bio Fuel}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 194,
+    "qdes": "\\text{The relation between the incident angle }\\theta_i\\text{ and the refracted angle }\\theta_t\\text{ of a light beam falling at the junction of two media having relative refractive indices of }n_1\\text{ and }n_2\\text{ is given by}",
+    "options": [
+      "\\text{}n_1 sin \\theta_i = n_2 sin \\theta_t\\text{}",
+      "\\text{}n_1 sin \\theta_t = n_2 sin \\theta_i\\text{}",
+      "\\text{}n_1 sin \\theta_i = n_2 cos \\theta_t\\text{}",
+      "\\text{}n_1 cos \\theta_i = n_2 sin \\theta_t\\text{}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 195,
+    "qdes": "\\text{A step up chopper is operated with constant duty cycle D. If }V_o\\text{ is the DC output voltage and }V_s\\text{ is input voltage then the ratio }\\frac{V_o}{V_s}\\text{ will be}",
+    "options": [
+      "\\text{1-D}",
+      "\\text{D}",
+      "\\text{$\\frac{D}{1-D}$}",
+      "\\text{$\\frac{1}{1-D}$}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 196,
+    "qdes": "\\text{The materials most commonly used for solar cells are}",
+    "options": [
+      "\\text{Rubidium}",
+      "\\text{Silicon}",
+      "\\text{Nickel}",
+      "\\text{Chromium}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 197,
+    "qdes": "\\text{Solar Radiation received on the Earth’s surface without change in direction is called}",
+    "options": [
+      "\\text{Total Radiation}",
+      "\\text{Direct Beam Radiation}",
+      "\\text{Diffuse Radiation}",
+      "\\text{Atmosphere Radiation}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 198,
+    "qdes": "\\text{Superposition theorem is valid for } \\_\\_\\_\\_\\_\\_\\_\\text{ response.}",
+    "options": [
+      "\\text{Only power}",
+      "\\text{Only current}",
+      "\\text{Only voltage}",
+      "\\text{Voltage and current}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 199,
+    "qdes": "\\text{DC to DC convertor as shown in fig. a battery of }25\\text{V is connected and the input current is }4\\text{A. At the output side, a voltmeter shows }50\\text{V across the load end the output current is }1.8\\text{A. Find the power lost in the converter due to losses.}",
+    "options": [
+      "\\text{25 W}",
+      "\\text{10 W}",
+      "\\text{20 W}",
+      "\\text{15 W}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": "image.png"
+  },
+  {
+    "qno": 200,
+    "qdes": "\\text{The hour angle of solar radiation is}",
+    "options": [
+      "\\text{5\\degree / hour}",
+      "\\text{10\\degree / hour}",
+      "\\text{15\\degree / hour}",
+      "\\text{20\\degree / hour}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
   }
 ]
