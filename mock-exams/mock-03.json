@@ -10,7 +10,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 2,
-    "fig": "circuit_with_30ohm_voltage.png"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-096-01-M03-Q01-FIG.PNG"
   },
   {
     "qno": 2,
@@ -39,7 +39,7 @@
   },
   {
     "qno": 4,
-    "qdes": "\\text{The neutral points of source and load are shorted to form the reference node in a single phase equivalent circuit even if the neutral points are connected through impedance in the actual circuit. This is so because the neutral connection in a balanced circuit will}",
+    "qdes": "\\begin{array}{l} \\text{The neutral points of source and load are shorted to form} \\\\ \\text{the reference node in a single phase equivalent circuit even if the} \\\\ \\text{neutral points are connected through impedance in the actual circuit.} \\\\ \\text{This is so because the neutral connection in a balanced circuit will} \\end{array}",
     "options": [
       "\\text{Not carry any current}",
       "\\text{Carry maximum current}",
@@ -74,7 +74,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 3,
-    "fig": "tank_circuit.png"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-094-01-M03-Q06-FIG.PNG"
   },
   {
     "qno": 7,
@@ -123,7 +123,7 @@
       "Answer not known"
     ],
     "ans": 3,
-    "fig": ""
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-187-01-M03-Q10-FIG.PNG"
   },
   {
     "qno": 11,
@@ -133,7 +133,7 @@
       "0.9\\ \\rho\\text{F}",
       "0.5\\ \\mu\\text{F}",
       "0.9\\ \\text{F}",
-      "Answer not known"
+      "\\text{Answer not known}"
     ],
     "ans": 1,
     "fig": ""
@@ -146,7 +146,7 @@
       "\\dfrac{R}{2}",
       "2R",
       "R^2",
-      "Answer not known"
+      "\\text{Answer not known}"
     ],
     "ans": 2,
     "fig": ""
@@ -162,7 +162,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 3,
-    "fig": "two_port_network.png"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/03B-042-01-M03-Q13-FIG.PNG"
   },
   {
     "qno": 14,
@@ -188,7 +188,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 3,
-    "fig": "rlc_circuit_q_factor.png"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-192-01-M03-Q15-FIG.PNG"
   },
   {
     "qno": 16,
@@ -240,7 +240,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 4,
-    "fig": "voltage_divider_circuit.png"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-100-01-M03-Q19-FIG.PNG"
   },
   {
     "qno": 20,
@@ -252,7 +252,7 @@
       "8\\,\\Omega"
     ],
     "ans": 2,
-    "fig": "max_power_theorem_circuit.png"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-005-01-M03-Q20-FIG.PNG"
   },
   {
     "qno": 21,
@@ -290,7 +290,7 @@
       "5\\text{ V}"
     ],
     "ans": 2,
-    "fig": "image_544bc3.png"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-097-01-M03-Q23-FIG.PNG"
   },
   {
     "qno": 24,
@@ -351,7 +351,7 @@
       "10\\,nc",
       "20\\,nc",
       "30\\,nc",
-      "Answer not known"
+      "\\text{Answer not known}"
     ],
     "ans": 2,
     "fig": ""
@@ -364,7 +364,7 @@
       "0.5\\ lag",
       "0.866\\ lead",
       "0.5\\ lead",
-      "Answer not known"
+      "\\text{Answer not known}"
     ],
     "ans": 1,
     "fig": ""
@@ -383,7 +383,7 @@
   },
   {
     "qno": 31,
-    "qdes": "\\text{Statement A: The current in a constant inductive system does not change instantaneously.} \\\\ \\text{Statement B: In constant inductive system the flux linkage is conserved initially}",
+    "qdes": "\\begin{array}{l} \\text{Statement A: The current in a constant inductive system does not change instantaneously.} \\\\ \\text{Statement B: In constant inductive system the flux linkage is conserved initially} \\end{array}",
     "options": [
       "\\text{Statements A and B are true Statement B is correct explanation for A}",
       "\\text{Statements A and B are true but B is not correct explanation for A}",
@@ -398,11 +398,11 @@
     "qno": 32,
     "qdes": "\\text{A fuel cell in order to produce electricity, burns}",
     "options": [
-      "Chromium",
-      "Helium",
-      "Hydrogen",
-      "Nitrogen",
-      "Answer not known"
+      "\\text{Chromium}",
+      "\\text{Helium}",
+      "\\text{Hydrogen}",
+      "\\text{Nitrogen}",
+      "\\text{Answer not known}"
     ],
     "ans": 3,
     "fig": ""
@@ -415,7 +415,7 @@
       "01",
       "10",
       "11",
-      "Answer not known"
+      "\\text{Answer not known}"
     ],
     "ans": 4,
     "fig": ""
@@ -428,7 +428,7 @@
       "\\vec{H} = \\int \\frac{Id\\vec{l} \\times \\vec{v}}{4 \\pi R^2}",
       "\\nabla \\cdot \\vec{H} = 0",
       "\\nabla \\times \\vec{H} = \\vec{J}",
-      "Answer not known"
+      "\\text{Answer not known}"
     ],
     "ans": 3,
     "fig": ""
@@ -441,7 +441,7 @@
       "\\nabla A",
       "0",
       "\\nabla^2 A",
-      "Answer not known"
+      "\\text{Answer not known}"
     ],
     "ans": 3,
     "fig": ""
@@ -454,7 +454,7 @@
       "20\\ \\text{V}",
       "2\\ \\text{V}",
       "0.2\\ \\text{V}",
-      "Answer not known"
+      "\\text{Answer not known}"
     ],
     "ans": 2,
     "fig": ""
@@ -467,7 +467,7 @@
       "\\text{Both [A] and [R] are true; and [R] is the correct explanation}",
       "[A] \\text{ is false, [R] is true}",
       "\\text{Both [A] and [R] are true, but [R] is not the correct explanation}",
-      "Answer not known"
+      "\\text{Answer not known}"
     ],
     "ans": 2,
     "fig": ""
@@ -605,10 +605,10 @@
     "qno": 48,
     "qdes": "Moving iron instruments are",
     "options": [
-      "Attraction type",
-      "Repulsion type",
-      "Attraction and repulsion type",
-      "Dynamometer type"
+      "\\text{Attraction type}",
+      "\\text{Repulsion type}",
+      "\\text{Attraction and repulsion type}",
+      "\\text{Dynamometer type}"
     ],
     "ans": 2,
     "fig": ""
@@ -657,8 +657,8 @@
     "options": [
       "\\text{0.25 W to 2 W}",
       "\\text{0.25 mW to 2 mW}",
-      "\\text{25 \\mu W to 200 \\mu W}",
-      "\\text{0.25 \\mu W to 2 \\mu W}",
+      "25 \\mu W to 200 \\mu W",
+      "0.25 \\mu W to 2 \\mu W",
       "\\text{Answer not known}"
     ],
     "ans": 2,
@@ -666,7 +666,7 @@
   },
   {
     "qno": 53,
-    "qdes": "\\text{Match the following : \\newline List I (Transducers) \\newline (a) Thermocouple \\newline (b) Thermistor \\newline (c) Strain gauge \\newline (d) LVDT \\newline List II (Characteristics) \\newline 1. Modulated output \\newline 2. Resistance changes with pressure \\newline 3. Negative temperature coefficient \\newline 4. Constant temperature at one end}",
+    "qdes": "\\begin{array}{l} \\text{Match the following :}  \\\\ \\text{List I (Transducers)}  \\\\ \\text{ (a) Thermocouple}  \\\\ \\text{ (b) Thermistor}  \\\\ \\text{ (c) Strain gauge}  \\\\ \\text{ (d) LVDT}  \\\\ \\text{ List II (Characteristics)}  \\\\ \\text{ 1. Modulated output}  \\\\ \\text{ 2. Resistance changes with pressure}  \\\\ \\text{ 3. Negative temperature coefficient}  \\\\ \\text{ 4. Constant temperature at one end}  \\end{array}",
     "options": [
       "\\text{(a) 3, (b) 2, (c) 4, (d) 1}",
       "\\text{(a) 4, (b) 3, (c) 2, (d) 1}",
@@ -716,7 +716,7 @@
   },
   {
     "qno": 57,
-    "qdes": "\\text{In the measurement of power on balanced load by two-wattmeter method in a 3-phase circuit, the readings of the watt meters are 3KW and 1KW respectively, the latter being obtained after reversing the connections of the current coil. The power factor of the load is}",
+    "qdes": "\\begin{array}{l} \\text{In the measurement of power on balanced load by two-wattmeter method in a 3-phase circuit, the readings of the watt meters are 3KW and 1KW respectively,} \\\\ \\text{the latter being obtained after reversing the connections of the current coil. The power factor of the load is} \\end{array}",
     "options": [
       "\\text{0.277}",
       "\\text{0.554}",
@@ -742,7 +742,7 @@
   },
   {
     "qno": 59,
-    "qdes": "\\text{The inductance of a moving iron instrument is given by } L=(10+5\\theta-\\theta^2) \\text{ MH where } \\theta \\text{ is the deflection in radian from zero position. The spring constant is } 12 \\times 10^{-6} \\text{ NM/RAD. The deflection for a current of 5 A is}",
+    "qdes": "\\begin{array}{l} \\text{The inductance of a moving iron instrument is given by } L=(10+5\\theta-\\theta^2) \\text{ MH where } \\theta \\text{ is the deflection in radian from zero position.} \\\\ \\text{The spring constant is } 12 \\times 10^{-6} \\text{ NM/RAD. The deflection for a current of 5 A is} \\end{array}",
     "options": [
       "\\text{90°}",
       "\\text{94.8°}",
@@ -768,12 +768,12 @@
   },
   {
     "qno": 61,
-    "qdes": "\\text{A basic D'Arsonval movement with a full scale deflection of 50 \\mu A and internal resistance of 500 \\Omega is used as a volt meter. Determine the value of multiplier resistor to measure a voltage range of 0-10 V.}",
+    "qdes": "\\text{A basic D'Arsonval movement with a full scale deflection of 50} \\mu A \\text{ and internal resistance of 500} \\Omega  \\text{ is used as a volt meter. Determine the value of multiplier resistor to measure a voltage range of 0-10 V.}",
     "options": [
       "\\text{2.5 K Ohms}",
-      "\\text{199.5 k\\Omega}",
-      "\\text{400 \\Omega}",
-      "\\text{200 \\Omega}"
+      "\\text{199.5 k}\\Omega",
+      "\\text{400 }\\Omega",
+      "\\text{200 }\\Omega"
     ],
     "ans": 1,
     "fig": ""
@@ -845,7 +845,7 @@
   },
   {
     "qno": 67,
-    "qdes": "\\text{Choose the incorrect force-current analogy of the following \\newline (1) Displacement and inductance \\newline (2) Velocity and voltage \\newline (3) Mass and capacitance}",
+    "qdes": "\\begin{array}{l} \\text{Choose the incorrect force-current analogy of the following \\\\ \\text{(1) Displacement and inductance} \\\\ \\text{(2) Velocity and voltage} \\\\ \\text{\\newline (3) Mass and capacitance} \\end{array}",
     "options": [
       "\\text{(1) only}",
       "\\text{(1) and (2) only}",
@@ -930,7 +930,7 @@
       "\\text{K = 0, T = 0}"
     ],
     "ans": 1,
-    "fig": "Fig. 1 and Fig. 2"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-029-04-M03-Q73-FIG.PNG"
   },
   {
     "qno": 74,
@@ -943,7 +943,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 1,
-    "fig": ""
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/03B-088-04-M03-Q74-FIG.PNG"
   },
   {
     "qno": 75,
@@ -959,7 +959,7 @@
   },
   {
     "qno": 76,
-    "qdes": "\\text{A solar cell (0.9 cm$^2$) receives solar radiation with photons of 1.8 ev energy having an intensity of 0.9 mw/cm$^2$. Measurement show open - circuit voltage of 0.6 V/cm$^2$, short circuit current of 10 mA/cm$^2$, and the maximum current is 50% of the short circuit current. The efficiency of the cell is 25%. Calculate the fill factor}",
+    "qdes": "\\text{A solar cell (}0.9 cm^2 \\text{) receives solar radiation with photons of 1.8 ev energy having an intensity of 0.9 mw/}cm^2. \\text{Measurement show open - circuit voltage of 0.6 V/}cm^2 \\text{, short circuit current of 10 mA/}cm^2 \\text{, and the maximum current is} 50% \\text{ of the short circuit current. The efficiency of the cell is} 25% \\text{. Calculate the fill factor}",
     "options": [
       "\\text{1.124}",
       "\\text{0.0375}",
@@ -974,13 +974,13 @@
     "qno": 77,
     "qdes": "\\text{The steady state error for the system below to unit step input is}",
     "options": [
-      "\\text{25%}",
-      "\\text{0.75%}",
-      "\\text{6%}",
-      "\\text{33%}"
+      "25%",
+      "0.75%",
+      "6%",
+      "33%"
     ],
     "ans": 0,
-    "fig": ""
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-032-04-M03-Q77-FIG.PNG"
   },
   {
     "qno": 78,
@@ -1162,7 +1162,7 @@
 },
   {
   "qno": 92,
-  "qdes": "\\text{The power factor correction capability of a loaded synchronous motor \\rule{2cm}{0.4pt} with the increase in mechanical load.}",
+  "qdes": "\\text{The power factor correction capability of a loaded synchronous motor ------------------ with the increase in mechanical load.}",
   "options": [
     "\\text{decreases}",
     "\\text{increases}",
@@ -1210,7 +1210,7 @@
     "\\text{Answer not known}"
   ],
   "ans": 2,
-  "fig": "image_86f7be.png"
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/02B-085-05-M03-Q95-FIG.PNG"
 },
   {
   "qno": 96,
@@ -1222,7 +1222,7 @@
     "\\text{Starting torque}"
   ],
   "ans": 3,
-  "fig": "image_86f8ba.png"
+  "fig": ""
 },
 {
   "qno": 97,
@@ -1234,7 +1234,7 @@
     "\\text{91 A}"
   ],
   "ans": 1,
-  "fig": "image_86fc36.png"
+  "fig": ""
 },
 {
   "qno": 98,
@@ -1246,7 +1246,7 @@
     "\\text{to reduce armature reaction}"
   ],
   "ans": 1,
-  "fig": "image_86ff3e.png"
+  "fig": ""
 },
   {
   "qno": 99,
@@ -1258,7 +1258,7 @@
     "\\text{Lubrication}"
   ],
   "ans": 0,
-  "fig": "image_86ffbf.png"
+  "fig": ""
 },
   {
   "qno": 100,
@@ -1271,7 +1271,7 @@
     "\\text{Answer not known}"
   ],
   "ans": 1,
-  "fig": "image_8702fc.png"
+  "fig": ""
 },
   {
     "qno": 101,
