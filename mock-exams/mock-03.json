@@ -120,7 +120,7 @@
       "0\\, V,\\ 63.2\\, V",
       "100\\, V,\\ 36.8\\, V",
       "0\\, V,\\ 36.8\\, V",
-      "Answer not known"
+      "\\text{Answer not known}"
     ],
     "ans": 3,
     "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-187-01-M03-Q10-FIG.PNG"
@@ -768,7 +768,7 @@
   },
   {
     "qno": 61,
-    "qdes": "\\text{A basic D'Arsonval movement with a full scale deflection of 50} \\mu A \\text{ and internal resistance of 500} \\Omega  \\text{ is used as a volt meter. Determine the value of multiplier resistor to measure a voltage range of 0-10 V.}",
+    "qdes": "\\begin{array}{l}\\text{A basic D'Arsonval movement with a full scale deflection of 50} \\mu A \\text{ and internal resistance of 500} \\Omega  \\text{ is used as a volt meter.} \\\\ \\text{ Determine the value of multiplier resistor to measure a voltage range of 0-10 V.} \\end{array}}",
     "options": [
       "\\text{2.5 K Ohms}",
       "\\text{199.5 k}\\Omega",
@@ -845,7 +845,7 @@
   },
   {
     "qno": 67,
-    "qdes": "\\begin{array}{l} \\text{Choose the incorrect force-current analogy of the following \\\\ \\text{(1) Displacement and inductance} \\\\ \\text{(2) Velocity and voltage} \\\\ \\text{\\newline (3) Mass and capacitance} \\end{array}",
+    "qdes": "\\begin{array}{l} \\text {Choose the incorrect force-current analogy of the following} \\\\ \\text{(1) Displacement and inductance} \\\\ \\text{(2) Velocity and voltage} \\\\ \\text{(3) Mass and capacitance} \\end{array}",
     "options": [
       "\\text{(1) only}",
       "\\text{(1) and (2) only}",
@@ -959,7 +959,7 @@
   },
   {
     "qno": 76,
-    "qdes": "\\text{A solar cell (}0.9 cm^2 \\text{) receives solar radiation with photons of 1.8 ev energy having an intensity of 0.9 mw/}cm^2. \\text{Measurement show open - circuit voltage of 0.6 V/}cm^2 \\text{, short circuit current of 10 mA/}cm^2 \\text{, and the maximum current is} 50% \\text{ of the short circuit current. The efficiency of the cell is} 25% \\text{. Calculate the fill factor}",
+    "qdes": "\\begin{array}{l} \\text{A solar cell (0.9} cm^2 \\text{) receives solar radiation with photons of 1.8 ev energy having an intensity of 0.9 mw/} cm^2. \\\\ \\text{Measurement show open - circuit voltage of 0.6 V/} cm^2 \\text{short circuit current of 10 mA/} cm^2, \\\\ \\text{and the maximum current is} 50 \\% \\text{ of the short circuit current.}  \\\\ \\text{The efficiency of the cell is } 25 \\% \\text{. Calculate the fill factor} \\end{array}",
     "options": [
       "\\text{1.124}",
       "\\text{0.0375}",
@@ -984,7 +984,7 @@
   },
   {
     "qno": 78,
-    "qdes": "\\text{A unity feedback (negative) system has open loop transfer function } G(s)=\\frac{k}{s(s+2)}. \\text{ Calculate the value of gain k so that the closed loop system has a steady state unit ramp error of 0.1}",
+    "qdes": "\\begin{array}{l} \\text{A unity feedback (negative) system has open loop transfer function } G(s)=\\frac{k}{s(s+2)}.  \\\\ \\text{Calculate the value of gain k so that the closed loop system has a steady state unit ramp error of 0.1} \\end{array}",
     "options": [
       "\\text{0.5}",
       "\\text{10}",
@@ -1061,7 +1061,7 @@
 },
   {
   "qno": 84,
-  "qdes": "\\text{Match List I (Machines) with List II (Test) and select the correct answer. \\newline List I \\newline (a) Transformer \\newline (b) DC motor \\newline (c) Alternator \\newline (d) Induction Motor \\newline List II \\newline 1. Slip test \\newline 2. Blocked rotor test \\newline 3. Sumpner's test \\newline 4. Swinburne's test \\newline Codes :}",
+  "qdes": "\\begin{array}{l} \\text{Match List I (Machines) with List II (Test) and select the correct answer.} \\\\ \\text{List I} \\\\ \\text{(a) Transformer} \\\\ \\text{(b) DC motor} \\\\ \\text{(c) Alternator} \\\\ \\text{(d) Induction Motor } \\\\ \\text{List II} \\\\ \\text{1. Slip test} \\\\ \\text{2. Blocked rotor test} \\\\ \\text{3. Sumpner's test} \\\\ \\text{4. Swinburne's test}  \\end{array}",
   "options": [
     "\\text{(a)-3, (b)-4, (c)-1, (d)-2}",
     "\\text{(a)-4, (b)-3, (c)-2, (d)-1}",
@@ -1201,7 +1201,7 @@
 },
   {
   "qno": 95,
-  "qdes": "\\text{For the network shown in the figure if } V_s = 1V \\text{ and } V = 0, \\text{ then } I = -5A \\text{ and if } V_s = 0 \\text{ and } V = 1V, \\text{ then } I = \\frac{1}{2} A. \\text{The values of } I_{SC} \\text{ and } R_N \\text{ of the Norton's equivalent across } AB \\text{ would be respectively}",
+  "qdes": "\\begin{array}{l} \\text{For the network shown in the figure if } V_s = 1V \\text{ and } V = 0, \\text{ then } I = -5A \\text{ and if } V_s = 0 \\text{ and } V = 1V, \\text{ then } I = \\frac{1}{2} A.  \\\\ \\text{The values of } I_{SC} \\text{ and } R_N \\text{ of the Norton's equivalent across } AB \\text{ would be respectively} \\end{array}",
   "options": [
     "\\text{-5A and 2 $\\Omega$}",
     "\\text{10A and 0.5 $\\Omega$}",
@@ -1226,7 +1226,7 @@
 },
 {
   "qno": 97,
-  "qdes": "\\text{In a 100 KVA, 1100/220 V, 50 Hz single phase transformer with 2000 turns on high voltage side, the open circuit test result gives 220 V, 91 A, 5 kW on low voltage side. The core component of current is approximately.}",
+  "qdes": "\\begin{array}{l} \\text{In a 100 KVA, 1100/220 V, 50 Hz single phase transformer with 2000 turns on high voltage side,} \\\\ \\text{the open circuit test result gives 220 V, 91 A, 5 kW on low voltage side.} \\\\ \\text{The core component of current is approximately.} \\end{array}",
   "options": [
     "\\text{9.1 A}",
     "\\text{22.7 A}",
@@ -1298,7 +1298,7 @@
       "\\text{1250 V}",
       "\\text{Answer not known}"
     ],
-    "ans": 1,
+    "ans": 4,
     "fig": ""
   },
   {
@@ -1327,7 +1327,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 3,
-    "fig": "04B-023-05.png"
+    "fig": ""
   },
   {
     "qno": 105,
@@ -1383,12 +1383,12 @@
       "\\text{Answer not known}"
     ],
     "ans": 2,
-    "fig": "05B-146-06.png"
+    "fig": ""
   },
   {
     "qno": 109,
     "qid": "04B-070-06",
-    "qdes": "\\text{Consider the following statements. Which of the following are correct? (1) Positive sequence currents are present in all types of faults. (2) Negative sequence currents are present in all unsymmetrical faults. (3) Zero sequence currents are present when neutral of the system is grounded and the fault involves the ground. of these statements}",
+    "qdes": "\\begin{array}{l} \\text{Consider the following statements. Which of the following are correct?}  \\\\ \\text{(1) Positive sequence currents are present in all types of faults.} \\\\ \\text{(2) Negative sequence currents are present in all unsymmetrical faults.} \\\\ \\text{(3) Zero sequence currents are present when neutral of the system is grounded} \\\\ \\text{and the fault involves the ground}\\end{array}",
     "options": [
       "\\text{1 and 2 only}",
       "\\text{1 and 3 only}",
@@ -1397,7 +1397,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 4,
-    "fig": "04B-070-06.png"
+    "fig": ""
   },
   {
     "qno": 110,
@@ -1425,7 +1425,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 2,
-    "fig": "04B-174-06.png"
+    "fig": ""
   },
   {
     "qno": 112,
@@ -1467,7 +1467,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 2,
-    "fig": "03B-073-06.png"
+    "fig": ""
   },
   {
     "qno": 115,
@@ -1494,7 +1494,7 @@
       "\\text{Capacitor in the neutral}",
       "\\text{Answer not known}"
     ],
-    "ans": 3,
+    "ans": 1,
     "fig": "01B-145-06.png"
   },
   {
@@ -1509,12 +1509,12 @@
       "\\text{Answer not known}"
     ],
     "ans": 4,
-    "fig": "06B-156-06.png"
+    "fig": ""
   },
   {
     "qno": 118,
     "qid": "03B-175-06",
-    "qdes": "\\text{If the inductance and capacitance of power system are respectively 1H and 0.01}\\,\\mu\\text{F and the instantaneous value of interrupted current is 10A, then the voltage across the breaker contact will be}",
+    "qdes": "\\begin{array}{l} \\text{If the inductance and capacitance of power system are respectively 1H and 0.01}\\,\\mu\\text{F and} \\\\ \\text{ the instantaneous value of interrupted current is 10A, then the voltage across the breaker contact will be}\\end{array}",
     "options": [
       "\\text{50 KV}",
       "\\text{57 KV}",
@@ -1523,7 +1523,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 4,
-    "fig": "03B-175-06.png"
+    "fig": ""
   },
   {
     "qno": 119,
@@ -1537,7 +1537,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 3,
-    "fig": "06B-053-06.png"
+    "fig": ""
   },
   {
     "qno": 120,
@@ -1551,12 +1551,12 @@
       "\\text{Answer not known}"
     ],
     "ans": 1,
-    "fig": "04B-077-06.png"
+    "fig": ""
   },
   {
     "qno": 121,
     "qid": "05B-147-06",
-    "qdes": "\\text{A power system consists of 300 buses out of which 20 buses are generator buses, 25 buses are the ones with reactive power support and 15 buses are the ones with fixed shunt capacitors. All the other buses are load buses. It is proposed to perform a load flow analysis using NR method. The size of NR Jacobian matrices}",
+    "qdes": "\\begin{array}{l} \\text{A power system consists of 300 buses out of which 20 buses are generator buses,} \\\\ \\text{25 buses are the ones with reactive power support and} \\\\ \\text{15 buses are the ones with fixed shunt capacitors. All the other buses are load buses.} \\\\ \\text{It is proposed to perform a load flow analysis using NR method.} \\\\ \\text{The size of NR Jacobian matrices}\\end{array}",
     "options": [
       "\\text{553 x 553}",
       "\\text{540 x 540}",
@@ -1565,7 +1565,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 4,
-    "fig": "05B-147-06.png"
+    "fig": ""
   },
   {
     "qno": 122,
@@ -1579,7 +1579,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 3,
-    "fig": "04B-075-06.png"
+    "fig": ""
   },
   {
     "qno": 123,
@@ -1598,12 +1598,12 @@
   {
     "qno": 124,
     "qid": "06B-152-06",
-    "qdes": "\\text{A 20,000 kVA transformer with 10% reactance will have a reactance of }\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\text{ at 10,000 kVA base.}",
+    "qdes": "\\text{A 20,000 kVA transformer with} 10\\% \\text{reactance will have a reactance of }\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\text{ at 10,000 kVA base.}",
     "options": [
-      "\\text{10%}",
-      "\\text{20%}",
-      "\\text{15%}",
-      "\\text{5%}",
+      "10\\%",
+      "20\\%",
+      "15\\%",
+      "5\\%",
       "\\text{Answer not known}"
     ],
     "ans": 4,
@@ -1621,7 +1621,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 1,
-    "fig": "05B-049-06.png"
+    "fig": ""
   },
   {
     "qno": 126,
@@ -1635,7 +1635,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 1,
-    "fig": "03B-079-06.png"
+    "fig": ""
   },
   {
     "qno": 127,
@@ -1663,12 +1663,12 @@
       "\\text{Answer not known}"
     ],
     "ans": 1,
-    "fig": "06B-157-06.png"
+    "fig": ""
   },
   {
     "qno": 129,
     "qid": "03B-074-06",
-    "qdes": "\\text{Consider the following statements :} \\ \\ \\text{(1) It is easier to construct the Y-Bus matrix as compared to Z-Bus}\\ \\ \\text{(2) Z bus is a full matrix while Y bus is sparse}\\ \\ \\text{(3) Y Bus can be easily modified whenever the network changes as compared to the Z Bus}\\ \\ \\text{Choose the correct statement}",
+    "qdes": "\\begin{array}{l} \\text{Consider the following statements :} \\\\ \\text{(1) It is easier to construct the Y-Bus matrix as compared to Z-Bus} \\\\ \\text{(2) Z bus is a full matrix while Y bus is sparse} \\\\ \\text{(3) Y Bus can be easily modified whenever the network changes as compared to the Z Bus} \\\\ \\text{Choose the correct statement}\\end{array}",
     "options": [
       "\\text{(1) and (2)}",
       "\\text{(2) and (3)}",
@@ -1691,7 +1691,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 1,
-    "fig": "05B-153-06.png"
+    "fig": ""
   },
   {
     "qno": 131,
@@ -1710,7 +1710,7 @@
   {
     "qno": 132,
     "qid": "02B-176-06",
-    "qdes": "\\text{A single phase full-wave rectifier use semiconductor diodes has transformer voltage is 35 V rms to center tap. The load consists of a 40 }\\mu\\text{F capacitor in parallel with a 250 }\\Omega\\text{ resistor. The diode and transformer resistances and leakage reactance may be neglected. The power line frequency is 50 Hz. Calculate the dc current }I_{dc}\\text{ in the circuit}",
+    "qdes": "\\begin{array}{l}\\text{A single phase full-wave rectifier use semiconductor diodes has transformer voltage is 35 V rms to center tap.}\\\\ \\text{The load consists of a 40 }\\mu\\text{F capacitor in parallel with a 250 }\\Omega \\\\ \\text{resistor. The diode and transformer resistances and leakage reactance may be neglected.} \\\\ \\text{The power line frequency is 50 Hz. Calculate the dc current }I_{dc} \\text{in the circuit} \\end{array}",
     "options": [
       "\\text{132 mA}",
       "\\text{100 mA}",
@@ -1733,7 +1733,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 2,
-    "fig": "03B-092-06.png"
+    "fig": ""
   },
   {
     "qno": 134,
@@ -1747,7 +1747,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 2,
-    "fig": "05B-155-06.png"
+    "fig": ""
   },
   {
     "qno": 135,
@@ -1761,7 +1761,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 1,
-    "fig": "06B-047-06.png"
+    "fig": ""
   },
   {
     "qno": 136,
@@ -1831,7 +1831,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 4,
-    "fig": "02B-147-07.png"
+    "fig": ""
   },
   {
     "qno": 141,
@@ -1845,7 +1845,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 2,
-    "fig": "03B-011-07.png"
+    "fig": ""
   },
   {
     "qno": 142,
@@ -1859,12 +1859,12 @@
       "\\text{Answer not known}"
     ],
     "ans": 2,
-    "fig": "03B-030-07.png"
+    "fig": ""
   },
   {
     "qno": 143,
     "qid": "03B-118-07",
-    "qdes": "\\text{Unit of measurement of slew rate in an operational amplifier is}\n\\text{V = VOHS}\n\\text{S = Seconds}",
+    "qdes": "\\text{Unit of measurement of slew rate in an operational amplifier is}\n\\text{V = VOHS} \n\\text{ S = Seconds}",
     "options": [
       "\\text{V/S}",
       "\\text{V/mS}",
@@ -1887,7 +1887,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 4,
-    "fig": "04B-110-07.png"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-110-07-M03-Q144-FIG.PNG"
   },
   {
     "qno": 145,
@@ -1900,8 +1900,8 @@
       "\\text{2 mA}",
       "\\text{Answer not known}"
     ],
-    "ans": 3,
-    "fig": "04B-018-07.png"
+    "ans": 1,
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-018-07-M03-Q145-FIG.PNG"
   },
   {
     "qno": 146,
@@ -1915,7 +1915,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 2,
-    "fig": "05B-066-07.png"
+    "fig": ""
   },
   {
     "qno": 147,
@@ -1929,7 +1929,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 2,
-    "fig": "05B-103-07.png"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-103-07-M03-Q147-FIG.PNG"
   },
   {
     "qno": 148,
@@ -1943,7 +1943,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 3,
-    "fig": "06B-019-07.png"
+    "fig": ""
   },
   {
     "qno": 149,
@@ -1957,7 +1957,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 2,
-    "fig": "06B-061-07.png"
+    "fig": ""
   },
   {
     "qno": 150,
@@ -1971,7 +1971,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 1,
-    "fig": "06B-162-07.png"
+    "fig": ""
   },
   {
     "qno": 151,
@@ -2060,12 +2060,12 @@
   {
     "qno": 157,
     "qid": "02B-158-08",
-    "qdes": "\\text{If the load current and flux of a dc motor are held constant and voltage applied across its armature is increased by 10%, its speed will}",
+    "qdes": "\\text{If the load current and flux of a dc motor are held constant and voltage applied across its armature is increased by 10\\%, its speed will}",
     "options": [
-      "\\text{decrease by about 10%}",
+      "\\text{decrease by about 10\\%}",
       "\\text{remain unchanged}",
-      "\\text{increase by about 10%}",
-      "\\text{increase by about 20%}",
+      "\\text{increase by about 10\\%}",
+      "\\text{increase by about 20\\%}",
       "\\text{Answer not known}"
     ],
     "ans": 3,
@@ -2124,7 +2124,7 @@
       "\\text{Overflow flag}",
       "\\text{Answer not known}"
     ],
-    "ans": 4,
+    "ans": 3,
     "fig": ""
   },
   {
