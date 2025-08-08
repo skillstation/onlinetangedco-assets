@@ -1274,33 +1274,31 @@
   "fig": ""
 },
   {
-    "qno": 101,
-    "qid": "03B-023-05",
-    "qdes": "\\text{The superposition theorem is not applicable to circuits with}",
-    "options": [
-      "\\text{Non-linear elements}",
-      "\\text{Dependent voltage sources}",
-      "\\text{Dependent current sources}",
-      "\\text{DC sources}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 102,
-    "qid": "01B-046-05",
-    "qdes": "\\begin{array}{l}\\text{A 4 pole, 3 phase 50 Hz, star connected alternator has 60 slots, with 4 conductors per slot.} \\\\ \\text{Coils are short pitched by 3 slots. If the phase spread is 60}^\\circ\\text{, find the line voltage induced for a flux} \\\\ \\text{per pole of 0.943 WB distributed sinusoidally in space. All the turns per phase are in series,}\\end{array}",
-    "options": [
-      "\\text{13185 V}",
-      "\\text{15000 V}",
-      "\\text{440 V}",
-      "\\text{1250 V}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 4,
-    "fig": ""
-  },
+  "qno": 101,
+  "qdes": "\\text{At zero power factor lagging armature reaction in an alternator is}",
+  "options": [
+    "\\text{wholly demagnetising}",
+    "\\text{wholly magnetising}",
+    "\\text{cross magnetising}",
+    "\\text{not effective}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 102,
+  "qdes": "\\text{A 400 V, 10 KW, 4 Pole, 50 HZ Y connected induction motor has full load slip of 5\\%. The output torque of the machine at full load is}",
+  "options": [
+    "\\text{10 Nm}",
+    "\\text{77 Nm}",
+    "\\text{123 Nm}",
+    "\\text{67.05 Nm}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
   {
     "qno": 103,
     "qid": "03B-027-05",
@@ -1483,20 +1481,19 @@
     "ans": 4,
     "fig": ""
   },
-  {
-    "qno": 116,
-    "qid": "01B-145-06",
-    "qdes": "\\text{Arcing on transmission lines is prevented by connecting a suitable}",
-    "options": [
-      "\\text{Circuit breaker}",
-      "\\text{Protective relay}",
-      "\\text{Inductor in the neutral}",
-      "\\text{Capacitor in the neutral}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": "01B-145-06.png"
-  },
+{
+  "qno": 116,
+  "qdes": "\\text{If a generator of 250 MVA rating has an inertia constant of 6 MJ/MVA, its inertia constant on 100 MVA is}",
+  "options": [
+    "15 MJ/MVA",
+    "10.5 MJ/MVA",
+    "6 MJ/MVA",
+    "2.4 MJ/MVA",
+    "Answer not known"
+  ],
+  "ans": 1,
+  "fig": ""
+},
   {
     "qno": 117,
     "qid": "06B-156-06",
@@ -1705,7 +1702,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 3,
-    "fig": "04B-076-06.png"
+    "fig": ""
   },
   {
     "qno": 132,
@@ -2058,19 +2055,18 @@
     "fig": ""
   },
   {
-    "qno": 157,
-    "qid": "02B-158-08",
-    "qdes": "\\text{If the load current and flux of a dc motor are held constant and voltage applied across its armature is increased by 10\\%, its speed will}",
-    "options": [
-      "\\text{decrease by about 10\\%}",
-      "\\text{remain unchanged}",
-      "\\text{increase by about 10\\%}",
-      "\\text{increase by about 20\\%}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
+  "qno": 157,
+  "qdes": "\\text{If the load current and flux of a dc motor are held constant and voltage applied across its armature is increased by 10\\%, its speed will}",
+  "options": [
+    "decrease by about 10\\%",
+    "remain unchanged",
+    "increase by about 10\\%",
+    "increase by about 20\\%",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
   {
     "qno": 158,
     "qid": "02B-168-08",
@@ -2130,7 +2126,7 @@
   {
     "qno": 162,
     "qid": "03B-060-08",
-    "qdes": "\\text{The chopper used for ON-OFF control of a dc separately excited motor has supply voltage of 230Vdc, an on time of 10 msec and OFF time of 15 msec. The chopper duty cycle will be}",
+    "qdes": "\\begin{array}{l} \\text{The chopper used for ON-OFF control of a dc separately excited motor has supply voltage of 230Vdc,} \\\\ \\text{an on time of 10 msec and OFF time of 15 msec. The chopper duty cycle will be}\\end{array}",
     "options": [
       "\\text{0.6}",
       "\\text{0.4}",
@@ -2144,7 +2140,7 @@
   {
     "qno": 163,
     "qid": "03B-061-08",
-    "qdes": "\\text{For an inverter-fed induction motor drive, calculate the drop in speed from no-load to 1100 rpm. Assume the number of poles are 4 and its frequency is 40Hz.}",
+    "qdes": "\\begin{array}{l}\\text{For an inverter-fed induction motor drive, calculate the drop in speed from no-load to 1100 rpm.} \\\\ \\text{Assume the number of poles are 4 and its frequency is 40Hz.}\\end{array}",
     "options": [
       "\\text{1200 rpm}",
       "\\text{200 rpm}",
@@ -2172,7 +2168,7 @@
   {
     "qno": 165,
     "qid": "03B-063-08",
-    "qdes": "\\text{Consider the following statements switched mode power supply is preferred over the continuous type, because they are 1. Suitable for use in both AC and DC 2. More efficient 3. Suitable for low-power circuits 4. Suitable for high-power circuits of these statements}",
+    "qdes": "\\begin{array}{l}\\text{Consider the following statements switched mode power supply is preferred over the continuous type, because they are}\\\\ \\text{1. Suitable for use in both AC and DC} \\\\ \\text{2. More efficient} \\\\ \\text{3. Suitable for low-power circuits} \\\\ \\text{4. Suitable for high-power circuits of these statements}\\end{array}",
     "options": [
       "\\text{1 and 2 are correct}",
       "\\text{2 and 3 are correct}",
@@ -2183,19 +2179,17 @@
     "fig": ""
   },
   {
-    "qno": 166,
-    "qid": "06B-076-09",
-    "qdes": "\\text{The value of a resistor for which an R-S latch is a forbidden state is}",
-    "options": [
-      "\\text{High input at both S and R}",
-      "\\text{Low input at both S and R}",
-      "\\text{High input at S and low input at R}",
-      "\\text{Low input at S and high input at R}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
+  "qno": 166,
+  "qdes": "\\text{The assembler is}",
+  "options": [
+    "\\text{A compiler that translates statements from high-level language into assembly language}",
+    "\\text{A program that translates mnemonics into binary code}",
+    "\\text{An operating system that manages all the programs in the system}",
+    "\\text{A program that stores data}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
   {
     "qno": 167,
     "qid": "03B-160-09",
@@ -2210,34 +2204,31 @@
     "ans": 3,
     "fig": ""
   },
-  {
-    "qno": 168,
-    "qid": "05B-079-09",
-    "qdes": "\\text{A 100 kVA, 1000/100 V, 50 Hz, single phase transformer has 100 turns on the secondary winding. What is the value of flux?}",
-    "options": [
-      "\\text{1 Wb}",
-      "\\text{0.1 Wb}",
-      "\\text{0.01 Wb}",
-      "\\text{10 Wb}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 169,
-    "qid": "04B-157-09",
-    "qdes": "\\text{Determine the phase of the system G(s) = }\\frac{1}{s(s+1)}\\text{ at }\\omega = 1\\text{ rad/sec}",
-    "options": [
-      "\\text{-135}^\\circ",
-      "\\text{-90}^\\circ",
-      "\\text{-45}^\\circ",
-      "\\text{-180}^\\circ",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
+ {
+  "qno": 168,
+  "qdes": "\\text{The instruction IMUL DH in 8086 results in}",
+  "options": [
+    "\\text{AL multiplied by DH and the unsigned product is in AX}",
+    "\\text{AL multiplied by DH and the signed product is in AX}",
+    "\\text{AL multiplied by DH and the unsigned product is in AL}",
+    "\\text{AL multiplied by DH and the unsigned product is in AH}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 169,
+  "qdes": "\\text{Which the following statements are \\underline{True} in 8085 microprocessor?}",
+  "options": [
+    "\\text{(i) only}",
+    "\\text{(i) and (ii)}",
+    "\\text{(ii) and (iii)}",
+    "\\text{(iii) only}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
   {
     "qno": 170,
     "qid": "01B-108-09",
@@ -2253,19 +2244,17 @@
     "fig": ""
   },
   {
-    "qno": 171,
-    "qid": "05B-177-09",
-    "qdes": "\\text{The rotor of a 3-phase, 50 Hz, 4-pole slip ring induction motor is wound with a 3-phase winding and has a star-connected rotor. The rotor has a resistance of 0.25 ohm per phase and inductance of 2 mH per phase. The current in the rotor is 15 A. Calculate the speed of the motor for maximum torque.}",
-    "options": [
-      "\\text{1200 rpm}",
-      "\\text{1440 rpm}",
-      "\\text{1500 rpm}",
-      "\\text{900 rpm}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
+  "qno": 171,
+  "qdes": "\\text{The result of the instruction NEGCH in 8086 results in}",
+  "options": [
+    "\\text{CH one's complemented}",
+    "\\text{CH two's complemented}",
+    "\\text{CH nine's complemented}",
+    "\\text{CH ten's complemented}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
   {
     "qno": 172,
     "qid": "02B-079-09",
@@ -2278,22 +2267,20 @@
       "\\text{Answer not known}"
     ],
     "ans": 2,
-    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/02B-079-09.png"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/02B-079-09-M03-Q172-FIG.PNG"
   },
-  {
-    "qno": 173,
-    "qid": "06B-088-09",
-    "qdes": "\\text{What is the equivalent inductance of the circuit shown in the figure?}",
-    "options": [
-      "\\text{1 H}",
-      "\\text{2 H}",
-      "\\text{3 H}",
-      "\\text{4 H}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-088-09.png"
-  },
+{
+  "qno": 173,
+  "qdes": "\\text{A stack pointer is}",
+  "options": [
+    "\\text{A 16-bit register in the microprocessor that indicates the beginning of the stack memory}",
+    "\\text{A register that decodes and executes 16-bit arithmetic expressions}",
+    "\\text{The first memory location where a subroutine address is stored}",
+    "\\text{A register in which flag bits are stored}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
   {
     "qno": 174,
     "qid": "01B-114-09",
@@ -2336,24 +2323,22 @@
     "ans": 2,
     "fig": ""
   },
-  {
-    "qno": 177,
-    "qid": "05B-190-10",
-    "qdes": "\\text{A communication system uses a transmission link with a bandwidth of 10 kHz. Determine the maximum data rate if the SNR is 20 dB.}",
-    "options": [
-      "\\text{66.4 kbps}",
-      "\\text{40.2 kbps}",
-      "\\text{80.4 kbps}",
-      "\\text{20.2 kbps}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
+{
+  "qno": 177,
+  "qdes": "\\text{Super capacitor is a}",
+  "options": [
+    "\\text{Generator}",
+    "\\text{Battery alone}",
+    "\\text{Hybrid of capacitor and a battery}",
+    "\\text{Motor}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
   {
     "qno": 178,
     "qid": "03B-112-10",
-    "qdes": "\\text{At Nagpur, the following observations were made. Theoretical maximum possible sunshine hours = 9.5 h, average measured length of a day during April = 9.0 h, Solar Radiation for a clear day, }H_0 = 2100 \\text{ kJ/m}^2\\text{/day. Constant a = 0.27, b = 0.50 The average daily global radiation will be :}",
+    "qdes": "\\begin{array}{l}\\text{At Nagpur, the following observations were made. Theoretical maximum possible sunshine hours = 9.5 h,} \\\\ \\text{average measured length of a day during April = 9.0 h, Solar Radiation for a clear day, }H_0 = 2100 \\text{ kJ/m}^2\\text{/day.} \\\\ \\text {Constant a = 0.27, b = 0.50} \\\\ \\text {The average daily global radiation will be :}\\end{array}",
     "options": [
       "\\text{1554 kJ/m}^2\\text{/day}",
       "\\text{1695 kJ/m}^2\\text{/day}",
@@ -2379,296 +2364,270 @@
     "fig": ""
   },
   {
-    "qno": 180,
-    "qid": "01B-009-10",
-    "qdes": "\\text{The output of a solar cell is typically}",
-    "options": [
-      "\\text{0.5 V to 1 V}",
-      "\\text{2.5 V to 5 V}",
-      "\\text{1 V to 2 V}",
-      "\\text{0.2 V to 0.5 V}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
+  "qno": 180,
+  "qdes": "\\text{Power in wind is}",
+  "options": [
+    "\\text{Directly proportional to cube of wind velocity}",
+    "\\text{Inversely proportional to cube of wind velocity}",
+    "\\text{Directly proportional to square of wind velocity}",
+    "\\text{Directly proportional to wind velocity}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 181,
+  "qdes": "\\text{Based on the wind energy generator the ratio of average power output of a turbine during a month or a year to the rated power output is called}",
+  "options": [
+    "\\text{Capacity factor}",
+    "\\text{Capacity utilisation factor}",
+    "\\text{Weibull factor}",
+    "\\text{Utilisation factor}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 182,
+  "qdes": "\\text{The voltage factor for a typical silicon cell is}",
+  "options": [
+    "\\text{0.4}",
+    "\\text{0.5}",
+    "\\text{0.6}",
+    "\\text{0.7}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
   {
-    "qno": 181,
-    "qid": "03B-003-10",
-    "qdes": "\\text{A three phase fully controlled rectifier is connected to a 400V, 50 Hz ac supply. If the delay angle is 45}^\\circ\\text{, then the average output voltage is}",
-    "options": [
-      "\\text{346.5 V}",
-      "\\text{435.5 V}",
-      "\\text{285 V}",
-      "\\text{387 V}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
+  "qno": 183,
+  "qdes": "\\text{Lignite, bituminous and anthracite are different ranks of}",
+  "options": [
+    "\\text{Nuclear fuel}",
+    "\\text{Coal}",
+    "\\text{Biogas}",
+    "\\text{Natural gas}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 184,
+  "qdes": "\\text{As compared to a lead-acid cell, the efficiency of a nickel-iron cell is less due to its}",
+  "options": [
+    "\\text{Compactness}",
+    "\\text{Higher Internal Resistance}",
+    "\\text{Lower e.m.f.}",
+    "\\text{Smaller quantity of electrolytes used}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 185,
+  "qdes": "\\text{The output voltage } V_o \\text{ of a buck converter is related to the duty cycle } D \\text{ as}",
+  "options": [
+    "V_o = V_{in} \\times D^2",
+    "V_o = V_{in} \\times D",
+    "V_o = V_{in} / D",
+    "V_o = V_{in} / D^2"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 186,
+  "qdes": "\\text{Consider the following drawbacks: 1. Slope over load noise 2. Serration noise 3. Granular noise 4. Quantization noise Which of these drawbacks does Delta modulation have?}",
+  "options": [
+    "\\text{1 and 2}",
+    "\\text{1 and 4}",
+    "\\text{1 and 3}",
+    "\\text{2 and 4}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+{
+  "qno": 187,
+  "qdes": "\\text{A grid-interactive solar system}",
+  "options": [
+    "\\text{Always supplies power to the grid}",
+    "\\text{Always receives power from the grid}",
+    "\\text{Supplies and receives power from grid as required}",
+    "\\text{Works only when grid fails}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+{
+  "qno": 188,
+  "qdes": "\\text{The operating coil of A 250 V moving iron voltmeter has a resistance of 500 $\\Omega$ and an inductance of 1 H. The series resistance is 2000 $\\Omega$. The instruments reads correctly when a direct voltage of 250 V is applied. What will it read when 250 V at 50 Hz is applied?}",
+  "options": [
+    "\\text{300 V}",
+    "\\text{248 V}",
+    "\\text{358 V}",
+    "\\text{200 V}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 189,
+  "qdes": "\\text{The capacity of a cell (Battery) is measured in}",
+  "options": [
+    "\\text{Amperes}",
+    "\\text{Ampere - hours}",
+    "\\text{Watts}",
+    "\\text{Watt - hours}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 190,
+  "qdes": "\\text{A generating station has maximum demand of 10,000 KW and the daily load on the station is as follows}",
+  "options": [
+    "\\text{48%}",
+    "\\text{50%}",
+    "\\text{55%}",
+    "\\text{58%}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+{
+  "qno": 191,
+  "qdes": "\\text{Induction generator used in wind mills}",
+  "options": [
+    "\\text{cannot work in isolation}",
+    "\\text{can work in isolation}",
+    "\\text{should work in parallel with synchronous generators}",
+    "\\text{should work without synchronous generators}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+},
+{
+  "qno": 192,
+  "qdes": "\\text{Power Extracted by the turbine of a wind energy conversion system is directly proportion to (V-velocity of the wind)}",
+  "options": [
+    "\\text{V}^2",
+    "\\text{V}^3",
+    "\\text{V}^{\\frac{1}{2}}",
+    "\\text{V}^{\\frac{1}{3}}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 193,
+  "qdes": "\\text{Trickle charging of a storage battery helps to}",
+  "options": [
+    "\\text{Maintain proper electrolyte level}",
+    "\\text{Increase its reserve capacity}",
+    "\\text{Prevent sulphation}",
+    "\\text{Keep it fresh and fully charged}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+{
+  "qno": 194,
+  "qdes": "\\text{The typical value of the fill factor for a good silicon cell}",
+  "options": [
+    "\\text{1}",
+    "\\text{0.8}",
+    "\\text{0.6}",
+    "\\text{0.5}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 195,
+  "qdes": "\\text{The induced emf in a dc machine when running at 500 rpm. is 180 V. What is the value of induced emf while the machine is running at 600 rpm by assuming flux to be constant}",
+  "options": [
+    "\\text{230 V}",
+    "\\text{216 V}",
+    "\\text{242 V}",
+    "\\text{208 V}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 196,
+  "qdes": "\\text{Wind energy is harnessed by using}",
+  "options": [
+    "\\text{Electron generator}",
+    "\\text{Turbine generator}",
+    "\\text{Vapor generator}",
+    "\\text{Steam generator}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 197,
+  "qdes": "\\text{What is the maximum operating frequency of 8085 microprocessor?}",
+  "options": [
+    "3\\ \\text{MHz}",
+    "14\\ \\text{MHz}",
+    "15\\ \\text{MHz}",
+    "6\\ \\text{MHz}",
+    "Answer not known"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 198,
+  "qdes": "\\text{The main consistent of LPG is}",
+  "options": [
+    "\\text{Methane}",
+    "\\text{Butane}",
+    "\\text{Hydrogen}",
+    "\\text{Nitrogen}"
+  ],
+  "ans": 2,
+  "fig": ""
+}
+,
   {
-    "qno": 182,
-    "qid": "05B-198-10",
-    "qdes": "\\text{A low pass filter with a cutoff frequency of 5 kHz is used to obtain a flat frequency response up to 5 kHz. Determine the required sampling rate for analog signal to digital signal conversion. Assume a guard band of 20% of the cut off frequency is used to eliminate aliasing.}",
-    "options": [
-      "\\text{6 kHz}",
-      "\\text{10 kHz}",
-      "\\text{12 kHz}",
-      "\\text{8 kHz}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
+  "qno": 199,
+  "qdes": "\\text{Five cells, each with an emf of 2 V and Internal resistance of 0.5} \\Omega \\text{are connected in series. The resulting battery will have}",
+  "options": [
+    "E = 2\\,V\\ ;\\ R_{in} = 0.5\\,\\Omega",
+    "E = 10\\,V\\ ;\\ R_{in} = 2.5\\,\\Omega",
+    "E = 2\\,V\\ ;\\ R_{in} = 0.1\\,\\Omega",
+    "E = 10\\,V\\ ;\\ R_{in} = 0.1\\,\\Omega"
+  ],
+  "ans": 2,
+  "fig": ""
+}
+,
   {
-    "qno": 183,
-    "qid": "06B-189-10",
-    "qdes": "\\text{A series RLC circuit has a quality factor of 50 and it's resonant frequency is 200 rad/sec. The bandwidth of the circuit is}",
-    "options": [
-      "\\text{4 rad/sec}",
-      "\\text{10000 rad/sec}",
-      "\\text{0.25 rad/sec}",
-      "\\text{250 rad/sec}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 184,
-    "qid": "04B-101-10",
-    "qdes": "\\text{The output of a solar cell is typically}",
-    "options": [
-      "\\text{0.5 V to 1 V}",
-      "\\text{2.5 V to 5 V}",
-      "\\text{1 V to 2 V}",
-      "\\text{0.2 V to 0.5 V}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 185,
-    "qid": "06B-093-10",
-    "qdes": "\\text{The main component of a Solar PV System is}",
-    "options": [
-      "\\text{Solar Cell}",
-      "\\text{Wind Mill}",
-      "\\text{Diode}",
-      "\\text{Transistor}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 186,
-    "qid": "05B-086-10",
-    "qdes": "\\text{In a single-phase half-bridge inverter, the output frequency is 50 Hz. What is the value of the conducting angle?}",
-    "options": [
-      "\\text{45}^\\circ",
-      "\\text{90}^\\circ",
-      "\\text{180}^\\circ",
-      "\\text{360}^\\circ",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 187,
-    "qid": "04B-008-10",
-    "qdes": "\\text{In a half-wave rectifier, the AC input voltage is 50V(rms). Determine the average DC voltage.}",
-    "options": [
-      "\\text{22.5 V}",
-      "\\text{20.5 V}",
-      "\\text{32.5 V}",
-      "\\text{12.5 V}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 188,
-    "qid": "02B-140-10",
-    "qdes": "\\text{In a DC machine, an electrical degree is equal to the mechanical degree when}",
-    "options": [
-      "\\text{P = 4}",
-      "\\text{P = 2}",
-      "\\text{P = 6}",
-      "\\text{P = 8}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 189,
-    "qid": "01B-001-10",
-    "qdes": "\\text{The main source of renewable energy is}",
-    "options": [
-      "\\text{Solar}",
-      "\\text{Nuclear}",
-      "\\text{Wind}",
-      "\\text{Hydro}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 190,
-    "qid": "02B-060-10",
-    "qdes": "\\text{The unit of energy is}",
-    "options": [
-      "\\text{kVA}",
-      "\\text{kW}",
-      "\\text{kWh}",
-      "\\text{kVAR}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 191,
-    "qid": "04B-105-10",
-    "qdes": "\\text{A three phase half wave diode rectifier, the output frequency is 50 Hz. Determine the ripple frequency.}",
-    "options": [
-      "\\text{50 Hz}",
-      "\\text{100 Hz}",
-      "\\text{150 Hz}",
-      "\\text{300 Hz}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 192,
-    "qid": "03B-110-10",
-    "qdes": "\\text{A three phase half wave diode rectifier, the output frequency is 50 Hz. Determine the ripple frequency.}",
-    "options": [
-      "\\text{50 Hz}",
-      "\\text{100 Hz}",
-      "\\text{150 Hz}",
-      "\\text{300 Hz}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 193,
-    "qid": "05B-091-10",
-    "qdes": "\\text{The number of data and address lines in 8085 Microprocessor are}",
-    "options": [
-      "\\text{8, 16}",
-      "\\text{8, 8}",
-      "\\text{16, 8}",
-      "\\text{16, 16}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 194,
-    "qid": "06B-199-10",
-    "qdes": "\\text{The principle of operation of a LVDT is}",
-    "options": [
-      "\\text{Self inductance}",
-      "\\text{Mutual inductance}",
-      "\\text{Self and Mutual inductance}",
-      "\\text{None of the above}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 195,
-    "qid": "02B-160-10",
-    "qdes": "\\text{The transfer function of a first order low pass filter with a time constant of 5 seconds is}",
-    "options": [
-      "\\text{5s + 1}",
-      "\\frac{1}{5s+1}",
-      "\\frac{s}{5s+1}",
-      "\\frac{1}{s+1}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2,
-    "fig": ""
-  },
-  {
-    "qno": 196,
-    "qid": "03B-004-10",
-    "qdes": "\\text{An inverter has a constant DC input voltage. What is the value of the output RMS voltage of a single-phase full-bridge inverter?}",
-    "options": [
-      "\\frac{V_{dc}}{2}",
-      "\\text{2}V_{dc}",
-      "\\text{0}",
-      "V_{dc}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 4,
-    "fig": ""
-  },
-  {
-    "qno": 197,
-    "qid": "02B-200-10",
-    "qdes": "\\text{When a high-frequency AC signal is passed through a parallel RLC circuit, the circuit acts as a/an}",
-    "options": [
-      "\\text{Resistor}",
-      "\\text{Inductor}",
-      "\\text{Capacitor}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 198,
-    "qid": "06B-095-10",
-    "qdes": "\\text{Solar cell operates in the principal of}",
-    "options": [
-      "\\text{Photo voltaic effect}",
-      "\\text{Thermal energy}",
-      "\\text{Photo conducting effect}",
-      "\\text{Solar radiation}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  },
-  {
-    "qno": 199,
-    "qid": "05B-186-10",
-    "qdes": "\\text{Which of the following is not a communication medium?}",
-    "options": [
-      "\\text{Coaxial cable}",
-      "\\text{Twisted pair cable}",
-      "\\text{Modem}",
-      "\\text{Fibre optic cable}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3,
-    "fig": ""
-  },
-  {
-    "qno": 200,
-    "qid": "04B-103-10",
-    "qdes": "\\text{The transfer function of a unity feedback system is }\\frac{20}{s(s+1)+20}\\text{. The type of the system is}",
-    "options": [
-      "\\text{Type 0}",
-      "\\text{Type 1}",
-      "\\text{Type 2}",
-      "\\text{Type 3}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1,
-    "fig": ""
-  }
+  "qno": 200,
+  "qdes": "\\text{Darriens rotor is associated with}",
+  "options": [
+    "\\text{Tidal energy}",
+    "\\text{Nuclear energy}",
+    "\\text{Vertical axis wind turbine}",
+    "\\text{Horizontal axis wind turbine}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 3,
+  "fig": ""
+}
 ]
