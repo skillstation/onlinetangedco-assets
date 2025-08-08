@@ -98,7 +98,7 @@
       "\\dfrac{2RC}{3}"
     ],
     "ans": 4,
-    "fig": ""
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-104-01-M03-Q8-FIG.PNG"
   },
   {
     "qno": 9,
@@ -461,7 +461,7 @@
   },
   {
     "qno": 37,
-    "qdes": "\\text{Verify whether the vector field } \\vec{E} = YZ\\,\\vec{a}_x + XZ\\,\\vec{a}_y + XY\\,\\vec{a}_z \\text{ is both solenoidal and irrotational?} \n\\text{Assertion [A] : Solenoidal and irrotational.} \n\\text{Reason [R] : } \\nabla \\cdot \\vec{E} = 0 \\text{ and } \\nabla \\times \\vec{E} = 0.",
+    "qdes": "\\begin{array}{l} \\text{Verify whether the vector field } \\vec{E} = YZ\\,\\vec{a}_x + XZ\\,\\vec{a}_y + XY\\,\\vec{a}_z \\text{ is both solenoidal and irrotational?} \\\\ \\text{Assertion [A] : Solenoidal and irrotational.} \\\\ \\text{Reason [R] : } \\nabla \\cdot \\vec{E} = 0 \\text{ and } \\nabla \\times \\vec{E} = 0.\\end{array}",
     "options": [
       "[A] \\text{ is true but [R] is false}",
       "\\text{Both [A] and [R] are true; and [R] is the correct explanation}",
@@ -486,7 +486,7 @@
   },
   {
     "qno": 39,
-    "qdes": "\\text{If an amplifier with open loop gain of } 10^4 \\text{ and feedback factor } \\beta = 0.1 \\text{ has lower 3 dB frequency 100 Hz and upper 3 dB frequency as 1 KHz. Find the lower 3 dB frequency in the presence of feedback}",
+    "qdes": "\\begin{array}{l} \\text{If an amplifier with open loop gain of } 10^4 \\text{ and feedback factor } \\beta = 0.1 \\\\ \\text{has lower 3 dB frequency 100 Hz and upper 3 dB frequency as 1 KHz.} \\\\ \\text{Find the lower 3 dB frequency in the presence of feedback}\\end{array}",
     "options": [
       "0.1\\ \\text{Hz}",
       "100\\ \\text{Hz}",
@@ -603,12 +603,13 @@
   },
   {
     "qno": 48,
-    "qdes": "Moving iron instruments are",
+    "qdes": "\\text{Moving iron instruments are}",
     "options": [
       "\\text{Attraction type}",
       "\\text{Repulsion type}",
       "\\text{Attraction and repulsion type}",
-      "\\text{Dynamometer type}"
+      "\\text{Dynamometer type}",
+      "\\text{Answer not known}"
     ],
     "ans": 2,
     "fig": ""
@@ -738,7 +739,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 1,
-    "fig": ""
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-080-03-M03-Q58-FIG.PNG"
   },
   {
     "qno": 59,
@@ -768,7 +769,7 @@
   },
   {
     "qno": 61,
-    "qdes": "\\begin{array}{l}\\text{A basic D'Arsonval movement with a full scale deflection of 50} \\mu A \\text{ and internal resistance of 500} \\Omega  \\text{ is used as a volt meter.} \\\\ \\text{ Determine the value of multiplier resistor to measure a voltage range of 0-10 V.} \\end{array}}",
+    "qdes": "\\text{A basic D'Arsonval movement with a full scale deflection of 50 } \\mu A \\text{ and internal resistance of 500 } \\Omega \\text{ is used as a volt meter. Determine the value of multiplier resistor to measure a voltage range of 0-10 V.}",
     "options": [
       "\\text{2.5 K Ohms}",
       "\\text{199.5 k}\\Omega",
@@ -974,10 +975,10 @@
     "qno": 77,
     "qdes": "\\text{The steady state error for the system below to unit step input is}",
     "options": [
-      "25%",
-      "0.75%",
-      "6%",
-      "33%"
+      "25\\%",
+      "0.75\\%",
+      "6\\%",
+      "33\\%"
     ],
     "ans": 0,
     "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-032-04-M03-Q77-FIG.PNG"
@@ -1021,16 +1022,16 @@
     "ans": 0,
     "fig": ""
   },
-  {
+{
   "qno": 81,
-  "qdes": "\\text{Moving iron instruments are}",
+  "qdes": "\\text{Which three phase connection can be used in a transformer to introduce a phase difference of 30$\\degree$ between its output and corresponding input line voltages?}",
   "options": [
-    "\\text{Attraction type}",
-    "\\text{Repulsion type}",
-    "\\text{Attraction and repulsion type}",
-    "\\text{Dynamometer type}"
+    "\\text{Star-Delta}",
+    "\\text{Star-Star}",
+    "\\text{Delta-Delta}",
+    "\\text{Delta-Zigzag}"
   ],
-  "ans": 2,
+  "ans": 1,
   "fig": ""
 },
   {
