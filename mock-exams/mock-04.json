@@ -14,7 +14,7 @@
 },
 {
   "qno": 2,
-  "qdes": "\\text{Mesh analysis is applicable only for the network which are } \\_------\\text{ in nature}",
+  "qdes": "\\text{Mesh analysis is applicable only for the network which are } --------\\text{ in nature}",
   "options": [
     "\\text{Polar}",
     "\\text{Planer}",
@@ -35,8 +35,8 @@
     "\\text{Square wave with a magnitude +12 V to - 12 V}",
     "\\text{Answer not known}"
   ],
-  "ans": 2,
-  "fig": "image_772281.jpg"
+  "ans": 1,
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/03B-018-01-M04-Q03-FIG.png"
 },
 {
   "qno": 4,
@@ -62,11 +62,11 @@
     "\\text{Answer not known}"
   ],
   "ans": 1,
-  "fig": "image_773089.jpg"
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-003-01-M04-Q05-FIG.PNG"
 },
 {
   "qno": 6,
-  "qdes": "\\text{Calculate the power dissipation in 3} \\omega \\text{ resistor}",
+  "qdes": "\\text{Calculate the power dissipation in 3} \\Omega \\text{ resistor}",
   "options": [
     "1.33 \\text{ W}",
     "5.33 \\text{ W}",
@@ -75,16 +75,16 @@
     "\\text{Answer not known}"
   ],
   "ans": 2,
-  "fig": "image_778761.png"
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-007-01-M04-Q06-FIG.PNG"
 },
 {
   "qno": 7,
-  "qdes": "\\text{A star connected network consists of three resistances 10 } \\omega\\text{, 10} \\omega\\text{ and 5 } \\omega\\text{. Convert the star-connected network to equivalent delta-connected network.}",
+  "qdes": "\\text{A star connected network consists of three resistances 10 } \\Omega\\text{, 10} \\Omega\\text{ and 5 } \\Omega\\text{. Convert the star-connected network to equivalent delta-connected network.}",
   "options": [
-    "40 \\omega\\text{, 20 } \\omega\\text{, 20 } \\omega",
-    "40 \\omega\\text{, 15 } \\omega\\text{, 15 } \\omega",
-    "15 \\omega\\text{, 40 } \\omega\\text{, 15 } \\omega",
-    "10 \\omega\\text{, 15 } \\omega\\text{, 15 } \\omega",
+    "40 \\Omega\\text{, 20 } \\Omega\\text{, 20 } \\Omega",
+    "40 \\Omega\\text{, 15 } \\Omega\\text{, 15 } \\Omega",
+    "15 \\Omega\\text{, 40 } \\Omega\\text{, 15 } \\Omega",
+    "10 \\Omega\\text{, 15 } \\Omega\\text{, 15 } \\Omega",
     "\\text{Answer not known}"
   ],
   "ans": 1,
@@ -120,14 +120,14 @@
   "qno": 10,
   "qdes": "\\text{Find the Z-parameters for the network shown in fig.}",
   "options": [
-    "Z_{11} = 15 \\text{ K} \\omega\\text{, } Z_{12} = 17 \\text{ K} \\omega\\text{, } Z_{21} = 17 \\text{ K} \\omega\\text{, } Z_{22} = 12 \\text{ K} \\omega",
-    "Z_{11} = 17 \\text{ K} \\omega\\text{, } Z_{12} = 12 \\text{ K} \\omega\\text{, } Z_{21} = 12 \\text{ K} \\omega\\text{, } Z_{22} = 15 \\text{ K} \\omega",
-    "Z_{11} = 17 \\text{ K} \\omega\\text{, } Z_{12} = 15 \\text{ K} \\omega\\text{, } Z_{21} = 12 \\text{ K} \\omega\\text{, } Z_{22} = 15 \\text{ K} \\omega",
-    "Z_{11} = 15 \\text{ K} \\omega\\text{, } Z_{12} = 17 \\text{ K} \\omega\\text{, } Z_{21} = 17 \\text{ K} \\omega\\text{, } Z_{22} = 15 \\text{ K} \\omega",
+    "Z_{11} = 15 \\text{ K} \\Omega\\text{, } Z_{12} = 17 \\text{ K} \\Omega\\text{, } Z_{21} = 17 \\text{ K} \\Omega\\text{, } Z_{22} = 12 \\text{ K} \\Omega",
+    "Z_{11} = 17 \\text{ K} \\Omega\\text{, } Z_{12} = 12 \\text{ K} \\Omega\\text{, } Z_{21} = 12 \\text{ K} \\Omega\\text{, } Z_{22} = 15 \\text{ K} \\Omega",
+    "Z_{11} = 17 \\text{ K} \\Omega\\text{, } Z_{12} = 15 \\text{ K} \\Omega\\text{, } Z_{21} = 12 \\text{ K} \\Omega\\text{, } Z_{22} = 15 \\text{ K} \\Omega",
+    "Z_{11} = 15 \\text{ K} \\Omega\\text{, } Z_{12} = 17 \\text{ K} \\Omega\\text{, } Z_{21} = 17 \\text{ K} \\Omega\\text{, } Z_{22} = 15 \\text{ K} \\Omega",
     "\\text{Answer not known}"
   ],
   "ans": 2,
-  "fig": "image_7799a5.png"
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-184-01-M04-Q10-FIG.PNG"
 },
 {
   "qno": 11,
@@ -179,7 +179,7 @@
     "\\text{Answer not known}"
   ],
   "ans": 2,
-  "fig": "image_77a5c6.jpg"
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/03B-046-01-M04-Q14-FIG.PNG"
 },
 {
     "qno": 15,
@@ -195,7 +195,7 @@
 },
 {
   "qno": 16,
-  "qdes": "\\text{Two coils X of 1000 turns and Y of 2000 turns are placed such that 60 \\% of the flux produced by coil X links coil Y. A current 1 A in coil X produces 0.1 MWb flux. The mutual inductance between the coil is}",
+  "qdes": "\\begin{array}{l} \\text{Two coils X of 1000 turns and Y of 2000 turns are placed such that 60 \\% of the flux produced by coil X links coil Y.}  \\\\ \\text{A current 1 A in coil X produces 0.1 MWb flux. The mutual inductance between the coil is}\\end{array}",
   "options": [
     "0.12 \\text{ H}",
     "0.08 \\text{ H}",
@@ -210,14 +210,14 @@
   "qno": 17,
   "qdes": "\\text{The Thevenin's equivalent circuit resistance } R_\\text{th} \\text{ for the given network is}",
   "options": [
-    "1 \\omega",
-    "2 \\omega",
-    "4 \\omega",
+    "1 \\Omega",
+    "2 \\Omega",
+    "4 \\Omega",
     "\\text{Infinity}",
     "\\text{Answer not known}"
   ],
   "ans": 2,
-  "fig": "image_7802ff.png"
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-003-01-M04-Q17-FIG.PNG"
 },
 {
   "qno": 18,
@@ -230,7 +230,7 @@
     "\\text{Answer not known}"
   ],
   "ans": 3,
-  "fig": "image_780665.png"
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-101-01-M04-Q18-FIG.PNG"
 },
 {
   "qno": 19,
@@ -243,7 +243,7 @@
     "\\text{Answer not known}"
   ],
   "ans": 2,
-  "fig": "image_78075a.png"
+  "fig": ""
 },
 {
   "qno": 20,
@@ -269,20 +269,20 @@
     "\\text{Answer not known}"
   ],
   "ans": 1,
-  "fig": "image_780ebb.png"
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-196-01-M04-Q21-FIG.PNG"
 },
 {
     "qno": 22,
     "qdes": "\\text{The input and output impedance of the two port network shown in the figure respectively}",
     "options": [
-      "4 \\omega\\text{, 3} \\omega",
-      "4 \\omega\\text{, 2} \\omega",
-      "3 \\omega\\text{, 2} \\omega",
-      "2 \\omega\\text{, 1} \\omega",
+      "4 \\Omega\\text{, 3} \\Omega",
+      "4 \\Omega\\text{, 2} \\Omega",
+      "3 \\Omega\\text{, 2} \\Omega",
+      "2 \\Omega\\text{, 1} \\Omega",
       "\\text{Answer not known}"
     ],
     "ans": 1,
-    "fig": "image_78125e.png"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-193-01-M04-Q22-FIG.PNG"
 },
 {
     "qno": 23,
@@ -308,7 +308,7 @@
         "\\text{Answer not known}"
     ],
     "ans": 3,
-    "fig": ""
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-103-01-M04-Q24-FIG.PNG"
 },
 {
     "qno": 25,
@@ -321,7 +321,7 @@
         "\\text{Answer not known}"
     ],
     "ans": 4,
-    "fig": "image_79607c.png"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/02B-091-01-M04-Q25-FIG.PNG"
 },
 {
     "qno": 26,
@@ -364,7 +364,7 @@
 },
 {
     "qno": 29,
-    "qdes": "\\text{A parallel plate capacitor has an area of 0.8 }\\text{m}^2\\text{. Separation of 0.1 mm with a dielectric for which }\\varepsilon_v = 1000\\text{ and a field of }10^6\\text{ V/m. Determine the capacitance of the parallel plate}",
+    "qdes": "\\begin{array}{l} \\text{A parallel plate capacitor has an area of 0.8 }\\text{m}^2\\text{. Separation of 0.1 mm with a dielectric} \\\\ \\text{for which }\\varepsilon_v = 1000\\text{ and a field of }10^6\\text{ V/m. Determine the capacitance of the parallel plate}\\end{array}",
     "options": [
         "60.59 \\mu\\text{F}",
         "65.13 \\mu\\text{F}",
@@ -416,7 +416,7 @@
 },
 {
     "qno": 33,
-    "qdes": "\\text{A parallel plate capacitor with two dielectric material is shown in the figure. If the potential difference between one of the plate and nearest surface of dielectric is 2V, then the ratio of }\\varepsilon_1 : \\varepsilon_2 \\text{ is}",
+    "qdes": "\\begin{array}{l} \\text{A parallel plate capacitor with two dielectric material is shown in the figure.} \\\\ \\text{If the potential difference between one of the plate and nearest surface of dielectric is 2V, then the ratio of }\\varepsilon_1 : \\varepsilon_2 \\text{ is}\\end{array}",
     "options": [
         "1 : 4",
         "2 : 3",
@@ -425,7 +425,7 @@
         "\\text{Answer not known}"
     ],
     "ans": 3,
-    "fig": "image_7a4d14.png"
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-015-02-M04-Q33-FIG.PNG"
 },
 {
     "qno": 34,
@@ -483,10 +483,10 @@
     "qno": 38,
     "qdes": "\\text{Intrinsic impedance of free space}",
     "options": [
-        "75 \\omega",
-        "73 \\omega",
-        "300 \\omega",
-        "377 \\omega",
+        "75 \\Omega",
+        "73 \\Omega",
+        "300 \\Omega",
+        "377 \\Omega",
         "\\text{Answer not known}"
     ],
     "ans": 4,
@@ -497,9 +497,9 @@
     "qdes": "\\text{For a perfect conductor, the field strength at a distance equal to the skin depth is X\\% of the field strength at its surface. The value of X\\% is}",
     "options": [
         "\\text{Zero}",
-        "50%",
-        "36%",
-        "26%",
+        "50\\%",
+        "36\\%",
+        "26\\%",
         "\\text{Answer not known}"
     ],
     "ans": 3,
@@ -559,7 +559,7 @@
 },
 {
     "qno": 44,
-    "qdes": "\\text{A 3}\\phi\\text{, 400 V, 50 Hz, 6 pole, star connected round rotor synchronous motor speed is lowered by keeping V/f constant and maintaining unity power factor. For the motor operation at 600 rpm the supply voltage will be}",
+    "qdes": "\\begin{array}{l} \\text{A 3}\\phi\\text{, 400 V, 50 Hz, 6 pole, star connected round rotor synchronous motor speed is lowered } \\\\ \\text{by keeping V/f constant and maintaining unity power factor. For the motor operation at 600 rpm the supply voltage will be}\\end{array}",
     "options": [
         "240 V",
         "400 V",
@@ -611,7 +611,7 @@
 },
 {
     "qno": 48,
-    "qdes": "\\text{The gap of tape recorder is 7 }\\mu\\text{m. Determine the speed of the tape so as to have satisfactory response at 40000 Hz. Assume the wavelength of the recorded signal is 3 times greater than the gap of recorder.}",
+    "qdes": "\\begin{array}{l} \\text{The gap of tape recorder is 7 }\\mu\\text{m. Determine the speed of the tape so as to have satisfactory response at 40000 Hz.} \\\\ \\text {Assume the wavelength of the recorded signal is 3 times greater than the gap of recorder.}\\end{array}",
     "options": [
         "2.8 m/sec",
         "5.75 m/sec",
@@ -624,7 +624,7 @@
 },
 {
     "qno": 49,
-    "qdes": "\\text{In a wheat stone bridge } R_1 = 50 \\omega, R_2 = 65 \\omega, R_3 = 100 \\omega \\text{ and } R_x \\text{ is unknown resistance when the Galvanometer indicates zero. If } R_3 \\text{ is having } \\pm 5\\% \\text{ tolerance on its nominal value, the range of } R_x \\text{ are}",
+    "qdes": "\\begin{array}{l} \\text{In a wheat stone bridge } R_1 = 50 \\Omega, R_2 = 65 \\Omega, R_3 = 100 \\Omega \\text{ and } R_x \\text{ is unknown resistance }  \\\\ \\text {when the Galvanometer indicates zero. If } R_3 \\text{ is having } \\pm 5\\% \\text{ tolerance on its nominal value, the range of } R_x \\text{ are}\\end{array}",
     "options": [
         "117, 143",
         "120, 140",
@@ -633,16 +633,16 @@
         "\\text{Answer not known}"
     ],
     "ans": 4,
-    "fig": "image.png"
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-169-03-M04-Q49-FIG.PNG"
 },
 {
     "qno": 50,
-    "qdes": "\\text{A Maxwell's bridge is used to measure an inductive impedance. The bridge constants at balance are } C_1 = 0.01 \\mu\\text{F}, R_1 = 470 \\text{ k}\\omega, R_2 = 5.1 \\text{ k}\\omega \\text{, and } R_3 = 100 \\text{ k}\\omega. \\text{ Find the series equivalent of the unknown impedance.}",
+    "qdes": "\\begin{array}{l} \\text{A Maxwell's bridge is used to measure an inductive impedance.} \\\\ \\text {The bridge constants at balance are } C_1 = 0.01 \\mu\\text{F}, R_1 = 470 \\text{ k}\\Omega, R_2 = 5.1 \\text{ k}\\Omega \\text{, and } R_3 = 100 \\text{ k}\\Omega.\\\\ \\text{ Find the series equivalent of the unknown impedance.}\\end{array}",
     "options": [
-        "R_X = 1.09 \\text{ k}\\omega, C_X = 0.01 \\mu\\text{F}",
-        "R_X = 1.09 \\text{ k}\\omega, L_X = 5.1 \\text{ H}",
+        "R_X = 1.09 \\text{ k}\\Omega, C_X = 0.01 \\mu\\text{F}",
+        "R_X = 1.09 \\text{ k}\\Omega, L_X = 5.1 \\text{ H}",
         "L_X = 5.1 \\text{ H}, C_X = 0.01 \\mu\\text{F}",
-        "L_X = 5.1 \\text{ H}, R_X = 0.109 \\text{ k}\\omega",
+        "L_X = 5.1 \\text{ H}, R_X = 0.109 \\text{ k}\\Omega",
         "\\text{Answer not known}"
     ],
     "ans": 2,
@@ -793,7 +793,7 @@
 },
 {
     "qno": 62,
-    "qdes": "\\text{A single phase half wave ac voltage controller feeds a load of } R = 20\\omega \\text{ with an input voltage of 230 V, 50 Hz. Firing angle of thyristor is 45}^{\\circ}. \\text{ Determine RMS value of output voltage}",
+    "qdes": "\\begin{array}{l} \\text{A single phase half wave ac voltage controller feeds a load of } R = 20\\omega \\text{ with an input voltage of 230 V, 50 Hz.} \\\\ \\text{Firing angle of thyristor is 45}^{\\circ}. \\text{ Determine RMS value of output voltage}\\end{array}",
     "options": [
         "\\text{224.682 V}",
         "\\text{232 V}",
@@ -845,7 +845,7 @@
 },
 {
     "qno": 66,
-    "qdes": "\\text{The unit impulse response of a second order under damped system starting from the rest is } c(t)=12.5e^{-6t} \\sin 8t, \\text{ the steady state value of } t\\ge0 \\text{ unit step response of the system is equal to}",
+    "qdes": "\\begin{array}{l}\\text{The unit impulse response of a second order under damped system starting from the rest is } c(t)=12.5e^{-6t} \\sin 8t,\\\\ \\text{ the steady state value of } t\\ge0 \\text{ unit step response of the system is equal to}\\end{array}",
     "options": [
         "\\text{0}",
         "\\text{0.25}",
@@ -880,7 +880,7 @@
         "\\text{Answer not known}"
     ],
     "ans": 2,
-    "fig": "image_85b503.png"
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-184-01-M04-Q10-FIG.PNG"
 },
 {
     "qno": 69,
@@ -910,7 +910,7 @@
     },
     {
         "qno": 71,
-        "qdes": "\\text{Which of the following is correct?}\\text{Negative feedback amplifiers increase}\\text{(i) Bandwidth}\\text{(ii) Distortion}\\text{(iii) Gain}\\text{(iv) Noise}",
+        "qdes": "\\begin{array}{l}\\text{Which of the following is correct?} \\\\ \\text{Negative feedback amplifiers increase} \\\\ \\text{(i) Bandwidth} \\\\ \\text{(ii) Distortion} \\\\ \\text{(iii) Gain} \\\\ \\text{(iv) Noise}\\end{array}",
         "options": [
             "\\text{(i) and (iv) only}",
             "\\text{(ii) only}",
@@ -936,7 +936,7 @@
     },
     {
         "qno": 73,
-        "qdes": "\\text{A balanced star } - \\text{ connected load of (4 + j3)}\\omega \\text{ per phase is connected to a balanced 3 } - \\text{ phase 400 V supply. The phase current is 12 A. The value of real power is}",
+        "qdes": "\\begin{array}{l}\\text{A balanced star } - \\text{ connected load of (4 + j3)}\\omega \\\\ \\text{ per phase is connected to a balanced 3 } - \\text{ phase 400 V supply. The phase current is 12 A. The value of real power is}\\end{array}",
         "options": [
             "\\text{5650.24 watts}",
             "\\text{6650.88 watts}",
@@ -949,7 +949,7 @@
     },
     {
         "qno": 74,
-        "qdes": "\\text{Consider a type-1 system with open loop transfer function of } G_f(s) = \\frac{k}{s(s+1)(s+4)} \\text{ with damping ratio } \\rho = 0.5 \\text{ settling time } t_s=10 \\text{ sec. Find the undamped natural frequency.}",
+        "qdes": "\\begin{array}{l}\\text{Consider a type-1 system with open loop transfer function of } G_f(s) = \\frac{k}{s(s+1)(s+4)} \\\\ \\text{ with damping ratio } \\rho = 0.5 \\text{ settling time } t_s=10 \\text{ sec. Find the undamped natural frequency.}\\end{array}",
         "options": [
             "\\text{0.5 rad/sec}",
             "\\text{0.7 rad/sec}",
@@ -1001,7 +1001,7 @@
     },
     {
         "qno": 78,
-        "qdes": "\\text{The step response of a first order system is as shown}\\text{The time constant of the system is}",
+        "qdes": "\\text{The step response of a first order system is as shown. }\\text{The time constant of the system is}",
         "options": [
             "\\text{0.612}",
             "\\text{0.524}",
@@ -1010,7 +1010,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 2,
-        "fig": "image_86261f.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-034-04-M04-Q78-FIG.PNG"
     },
     {
         "qno": 79,
@@ -1036,7 +1036,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 1,
-        "fig": "image_862cea.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/02B-144-04-M04-Q80-FIG.PNG"
     },
     {
         "qno": 81,
@@ -1079,7 +1079,7 @@
     },
     {
         "qno": 84,
-        "qdes": "\\text{It is desired to operate a 3}\\phi, \\text{ 440V, 60 Hz induction motor from a 25 Hz source. The voltage that should be applied to the machine if the air gap flux density is to be maintained at its normal value is}",
+        "qdes": "\\begin{array}{l} \\text{It is desired to operate a 3}\\phi, \\text{ 440V, 60 Hz induction motor from a 25 Hz source.} \\\\ \\text{The voltage that should be applied to the machine if the air gap flux density is to be maintained at its normal value is} \\end{array}",
         "options": [
             "\\text{183 V}",
             "\\text{1056 V}",
@@ -1105,7 +1105,7 @@
     },
     {
         "qno": 86,
-        "qdes": "\\text{The current drawn by 220 V DC motor of armature resistance of 0.5 }\\omega \\text{ and back emf of 200 V is}",
+        "qdes": "\\text{The current drawn by 220 V DC motor of armature resistance of 0.5 }\\Omega \\text{ and back emf of 200 V is}",
         "options": [
             "\\text{40 A}",
             "\\text{44 A}",
@@ -1131,12 +1131,12 @@
     },
     {
         "qno": 88,
-        "qdes": "\\text{A 100 V, voltmeter has full scale accuracy of 5% when reading 50 V, the error will be}",
+        "qdes": "\\text{A 100 V, voltmeter has full scale accuracy of 5\\% when reading 50 V, the error will be}",
         "options": [
-            "\\text{10%}",
-            "\\text{5%}",
-            "\\text{2.5%}",
-            "\\text{1.25%}",
+            "10\\%",
+            "5\\%",
+            "2.5\\%",
+            "1.25\\%",
             "\\text{Answer not known}"
         ],
         "ans": 1,
@@ -1169,12 +1169,12 @@
     },
     {
         "qno": 91,
-        "qdes": "\\text{A 600 V, 60 KVA, single phase alternator has an effective resistance of 0.2 }\\omega \\text{. A field current of 10 A produces on armature current of 210 A on short circuit and emf of 480 V on open circuit. Calculate synchronous impedance and reactance}",
+        "qdes": "\\begin{array}{l}\\text{A 600 V, 60 KVA, single phase alternator has an effective resistance of 0.2 }\\Omega \\\\ \\text{. A field current of 10 A produces on armature current of 210 A on short circuit and emf of 480 V on open circuit.} \\\\ \\text{Calculate synchronous impedance and reactance} \\end{array}",
         "options": [
-            "\\text{2.28 }\\omega, \\text{ 2.27 }\\omega",
-            "\\text{2.27 }\\omega, \\text{ 2.28 }\\omega",
-            "\\text{2.32 }\\omega, \\text{ 2.34 }\\omega",
-            "\\text{2.34 }\\omega, \\text{ 2.32 }\\omega",
+            "\\text{2.28 }\\Omega, \\text{ 2.27 }\\Omega",
+            "\\text{2.27 }\\Omega, \\text{ 2.28 }\\Omega",
+            "\\text{2.32 }\\Omega, \\text{ 2.34 }\\Omega",
+            "\\text{2.34 }\\Omega, \\text{ 2.32 }\\Omega",
             "\\text{Answer not known}"
         ],
         "ans": 1,
@@ -1234,7 +1234,7 @@
     },
     {
         "qno": 96,
-        "qdes": "\\text{The current drawn by a 120 V DC motor with back emf of 110 V and armature resistance of 0.4 } \\omega \\text{ is}",
+        "qdes": "\\text{The current drawn by a 120 V DC motor with back emf of 110 V and armature resistance of 0.4 } \\Omega \\text{ is}",
         "options": [
             "\\text{4 A}",
             "\\text{25 A}",
@@ -1362,19 +1362,20 @@
         "ans": 3,
         "fig": ""
     },
-    {
-        "qno": 106,
-        "qdes": "\\text{The primary winding of a 1000/5 A, 50 Hz current transformer has a single turn. Its secondary burden consists of non-inductive impedance of 1.4} \\omega \\text{. The ratio error is}",
-        "options": [
-            "\\text{- 3.85\\%}",
-            "\\text{- 4\\%}",
-            "\\text{+ 3.85\\%}",
-            "\\text{+ 4\\%}",
-            "\\text{Answer not known}"
-        ],
-        "ans": 1,
-        "fig": ""
-    },
+{
+  "qno": 106,
+  "qdes": "\\text{How much electrical energy does a 1.5 KW solar panel, working at full capacity produce in 5 hours?}",
+  "options": [
+    "\\text{1.5 KWH}",
+    "\\text{7.5 KWH}",
+    "\\text{5 KWH}",
+    "\\text{75 KWH}",
+   "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+}
+,
     {
         "qno": 107,
         "qdes": "\\text{A 3-wire dc distribution makes \\_\\_\\_\\_\\_\\_\\_ voltages available.}",
@@ -1390,7 +1391,7 @@
     },
     {
         "qno": 108,
-        "qdes": "\\text{Match the List I (improvements in transmission system) with List II (effects due to improvements) and select the correct answer using the codes given below the lists: List I (improvements) (a) Increasing the spacing between conductors 1. Increase string efficiency (b) Increased flashover voltage 2. Reduces tension in the overhead line (c) Increasing sag in overhead line 3. Corona reduces (d) Usage of gaurd ring 4. Safety factor of insulator increases (a) (b) (c) (d)}",
+        "qdes": "\\text{Match the List I (improvements in transmission system) with List II (effects due to improvements) and select the correct answer using the codes given below the lists:}",
         "options": [
             "\\text{2 4 1 3}",
             "\\text{4 1 2 3}",
@@ -1399,7 +1400,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 3,
-        "fig": ""
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-072-06-M04-Q108-FIG.PNG"
     },
     {
         "qno": 109,
@@ -1468,7 +1469,7 @@
     },
     {
         "qno": 114,
-        "qdes": "\\text{The per unit impedance of a circuit element is 0.30. If the base KV and base MVA are halved, then the new value of the per unit impedance of the circuit element will be}",
+        "qdes": "\\begin{array}{l} \\text{The per unit impedance of a circuit element is 0.30. If the base KV and base MVA are halved,} \\\\ \\text{then the new value of the per unit impedance of the circuit element will be}\\end{array}",
         "options": [
             "\\text{0.30}",
             "\\text{0.60}",
@@ -1559,29 +1560,25 @@
     },
     {
         "qno": 121,
-        "qdes": "\\text{Which of the following statement is false?}",
+        "qdes": "\\begin{array}{l}\\text{Which of the following statement is false?} \\\\ \\text{(i) Glass insulators are mainly used for EHV AC and DC systems} \\\\ \\text{(ii) Moisture condensation is less likely on the surface of glass insulator causing lower leakage current} \\\\ \\text{(iii) Leakage current is higher in synthetic insulators} \\\\ \\text{(iv) Synthetic insulators are cheaper and have applications in bushings only}\\end{array}",
         "options": [
-            "\\text{(i) Glass insulators are mainly used for EHV AC and DC systems}",
-            "\\text{(ii) Moisture condensation is less likely on the surface of glass insulator causing lower leakage current}",
-            "\\text{(iii) Leakage current is higher in synthetic insulators}",
-            "\\text{(iv) Synthetic insulators are cheaper and have applications in bushings only}",
-            "\\text{(A) Only (ii)}",
-            "\\text{(B) (ii) and (iv)}",
-            "\\text{(C) (i) and (ii)}",
-            "\\text{(D) (ii) and (iii)}",
+            "\\text{Only (ii)}",
+            "\\text{(ii) and (iv)}",
+            "\\text{(i) and (ii)}",
+            "\\text{(ii) and (iii)}",
             "\\text{Answer not known}"
         ],
-        "ans": 6,
+        "ans": 1,
         "fig": ""
     },
     {
         "qno": 122,
-        "qdes": "\\text{Consider the following statements: } \\\\ \\text{(1) It is easier to construct the Y-Bus matrix as compared to Z-Bus} \\\\ \\text{(2) Z bus is a full matrix while Y bus is sparse} \\\\ \\text{(3) Y Bus can be easily modified whenever the network changes as compared to the Z Bus} \\\\ \\text{Choose the correct statement}",
+        "qdes": "\\begin{array}{l}\\text{Consider the following statements: } \\\\ \\text{(1) It is easier to construct the Y-Bus matrix as compared to Z-Bus} \\\\ \\text{(2) Z bus is a full matrix while Y bus is sparse} \\\\ \\text{(3) Y Bus can be easily modified whenever the network changes as compared to the Z Bus} \\\\ \\text{Choose the correct statement}\\end{array}",
         "options": [
-            "\\text{(A) (1) and (2)}",
-            "\\text{(B) (2) and (3)}",
-            "\\text{(C) (1) and (3)}",
-            "\\text{(D) (1), (2) and (3)}",
+            "\\text{(1) and (2)}",
+            "\\text{(2) and (3)}",
+            "\\text{(1) and (3)}",
+            "\\text{(1), (2) and (3)}",
             "\\text{Answer not known}"
         ],
         "ans": 4,
@@ -1680,7 +1677,7 @@
     },
     {
         "qno": 130,
-        "qdes": "\\text{A hydro-electric generating station is supplied from a reserviour of capacity } 5 \\times 10^6 \\text{ cubic metres at a head of 200 metres. The total energy available in kWh if the overall efficiency is 75\\% is}",
+        "qdes": "\\begin{array}{l} \\text{A hydro-electric generating station is supplied from a reserviour of capacity } 5 \\times 10^6 \\text{ cubic metres at a head of 200 metres.} \\\\ \\text{The total energy available in kWh if the overall efficiency is 75\\% is}\\end{array}",
         "options": [
             "2.044 \\times 10^6 \\text{ kWh}",
             "252 \\times 10^6 \\text{ kWh}",
@@ -1706,7 +1703,7 @@
     },
     {
         "qno": 132,
-        "qdes": "\\text{The primary winding of a 1000/5 A, 50 Hz current transformer has a single turn. Its secondary burnden consists of non-inductive impedance of 1.4 }\\omega\\text{. The ratio error is}",
+        "qdes": "\\begin{array}{l} \\text{The primary winding of a 1000/5 A, 50 Hz current transformer has a single turn.} \\\\ \\text{Its secondary burnden consists of non-inductive impedance of 1.4 }\\Omega. \\\\ \\text{The ratio error is} \\end{array}",
         "options": [
             "-3.85\\%",
             "-4\\%",
@@ -1758,7 +1755,7 @@
     },
     {
         "qno": 136,
-        "qdes": "\\text{A 4 Bit modulo-16 Ripple counter uses J-K flip flop. If the propagation delay of each flip flop is 50 Nano-seconds, the maximum clock frequency that can be used is equal to}",
+        "qdes": "\\begin{array}{l} \\text{A 4 Bit modulo-16 Ripple counter uses J-K flip flop. If the propagation delay of} \\\\ \\text{each flip flop is 50 Nano-seconds, the maximum clock frequency that can be used is equal to}\\end{array}",
         "options": [
             "20 \\text{ MHz}",
             "10 \\text{ MHz}",
@@ -1784,7 +1781,7 @@
     },
     {
         "qno": 138,
-        "qdes": "\\text{The reference voltage of a dual slope ADC is 5 V. The integrator has a capacitor of 1 }\\mu\\text{F and resistance of 100 k}\\omega\\text{. The time taken to read an unknown voltage }V_x\\text{ is 0.2 sec. Find }V_x",
+        "qdes": "\\begin{array}{l} \\text{The reference voltage of a dual slope ADC is 5 V. The integrator has a capacitor of 1 }\\mu\\text{F and resistance of 100 k}\\Omega. \\\\ \\text{The time taken to read an unknown voltage }V_x\\text{ is 0.2 sec. Find }V_x\\end{array}",
         "options": [
             "2.1 \\text{ V}",
             "10 \\text{ V}",
@@ -1871,7 +1868,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 4,
-        "fig": "image.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-110-07-M04-Q144-FIG.PNG"
     },
     {
         "qno": 145,
@@ -1884,7 +1881,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 1,
-        "fig": "image.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/04B-018-07-M04-Q145-FIG.PNG"
     },
     {
         "qno": 146,
@@ -1910,7 +1907,7 @@
             "\\text{Answer not known}"
         ],
         "ans": 2,
-        "fig": "image.png"
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-103-07-M04-Q147-FIG.PNG"
     },
     {
         "qno": 148,
@@ -2057,7 +2054,7 @@
     },
     {
         "qno": 159,
-        "qdes": "\\text{In a DC chopper:}\\begin{array}{l} \\text{I. The waveform of input voltage is continuous.} \\\\ \\text{II. The waveform of output voltage is discontinuous.} \\\\ \\text{III. Per unit ripple current is maximum when duty cycle is 0.5.} \\\\ \\text{IV. The output can be controlled by PWM by varying the chopping period keeping }T_{\\text{on}}\\text{ constant.} \\end{array} \\text{Which of the following combination of statements are true?}",
+        "qdes": "\\begin{array}{l} \\text{In a DC chopper:} \\\\ \\text{I. The waveform of input voltage is continuous.} \\\\ \\text{II. The waveform of output voltage is discontinuous.} \\\\ \\text{III. Per unit ripple current is maximum when duty cycle is 0.5.} \\\\ \\text{IV. The output can be controlled by PWM by varying the chopping period keeping }T_{\\text{on}}\\text{ constant.} \\\\ \\text{Which of the following combination of statements are true?} \\end{array} ",
         "options": [
             "\\text{I, II and III}",
             "\\text{II, III and IV}",
@@ -2079,11 +2076,11 @@
             "\\text{Answer not known}"
         ],
         "ans": 2,
-        "fig": ""
+        "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/03B-166-08-M04-Q160-FIG.PNG"
     },
     {
         "qno": 161,
-        "qdes": "\\text{A boost regulator has an input voltage of 5V. The average output voltage 15V, average load current of 0.5A. The switching frequency is 25 kHz. If }L=150\\mu H\\text{ and }C=220\\mu F\\text{. Determine the ripple current of inductor (}\\Delta I\\text{).}",
+        "qdes": "\\begin{array}{l} \\text{A boost regulator has an input voltage of 5V. The average output voltage 15V, average load current of 0.5A.} \\\\ \\text{The switching frequency is 25 kHz. If }L=150\\mu H\\text{ and }C=220\\mu F. \\\\ \\text{Determine the ripple current of inductor (}\\Delta I\\text{).} \\end{array}",
         "options": [
             "1\\text{A}",
             "1.5\\text{A}",
@@ -2096,7 +2093,7 @@
     },
     {
         "qno": 162,
-        "qdes": "\\text{A single phase full converter bridge is connected to RLE load. The source has a rms voltage of 230 V and the average load current is 10 A. Find the firing angle for which the power flows from AC source to the DC load. Consider firing angle delay for }E=120 \\text{V, }R=0.4\\omega\\text{.}",
+        "qdes": "\\begin{array}{l} \\text{A single phase full converter bridge is connected to RLE load.}  \\\\ \\text{The source has a rms voltage of 230 V and the average load current is 10 A.}  \\\\ \\text{Find the firing angle for which the power flows from AC source to the DC load.}  \\\\ \\text{Consider firing angle delay for }E=120 \\text{V, }R=0.4\\omega\\text{.}\\end{array}",
         "options": [
             "29.31\\degree",
             "72.72\\degree",
@@ -2109,7 +2106,7 @@
     },
     {
         "qno": 163,
-        "qdes": "\\text{A single phase fully controlled bridge converter supplies an inductive load. Assuming that output current is virtually constant, determine average output voltage if the supply voltage is 230V and firing angle is maintained at }\\pi/6\\text{ radians.}",
+        "qdes": "\\begin{array}{l} \\text{A single phase fully controlled bridge converter supplies an inductive load.} \\\\ \\text{Assuming that output current is virtually constant, determine average output voltage} \\\\ \\text{if the supply voltage is 230V and firing angle is maintained at }\\pi/6\\text{ radians.}\\end{array}",
         "options": [
             "179.33 \\text{V}",
             "126.80 \\text{V}",
@@ -2122,7 +2119,7 @@
     },
     {
         "qno": 164,
-        "qdes": "\\text{A single phase half wave rectifier is connected to a 240V supply. The load resistance }R=10\\omega\\text{, }L=0.5mH\\text{ and firing angle }\\alpha=30\\text{. Find the average output voltage.}",
+        "qdes": "\\begin{array}{l} \\text{A single phase half wave rectifier is connected to a 240V supply.} \\\\ \\text{The load resistance }R=10\\omega\\text{, }L=0.5mH\\text{ and firing angle }\\alpha=30. \\\\ \\text{Find the average output voltage.}\\end{array}",
         "options": [
             "50 \\text{V}",
             "100 \\text{V}",
@@ -2135,7 +2132,7 @@
     },
     {
         "qno": 165,
-        "qdes": "\\text{A single phase semi-converter is supplying an RL load with a firing angle of }\\alpha\\text{. When the mode of operation is discontinuous, the conduction and free wheeling period of each cycle are respectively.}",
+        "qdes": "\\begin{array}{l} \\text{A single phase semi-converter is supplying an RL load with a firing angle of }\\alpha. \\\\ \\text{When the mode of operation is discontinuous, the conduction} \\\\ \\text{and free wheeling period of each cycle are respectively.}\\end{array}",
         "options": [
             "\\alpha-\\pi, \\alpha",
             "\\alpha-\\pi, \\alpha-\\beta",
@@ -2213,7 +2210,7 @@
     },
     {
         "qno": 171,
-        "qdes": "\\text{A special PCM system uses 16 channels of data, one whose purpose is identification and synchronization. The sampling rate is 3.5 kHz. The word length is 6 bits. Find}\\begin{array}{l}\\text{(i) The no. of bits per frame}\\\\ \\text{(ii) The serial data rate}\\end{array}",
+        "qdes": "\\begin{array}{l} \\text{A special PCM system uses 16 channels of data, one whose purpose is identification and synchronization.} \\\\ \\text{The sampling rate is 3.5 kHz. The word length is 6 bits. Find} \\\\ \\text{(i) The no. of bits per frame}\\\\ \\text{(ii) The serial data rate}\\end{array}",
         "options": [
             "69, 300 \\text{kHz}",
             "96, 336 \\text{kHz}",
@@ -2226,7 +2223,7 @@
     },
     {
         "qno": 172,
-        "qdes": "\\text{A 250 V, 4 pole, wave wound DC series motor has 782 conductors on its armature. It has armature and series field resistance of 0.75 }\\omega\\text{. The motor takes a current of 40 A. Estimate its speed and gross torque developed if it has a flux per pole of 25 MWB}",
+        "qdes": "\\begin{array}{l} \\text{A 250 V, 4 pole, wave wound DC series motor has 782 conductors on its armature.} \\\\ \\text{It has armature and series field resistance of 0.75 }\\omega\\text{. The motor takes a current of 40 A.} \\\\ \\text{Estimate its speed and gross torque developed if it has a flux per pole of 25 MWB}\\end{array}",
         "options": [
             "250 \\text{ N-M}",
             "251 \\text{ NM}",
@@ -2252,7 +2249,7 @@
     },
     {
         "qno": 174,
-        "qdes": "\\text{Consider the following drawbacks :}\\begin{array}{l}\\text{1. Slope over load noise}\\\\ \\text{2. Serration noise}\\\\ \\text{3. Granular noise}\\\\ \\text{4. Quantization noise}\\end{array}\\text{Which of these drawbacks does Delta modulation have?}",
+        "qdes": "\\begin{array}{l} \\text{Consider the following drawbacks :} \\\\ \\text{1. Slope over load noise}\\\\ \\text{2. Serration noise}\\\\ \\text{3. Granular noise}\\\\ \\text{4. Quantization noise} \\\\ \\text{Which of these drawbacks does Delta modulation have?}\\end{array}",
         "options": [
             "\\text{1 and 2}",
             "\\text{1 and 4}",
@@ -2330,7 +2327,7 @@
   },
   {
     "qno": 180,
-    "qdes": "\\text{The following data are given for a wind turbine: Blade length = 52 m; wind velocity = 12 m/sec; Air density = }1.23\\text{ kg/}m^3\\text{; Power coefficient = 0.4. The power generated by the wind turbine is}",
+    "qdes": "\\begin{array}{l} \\text{The following data are given for a wind turbine: Blade length = 52 m; wind velocity = 12 m/sec; Air density = }1.23 \\\\ \\text{ kg/}m^3\\text{; Power coefficient = 0.4. The power generated by the wind turbine is}\\end{array}",
     "options": [
       "\\text{3.5 MW}",
       "\\text{6.3 MW}",
@@ -2384,10 +2381,10 @@
     "qno": 184,
     "qdes": "\\text{In a wind turbine the radius of the rotor is 3 metre has 24 blades, each 0.35 m wide, the solidity is}",
     "options": [
-      "\\text{54.6 %}",
-      "\\text{34.6 %}",
-      "\\text{64.6 %}",
-      "\\text{44.6 %}",
+      "54.6 \\%",
+      "34.6 \\%",
+      "64.6 \\%",
+      "44.6 \\%",
       "\\text{Answer not known}"
     ],
     "ans": 4,
@@ -2397,10 +2394,10 @@
     "qno": 185,
     "qdes": "\\text{A 10 Ah battery discharged by 2 Ah has}",
     "options": [
-      "\\text{a state of charge of 20% and a depth of discharge of 80%}",
-      "\\text{a state of charge of 80% and a depth of discharge of 20%}",
-      "\\text{a state of charge of 80% and a depth of discharge is 80%}",
-      "\\text{a state of charge of 20% and a depth of discharge is 20%}",
+      "\\text{a state of charge of} 20\\% \\text{and a depth of discharge of 80%}",
+      "\\text{a state of charge of} 80\\% \\text{and a depth of discharge of 20%}",
+      "\\text{a state of charge of} 80\\% \\text{and a depth of discharge is 80%}",
+      "\\text{a state of charge of} 20\\% \\text{and a depth of discharge is 20%}",
       "\\text{Answer not known}"
     ],
     "ans": 2,
@@ -2421,7 +2418,7 @@
   },
   {
     "qno": 187,
-    "qdes": "\\text{In Photo Voltaic system arrange the following from smallest to the largest unit. (i) Module (ii) Array (iii) Solar Cell (iv) Array field Choose the correct answer from the following options given below:}",
+    "qdes": "\\begin{array}{l} \\text{In Photo Voltaic system arrange the following from smallest to the largest unit.} \\\\ \\text{(i) Module} \\\\ \\text{(ii) Array} \\\\ \\text{(iii) Solar Cell} \\\\ \\text{(iv) Array field} \\\\ \\text{Choose the correct answer from the following options given below:}\\end{array}",
     "options": [
       "\\text{(ii), (iv), (i), (iii)}",
       "\\text{(ii), (iv), (iii), (i)}",
@@ -2447,7 +2444,7 @@
   },
   {
     "qno": 189,
-    "qdes": "\\text{Construct routh array and determine the stability of the system whose characteristics equation is }S^6 + 2S^5 + 8S^4 + 12S^3 + 20S^2 + 16S + 16 = 0\\text{, also determine the number of roots lying on right half of }s\\text{–plane, left half of }s\\text{ plane and on imaginary axis}",
+    "qdes": "\\begin{array}{l} \\text{Construct routh array and determine the stability of the system} \\\\ \\text{whose characteristics equation is }S^6 + 2S^5 + 8S^4 + 12S^3 + 20S^2 + 16S + 16 = 0\\text{, also determine the number of roots} \\\\ \\text{lying on right half of }s\\text{–plane, left half of }s\\text{ plane and on imaginary axis}\\end{array}",
     "options": [
       "\\text{Marginally stable}",
       "\\text{Unstable}",
@@ -2473,7 +2470,7 @@
   },
   {
     "qno": 191,
-    "qdes": "\\text{A community requires }60\\text{ kW of power output to meet their daily electricity needs it indicates }100\\text{ m of gross head to be available what design discharge is require community’s electricity needs? Assume an overall efficiency of }55\\text{%}",
+    "qdes": "\\begin{array}{l} \\text{A community requires }60\\text{ kW of power output to meet their daily electricity needs it indicates }100\\text{ m} \\\\ \\text{of gross head to be available what design discharge is require community’s electricity needs?} \\\\ \\text{Assume an overall efficiency of }55\\%\\end{array}",
     "options": [
       "\\text{0.011 }m^3/s",
       "\\text{0.111 }m^3/s",
@@ -2512,7 +2509,7 @@
   },
   {
     "qno": 194,
-    "qdes": "\\text{The relation between the incident angle }\\theta_i\\text{ and the refracted angle }\\theta_t\\text{ of a light beam falling at the junction of two media having relative refractive indices of }n_1\\text{ and }n_2\\text{ is given by}",
+    "qdes": "\\begin{array}{l} \\text{The relation between the incident angle }\\theta_i\\text{ and the refracted angle }\\theta_t \\\\ \\text{ of a light beam falling at the junction of two media having relative refractive indices of }n_1 \\\\ \\text{ and }n_2\\text{ is given by}\\end{array}",
     "options": [
       "\\text{}n_1 sin \\theta_i = n_2 sin \\theta_t\\text{}",
       "\\text{}n_1 sin \\theta_t = n_2 sin \\theta_i\\text{}",
@@ -2577,7 +2574,7 @@
   },
   {
     "qno": 199,
-    "qdes": "\\text{DC to DC convertor as shown in fig. a battery of }25\\text{V is connected and the input current is }4\\text{A. At the output side, a voltmeter shows }50\\text{V across the load end the output current is }1.8\\text{A. Find the power lost in the converter due to losses.}",
+    "qdes": "\\begin{array}{l} \\text{DC to DC convertor as shown in fig. a battery of }25\\text{V is connected and the input current is }4\\text{A.} \\\\ \\text{At the output side, a voltmeter shows }50\\text{V across the load end the output current is }1.8\\text{A.} \\\\ \\text{Find the power lost in the converter due to losses.}\\end{array}",
     "options": [
       "\\text{25 W}",
       "\\text{10 W}",
@@ -2586,7 +2583,7 @@
       "\\text{Answer not known}"
     ],
     "ans": 2,
-    "fig": "image.png"
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-005-10-M04-Q199-FIG.PNG"
   },
   {
     "qno": 200,
