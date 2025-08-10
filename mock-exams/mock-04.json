@@ -53,7 +53,7 @@
 },
 {
   "qno": 5,
-  "qdes": "\\text{In fig. 1 } R_\\text{a}\\text{, } R_\\text{b}\\text{ and } R_\\text{c}\\text{ are 20 } \\omega\\text{, 10 } \\omega\\text{ and 10 } \\omega\\text{ respectively. The resistances } R_1\\text{, } R_2\\text{ and } R_3\\text{ in } \\omega\\text{ of an equivalent star-connection are}",
+  "qdes": "\\text{In fig. 1 } R_\\text{a}\\text{, } R_\\text{b}\\text{ and } R_\\text{c}\\text{ are 20 } \\Omega\\text{, 10 } \\Omega\\text{ and 10 } \\Omega\\text{ respectively. The resistances } R_1\\text{, } R_2\\text{ and } R_3\\text{ in } \\Omega\\text{ of an equivalent star-connection are}",
   "options": [
     "2.5, 5, 5",
     "5, 2.5, 5",
@@ -1169,7 +1169,7 @@
     },
     {
         "qno": 91,
-        "qdes": "\\begin{array}{l}\\text{A 600 V, 60 KVA, single phase alternator has an effective resistance of 0.2 }\\Omega \\\\ \\text{. A field current of 10 A produces on armature current of 210 A on short circuit and emf of 480 V on open circuit.} \\\\ \\text{Calculate synchronous impedance and reactance} \\end{array}",
+        "qdes": "\\begin{array}{l}\\text{A 600 V, 60 KVA, single phase alternator has an effective resistance of 0.2 }\\Omega. \\\\ \\text{A field current of 10 A produces on armature current of 210 A on short circuit and emf of 480 V on open circuit.} \\\\ \\text{Calculate synchronous impedance and reactance} \\end{array}",
         "options": [
             "\\text{2.28 }\\Omega, \\text{ 2.27 }\\Omega",
             "\\text{2.27 }\\Omega, \\text{ 2.28 }\\Omega",
@@ -2394,10 +2394,10 @@
     "qno": 185,
     "qdes": "\\text{A 10 Ah battery discharged by 2 Ah has}",
     "options": [
-      "\\text{a state of charge of} 20\\% \\text{and a depth of discharge of 80%}",
-      "\\text{a state of charge of} 80\\% \\text{and a depth of discharge of 20%}",
-      "\\text{a state of charge of} 80\\% \\text{and a depth of discharge is 80%}",
-      "\\text{a state of charge of} 20\\% \\text{and a depth of discharge is 20%}",
+      "\\text{a state of charge of } 20\\% \\text{and a depth of discharge of }80\\%",
+      "\\text{a state of charge of } 80\\% \\text{and a depth of discharge of }20\\%",
+      "\\text{a state of charge of } 80\\% \\text{and a depth of discharge is }80\\%",
+      "\\text{a state of charge of } 20\\% \\text{and a depth of discharge is }20\\%",
       "\\text{Answer not known}"
     ],
     "ans": 2,
