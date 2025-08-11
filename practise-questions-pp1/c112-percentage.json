@@ -23,41 +23,5 @@
       "\\text{Answer not known}"
     ],
     "ans": 2
-  },
-  {
-    "qno": 3,
-    "qdes": "\\text{If the numerator of a fraction is increased by 50\\% and the denominator is decreased by 20\\% then it becomes }\\frac{3}{5}, \\text{find the original fraction.}",
-    "options": [
-      "$\\frac{3}{4}$",
-      "$\\frac{8}{25}$",
-      "$\\frac{24}{25}$",
-      "$\\frac{3}{8}$",
-      "\\text{Answer not known}"
-    ],
-    "ans": 2
-  },
-   {
-    "qno": 4,
-    "qdes": "\\begin{array}{l} \\text{In a school, 30\\% of the students play chess, 60\\% play cricket and 15\\% play both chess and cricket.} \\\\ \\text{If 99 students do not play any of these games, find the number of students who play only chess.} \\end{array}",
-    "options": [
-      "\\text{45}",
-      "\\text{55}",
-      "\\text{30}",
-      "\\text{15}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 1
-  },
-  {
-    "qno": 5,
-    "qdes": "\\text{A man sold an article for Rs. 4,500 and gained 10\\%. Find the cost price of the article}",
-    "options": [
-      "\\text{Rs. 4,000}",
-      "\\text{Rs. 4,090}",
-      "\\text{Rs. 4,090.90}",
-      "\\text{Rs. 4,100}",
-      "\\text{Answer not known}"
-    ],
-    "ans": 3
   }
 ]
