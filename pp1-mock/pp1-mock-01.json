@@ -10,7 +10,8 @@
       "\\text{(E) Answer not known}"
     ],
     "ans": 1,
-    "topic_id": ""
+    "topic_id": "",
+    "fig": ""
   },
   {
     "qno": 2,
@@ -23,7 +24,8 @@
       "\\text{(E) Answer not known}"
     ],
     "ans": 2,
-    "topic_id": ""
+    "topic_id": "",
+    "fig": ""
   },
   {
     "qno": 3,
@@ -36,7 +38,8 @@
       "\\text{Answer not known}"
     ],
     "ans": 1,
-    "topic_id": "B01"
+    "topic_id": "B01",
+    "fig": ""
   },
  {
     "qno": 4,
@@ -49,7 +52,8 @@
       "\\text{(E) Answer not known}"
     ],
     "ans": 2,
-    "topic_id": ""
+    "topic_id": "",
+    "fig": ""
   },
  {
     "qno": 5,

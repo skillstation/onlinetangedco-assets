@@ -22,6 +22,241 @@
       "\\text{20\\%}",
       "\\text{Answer not known}"
     ],
-    "ans": 2
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 3,
+    "qdes": "\\begin{array}{l} \\text{If the numerator of a fraction is increased by 50\\% and the denominator is decreased by 20\\% then it becomes } \\frac{3}{5}, \\\\  \\text{find the original fraction.} \\end{array}",
+    "options": [
+      "\\frac{3}{4}",
+      "\\frac{8}{25}",
+      "\\frac{24}{25}",
+      "\\frac{3}{8}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 4,
+    "qdes": "\\begin{array}{l} \\text{In a school, 30\\% of the students play chess, 60\\% play cricket and 15\\% play both chess and cricket.} \\\\ \\text{If 99 students do not play any of these games, find the number of students who play only chess.}\\end{array}",
+    "options": [
+      "\\text{45}",
+      "\\text{55}",
+      "\\text{30}",
+      "\\text{15}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 5,
+    "qdes": "\\text{A man sold an article for Rs. 4,500 and gained 10\\%. Find the cost price of the article}",
+    "options": [
+      "\\text{Rs. 4,000}",
+      "\\text{Rs. 4,090}",
+      "\\text{Rs. 4,090.90}",
+      "\\text{Rs. 4,100}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 6,
+    "qdes": "\\text{A man sold an article for Rs. 5400 and suffered a loss of 10\\%. At what price should he sell it to have a profit of 20\\%?}",
+    "options": [
+      "\\text{Rs. 7200}",
+      "\\text{Rs. 7400}",
+      "\\text{Rs. 7600}",
+      "\\text{Rs. 7800}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 7,
+    "qdes": "\\begin{array}{l} \\text{A person saves 10\\% of his income. If his income is increased by 20\\% and he saves 20\\% of his new income,} \\\\ \\text{then what is the percentage increase in his saving?} \\end{array}",
+    "options": [
+      "\\text{100\\%}",
+      "\\text{120\\%}",
+      "\\text{150\\%}",
+      "\\text{140\\%}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 8,
+    "qdes": "\\text{Kuralmathi bought a raincoat and saved }₹25\\text{ with discount of 20\\%, what was the original price of the raincoat?}",
+    "options": [
+      "\\text{(A) }₹120",
+      "\\text{(B) }₹125",
+      "\\text{(C) }₹80",
+      "\\text{(D) }₹75",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 9,
+    "qdes": "\\begin{array}{l}\\text{The population of a town is increasing at the rate of 6\\% p.a. It was 238765 in the year 2018.} \\\\ \\text{Find the population in the year 2016.} \\end{array}",
+    "options": [
+      "\\text{(A) 212000}",
+      "\\text{(B) 212500}",
+      "\\text{(C) 213000}",
+      "\\text{(D) 213500}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 10,
+    "qdes": "\\text{Convert }\\frac{7}{4}\\text{ into percentage.}",
+    "options": [
+      "\\text{(A) 125\\%}",
+      "\\text{(B) 175\\%}",
+      "\\text{(C) 75\\%}",
+      "\\text{(D) 25\\%}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 11,
+    "qdes": "\\text{By selling a flower pot for Rs. 528, a woman gains 20\\%. At what price should she sell it to gain 25\\%?}",
+    "options": [
+      "\\text{(A) Rs. 500}",
+      "\\text{(B) Rs. 550}",
+      "\\text{(C) Rs. 553}",
+      "\\text{(D) Rs. 573}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 12,
+    "qdes": "\\text{What is 25\\% of 30\\% of 400?}",
+    "options": [
+      "\\text{(A) 20}",
+      "\\text{(B) 30}",
+      "\\text{(C) 40}",
+      "\\text{(D) 50}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+    "qno": 13,
+    "qdes": "\\text{If } x \\% \\text{ of 600 is 450 then, find the value of } x .",
+    "options": [
+      "\\text{(A) 60}",
+      "\\text{(B) 48}",
+      "\\text{(C) 75}",
+      "\\text{(D) 89}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 14,
+    "qdes": "\\text{If 20\\% of A = B and 40\\% of B = C then find 60\\% (A + B)}",
+    "options": [
+      "\\text{30\\% of C}",
+      "\\text{60\\% of C}",
+      "\\text{75\\% of C}",
+      "\\text{None of these}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 15,
+    "qdes": "\\text{0.756 x 3/4 is equivalent to}",
+    "options": [
+      "\\text{18.9 \\%}",
+      "\\text{37.8 \\%}",
+      "\\text{56.7 \\%}",
+      "\\text{75 \\%}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 16,
+    "qdes": "\\text{45\\% of }640+64\\% \\text{ of 450=\\_\\_\\_\\_\\_\\_} \\text{ \\% of }1440.",
+    "options": [
+      "\\text{(A) 54}",
+      "\\text{(B) 40}",
+      "\\text{(C) 45}",
+      "\\text{(D) 50}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+  {
+    "qno": 17,
+    "qdes": "\\text{The price of an item inclusive of VAT is Rs. 9,720. If VAT is 8\\% then the cost price of the item is}",
+    "options": [
+      "\\text{(A) 9,000 Rs.}",
+      "\\text{(B) 9,100 Rs.}",
+      "\\text{(C) 9,120 Rs.}",
+      "\\text{(D) 9,200 Rs.}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 18,
+    "qdes": "\\begin{array}{l} \\text{A Trader has 500 kg of rice, part of which he sells at 8\\% profit and the rest at 18\\% profit.} \\\\ \\text{He gains 10\\% on the whole. The quantity sold at 18\\% profit is} \\end{array}",
+    "options": [
+      "\\text{(A) 100 kg}",
+      "\\text{(B) 200 kg}",
+      "\\text{(C) 300 kg}",
+      "\\text{(D) 400 kg}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+  {
+    "qno": 19,
+    "qdes": "\\text{If 20\\% discount on the marked price and then another 5\\% discount on the new price is given then the overall discount is}",
+    "options": [
+      "\\text{(A) 22\\%}",
+      "\\text{(B) 23.5\\%}",
+      "\\text{(C) 24\\%}",
+      "\\text{(D) 25\\%}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 20,
+    "qdes": "\\text{If the price of an article increases from Rs. 80 to Rs. 100 then the increase in percentage is}",
+    "options": [
+      "\\text{(A) }\\frac{5}{4}\\%",
+      "\\text{(B) }\\frac{4}{5}\\%",
+      "\\text{(C) 20\\%}",
+      "\\text{(D) 25\\%}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
   }
 ]
