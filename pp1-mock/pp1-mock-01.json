@@ -1,0 +1,1302 @@
+[
+  {
+    "qno": 1,
+    "qdes": "\\text{Indian Coast Guard conducted the regional level marine oil pollution response exercise during the year 2017 named as}",
+    "options": [
+      "\\text{(A) Clean-sea-2017}",
+      "\\text{(B) Blue-sea-2017}",
+      "\\text{(C) Clean-ocean-2017}",
+      "\\text{(D) Clean-Blue- Sea-2017}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+  {
+    "qno": 2,
+    "qdes": "\\text{If a person consumes an average of two liters of water per day, then express the quantity in moles}",
+    "options": [
+      "\\text{(A) 11.111 moles}",
+      "\\text{(B) 111.11 moles}",
+      "\\text{(C) 1111.1 moles}",
+      "\\text{(D) 1.1111 moles}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": ""
+  },
+  {
+    "qno": 3,
+    "qdes": "\\text{The frequency of siren increases as it comes near you and then diminishes as it passes away. But it remains the same inside the ambulance. What is the reason?}",
+    "options": [
+      "\\text{Doppler effect}",
+      "\\text{Stark effect}",
+      "\\text{Zeeman effect}",
+      "\\text{Photo electric effect}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": "B01"
+  },
+ {
+    "qno": 4,
+    "qdes": "\\text{The ozone layer forms naturally by}",
+    "options": [
+      "\\text{(A) interaction of CFC with oxygen}",
+      "\\text{(B) interaction of UV radiation with oxygen}",
+      "\\text{(C) interaction of IR radiation with oxygen}",
+      "\\text{(D) interaction of oxygen and water vapour}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": ""
+  },
+ {
+    "qno": 5,
+    "qdes": "\\text{Electrical conductivity is a measure of soil}",
+    "options": [
+      "\\text{Acidity}",
+      "\\text{Salinity}",
+      "\\text{Moisture}",
+      "\\text{Alkalinity}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": "B01"
+  },
+ {
+    "qno": 6,
+    "qdes": "\\text{Which one of the following statements is true of the monsoon of India? (i) The summer monsoon winds blow from South-West direction so they are known as the South West monsoon. This is also known as the advancing monsoon. (ii) The rains extend from June to September.}",
+    "options": [
+      "\\text{(i) only}",
+      "\\text{(ii) only}",
+      "\\text{Both (i) and (ii)}",
+      "\\text{None of the above}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": "B02"
+  },
+ {
+    "qno": 7,
+    "qdes": "\\text{Which of the following is not a major port of India?}",
+    "options": [
+      "\\text{(A) Kandla}",
+      "\\text{(B) Kochi}",
+      "\\text{(C) Daman}",
+      "\\text{(D) Paradwip}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+ {
+    "qno": 8,
+    "qdes": "\\text{The largest wind farm of India ____________ district is located in Tamilnadu.}",
+    "options": [
+      "\\text{(A) Muppandal of Kanyakumari}",
+      "\\text{(B) Ottapidaram of Chidambaranar}",
+      "\\text{(C) Andhiyur of Coimbatore}",
+      "\\text{(D) Edayarpalayam of Coimbatore}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+ {
+    "qno": 9,
+    "qdes": "\\text{Which one of the following factors depends on the country's land resources?}",
+    "options": [
+      "\\text{Literacy}",
+      "\\text{Sex ratio}",
+      "\\text{Density of population}",
+      "\\text{Migration}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": "B02"
+  },
+ {
+    "qno": 10,
+    "qdes": "\\text{Arrange the following Peaks in descending order of height}",
+    "options": [
+      "\\text{(A) 1, 2, 3, 4}",
+      "\\text{(B) 1, 2, 4, 3}",
+      "\\text{(C) 4, 3, 2, 1}",
+      "\\text{(D) 2, 1, 3, 4}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": ""
+  },
+ {
+    "qno": 11,
+    "qdes": "\\text{Who is the President of the Congress during Surat Split between the Moderates and the Extremists?}",
+    "options": [
+      "\\text{(A) Rash Bihari Gosh}",
+      "\\text{(B) Pheroze Shah}",
+      "\\text{(C) M.M. Malviya}",
+      "\\text{(D) Gopal Krishna Gokhale}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+ {
+    "qno": 12,
+    "qdes": "\\text{When was Pandit Ravisankar honoured with posthumous Lifetime Achievement Grammy award?}",
+    "options": [
+      "\\text{(A) 2011}",
+      "\\text{(B) 2012}",
+      "\\text{(C) 2013}",
+      "\\text{(D) 2014}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+{
+    "qno": 13,
+    "qdes": "\\text{“The Searchlight” was a most important and influential Newspaper was published in}",
+    "options": [
+      "\\text{(A) Patna}",
+      "\\text{(B) Allahabad}",
+      "\\text{(C) Mumbai}",
+      "\\text{(D) Madras}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+{
+    "qno": 14,
+    "qdes": "\\text{Name the organisation established by Devendra Nath Tagore}",
+    "options": [
+      "\\text{(A) Sangat Sabha}",
+      "\\text{(B) Tatva Bodhini sabha}",
+      "\\text{(C) Indian Reform society}",
+      "\\text{(D) Brahmosamaj}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": ""
+  },
+{
+    "qno": 15,
+    "qdes": "\\text{Name the garden created by Babur at Panipat to commemorate this victory over Ibrahim Lody in 1526.}",
+    "options": [
+      "\\text{(A) Agra Bagh}",
+      "\\text{(B) Kabul Bagh}",
+      "\\text{(C) Amber Bagh}",
+      "\\text{(D) Jodhpur Bagh}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": ""
+  },
+{
+    "qno": 16,
+    "qdes": "\\text{Match the following: Post Name: (a) Qaziul - Quzat, (b) Muqaddam, (c) Mufti, (d) Amir-i-dadh. Nature of Work: 1. Chief City Magistrate, 2. Legal Interpreter, 3. Chief Justice, 4. Village Headman.}",
+    "options": [
+      "\\text{(A) 3 4 2 1}",
+      "\\text{(B) 3 2 4 1}",
+      "\\text{(C) 3 4 1 2}",
+      "\\text{(D) 1 2 3 4}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+{
+    "qno": 17,
+    "qdes": "\\text{The contest between the Peshwa Raghuji Bhonsle and Bussy, the Frenchman led to a war and Bussy was forced to sign a treaty in 1751 known as}",
+    "options": [
+      "\\text{(A) Treaty of Bhalke}",
+      "\\text{(B) Treaty of Purandar}",
+      "\\text{(C) Treaty of Hyderabad}",
+      "\\text{(D) Treaty of Khandesh}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+  {
+    "qno": 18,
+    "qdes": "\\text{Who defeated Nana Saheb?}",
+    "options": [
+      "\\text{(A) General Havelock}",
+      "\\text{(B) General Nicholson}",
+      "\\text{(C) Campbell}",
+      "\\text{(D) Neil}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+{
+    "qno": 19,
+    "qdes": "\\text{Assertion [A]: Humayun was a cruel Bhamini Sultan Reason [R]: There was a fratricidal war before his accession}",
+    "options": [
+      "\\text{(A) [A] is correct [R] is wrong}",
+      "\\text{(B) Both [A] and [R] are correct}",
+      "\\text{(C) Both [A] and [R] are wrong}",
+      "\\text{(D) [A] is correct [R] is the correct explanation of [A]}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+{
+    "qno": 20,
+    "qdes": "\\text{Match and choose the correct answer from code given below: (a) East India Association, (b) Madras Native Association, (c) Madras Mahajana Sabha, (d) Indian National Congress. 1. 1885, 2. 1884, 3. 1852, 4. 1866}",
+    "options": [
+      "\\text{(A) 1 3 2 4}",
+      "\\text{(B) 1 2 3 4}",
+      "\\text{(C) 4 3 2 1}",
+      "\\text{(D) 4 3 2 1}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+  {
+    "qno": 21,
+    "qdes": "\\text{The average of 5 members is 28. If the age of one of the member is excluded, the average is decreased by 2. Find the age of the excluded member.}",
+    "options": [
+      "\\text{30 years}",
+      "\\text{34 years}",
+      "\\text{36 years}",
+      "\\text{40 years}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": "C01"
+  },
+{
+    "qno": 22,
+    "qdes": "\\text{Which one of the following is correct about the 'Parliamentary Committees'? (i) They are committees set up by the parliament, (ii) They are formed to assist parliament in its functions, (iii) Parliamentary committees are appointed by the President, (iv) The committee presents its report to the parliament}",
+    "options": [
+      "\\text{(A) (i), (ii) and (iii) are correct}",
+      "\\text{(B) (ii), (iii) and (iv) are correct}",
+      "\\text{(C) (i), (ii) and (iv) are correct}",
+      "\\text{(D) (i), (ii), (iii) and (iv) are correct}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+{
+    "qno": 23,
+    "qdes": "\\text{How many cubes of side 3 cm can be cut from a cuboid of dimensions 18 cm x 12 cm x 9 cm?}",
+    "options": [
+      "\\text{60}",
+      "\\text{50}",
+      "\\text{72}",
+      "\\text{75}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": "C01"
+  },
+{
+    "qno": 24,
+    "qdes": "\\text{Which of the following has been recommended that the National Judicial Council should be authorised to lay down the code of conduct for judges?}",
+    "options": [
+      "\\text{Administrative Reforms Commission}",
+      "\\text{Sarkaria Commission}",
+      "\\text{Second Administrative Reforms Commission}",
+      "\\text{The Supreme Court of India}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": "B04"
+  },
+  {
+    "qno": 25,
+    "qdes": "\\text{Find the area of a rhombus whose diagonals are 16 cm and 12 cm.}",
+    "options": [
+      "\\text{96 } cm^2",
+      "\\text{192 } cm^2",
+      "\\text{120 } cm^2",
+      "\\text{140 } cm^2",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": "C01"
+  },
+{
+    "qno": 26,
+    "qdes": "\\text{Two numbers are in the ratio 3:5. If 6 is added to each number, then the ratio becomes 2:3. Find the numbers.}",
+    "options": [
+      "\\text{18, 30}",
+      "\\text{16, 28}",
+      "\\text{18, 28}",
+      "\\text{18, 32}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": "C01"
+  },
+  {
+    "qno": 27,
+    "qdes": "\\text{Simplify } $(2.3)^3 - (0.3)^3$",
+    "options": [
+      "\\text{12.43}",
+      "\\text{12.23}",
+      "\\text{11.85}",
+      "\\text{12.18}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": "C01"
+  },
+  {
+    "qno": 28,
+    "qdes": "\\text{The speed of a train is 60 km/hr. It crosses a pole in 30 seconds. The length of the train is}",
+    "options": [
+      "\\text{600 m}",
+      "\\text{500 m}",
+      "\\text{400 m}",
+      "\\text{300 m}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": "C01"
+  },
+{
+    "qno": 29,
+    "qdes": "\\text{If the price of an article is increased by 20%, then by what percent should the new price be decreased to bring it back to its original price?}",
+    "options": [
+      "\\text{16.67%}",
+      "\\text{20%}",
+      "\\text{25%}",
+      "\\text{10%}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": "C01"
+  },
+{
+    "qno": 30,
+    "qdes": "\\text{What is the time taken to cross a tree by a train of length 150 m moving at a speed of 36 km/hr?}",
+    "options": [
+      "\\text{10 seconds}",
+      "\\text{15 seconds}",
+      "\\text{20 seconds}",
+      "\\text{25 seconds}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": "C01"
+  },
+  {
+    "qno": 31,
+    "qdes": "\\text{In a school, 30% of the students play chess, 60% play cricket and 15% play both chess and cricket. If 99 students do not play any of these games, find the number of students who play only chess.}",
+    "options": [
+      "\\text{45}",
+      "\\text{55}",
+      "\\text{30}",
+      "\\text{15}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": "C01"
+  },
+{
+    "qno": 32,
+    "qdes": "\\text{Pipes A and B can fill a tank in 10 hours and 15 hours respectively. C is an outlet pipe which can empty the tank in 12 hours. If all the three pipes are opened at the same time, in how many hours will the tank be filled?}",
+    "options": [
+      "\\text{10 hours}",
+      "\\text{11 hours}",
+      "\\text{12 hours}",
+      "\\text{15 hours}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": "C01"
+  },
+{
+    "qno": 33,
+    "qdes": "\\text{The concept of 'Partyless Democracy' was advocated by}",
+    "options": [
+      "\\text{(A) Mahatma Gandhi}",
+      "\\text{(B) Jayaprakash Narayan}",
+      "\\text{(C) Anna Hazare}",
+      "\\text{(D) Dr.B.R. Ambedkar}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": ""
+  },
+  {
+    "qno": 34,
+    "qdes": "\\text{When a die is rolled, find the probability to get the number which is greater than 6?}",
+    "options": [
+      "\\text{1}",
+      "\\text{1/3}",
+      "\\text{0}",
+      "\\text{1/2}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": "C01"
+  },
+{
+    "qno": 35,
+    "qdes": "\\text{Which article of the constitution gives power to the state government to make any special provision for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes and the Scheduled Tribes?}",
+    "options": [
+      "\\text{(A) Article 15 (4)}",
+      "\\text{(B) Article 16 (4)}",
+      "\\text{(C) Article 15 (1)}",
+      "\\text{(D) Article 16 (1)}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+  {
+    "qno": 36,
+    "qdes": "\\text{Match List I with List II and choose the correct answer from the codes given below : List I : (a) NITI Aayog (b) National Development Council (c) Finance Commission (d) Planning Commission List II : 1. 15.03.1950 2. 22.11.1951 3. 01.01.2015 4. 06.08.1952}",
+    "options": [
+      "\\text{(A) 2 1 4 3}",
+      "\\text{(B) 4 2 3 1}",
+      "\\text{(C) 3 4 2 1}",
+      "\\text{(D) 1 3 4 2}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+  {
+    "qno": 37,
+    "qdes": "\\text{Government declared that those who earned Rs. 10 lakhs per year will be ineligible for LPG subsidy from?}",
+    "options": [
+      "\\text{(A) Jan. 2015}",
+      "\\text{(B) Jan. 2016}",
+      "\\text{(C) Jan. 2017}",
+      "\\text{(D) Jan. 2018}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": ""
+  },
+{
+    "qno": 38,
+    "qdes": "\\text{Match correctly the world/national environmental important dates used to commemorate and spread awareness (a) World Environment Day (b) Earth Day (c) World Water Day (d) National Pollution Prevention Day}",
+    "options": [
+      "\\text{3, 1, 4, 2}",
+      "\\text{2, 3, 1, 4}",
+      "\\text{1, 4, 2, 3}",
+      "\\text{3, 4, 1, 2}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": "B02"
+  },
+ {
+    "qno": 39,
+    "qdes": "\\text{The Prime Minister Shri Narendra Modi slogan, “Lab to Land” saying that farmers should 1. Produce organic food 2. Enhance the production 3. Use High yielding varieties 4. Feed the country}",
+    "options": [
+      "\\text{1 and 2 only}",
+      "\\text{1 and 3 only}",
+      "\\text{2 and 3 only}",
+      "\\text{2 and 4 only}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "topic_id": "B05"
+  },
+{
+    "qno": 40,
+    "qdes": "\\text{Arrange the following schemes for agricultural development in Chronological Order. 1. National Food Security Mission. 2. National Pulses Development Mission. 3. Jute Technology Mission. 4. National Agricultural Insurance Scheme.}",
+    "options": [
+      "\\text{1 2 3 4}",
+      "\\text{2 4 1 3}",
+      "\\text{2 4 3 1}",
+      "\\text{4 2 3 1}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": "B05"
+  },
+{
+    "qno": 41,
+    "qdes": "\\text{Why is \"Commercialisation of Agriculture\" so called}",
+    "options": [
+      "\\text{(A) Family consumption}",
+      "\\text{(B) Partly for family consumption}",
+      "\\text{(C) Sale in market}",
+      "\\text{(D) None of the above}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+{
+    "qno": 42,
+    "qdes": "\\text{14 major banks were nationalised in India in the year}",
+    "options": [
+      "\\text{(A) 1949}",
+      "\\text{(B) 1959}",
+      "\\text{(C) 1969}",
+      "\\text{(D) 1968}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+  {
+    "qno": 42,
+    "qdes": "\\text{____________ state in India provides breakfast in Government schools along with the mid-day meals.}",
+    "options": [
+      "\\text{(A) Kerala}",
+      "\\text{(B) Karnataka}",
+      "\\text{(C) Tamil Nadu}",
+      "\\text{(D) Telangana}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+  {
+    "qno": 44,
+    "qdes": "\\text{The Tamilnadu e-Governance Agency (TNeGA) was created during the year}",
+    "options": [
+      "\\text{2007}",
+      "\\text{2008}",
+      "\\text{2009}",
+      "\\text{2010}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": "B05"
+  },
+  {
+    "qno": 45,
+    "qdes": "\\text{Which of the following statements is/are correct about 'Ayushman Bharat Pradhan Mantri Jan Arogya Yojana' (PMJAY)? (i) It is a Central Government scheme, (ii) The scheme provides health coverage up to five lakhs rupees per family per year, (iii) The scheme was implemented in 2018 (iv) The scheme provides cashless and paperless medical treatment to the poor}",
+    "options": [
+      "\\text{(A) (i), (ii), (iii) and (iv) are correct}",
+      "\\text{(B) (i) and (ii) are correct}",
+      "\\text{(C) (i), (ii) and (iii) are correct}",
+      "\\text{(D) (i), (iii) and (iv) are correct}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+{
+    "qno": 46,
+    "qdes": "\\text{Indian State Financial Corporations have given assistance mainly to develop}",
+    "options": [
+      "\\text{(A) Small-Scale Industries}",
+      "\\text{(B) Medium-Scale Industries}",
+      "\\text{(C) Medium and Small Scale Industries}",
+      "\\text{(D) Irrigation projects}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+  {
+    "qno": 47,
+    "qdes": "\\text{Choose the correct statement: IPOP scheme is to improve the quality of the older persons by providing (i) Shelter and medical care (ii) Tailoring Training (iii) Loan facilities (iv) Literacy promotion}",
+    "options": [
+      "\\text{(A) (i) and (ii) only}",
+      "\\text{(B) (ii) and (iv) only}",
+      "\\text{(C) (i) only}",
+      "\\text{(D) (iii) only}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+  {
+    "qno": 48,
+    "qdes": "\\text{During the year 2018, in Tamilnadu the hike in bus fare was reduced partially and implemented on}",
+    "options": [
+      "\\text{(A) 29th January 2018}",
+      "\\text{(B) 20th January 2018}",
+      "\\text{(C) 27th January 2018}",
+      "\\text{(D) 24th January 2018}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+  {
+    "qno": 49,
+    "qdes": "\\text{District Rural Development Agency was formed in the year}",
+    "options": [
+      "\\text{(A) 1978}",
+      "\\text{(B) 1980}",
+      "\\text{(C) 1982}",
+      "\\text{(D) 1984}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+{
+    "qno": 50,
+    "qdes": "\\text{Match the following. Scheme: (a) Swachh Bharat Mission (b) Smart Cities Mission (c) PM cares for children (d) Pradhan Mantri Ujjwala Yojana (2.0). Launched on: 1. 25-6-2015 2. 2-10-2014 3. 1-5-2016 4. 29-5-2021}",
+    "options": [
+      "\\text{(a) 2 (b) 1 (c) 4 (d) 3}",
+      "\\text{(b) 2 (a) 3 (c) 1 (d) 4}",
+      "\\text{(c) 4 (b) 2 (a) 1 (d) 3}",
+      "\\text{(d) 1 (a) 2 (b) 3 (c) 4}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": "B05"
+  },
+{
+    "qno": 51,
+    "qdes": "\\text{Which state first implemented the Panchayat Raj System?}",
+    "options": [
+      "\\text{(A) Tamilnadu}",
+      "\\text{(B) Bihar}",
+      "\\text{(C) Rajasthan}",
+      "\\text{(D) Gujarat}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+{
+    "qno": 52,
+    "qdes": "\\text{Which of the following are the four key aspects of Mahalir Thittam to empower rural women?}",
+    "options": [
+      "\\text{(A) Social, Political, Economic and Legal}",
+      "\\text{(B) Social, Political, Economic and Health}",
+      "\\text{(C) Social, Political, Economic and Education}",
+      "\\text{(D) Social, Political, Economic and Sanitation}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+{
+    "qno": 53,
+    "qdes": "\\text{CIASC - 2022 has been awarded to Tamil Nadu for the invention related to}",
+    "options": [
+      "\\text{(A) 2 and 4 only}",
+      "\\text{(B) 4 only}",
+      "\\text{(C) 1 and 4 only}",
+      "\\text{(D) 1 and 3 only}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 4,
+    "topic_id": ""
+  },
+{
+    "qno": 54,
+    "qdes": "\\text{Which of the following is correctly paired?}",
+    "options": [
+      "\\text{UNICEF - Assistance for multi drug therapy}",
+      "\\text{SIDA - Assistance for universal immunization programme}",
+      "\\text{ODA - National programme for council of blindness}",
+      "\\text{DANIDA - Programme for family welfare}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": "B05"
+  },
+{
+    "qno": 55,
+    "qdes": "\\text{Reason and Assertion types : Assertion [A] : Tamil Nadu has low fertility Reason [R] : The state accounts 80% literacy rate}",
+    "options": [
+      "\\text{[A] is true but [R] is false}",
+      "\\text{[R] is true but [A] is false}",
+      "\\text{Both [A] and [R] is correct, but [R] is correct explanation of [A]}",
+      "\\text{Both [A] and [R] is correct, but [R] is not correct explanation of [A]}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": "B05"
+  },
+{
+    "qno": 56,
+    "qdes": "\\text{The Chief Minister comprehensive Health Insurance scheme was formerly known as}",
+    "options": [
+      "\\text{Amma Insurance}",
+      "\\text{New Health Insurance scheme}",
+      "\\text{Health and family welfare}",
+      "\\text{Kalaignar Kaappitu thittam}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "topic_id": "B06"
+  },
+{
+    "qno": 57,
+    "qdes": "\\text{Match the lines from Thirukkural with their meaning: (a) \"Thottranaikku ennippal\" (b) \"Iniyavai Naarpadhu\" (c) \"Valiyorai virundhu pombin\" (d) \"Neerinramaiya ulagam\"}",
+    "options": [
+      "\\text{(A) 1 3 2 4}",
+      "\\text{(B) 3 4 2 1}",
+      "\\text{(C) 3 2 1 4}",
+      "\\text{(D) 2 1 3 4}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+  {
+    "qno": 58,
+    "qdes": "\\text{Match the following: Products: (a) Turmeric, (b) Veena, (c) Hill Garlic, (d) Kandangi saree. Geographical indications Tagged place: 1. Thanjavur, 2. Erode, 3. Karaikudi, 4. Kodaikanal.}",
+    "options": [
+      "\\text{(A) 1 2 3 4}",
+      "\\text{(B) 4 3 2 1}",
+      "\\text{(C) 2 1 4 3}",
+      "\\text{(D) 2 4 3 1}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+  {
+    "qno": 59,
+    "qdes": "\\text{What is the meaning of the kural \"As 'Give' the robber cries with lance uplift, so kings with sceptred hand implores his gift\"?}",
+    "options": [
+      "\\text{A cruel king works injustice}",
+      "\\text{A cruel king will loose his kingdom}",
+      "\\text{A cruel king will lose his kingdom and subjects}",
+      "\\text{A cruel king is like a daylight robber}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "topic_id": "B03"
+  },
+{
+    "qno": 60,
+    "qdes": "\\text{When was launched the All Village Anna Renaissance Scheme?}",
+    "options": [
+      "\\text{January, 2007}",
+      "\\text{March, 2007}",
+      "\\text{January, 2009}",
+      "\\text{June, 2009}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": "B06"
+  },
+{
+    "qno": 61,
+    "qdes": "\\text{_______ is a scholarship initiative that provides financial support to young girls and their families who live in poverty.}",
+    "options": [
+      "\\text{Ladli Lakshmi Yojana}",
+      "\\text{Child Protection scheme}",
+      "\\text{Balika Samridhhi Yojana}",
+      "\\text{Beti Bachao Padhao scheme}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": "B05"
+  },
+{
+    "qno": 62,
+    "qdes": "\\text{Who every good have killed, may yet destruction flee; who 'benefit' has killed, that man shall ne'er scape free! What does the above Thirukkural emphasizes?}",
+    "options": [
+      "\\text{Rendering help}",
+      "\\text{Benevolence}",
+      "\\text{Streamlining}",
+      "\\text{Remembering the benefit}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "topic_id": "B03"
+  },
+{
+    "qno": 63,
+    "qdes": "\\text{\"Karpooram Narumo Kamalapoo Narumo Tiruppavala Chevvaidhaan Thithithirukkumo\" who sings these lines?}",
+    "options": [
+      "\\text{(A) Nammazhwar}",
+      "\\text{(B) Madhura Kaviyazhwar}",
+      "\\text{(C) Thirupaanazhwar}",
+      "\\text{(D) Aandaal}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 4,
+    "topic_id": ""
+  },
+{
+    "qno": 64,
+    "qdes": "\\text{When and where Periyar was elected as the President of Tamilnadu Congress Session?}",
+    "options": [
+      "\\text{1924, Thiruvannamalai}",
+      "\\text{Vellore 1938}",
+      "\\text{Kanchipuram 1937}",
+      "\\text{Tiruppur 1935}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": "B06"
+  },
+{
+    "qno": 65,
+    "qdes": "\\text{Which among the following plates are not associated with Simma Vishnu?}",
+    "options": [
+      "\\text{Vellorepalayam plates}",
+      "\\text{Kasakkudi plates}",
+      "\\text{Kanchanur plates}",
+      "\\text{Chinnamanur plates}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "topic_id": "B06"
+  },
+{
+    "qno": 66,
+    "qdes": "\\text{P. S. Kumarasamy Raja belonged to which District?}",
+    "options": [
+      "\\text{(A) Kanyakumari}",
+      "\\text{(B) Virudhunagar}",
+      "\\text{(C) Madurai}",
+      "\\text{(D) Salem}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": ""
+  },
+{
+    "qno": 67,
+    "qdes": "\\text{Which among the following was a Resolution passed by an emergency meeting of the Tamilnadu Legislative Assembly on 23 January 1968?}",
+    "options": [
+      "\\text{Alcohol Exclusion Policy}",
+      "\\text{Policy of State Autonomy}",
+      "\\text{Bilingual Policy}",
+      "\\text{Collective Economic Policy}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": "B06"
+  },
+{
+    "qno": 68,
+    "qdes": "\\text{Which of the following is incorrectly paired? 1. Kudiyarasu - Black Shirt 2. Dravidanadu - Anna 3. Ponmozhigal - Anna 4. Arya Mayai - Periyar}",
+    "options": [
+      "\\text{3 and 4 are incorrect}",
+      "\\text{1 and 2 are incorrect}",
+      "\\text{2 and 3 are incorrect}",
+      "\\text{1 and 4 are incorrect}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": "B06"
+  },
+{
+    "qno": 69,
+    "qdes": "\\text{Who was the political Guru of Subramania Bharathi?}",
+    "options": [
+      "\\text{(A) Bharathi Dasan}",
+      "\\text{(B) Sr. Niveditha}",
+      "\\text{(C) Sarojini Naidu}",
+      "\\text{(D) V.O. Chidambaram}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": ""
+  },
+{
+    "qno": 70,
+    "qdes": "\\text{Who was the first woman speaker of the independant Cabinet when the Justice party ruled for the third time under Chief Minister Subbarayan?}",
+    "options": [
+      "\\text{(A) Dr. Muthu Lakshmi Reddy}",
+      "\\text{(B) Rukmani Lakshmipathy}",
+      "\\text{(C) Sarojini Naidu}",
+      "\\text{(D) Annie Besant}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+{
+    "qno": 71,
+    "qdes": "\\text{In which year, Madras state was renamed as Tamilnadu?}",
+    "options": [
+      "\\text{1972}",
+      "\\text{1969}",
+      "\\text{1960}",
+      "\\text{1963}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": "B06"
+  },
+  {
+    "qno": 72,
+    "qdes": "\\text{Assertion [A]: Namakkal Kavignar Ramalingam was the author of Sangoli Reason [R]: He edited Bharathi's poems}",
+    "options": [
+      "\\text{(A) Both [A] and [R] are true}",
+      "\\text{(B) [A] is false, [R] is true}",
+      "\\text{(C) [A] is correct but [R] is false}",
+      "\\text{(D) Both [A] and [R] are false}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+  {
+    "qno": 73,
+    "qdes": "\\text{The second largest state contributing to GDP in India is}",
+    "options": [
+      "\\text{Gujarat}",
+      "\\text{Uttar pradesh}",
+      "\\text{Tamil Nadu}",
+      "\\text{Maharashtra}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": "B05"
+  },
+  {
+    "qno": 74,
+    "qdes": "\\text{Match the following: (a) Naanoru Indhiyan, (b) Nalla indhiran, (c) Namakkal Kavignar, (d) Vanakuyil. 1. Bharathidasan, 2. Bharathiyar, 3. Periyar, 4. Kamarajar}",
+    "options": [
+      "\\text{(A) 4 1 2 3}",
+      "\\text{(B) 3 4 1 2}",
+      "\\text{(C) 2 3 4 1}",
+      "\\text{(D) 1 4 2 3}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": ""
+  },
+{
+    "qno": 75,
+    "qdes": "\\text{The title of 'Ezhuthu thandhai' was given to}",
+    "options": [
+      "\\text{(A) Thamizhavel}",
+      "\\text{(B) E.V.R. Periyar}",
+      "\\text{(C) Mu.Varadharasan}",
+      "\\text{(D) Kalaignar}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+  {
+    "qno": 76,
+    "qdes": "\\text{Find the simple interest on Rs. 25,000 at 8% per annum for 3 years}",
+    "options": [
+      "\\text{Rs. 12,000}",
+      "\\text{Rs. 6,000}",
+      "\\text{Rs. 8,000}",
+      "\\text{Rs. 4,000}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+{
+    "qno": 77,
+    "qdes": "\\text{The compound interest on Rs. 30,000 at 7% per annum is Rs. 4,347. The period (in years) is}",
+    "options": [
+      "\\text{(A) 2 years}",
+      "\\text{(B) 2\\frac{1}{2} years}",
+      "\\text{(C) 3 years}",
+      "\\text{(D) 4 years}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+  {
+    "qno": 78,
+    "qdes": "\\text{Calculate the days between 12 January 2004 and 7 March 2004.}",
+    "options": [
+      "\\text{(A) 52 days}",
+      "\\text{(B) 53 days}",
+      "\\text{(C) 54 days}",
+      "\\text{(D) 51 days}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+{
+    "qno": 79,
+    "qdes": "\\text{If the ratio of the areas of two squares is 9:1, then the ratio of their perimeters is}",
+    "options": [
+      "\\text{(A) 3:1}",
+      "\\text{(B) 9:1}",
+      "\\text{(C) 1:3}",
+      "\\text{(D) 1:9}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+  {
+    "qno": 80,
+    "qdes": "\\text{The total number of triangles in the given figure is}",
+    "options": [
+      "\\text{(A) 27}",
+      "\\text{(B) 25}",
+      "\\text{(C) 26}",
+      "\\text{(D) 28}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+{
+    "qno": 81,
+    "qdes": "\\text{If the total surface area of a solid hemisphere is } 1848 \\text{ cm}^2, \\text{ find its diameter}",
+    "options": [
+      "\\text{(A) 28 cm}",
+      "\\text{(B) 14 cm}",
+      "\\text{(C) 56 cm}",
+      "\\text{(D) 42 cm}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+{
+    "qno": 82,
+    "qdes": "\\text{Find the first term of a G.P. in which }S_6 = 4095\\text{ and }r = 4",
+    "options": [
+      "\\text{(A) 2}",
+      "\\text{(B) 3}",
+      "\\text{(C) 4}",
+      "\\text{(D) 5}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": ""
+  },
+{
+    "qno": 83,
+    "qdes": "\\text{A certain sum of money amounts to Rs. 10,080 in 5 years at 8%. Find the principal}",
+    "options": [
+      "\\text{(A) Rs. 7,200}",
+      "\\text{(B) Rs. 7,000}",
+      "\\text{(C) Rs. 6,200}",
+      "\\text{(D) Rs. 7,300}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+  {
+    "qno": 84,
+    "qdes": "\\text{What is the smallest 5 digit number that is exactly divisible by 156 and 124?}",
+    "options": [
+      "\\text{(A) 10208}",
+      "\\text{(B) 14308}",
+      "\\text{(C) 14108}",
+      "\\text{(D) 14508}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 4,
+    "topic_id": ""
+  },
+  {
+    "qno": 85,
+    "qdes": "\\text{If the numerator of a fraction is increased by 50% and the denominator is decreased by 20% then it becomes }$\\frac{3}{5}$, \\text{find the original fraction.}",
+    "options": [
+      "$\\frac{3}{4}$",
+      "$\\frac{8}{25}$",
+      "$\\frac{24}{25}$",
+      "$\\frac{3}{8}$",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": "C01"
+  },
+  {
+    "qno": 86,
+    "qdes": "\\text{Simplify: } (2a + 3b + 4c)^2 - (2a - 3b + 4c)^2",
+    "options": [
+      "\\text{(A) } 24abc",
+      "\\text{(B) } 48abc",
+      "\\text{(C) } 24ac",
+      "\\text{(D) } 48bc",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 4,
+    "topic_id": ""
+  },
+{
+    "qno": 87,
+    "qdes": "\\text{X, Y and Z can do a piece of job in 8, 12 and 16 days respectively. If X, Y and Z work together to complete, then find Y's share if they will be paid Rs. 26,000 for completing the job.}",
+    "options": [
+      "\\text{Rs. 10,000}",
+      "\\text{Rs. 12,000}",
+      "\\text{Rs. 6,000}",
+      "\\text{Rs. 8,000}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 4,
+    "fig": ""
+  },
+{
+    "qno": 88,
+    "qdes": "\\text{If Manohar pays an interest of } \\$ 750 \\text{ for 2 years on the sum of } \\$ 4,500 \\text{. Find the rate of interest.}",
+    "options": [
+      "\\text{(A) } 7 \\frac{1}{2}\\%",
+      "\\text{(B) } 8 \\frac{1}{3}\\%",
+      "\\text{(C) } 8 \\frac{2}{3}\\%",
+      "\\text{(D) } 7 \\frac{1}{3}\\%",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": ""
+  },
+{
+    "qno": 89,
+    "qdes": "\\text{What is the compound interest on a sum of Rs. 1,000 at 10% per annum for 2 years? (Approx)}",
+    "options": [
+      "\\text{(A) Rs. 210}",
+      "\\text{(B) Rs. 110}",
+      "\\text{(C) Rs. 100}",
+      "\\text{(D) Rs. 200}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+{
+    "qno": 90,
+    "qdes": "\\text{Principal = }₹\\text{ 4,000, r = 5% p.a., n = 1 year interest compounded half yearly. Find the compound interest for the given data.}",
+    "options": [
+      "\\text{(A) }₹\\text{ 202.50}",
+      "\\text{(B) }₹\\text{ 202.00}",
+      "\\text{(C) }₹\\text{ 100.50}",
+      "\\text{(D) }₹\\text{ 100.00}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+  {
+    "qno": 91,
+    "qdes": "\\text{If the total surface area of a cube is } 24 \\text{ square centimetres, then the volume of the cube is}",
+    "options": [
+      "\\text{(A) 8 cm}^3",
+      "\\text{(B) 64 cm}^3",
+      "\\text{(C) 16 cm}^3",
+      "\\text{(D) 24 cm}^3",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+{
+    "qno": 92,
+    "qdes": "\\text{Find the volume and surface area of cuboid 16 m long, 14 m broad and 7m high}",
+    "options": [
+      "\\text{(A) } 1568 \\text{ m}^3, 868 \\text{ cm}^2",
+      "\\text{(B) } 1568 \\text{ m}^3, 864 \\text{ cm}^2",
+      "\\text{(C) } 1460 \\text{ m}^3, 860 \\text{ cm}^2",
+      "\\text{(D) } 1320 \\text{ m}^3, 850 \\text{ cm}^2",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+{
+    "qno": 93,
+    "qdes": "\\text{Find the smallest number that can be divided by 254 and 508 which leaves the remainder 4.}",
+    "options": [
+      "\\text{(A) 512}",
+      "\\text{(B) 762}",
+      "\\text{(C) 1024}",
+      "\\text{(D) 1524}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+{
+    "qno": 94,
+    "qdes": "\\text{If A }$\\to$ \\text{1, B }$\\to$ \\text{2, C }$\\to$ \\text{3,...., Z }$\\to$ \\text{26 then find } $\\text{I}^3+\\text{J}^3+\\text{K}^3+....+\\text{O}^3$",
+    "options": [
+      "\\text{13104}",
+      "\\text{13004}",
+      "\\text{12104}",
+      "\\text{13114}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  },
+{
+    "qno": 95,
+    "qdes": "\\text{Find the next term (number) of the series. 1, 5, 29, ---}",
+    "options": [
+      "\\text{71}",
+      "\\text{259}",
+      "\\text{73}",
+      "\\text{257}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": "C02"
+  },
+{
+    "qno": 96,
+    "qdes": "\\text{Solve: C-bba-Cab-ac-ab-ac}",
+    "options": [
+      "\\text{(A) bcach}",
+      "\\text{(B) babcc}",
+      "\\text{(C) abcbc}",
+      "\\text{(D) acbcb}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 3,
+    "topic_id": ""
+  },
+  {
+    "qno": 97,
+    "qdes": "\\text{In a certain code language 'BEAT' is written as YVZG, then what will be the code of MILD?}",
+    "options": [
+      "\\text{(A) ONRW}",
+      "\\text{(B) NOWR}",
+      "\\text{(C) ONWR}",
+      "\\text{(D) NROW}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 2,
+    "topic_id": ""
+  },
+{
+    "qno": 98,
+    "qdes": "\\text{A is B's brother, C is B's Father, D is C's Father. Then A is __________ of D.}",
+    "options": [
+      "\\text{(A) Grand mother}",
+      "\\text{(B) Grand father}",
+      "\\text{(C) Son}",
+      "\\text{(D) Grand son}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 4,
+    "topic_id": ""
+  },
+{
+    "qno": 99,
+    "qdes": "\\text{Find the missing number in the series: 3, 5, 8, 13, 21, ?}",
+    "options": [
+      "\\text{(A) 34}",
+      "\\text{(B) 32}",
+      "\\text{(C) 36}",
+      "\\text{(D) 38}",
+      "\\text{(E) Answer not known}"
+    ],
+    "ans": 1,
+    "topic_id": ""
+  },
+{
+    "qno": 100,
+    "qdes": "\\text{A$\\to$1, B$\\to$2, C$\\to$3,...., Z$\\to$26 using this if } $\\frac{\\text{DOG}}{\\text{CAT}}=7$ \\text{ then } $\\frac{\\text{BULL}}{\\text{PIG}}=?$",
+    "options": [
+      "\\text{8}",
+      "\\text{6}",
+      "\\text{10}",
+      "\\text{7}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  }
+]

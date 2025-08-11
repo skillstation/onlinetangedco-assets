@@ -1,0 +1,132 @@
+[
+  {
+  "qno": 1,
+  "qdes": "\\text{A circuit with a resistor, inductor and capacitor in series is resonant of } f_\\text{o} \\text{ Hz. If all the components values are now doubled, the new resonant frequency is}",
+  "options": [
+    "2f_\\text{o}",
+    "\\text{Still } f_\\text{o}",
+    "f_\\text{o}/4",
+    "f_\\text{o}/2",
+    "\\text{Answer not known}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+{
+  "qno": 2,
+  "qdes": "\\text{Mesh analysis is applicable only for the network which are } --------\\text{ in nature}",
+  "options": [
+    "\\text{Polar}",
+    "\\text{Planer}",
+    "\\text{Non-polar}",
+    "\\text{Non-planer}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": ""
+},
+{
+  "qno": 3,
+  "qdes": "\\text{The output of the following circuit is}",
+  "options": [
+    "\\text{Square wave with a magnitude 5.8 V to - 5.8 V}",
+    "\\text{Square wave with a magnitude +5.1 V to - 5.1 V}",
+    "\\text{Square wave with a magnitude +5.8 V to - 5.3 V}",
+    "\\text{Square wave with a magnitude +12 V to - 12 V}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/03B-018-01-M04-Q03-FIG.png"
+},
+{
+  "qno": 4,
+  "qdes": "\\text{The sum of the Instantaneous voltages around a delta connected supply is equal to}",
+  "options": [
+    "\\text{the maximum line voltage}",
+    "\\text{twice the maximum line voltage}",
+    "\\sqrt{2} \\text{ times the rms value of the phase voltage}",
+    "\\text{zero}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+{
+  "qno": 5,
+  "qdes": "\\text{In fig. 1 } R_\\text{a}\\text{, } R_\\text{b}\\text{ and } R_\\text{c}\\text{ are 20 } \\Omega\\text{, 10 } \\Omega\\text{ and 10 } \\Omega\\text{ respectively. The resistances } R_1\\text{, } R_2\\text{ and } R_3\\text{ in } \\Omega\\text{ of an equivalent star-connection are}",
+  "options": [
+    "2.5, 5, 5",
+    "5, 2.5, 5",
+    "5, 5, 2.5",
+    "2.5, 5, 2.5",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/05B-003-01-M04-Q05-FIG.PNG"
+},
+{
+  "qno": 6,
+  "qdes": "\\text{Calculate the power dissipation in 3} \\Omega \\text{ resistor}",
+  "options": [
+    "1.33 \\text{ W}",
+    "5.33 \\text{ W}",
+    "2.33 \\text{ W}",
+    "4.33 \\text{ W}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/06B-007-01-M04-Q06-FIG.PNG"
+},
+{
+  "qno": 7,
+  "qdes": "\\text{A star connected network consists of three resistances 10 } \\Omega\\text{, 10} \\Omega\\text{ and 5 } \\Omega\\text{. Convert the star-connected network to equivalent delta-connected network.}",
+  "options": [
+    "40 \\Omega\\text{, 20 } \\Omega\\text{, 20 } \\Omega",
+    "40 \\Omega\\text{, 15 } \\Omega\\text{, 15 } \\Omega",
+    "15 \\Omega\\text{, 40 } \\Omega\\text{, 15 } \\Omega",
+    "10 \\Omega\\text{, 15 } \\Omega\\text{, 15 } \\Omega",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 8,
+  "qdes": "\\text{The Y parameter of the following network is } \\begin{bmatrix} 0 & -1/2 \\\\ 1/2 & 1 \\end{bmatrix}",
+  "options": [
+    "\\text{Non reciprocal and active}",
+    "\\text{Non reciprocal and passive}",
+    "\\text{Reciprocal and active}",
+    "\\text{Reciprocal and passive}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 1,
+  "fig": ""
+},
+{
+  "qno": 9,
+  "qdes": "\\text{When two 2-port network are connected in parallel, it is convenient to use}",
+  "options": [
+    "\\text{Open circuit impedance parameters}",
+    "\\text{Short circuit impedance parameters}",
+    "\\text{Z parameters}",
+    "\\text{Y parameters}",
+    "\\text{Answer not known}"
+  ],
+  "ans": 4,
+  "fig": ""
+},
+{
+  "qno": 10,
+  "qdes": "\\text{Find the Z-parameters for the network shown in fig.}",
+  "options": [
+    "Z_{11} = 15 \\text{ K} \\Omega\\text{, } Z_{12} = 17 \\text{ K} \\Omega\\text{, } Z_{21} = 17 \\text{ K} \\Omega\\text{, } Z_{22} = 12 \\text{ K} \\Omega",
+    "Z_{11} = 17 \\text{ K} \\Omega\\text{, } Z_{12} = 12 \\text{ K} \\Omega\\text{, } Z_{21} = 12 \\text{ K} \\Omega\\text{, } Z_{22} = 15 \\text{ K} \\Omega",
+    "Z_{11} = 17 \\text{ K} \\Omega\\text{, } Z_{12} = 15 \\text{ K} \\Omega\\text{, } Z_{21} = 12 \\text{ K} \\Omega\\text{, } Z_{22} = 15 \\text{ K} \\Omega",
+    "Z_{11} = 15 \\text{ K} \\Omega\\text{, } Z_{12} = 17 \\text{ K} \\Omega\\text{, } Z_{21} = 17 \\text{ K} \\Omega\\text{, } Z_{22} = 15 \\text{ K} \\Omega",
+    "\\text{Answer not known}"
+  ],
+  "ans": 2,
+  "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-184-01-M04-Q10-FIG.PNG"
+}
+]

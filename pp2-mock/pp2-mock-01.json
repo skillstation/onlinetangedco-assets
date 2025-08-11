@@ -1,0 +1,131 @@
+[
+  {
+    "qno": 1,
+    "qdes": "\\begin{array}{l} \\text{When does maximum power transfer to the load in an electrical circuit?} \\\\ \\text{Let } R_S \\text{ and } R_L \\text{ be source and load resistances respectively.} \\end{array}",
+    "options": [
+      "R_L = R_S",
+      "R_L = 2R_S",
+      "R_L = \\dfrac{R_S}{2}",
+      "R_L = R_S^2",
+      "\\text{Answer not known}"
+    ],
+    "ans": 1,
+    "fig": ""
+  }
+  ,
+  {
+    "qno": 2,
+    "qdes": "\\text{The characteristic impedance of a lossless transmission line is given by}",
+    "options": [
+      "\\sqrt{\\dfrac{C}{L}}",
+      "\\sqrt{LC}",
+      "\\sqrt{\\dfrac{L}{C}}",
+      "\\dfrac{1}{\\sqrt{LC}}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 3,
+    "qdes": "\\text{A parallel RLC circuit has } L = 2\\,\\text{H} \\text{ and } C = 0.25\\,\\text{F}. \\text{ The value of } R \\text{ that will produce unity damping factor is}",
+    "options": [
+      "0.5\\,\\Omega",
+      "1\\,\\Omega",
+      "2\\,\\Omega",
+      "4\\,\\Omega",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 4,
+    "qdes": "\\text{In RLC parallel resonance the expression for quality factor is}",
+    "options": [
+      "\\dfrac{1}{\\omega_0 RC}",
+      "\\dfrac{\\omega_0 L}{R}",
+      "\\omega_0 RC",
+      "\\dfrac{L}{\\omega_0 R}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 5,
+    "qdes": "\\begin{aligned}&\\text{A } 2000/200\\,\\text{V},\\, 20\\,\\text{KVA ideal transformer has 66 turns in the secondary.} \\\\&\\text{The number of primary turns is}\\end{aligned}",
+    "options": [
+      "440",
+      "660",
+      "550",
+      "330",
+      "\\text{Answer not known}"
+    ],
+    "ans": 2,
+    "fig": ""
+  },
+  {
+      "qno": 6,
+      "qdes": "\\text{In the following circuit, the current flowing through } 1.8\\,\\Omega \\text{ resistor is}",
+      "options": [
+        "3.2\\,\\text{A}",
+        "6.4\\,\\text{A}",
+        "16\\,\\text{A}",
+        "7.2\\,\\text{A}",
+        "\\text{Answer not known}"
+      ],
+      "ans": 2,
+      "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/01B-199-01-FIG.png"
+    },
+  {
+    "qno": 7,
+    "qdes": "\\begin{aligned}\n&\\text{Find the } Z \\text{ parameters of the two-port network shown below are}\n\\end{aligned}",
+    "options": [
+        "Z_{11} = 5,\\ Z_{12} = 2,\\ Z_{21} = 1,\\ Z_{22} = -2",
+        "Z_{11} = 5,\\ Z_{12} = -2,\\ Z_{21} = -1,\\ Z_{22} = 2",
+        "Z_{11} = -5,\\ Z_{12} = -2,\\ Z_{21} = 1,\\ Z_{22} = 2",
+        "Z_{11} = 5,\\ Z_{12} = -2,\\ Z_{21} = 1,\\ Z_{22} = 2",
+        "\\text{Answer not known}"
+      ],
+    "ans": 4,
+    "fig": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/mock-exams/fig/03B-043-01-FIG.png"
+  }
+  ,
+  {
+    "qno": 8,
+    "qdes": "\\begin{aligned}\n&\\text{Which of the following theorems is a manifestation of the law of conservation of energy?}\n\\end{aligned}",
+    "options": [
+      "\\text{Reciprocity theorem}",
+      "\\text{Thevenin's theorem}",
+      "\\text{Tellegen's theorem}",
+      "\\text{Norton's theorem}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 9,
+    "qdes": "\\begin{aligned}\n&\\text{The Thevenin impedance of a network seen from the load terminals is } (80 + j55)\\,\\Omega. \\\\\n&\\text{For maximum power transfer, the load impedance must be}\n\\end{aligned}",
+    "options": [
+      "\\text{(-80 + j55)\u03a9}",
+      "\\text{(-80 - j55)\u03a9}",
+      "\\text{(80 - j55)\u03a9}",
+      "\\text{(80 + j55)\u03a9}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  },
+  {
+    "qno": 10,
+    "qdes": "\\begin{aligned}\n&\\text{The purpose of Meter Service Provider (MSP) is } \\\\\n&\\text{\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ in the electricity deregulation.}\n\\end{aligned}",
+    "options": [
+      "\\text{To install the energy meters at the consumer premises}",
+      "\\text{To maintain the energy meters at the consumer premises}",
+      "\\text{To install and maintain energy meters at the consumer premises}",
+      "\\text{To collect the energy meter data}",
+      "\\text{Answer not known}"
+    ],
+    "ans": 3,
+    "fig": ""
+  }
+]
