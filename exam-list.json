@@ -4,21 +4,21 @@
     "exam_id": "PP2-M01",
     "title": "Full Syllabus Mock Exam 1 - Paper 2",
     "is_locked": 0,
-    "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/pp2-mock/pp2-mock-01.json.json"
+    "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/pp2-mock/pp2-mock-01.json"
   },
   {
     "exam_no": 12,
     "exam_id": "PP2-M02",
     "title": "Full Syllabus Mock Exam 2 - Paper 2",
     "is_locked": 0,
-    "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/pp2-mock/pp2-mock-02.json.json"
+    "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/pp2-mock/pp2-mock-02.json"
   },
   {
     "exam_no": 13,
     "exam_id": "PP2-M03",
     "title": "Full Syllabus Mock Exam 3 - Paper 2",
     "is_locked": 0,
-    "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/pp2-mock/pp2-mock-03.json.json"
+    "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/pp2-mock/pp2-mock-03.json"
   },
   {
     "exam_no": 14,
@@ -32,7 +32,7 @@
     "exam_id": "PP1-C112",
     "title": "Practise Question(20) - Percentage",
     "is_locked": 0,
-    "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/practise-questions-pp1/c112-percentage.json.json"
+    "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/practise-questions-pp1/c112-percentage.json"
   },
   {
     "exam_no": 15,
@@ -44,21 +44,21 @@
   {
     "exam_no": 16,
     "exam_id": "PP1-M02",
-    "title": "Full Syllabus Mock Exam 1 - Paper 1",
+    "title": "Full Syllabus Mock Exam 2 - Paper 1",
     "is_locked": 0,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/pp1-mock/pp1-mock-02.json"
   },
   {
     "exam_no": 17,
     "exam_id": "PP1-M03",
-    "title": "Full Syllabus Mock Exam 1 - Paper 1",
+    "title": "Full Syllabus Mock Exam 3 - Paper 1",
     "is_locked": 0,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/pp1-mock/pp1-mock-03.json"
   },
   {
     "exam_no": 18,
     "exam_id": "PP1-M04",
-    "title": "Full Syllabus Mock Exam 1 - Paper 1",
+    "title": "Full Syllabus Mock Exam 4 - Paper 1",
     "is_locked": 0,
     "exam_url": "https://raw.githubusercontent.com/skillstation/onlinetangedco-assets/refs/heads/main/pp1-mock/pp1-mock-04.json"
   }
