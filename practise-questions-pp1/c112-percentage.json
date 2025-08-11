@@ -1,12 +1,12 @@
 [
   {
     "qno": 1,
-    "qdes": "\\text{If A's salary is 25% less than B's salary, by how much percent is B's salary more than A's?}",
+    "qdes": "\\text{If A's salary is 25\\% less than B's salary, by how much percent is B's salary more than A's?}",
     "options": [
-      "$\\text{33\\frac{1}{3}\\%}$",
-      "\\text{25%}",
-      "$\\text{25\\frac{1}{3}\\%}$",
-      "\\text{33%}",
+      "\\text{33\\frac{1}{3}\\%}$",
+      "\\text{25\\%}",
+      "\\text{25\\frac{1}{3}\\%}$",
+      "\\text{33\\%}",
       "\\text{Answer not known}"
     ],
     "ans": 1,
